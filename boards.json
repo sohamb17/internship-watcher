@@ -1,0 +1,56 @@
+{
+  "_comment": "Public, keyless ATS job-board APIs. Slug -> display name. Find a slug from a company's careers page URL: boards.greenhouse.io/SLUG, jobs.lever.co/SLUG, jobs.ashbyhq.com/SLUG. Every slug here was verified live; a board that 404s is logged and skipped, not fatal.",
+
+  "greenhouse": {
+    "affirm": "Affirm",
+    "airbnb": "Airbnb",
+    "asana": "Asana",
+    "brex": "Brex",
+    "chime": "Chime",
+    "cloudflare": "Cloudflare",
+    "coinbase": "Coinbase",
+    "databricks": "Databricks",
+    "datadog": "Datadog",
+    "discord": "Discord",
+    "dropbox": "Dropbox",
+    "figma": "Figma",
+    "gitlab": "GitLab",
+    "imc": "IMC Trading",
+    "instacart": "Instacart",
+    "jumptrading": "Jump Trading",
+    "lyft": "Lyft",
+    "mongodb": "MongoDB",
+    "pinterest": "Pinterest",
+    "point72": "Point72",
+    "reddit": "Reddit",
+    "robinhood": "Robinhood",
+    "roblox": "Roblox",
+    "samsara": "Samsara",
+    "squarepointcapital": "Squarepoint Capital",
+    "stripe": "Stripe"
+  },
+
+  "lever": {
+    "matchgroup": "Match Group",
+    "palantir": "Palantir"
+  },
+
+  "ashby": {
+    "abridge": "Abridge",
+    "clickhouse": "ClickHouse",
+    "cohere": "Cohere",
+    "cursor": "Cursor",
+    "decagon": "Decagon",
+    "deepgram": "Deepgram",
+    "elevenlabs": "ElevenLabs",
+    "harvey": "Harvey",
+    "mercor": "Mercor",
+    "modal": "Modal",
+    "notion": "Notion",
+    "openai": "OpenAI",
+    "physicalintelligence": "Physical Intelligence",
+    "ramp": "Ramp",
+    "replit": "Replit",
+    "suno": "Suno"
+  }
+}

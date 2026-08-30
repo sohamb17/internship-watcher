@@ -19,7 +19,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # watch.py exits non-zero when a source fails, but any source that DID
+      # succeed has already written its state. That state must be committed
+      # even on failure, otherwise the next run re-notifies everything it
+      # already told us about.
       - name: Check for new listings
+        id: check
+        continue-on-error: true
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python3 watch.py
@@ -29,15 +35,35 @@ jobs:
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: |
-          COUNT=$(python3 -c "import json;print(len(json.load(open('state.json'))))")
+          SUMMARY=$(python3 -c "
+          import json
+          d = json.load(open('state.json'))
+          s = d['sources'] if isinstance(d, dict) else {'github': d}
+          print(', '.join(f'{k}: {len(v)}' for k, v in sorted(s.items())))
+          ")
           curl -s -H "Priority: min" -H "Tags: heartbeat" \
-            -d "Watcher alive. Tracking $COUNT listings." \
+            -d "Watcher alive. Tracking $SUMMARY." \
             "ntfy.sh/$NTFY_TOPIC"
 
       - name: Save state
+        if: always()
         run: |
           git config user.name  "watcher"
           git config user.email "watcher@users.noreply.github.com"
           git add state.json
-          git diff --staged --quiet || git commit -m "state $(date -u +%F_%H:%M)"
+          git diff --staged --quiet && exit 0
+          git commit -m "state $(date -u +%F_%H:%M)"
+          # Another run may have pushed while this one was working.
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            sleep $((RANDOM % 5 + 2))
+          done
           git push
+
+      # Surface a source failure as a red run, but only after state is safe.
+      - name: Propagate source failure
+        if: steps.check.outcome == 'failure'
+        run: |
+          echo "::error::one or more sources failed - see the check step log"
+          exit 1
