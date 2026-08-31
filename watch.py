@@ -9,9 +9,11 @@ Sources
             terms and active flags as real data, so the filters below are exact
             instead of inferred from emoji. Keyed on the listing's stable UUID,
             so retitling a posting does not re-notify.
-  ats       Public job-board APIs of individual companies: Greenhouse, Lever
-            and Ashby. Keyless, documented, ToS-clean, and the origin of most
-            postings that later show up on LinkedIn.
+  ats       Official company career portals, via their public APIs: Greenhouse,
+            Lever, Ashby, SmartRecruiters, Workday and amazon.jobs. All
+            keyless, and the origin of most postings that later show up on
+            aggregators. Workday entries are configured by pasting the portal
+            URL itself.
 
 Design notes
   * State is namespaced per source. A source that errors keeps its previous
@@ -47,6 +49,7 @@ import os
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 
 STATE = os.environ.get("STATE_FILE", "state.json")
@@ -59,6 +62,14 @@ TERM_YEARS = {y.strip() for y in os.environ.get("TERM_YEARS", "2027").split(",")
               if y.strip()}
 MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "0")) or None
 EXCLUDE_ACADEMIC = os.environ.get("EXCLUDE_ACADEMIC", "1") != "0"
+
+# Workday paging. Its search is fuzzy and its portals are large, so poll a
+# bounded window per company per run and filter titles locally.
+WD_PAGES = int(os.environ.get("WD_PAGES", "10"))
+WD_LIMIT = 20                      # Workday caps a page at 20
+WD_QUERY = os.environ.get("WD_QUERY", "intern")
+SR_MAX = int(os.environ.get("SR_MAX", "600"))
+AMZN_MAX = int(os.environ.get("AMZN_MAX", "400"))
 
 UA = "internship-watcher (+github actions; contact via repo issues)"
 
@@ -96,6 +107,15 @@ def fetch(url, timeout=30):
 
 def fetch_json(url, timeout=30):
     return json.loads(fetch(url, timeout))
+
+
+def post_json(url, body, timeout=30):
+    req = urllib.request.Request(
+        url, data=json.dumps(body).encode("utf-8"), method="POST",
+        headers={"User-Agent": UA, "Accept": "application/json",
+                 "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read())
 
 
 def age_days(epoch):
@@ -142,10 +162,35 @@ def canon(company, role):
 # location + relevance filters (ATS only; listings.json is pre-categorised)
 # --------------------------------------------------------------------------
 
-_US_STRONG = re.compile(
+# CASE-SENSITIVE on purpose. Under re.I the state codes IN, OR, OK, ME, HI,
+# LA, DE, CO, ID, PA, MA all match ordinary English words, so "BangPa-in,
+# Thailand" was reading as Indiana and beating the "Thailand" match.
+_US_ABBR = re.compile(
     r"\b(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|"
     r"MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|"
-    r"VA|WA|WV|WI|WY|DC)\b|"
+    r"VA|WA|WV|WI|WY|DC)\b")
+
+# US cities that commonly appear without a state qualifier.
+_US_CITY = re.compile(
+    r"\b(san francisco|\bSF\b|bay area|silicon valley|new york|nyc|brooklyn|"
+    r"seattle|"
+    r"bellevue|redmond|austin|boston|cambridge, ma|chicago|los angeles|"
+    r"san jose|san diego|santa clara|sunnyvale|mountain view|menlo park|"
+    r"palo alto|redwood city|foster city|san mateo|cupertino|berkeley|"
+    r"oakland|emeryville|culver city|santa monica|irvine|atlanta|denver|"
+    r"boulder|dallas|houston|fort worth|plano|austin|san antonio|phoenix|"
+    r"tempe|scottsdale|portland|salt lake city|provo|lehi|boise|las vegas|"
+    r"sacramento|miami|orlando|tampa|jacksonville|charlotte|raleigh|durham|"
+    r"chapel hill|nashville|memphis|louisville|indianapolis|columbus|"
+    r"cincinnati|cleveland|pittsburgh|philadelphia|baltimore|washington, d|"
+    r"arlington, v|mclean|reston|herndon|richmond, v|detroit|ann arbor|"
+    r"minneapolis|madison, wi|milwaukee|st\.? louis|kansas city|omaha|"
+    r"des moines|new orleans|oklahoma city|tulsa|albuquerque|tucson|"
+    r"el paso|hoboken|jersey city|stamford|greenwich, c|princeton|"
+    r"hartford|providence|spokane|tacoma|honolulu|anchorage|malta, n|"
+    r"essex junction|hillsboro|folsom|chandler|fishkill|longmont)\b", re.I)
+
+_US_NAME = re.compile(
     r"\b(united states|u\.?s\.?a\.?|alabama|alaska|arizona|arkansas|"
     r"california|colorado|connecticut|delaware|florida|georgia|hawaii|idaho|"
     r"illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|"
@@ -213,7 +258,7 @@ _NOT_TECH = re.compile(
     r"customer (success|support|experience)|community|"
     r"(product|ux|ui|graphic|visual|brand|motion|industrial) design|"
     r"designer|partnerships|procurement|facilities|workplace|"
-    r"executive assistant|office manager|real estate|supply chain|"
+    r"executive assistant|office manager|real estate|supply chain|mba|"
     r"logistics|warehouse|driver|technician)\b", re.I)
 
 # An unambiguous engineering signal. It overrides _NOT_TECH, because real
@@ -237,21 +282,32 @@ _ACADEMIC = re.compile(
 _YEAR = re.compile(r"\b(20\d\d)\b")
 
 
+def us_signal(t):
+    return bool(_US_ABBR.search(t) or _US_NAME.search(t) or _US_CITY.search(t))
+
+
 def is_us(loc, country=None):
-    """Positive US evidence wins; otherwise reject only on a clear foreign
-    signal. Unknown/blank locations are kept — under-notifying is worse."""
-    if country and country.strip().lower() in _US_COUNTRY:
-        return True
+    """Requires positive US evidence when a location is given. Workday and
+    SmartRecruiters portals are global — Singapore, Eindhoven, Tianjin and
+    Belo Horizonte all appear — and a permissive default floods on those.
+    A blank or unknown location is still kept."""
+    if country:
+        c = country.strip().lower()
+        if c in _US_COUNTRY:
+            return True
+        if len(c) > 1:              # an explicit foreign country is decisive
+            return False
     t = (loc or "").strip()
     if not t:
         return True
-    if _US_STRONG.search(t):
+    if us_signal(t):
         return True
     if _NON_US.search(t):
         return False
-    if country:
-        return False
-    return True
+    # Bare "Remote" with no country reads as US-eligible.
+    if re.fullmatch(r"(remote|remote\s*[-–]\s*\w+|anywhere)", t, re.I):
+        return True
+    return False
 
 
 def tech(title):
@@ -409,9 +465,165 @@ def board_ashby(slug):
     return out
 
 
+def board_smartrecruiters(slug):
+    out, offset = [], 0
+    while offset < SR_MAX:
+        d = fetch_json(f"https://api.smartrecruiters.com/v1/companies/{slug}"
+                       f"/postings?limit=100&offset={offset}", timeout=25)
+        page = d.get("content") or []
+        if not page:
+            break
+        for j in page:
+            loc = j.get("location") or {}
+            rel = j.get("releasedDate")
+            ts = None
+            if rel:
+                try:
+                    ts = int(datetime.datetime.fromisoformat(
+                        rel.replace("Z", "+00:00")).timestamp())
+                except ValueError:
+                    ts = None
+            out.append({
+                "id": str(j.get("id")),
+                "title": (j.get("name") or "").strip(),
+                "loc": (loc.get("fullLocation") or loc.get("city") or "").strip(),
+                "country": loc.get("country"),
+                "url": f"https://jobs.smartrecruiters.com/{slug}/{j.get('id')}",
+                # SmartRecruiters tags the posting type explicitly.
+                "etype": ((j.get("typeOfEmployment") or {}).get("id")),
+                "posted": ts,
+            })
+        offset += len(page)
+        if len(page) < 100:
+            break
+    return out
+
+
+# Accepts a pasted portal URL — https://nvidia.wd5.myworkdayjobs.com/
+# NVIDIAExternalCareerSite — or the compact "tenant|host|site" form.
+_WD_URL = re.compile(
+    r"^(?:https?://)?([a-z0-9-]+)\.(wd\d+)\.myworkdayjobs\.com/"
+    r"(?:[a-zA-Z]{2}-[A-Za-z]{2}/)?([^/?#]+)", re.I)
+_WD_MULTI = re.compile(r"^\d+\s+locations?$", re.I)
+_WD_POSTED = re.compile(r"(\d+)\+?\s*days?\s*ago", re.I)
+
+
+def _wd_parse(spec):
+    m = _WD_URL.match(spec.strip())
+    if m:
+        return m.group(1).lower(), m.group(2).lower(), m.group(3)
+    parts = [p for p in spec.split("|")]
+    if len(parts) == 3:
+        return parts[0].strip().lower(), parts[1].strip().lower(), parts[2].strip()
+    raise ValueError(f"cannot parse Workday portal spec: {spec!r}")
+
+
+def _wd_posted(text):
+    """'Posted 11 Days Ago' -> epoch. Workday gives no real timestamp, so this
+    is day-resolution only, and '30+ Days Ago' floors at 30."""
+    if not text:
+        return None
+    now = datetime.datetime.now(datetime.timezone.utc).timestamp()
+    low = text.lower()
+    if "today" in low:
+        return int(now)
+    if "yesterday" in low:
+        return int(now - 86400)
+    m = _WD_POSTED.search(low)
+    return int(now - int(m.group(1)) * 86400) if m else None
+
+
+def _wd_location(j):
+    """locationsText is often 'N Locations'; the externalPath slug carries a
+    real place, so fall back to that."""
+    text = (j.get("locationsText") or "").strip()
+    if text and not _WD_MULTI.match(text):
+        return text
+    path = j.get("externalPath") or ""
+    parts = [p for p in path.split("/") if p]
+    if len(parts) >= 2 and parts[0] == "job":
+        return parts[1].replace("---", " - ").replace("-", " ").strip()
+    return text
+
+
+def board_workday(spec):
+    tenant, host, site = _wd_parse(spec)
+    api = (f"https://{tenant}.{host}.myworkdayjobs.com"
+           f"/wday/cxs/{tenant}/{site}/jobs")
+    base = f"https://{tenant}.{host}.myworkdayjobs.com/en-US/{site}"
+    out, seen = [], set()
+    for page in range(WD_PAGES):
+        d = post_json(api, {"appliedFacets": {}, "limit": WD_LIMIT,
+                            "offset": page * WD_LIMIT,
+                            "searchText": WD_QUERY}, timeout=25)
+        posts = d.get("jobPostings") or []
+        if not posts:
+            break
+        for j in posts:
+            path = j.get("externalPath") or ""
+            jid = (j.get("bulletFields") or [path])[0]
+            if jid in seen:
+                continue
+            seen.add(jid)
+            out.append({
+                "id": str(jid),
+                "title": (j.get("title") or "").strip(),
+                "loc": _wd_location(j),
+                "country": None,
+                "url": base + path,
+                "etype": None,
+                "posted": _wd_posted(j.get("postedOn")),
+            })
+        if len(posts) < WD_LIMIT:
+            break
+    return out
+
+
+def board_amazon(query):
+    """amazon.jobs has its own search JSON. The key in boards.json is the
+    search query, not a company slug. Note `is_intern` comes back as the
+    string 'None' rather than a boolean, so it is unusable — the title filter
+    does the work."""
+    out, offset = [], 0
+    while offset < AMZN_MAX:
+        d = fetch_json("https://www.amazon.jobs/en/search.json"
+                       f"?base_query={urllib.parse.quote(query)}"
+                       f"&result_limit=100&offset={offset}&sort=recent",
+                       timeout=30)
+        page = d.get("jobs") or []
+        if not page:
+            break
+        for j in page:
+            ts = None
+            pd = j.get("posted_date")
+            if pd:
+                try:
+                    ts = int(datetime.datetime.strptime(pd, "%B %d, %Y")
+                             .replace(tzinfo=datetime.timezone.utc).timestamp())
+                except ValueError:
+                    ts = None
+            out.append({
+                "id": str(j.get("id_icims") or j.get("id")),
+                "title": (j.get("title") or "").strip(),
+                "loc": (j.get("normalized_location")
+                        or j.get("location") or "").strip(),
+                "country": j.get("country_code"),
+                "url": "https://www.amazon.jobs" + (j.get("job_path") or ""),
+                "etype": None,
+                "posted": ts,
+            })
+        offset += len(page)
+        if len(page) < 100:
+            break
+    return out
+
+
 ATS = {"greenhouse": board_greenhouse,
        "lever": board_lever,
-       "ashby": board_ashby}
+       "ashby": board_ashby,
+       "smartrecruiters": board_smartrecruiters,
+       "workday": board_workday,
+       "amazon": board_amazon}
 
 
 def source_ats(boards):
@@ -433,7 +645,7 @@ def source_ats(boards):
         except Exception as e:                       # noqa: BLE001
             return kind, slug, name, [], f"{type(e).__name__}: {e}"
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=12) as ex:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=16) as ex:
         results = list(ex.map(one, targets))
 
     failed = [f"{k}/{s} ({e})" for k, s, _, _, e in results if e]

@@ -9,7 +9,7 @@ dependencies, runs free on GitHub Actions.
 | Source | What it is | Auth |
 |---|---|---|
 | `simplify` | [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships), read from `.github/scripts/listings.json` | none |
-| `ats` | Public job-board APIs of individual companies — Greenhouse, Lever, Ashby | none |
+| `ats` | Official company career portals — Greenhouse, Lever, Ashby, SmartRecruiters, Workday, amazon.jobs | none |
 
 ### Why `listings.json` and not the README
 
@@ -69,6 +69,13 @@ plus a technical word, minus a blocklist for roles that match by accident
 ("Account Development Representative Intern"). An unambiguous engineering term
 overrides that blocklist, so `Software Engineer Intern - … and Brand` survives.
 
+Because company portals are global, the ATS source **requires positive US
+evidence** from a location before keeping a posting (a blank location is still
+kept). Note that the state-abbreviation match is deliberately case-sensitive:
+under a case-insensitive match the codes `IN`, `OR`, `OK`, `ME`, `HI`, `LA`,
+`DE`, `CO`, `ID`, `PA` and `MA` all match ordinary English words, and
+"BangPa-in, Thailand" reads as Indiana.
+
 ### Environment
 
 | Var | Default | Meaning |
@@ -80,29 +87,83 @@ overrides that blocklist, so `Software Engineer Intern - … and Brand` survives
 | `TERM_YEARS` | `2027` | Season years to accept |
 | `MAX_AGE_DAYS` | unset | Drop listings posted more than N days ago |
 | `EXCLUDE_ACADEMIC` | `1` | `0` keeps university employers |
+| `WD_PAGES` | `10` | Workday pages (×20 jobs) polled per company per run |
+| `WD_QUERY` | `intern` | Workday server-side search term |
+| `SR_MAX` | `600` | Max SmartRecruiters postings paged per company |
+| `AMZN_MAX` | `400` | Max amazon.jobs results paged |
 | `US_ONLY` | `1` | `0` keeps non-US ATS postings |
 | `MIN_YEAR` | `2027` | Drop ATS postings naming an earlier season year |
 
 ## Configuration
 
-`boards.json` maps ATS slug → display name:
+`boards.json` maps each company to a display name. Four platforms take a slug
+from the careers URL; **Workday takes the portal URL itself**:
 
 ```json
 {
-  "greenhouse": { "stripe": "Stripe" },
-  "lever":      { "palantir": "Palantir" },
-  "ashby":      { "notion": "Notion" }
+  "greenhouse":      { "stripe": "Stripe" },
+  "lever":           { "palantir": "Palantir" },
+  "ashby":           { "notion": "Notion" },
+  "smartrecruiters": { "WesternDigital": "Western Digital" },
+  "amazon":          { "intern": "Amazon" },
+  "workday": {
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite": "NVIDIA"
+  }
 }
 ```
 
-Find a slug in a company's careers URL — `boards.greenhouse.io/SLUG`,
-`jobs.lever.co/SLUG`, `jobs.ashbyhq.com/SLUG`. Verify before adding:
+Slugs come from the careers URL — `boards.greenhouse.io/SLUG`,
+`jobs.lever.co/SLUG`, `jobs.ashbyhq.com/SLUG`,
+`jobs.smartrecruiters.com/SLUG`. For Workday, paste the portal URL as you'd
+visit it; tenant, host and site are parsed out (`tenant|host|site` also works).
+
+Verify before adding:
 
 ```bash
-curl -s https://boards-api.greenhouse.io/v1/boards/SLUG/jobs | head -c 200
-curl -s "https://api.lever.co/v0/postings/SLUG?mode=json"    | head -c 200
-curl -s https://api.ashbyhq.com/posting-api/job-board/SLUG   | head -c 200
+curl -s https://boards-api.greenhouse.io/v1/boards/SLUG/jobs        | head -c 200
+curl -s "https://api.lever.co/v0/postings/SLUG?mode=json"           | head -c 200
+curl -s https://api.ashbyhq.com/posting-api/job-board/SLUG          | head -c 200
+curl -s https://api.smartrecruiters.com/v1/companies/SLUG/postings  | head -c 200
+curl -s -X POST -H 'Content-Type: application/json' \
+  -d '{"appliedFacets":{},"limit":20,"offset":0,"searchText":"intern"}' \
+  https://TENANT.wdN.myworkdayjobs.com/wday/cxs/TENANT/SITE/jobs    | head -c 200
 ```
+
+### MAG-7 coverage
+
+All seven are already covered by the `simplify` source, so direct polling buys
+*latency*, not coverage. Only two are reachable without scraping:
+
+| Company | Direct | Why |
+|---|---|---|
+| NVIDIA | yes — Workday | portal API |
+| Amazon | yes — `amazon.jobs` | own search JSON. Its `is_intern` field returns the string `'None'`, so it is ignored and the title filter does the work |
+| Apple | no | `jobs.apple.com` API returns 401 without a session token |
+| Alphabet | no | no public careers API; the site is a JS app |
+| Meta | no | `metacareers.com` is GraphQL behind per-session tokens |
+| Tesla | no | `tesla.com/cua-api` returns 403 to non-browser clients (bot protection) |
+| Microsoft | no | `apply.careers.microsoft.com` runs Eightfold AI, whose `/api/apply/v2/jobs` returns 403 to non-browser clients. The correct domain returns 403 while a wrong one returns 404, so the endpoint is real and deliberately closed. Qualcomm and IBM behave identically — it is platform-wide, not Microsoft-specific |
+
+Getting Apple, Alphabet, Meta, Tesla or Microsoft would mean defeating bot
+protection or driving a headless browser — the same objection that rules out
+LinkedIn — and a GitHub runner is a datacenter IP, exactly what those blocks
+target. The `simplify` source already carries all of them, typically within a
+day.
+
+Untried route if the lead time matters enough: Microsoft's older public search
+endpoint at `gcsservices.careers.microsoft.com/search/api/v1/search`, which is
+not Eightfold. It could not be reached from the machine this was built on, so
+it is neither supported nor ruled out.
+
+### Workday caveats
+
+Its search is fuzzy — searching "intern" at Salesforce returns
+`Account Partner - Financial Services` — so titles are filtered locally. It
+returns no real timestamp either, only `"Posted 11 Days Ago"`, so ages from
+Workday are day-resolution and `30+ Days Ago` floors at 30. And `locationsText`
+is often `"2 Locations"`, in which case the location is recovered from the job
+URL slug. Portals are large and paged at 20, so each is polled `WD_PAGES` deep
+per run (default 10 ≈ 200 jobs/company).
 
 A board that 404s is logged and skipped, not fatal. Every shipped slug was
 verified live.
