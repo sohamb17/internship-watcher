@@ -3,24 +3,25 @@
 Watch several sources for new internship listings and push them to ntfy.
 
 Sources
-  github  SimplifyJobs/Summer2027-Internships README. The README uses HTML
-          <table> blocks, not markdown pipe tables, so a line diff does not
-          work. Rows are parsed properly and keyed on (company, role) so that
-          edits to existing rows are ignored.
-  ats     Public job-board APIs of individual companies: Greenhouse, Lever and
-          Ashby. Keyless, documented, ToS-clean, and the origin of most
-          postings that later show up on LinkedIn. Keyed on the ATS job id, so
-          a retitled posting is not reported twice.
+  simplify  SimplifyJobs/Summer2027-Internships, read from the structured
+            .github/scripts/listings.json rather than by scraping the README's
+            HTML tables. That file carries date_posted, degrees, sponsorship,
+            terms and active flags as real data, so the filters below are exact
+            instead of inferred from emoji. Keyed on the listing's stable UUID,
+            so retitling a posting does not re-notify.
+  ats       Public job-board APIs of individual companies: Greenhouse, Lever
+            and Ashby. Keyless, documented, ToS-clean, and the origin of most
+            postings that later show up on LinkedIn.
 
 Design notes
   * State is namespaced per source. A source that errors keeps its previous
     state untouched, so a transient failure can never cause a notification
-    storm on the next run. A v1 flat list is migrated on read.
-  * A source that has no state yet seeds silently. Adding a source therefore
-    never floods you on its first run.
-  * ATS rows that duplicate something already on the GitHub list are dropped,
-    matched on a normalised company+role key (title wording differs between
-    the two sources, so exact matching would not catch them).
+    storm on the next run.
+  * A source with no state yet seeds silently. Adding or renaming a source
+    therefore never floods you on its first run.
+  * Rows that duplicate something in a higher-priority source are dropped,
+    matched on a normalised company+role key. Dedupe keys are persisted, so an
+    outage cannot unmask duplicates a source was previously suppressing.
 
 Env
   NTFY_TOPIC   required for push; prints to stdout when unset
@@ -29,9 +30,18 @@ Env
   SOURCES      comma-separated list to restrict active sources (default: all)
   US_ONLY      "0" to keep non-US postings from the ATS source (default: on)
   MIN_YEAR     drop ATS postings naming an earlier season year (default 2027)
+  TERM_YEARS   comma list of season years to accept (default 2027)
+  MAX_AGE_DAYS drop listings posted more than N days ago (default: no limit)
+  EXCLUDE_ACADEMIC  "0" to keep university/college employers (default: drop)
+
+Note on filtering the simplify source: no keyword filter is applied to its
+titles. Simplify's own `category` field is the better signal, and a title
+filter measurably loses good postings — Jane Street, Google Student
+Researcher, ByteDance, Anthropic Fellows and Blackstone Summer Analyst are all
+real internships whose titles never say "intern".
 """
 import concurrent.futures
-import html
+import datetime
 import json
 import os
 import re
@@ -45,18 +55,31 @@ TOPIC = os.environ.get("NTFY_TOPIC")
 ONLY = {s.strip() for s in os.environ.get("SOURCES", "").split(",") if s.strip()}
 US_ONLY = os.environ.get("US_ONLY", "1") != "0"
 MIN_YEAR = int(os.environ.get("MIN_YEAR", "2027"))
+TERM_YEARS = {y.strip() for y in os.environ.get("TERM_YEARS", "2027").split(",")
+              if y.strip()}
+MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "0")) or None
+EXCLUDE_ACADEMIC = os.environ.get("EXCLUDE_ACADEMIC", "1") != "0"
 
 UA = "internship-watcher (+github actions; contact via repo issues)"
 
-GH_README = ("https://raw.githubusercontent.com/SimplifyJobs/"
-             "Summer2027-Internships/dev/README.md")
+LISTINGS = ("https://raw.githubusercontent.com/SimplifyJobs/"
+            "Summer2027-Internships/dev/.github/scripts/listings.json")
 GH_LINK = "https://github.com/SimplifyJobs/Summer2027-Internships"
 
-# Sections you care about. Drop entries to widen or narrow.
-SECTIONS = {"Software Engineering", "Data Science, AI & Machine Learning"}
+# listings.json `category`. Both the current names and the older long-form
+# names are present in the file, so accept both.
+CATEGORIES = {"Software", "AI/ML/Data",
+              "Software Engineering", "Data Science, AI & Machine Learning"}
 
-# 🛂 no sponsorship · 🇺🇸 citizenship required · 🔒 closed
-EXCLUDE_FLAGS = "🛂🇺🇸🔒"
+# Replaces the old 🛂 / 🇺🇸 emoji flags with the real field.
+BAD_SPONSORSHIP = {"Does Not Offer Sponsorship", "U.S. Citizenship is Required"}
+
+# Degrees at or below Master's. A listing is kept when it names at least one of
+# these, or names none at all. A listing that ONLY wants PhD/MBA/JD/MD is not
+# something a Master's student can apply to, and is dropped — this is what the
+# README's single 🎓 emoji could not distinguish.
+DEGREES_OK = {"Bachelor's", "Master's", "Associate's", "Certificate",
+              "Bootcamp", "Incomplete"}
 
 EMOJI = re.compile(r"[\U0001F000-\U0001FAFF☀-➿️⃣]")
 
@@ -75,13 +98,22 @@ def fetch_json(url, timeout=30):
     return json.loads(fetch(url, timeout))
 
 
-def clean(s):
-    s = re.sub(r"<br\s*/?>", " / ", s)
-    s = re.sub(r"<[^>]+>", "", s)
-    return html.unescape(s).strip()
+def age_days(epoch):
+    if not epoch:
+        return None
+    now = datetime.datetime.now(datetime.timezone.utc).timestamp()
+    return max(0, int((now - int(epoch)) // 86400))
 
 
-# Cross-source duplicate detection. The two sources word titles differently
+def ago(days):
+    if days is None:
+        return ""
+    if days == 0:
+        return "today"
+    return f"{days}d ago"
+
+
+# Cross-source duplicate detection. The sources word titles differently
 # ("Software Engineer, Intern" vs "Software Engineer Intern (Summer 2027)"),
 # so the identity key has to survive season suffixes, punctuation and word
 # order. Only used for dedupe, never for state.
@@ -107,7 +139,7 @@ def canon(company, role):
 
 
 # --------------------------------------------------------------------------
-# location + relevance filters (ATS only; the GitHub list is pre-filtered)
+# location + relevance filters (ATS only; listings.json is pre-categorised)
 # --------------------------------------------------------------------------
 
 _US_STRONG = re.compile(
@@ -149,9 +181,9 @@ _NON_US = re.compile(
     r"canberra|new zealand|auckland|wellington|brazil|s[aã]o paulo|"
     r"rio de janeiro|argentina|buenos aires|chile|santiago|colombia|bogot[aá]|"
     r"medellin|peru|lima|uruguay|montevideo|mexico|guadalajara|monterrey|"
-    r"costa rica|san jos[eé], costa rica|panama|iceland|reykjavik|"
-    r"luxembourg|malta|cyprus|morocco|casablanca|tunisia|armenia|yerevan|"
-    r"georgia, country|kazakhstan|almaty|emea|apac|latam|emea/apac)\b", re.I)
+    r"costa rica|panama|iceland|reykjavik|luxembourg|malta|cyprus|morocco|"
+    r"casablanca|tunisia|armenia|yerevan|kazakhstan|almaty|"
+    r"emea|apac|latam)\b", re.I)
 
 _US_COUNTRY = {"usa", "us", "u.s.", "u.s.a.", "united states",
                "united states of america"}
@@ -159,7 +191,6 @@ _US_COUNTRY = {"usa", "us", "u.s.", "u.s.a.", "united states",
 _INTERN = re.compile(r"\b(intern|interns|internship|internships|co-?op|"
                      r"co-?ops)\b", re.I)
 
-# Mirrors the GitHub source's two sections: SWE, and Data/AI/ML.
 _TECH = re.compile(
     r"\b(software|swe|engineer|engineering|developer|development|programmer|"
     r"data|analytics|analyst|machine learning|ml|ai|artificial intelligence|"
@@ -185,6 +216,24 @@ _NOT_TECH = re.compile(
     r"executive assistant|office manager|real estate|supply chain|"
     r"logistics|warehouse|driver|technician)\b", re.I)
 
+# An unambiguous engineering signal. It overrides _NOT_TECH, because real
+# roles carry misleading suffixes: "Software Engineer Intern - Creative
+# Intelligence and Brand" is a SWE job, not a brand job.
+_STRONG_TECH = re.compile(
+    r"\b(software|swe|backend|back-end|frontend|front-end|full.?stack|"
+    r"machine learning|deep learning|data (engineer|scien|analyt)|"
+    r"research (engineer|scientist)|quantitative|quant|compiler|kernel|"
+    r"embedded|firmware|silicon|robotics|perception|autonomy|"
+    r"(infrastructure|security|systems|platform|ml|ai|network|reliability) "
+    r"engineer)\b", re.I)
+
+# University and college employers. Their "Undergraduate Research Assistant"
+# and "Student Wage" postings are categorised as Software/AI-ML upstream but
+# are campus jobs, not internships.
+_ACADEMIC = re.compile(
+    r"(universit|\bcollege\b|\bschool\b|research foundation|polytechnic|"
+    r"\bRFCUNY\b|state univ|\bacademy\b)", re.I)
+
 _YEAR = re.compile(r"\b(20\d\d)\b")
 
 
@@ -206,6 +255,8 @@ def is_us(loc, country=None):
 
 
 def tech(title):
+    if _STRONG_TECH.search(title):
+        return True
     return bool(_TECH.search(title)) and not _NOT_TECH.search(title)
 
 
@@ -221,52 +272,75 @@ def relevant(title, loc, country=None):
 
 
 # --------------------------------------------------------------------------
-# source: github readme
+# source: SimplifyJobs listings.json
 # --------------------------------------------------------------------------
 
-def parse_readme(txt):
-    rows, last_company = [], None
-    parts = re.split(r"\n\s*##\s+(.+?Internship Roles)\s*\n", txt)
-    for i in range(1, len(parts), 2):
-        section = EMOJI.sub("", parts[i]).replace("Internship Roles", "").strip()
-        for tr in re.findall(r"<tr>(.*?)</tr>", parts[i + 1], re.S):
-            tds = re.findall(r"<td[^>]*>(.*?)</td>", tr, re.S)
-            if len(tds) < 4:
-                continue
-            company = EMOJI.sub("", clean(tds[0])).strip()
-            if company.startswith("↳") or not company:
-                company = last_company or "?"
-            else:
-                last_company = company
-            m = re.search(r'href="([^"]+)"', tds[3])
-            rows.append({
-                "section": section,
-                "company": company,
-                "role": clean(tds[1]),
-                "loc": clean(tds[2])[:60],
-                "url": html.unescape(m.group(1)) if m else "",
-                "flags": "".join(f for f in "🛂🇺🇸🔒🔥🎓" if f in tr),
-            })
-    return rows
+def term_ok(terms):
+    """No terms listed means unknown, which is kept. 'N/A' likewise."""
+    if not terms:
+        return True
+    return any(t == "N/A" or any(y in t for y in TERM_YEARS) for t in terms)
 
 
-def source_github(_boards):
-    txt = fetch(GH_README, timeout=60).decode("utf-8")
-    rows = parse_readme(txt)
-    if len(rows) < 100:
+def degree_ok(degrees):
+    """Keep when nothing is specified, or when at least one listed degree is
+    at or below Master's. Drops PhD/MBA/JD/MD-only postings."""
+    if not degrees:
+        return True
+    return bool(set(degrees) & DEGREES_OK)
+
+
+def source_simplify(_boards):
+    data = fetch_json(LISTINGS, timeout=60)
+    if not isinstance(data, list) or len(data) < 5000:
         raise RuntimeError(
-            f"only parsed {len(rows)} rows - README format probably changed")
+            f"listings.json returned {len(data) if isinstance(data, list) else '?'}"
+            " entries - format or path probably changed")
+
     out = []
-    for r in rows:
-        if r["section"] not in SECTIONS:
+    for j in data:
+        if not j.get("is_visible") or not j.get("active"):
+            continue                                   # replaces the 🔒 flag
+        if j.get("category") not in CATEGORIES:
             continue
-        if any(f in r["flags"] for f in EXCLUDE_FLAGS):
+        if j.get("sponsorship") in BAD_SPONSORSHIP:    # replaces 🛂 / 🇺🇸
             continue
-        # v1-compatible state key: do not change, it matches existing state.json
-        r["sk"] = f"{r['company']}|{r['role']}"
-        r["dk"] = canon(r["company"], r["role"])
-        r["link"] = GH_LINK
-        out.append(r)
+        if not term_ok(j.get("terms")):
+            continue
+        if not degree_ok(j.get("degrees")):
+            continue
+        days = age_days(j.get("date_posted"))
+        if MAX_AGE_DAYS is not None and days is not None and days > MAX_AGE_DAYS:
+            continue
+
+        company = (j.get("company_name") or "?").strip()
+        if EXCLUDE_ACADEMIC and _ACADEMIC.search(company):
+            continue
+        title = (j.get("title") or "").strip()
+        locs = j.get("locations") or []
+        loc = " / ".join(locs)[:60] if locs else ""
+        degrees = j.get("degrees") or []
+        out.append({
+            "source": "simplify",
+            "company": company,
+            "role": title,
+            "loc": loc,
+            "url": j.get("url") or "",
+            "age": days,
+            "degrees": degrees,
+            "terms": j.get("terms") or [],
+            # Stable UUID: retitling a posting no longer re-notifies, and the
+            # same role in two cities is two listings rather than one key.
+            "sk": str(j.get("id")),
+            "dk": canon(company, title),
+            "link": j.get("url") or GH_LINK,
+        })
+
+    if len(out) < 50:
+        raise RuntimeError(
+            f"only {len(out)} listings survived filtering - check CATEGORIES "
+            f"/ TERM_YEARS, refusing to run")
+    print(f"[simplify] {len(data)} listings, {len(out)} relevant")
     return out
 
 
@@ -275,8 +349,6 @@ def source_github(_boards):
 # --------------------------------------------------------------------------
 
 def _label(slug, given=None):
-    """Display name. boards.json may map a slug to a proper name; otherwise
-    fall back to a title-cased slug, which is right often enough."""
     if given:
         return given
     s = re.sub(r"[-_]+", " ", slug).strip()
@@ -286,14 +358,14 @@ def _label(slug, given=None):
 def board_greenhouse(slug):
     d = fetch_json(
         f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs", timeout=25)
-    out = []
-    for j in d.get("jobs", []):
-        title = (j.get("title") or "").strip()
-        loc = ((j.get("location") or {}).get("name") or "").strip()
-        out.append({"id": str(j.get("id")), "title": title, "loc": loc,
-                    "country": None, "url": j.get("absolute_url") or "",
-                    "etype": None})
-    return out
+    return [{"id": str(j.get("id")),
+             "title": (j.get("title") or "").strip(),
+             "loc": ((j.get("location") or {}).get("name") or "").strip(),
+             "country": None,
+             "url": j.get("absolute_url") or "",
+             "etype": None,
+             "posted": None}
+            for j in d.get("jobs", [])]
 
 
 def board_lever(slug):
@@ -302,12 +374,14 @@ def board_lever(slug):
     out = []
     for j in d:
         cats = j.get("categories") or {}
+        created = j.get("createdAt")
         out.append({"id": str(j.get("id")),
                     "title": (j.get("text") or "").strip(),
                     "loc": (cats.get("location") or "").strip(),
                     "country": None,
                     "url": j.get("hostedUrl") or "",
-                    "etype": cats.get("commitment")})
+                    "etype": cats.get("commitment"),
+                    "posted": int(created) // 1000 if created else None})
     return out
 
 
@@ -317,12 +391,21 @@ def board_ashby(slug):
     out = []
     for j in d.get("jobs", []):
         addr = ((j.get("address") or {}).get("postalAddress") or {})
+        pub = j.get("publishedAt")
+        ts = None
+        if pub:
+            try:
+                ts = int(datetime.datetime.fromisoformat(
+                    pub.replace("Z", "+00:00")).timestamp())
+            except ValueError:
+                ts = None
         out.append({"id": str(j.get("id")),
                     "title": (j.get("title") or "").strip(),
                     "loc": (j.get("location") or "").strip(),
                     "country": addr.get("addressCountry"),
                     "url": j.get("jobUrl") or "",
-                    "etype": j.get("employmentType")})
+                    "etype": j.get("employmentType"),
+                    "posted": ts})
     return out
 
 
@@ -332,7 +415,6 @@ ATS = {"greenhouse": board_greenhouse,
 
 
 def source_ats(boards):
-    # Each ATS section is either {"slug": "Display Name", ...} or ["slug", ...]
     targets = []
     for kind, entry in boards.items():
         if kind not in ATS:
@@ -379,13 +461,19 @@ def source_ats(boards):
                         and (not US_ONLY
                              or is_us(j["loc"], j.get("country"))))):
                 continue
+            days = age_days(j.get("posted"))
+            if MAX_AGE_DAYS is not None and days is not None \
+                    and days > MAX_AGE_DAYS:
+                continue
             out.append({
-                "section": "ATS",
+                "source": "ats",
                 "company": company,
                 "role": title,
                 "loc": (j["loc"] or "")[:60],
                 "url": j["url"],
-                "flags": "",
+                "age": days,
+                "degrees": [],
+                "terms": [],
                 "sk": f"{kind}:{slug}:{j['id']}",
                 "dk": canon(company, title),
                 "link": j["url"],
@@ -394,8 +482,9 @@ def source_ats(boards):
     return out
 
 
-SOURCES = {"github": source_github, "ats": source_ats}
-PRIORITY = ["github", "ats"]          # earlier sources win a duplicate
+SOURCES = {"simplify": source_simplify, "ats": source_ats}
+PRIORITY = ["simplify", "ats"]        # earlier sources win a duplicate
+RETIRED = {"github"}                  # old source names to prune from state
 
 
 # --------------------------------------------------------------------------
@@ -409,7 +498,7 @@ def load_state():
         return {}, {}
     with open(STATE) as f:
         d = json.load(f)
-    if isinstance(d, list):                       # v1: flat github-only list
+    if isinstance(d, list):                       # v1: flat README-only list
         return {"github": set(d)}, {}
     src = d.get("sources", d)
     seen = {k: set(v) for k, v in src.items() if isinstance(v, list)}
@@ -419,12 +508,12 @@ def load_state():
 
 
 def save_state(prev_seen, prev_ded, seen_up, ded_up):
-    seen = {k: sorted(v) for k, v in prev_seen.items()}
+    seen = {k: sorted(v) for k, v in prev_seen.items() if k not in RETIRED}
     seen.update({k: sorted(v) for k, v in seen_up.items()})
-    ded = {k: sorted(v) for k, v in prev_ded.items()}
+    ded = {k: sorted(v) for k, v in prev_ded.items() if k not in RETIRED}
     ded.update({k: sorted(v) for k, v in ded_up.items()})
     with open(STATE, "w") as f:
-        json.dump({"version": 2, "sources": seen, "dedupe": ded}, f,
+        json.dump({"version": 3, "sources": seen, "dedupe": ded}, f,
                   indent=0, sort_keys=True)
 
 
@@ -454,23 +543,28 @@ def notify(title, body, click, priority="high"):
 
 
 def announce(name, new):
-    # FAANG+ first, then advanced-degree, then the rest
-    new.sort(key=lambda r: (("🔥" not in r["flags"]), ("🎓" not in r["flags"])))
+    # Newest posting first; unknown age last.
+    new.sort(key=lambda r: (r["age"] is None, r["age"] if r["age"] else 0))
 
     companies = []
     for r in new:
         if r["company"] not in companies:
             companies.append(r["company"])
-    tag = "New" if name == "github" else "New (ATS)"
+    tag = "New" if name == "simplify" else "New (ATS)"
     title = f"{tag}: " + ", ".join(companies[:4])
     if len(companies) > 4:
         title += f" +{len(companies) - 4} more"
 
     lines = []
     for r in new[:25]:
-        mark = "🔥" if "🔥" in r["flags"] else ("🎓" if "🎓" in r["flags"] else "•")
-        lines.append(f"{mark} {r['company']} — {r['role']}\n"
-                     f"   {r['loc']}\n   {r['url']}")
+        meta = ago(r["age"])
+        # Surface a degree ceiling the title does not mention.
+        if r["degrees"] and "Bachelor's" not in r["degrees"]:
+            meta += (" · " if meta else "") + "/".join(r["degrees"])
+        head = f"• {r['company']} — {r['role']}"
+        lines.append(f"{head}\n   {r['loc']}"
+                     + (f"   [{meta}]" if meta else "")
+                     + f"\n   {r['url']}")
     if len(new) > 25:
         lines.append(f"\n...and {len(new) - 25} more")
 
@@ -493,10 +587,9 @@ def main():
                   f"{type(e).__name__}: {e}", file=sys.stderr)
             failures.append(name)
 
-    # Cross-source dedupe: drop a lower-priority row whose normalised
-    # company+role already appears in a higher-priority source. A source that
-    # failed this run still contributes its last-known keys, so an outage
-    # cannot unmask duplicates it was previously suppressing.
+    # Cross-source dedupe. A source that failed this run still contributes its
+    # last-known keys, so an outage cannot unmask duplicates it was
+    # previously suppressing.
     claimed, seen_up, ded_up = set(), {}, {}
     for name in active:
         rows = rows_by_source.get(name)

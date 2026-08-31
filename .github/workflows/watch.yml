@@ -2,7 +2,7 @@ name: watch-internships
 
 on:
   schedule:
-    - cron: '*/30 * * * *'      # check every 30 min
+    - cron: '7,37 * * * *'      # instead of */30      # check every 30 min
     - cron: '0 12 * * SUN'      # weekly heartbeat
   workflow_dispatch:
 
