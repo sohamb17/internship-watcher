@@ -71,6 +71,28 @@ WD_QUERY = os.environ.get("WD_QUERY", "intern")
 SR_MAX = int(os.environ.get("SR_MAX", "600"))
 AMZN_MAX = int(os.environ.get("AMZN_MAX", "400"))
 
+# ntfy converts any message over 4096 bytes into an attachment file, which
+# arrives as "You received a file: attachment.txt" instead of readable text.
+# Stay under it and link out to the digest for the rest.
+NTFY_MAX = 4096
+NTFY_BUDGET = int(os.environ.get("NTFY_BUDGET", "3500"))
+
+DIGEST_FILE = os.environ.get("DIGEST_FILE", "digest.md")
+
+
+def digest_url():
+    """Where the full list lives. Derived from the Actions environment so it
+    needs no configuration; override with DIGEST_URL."""
+    explicit = os.environ.get("DIGEST_URL")
+    if explicit:
+        return explicit
+    repo = os.environ.get("GITHUB_REPOSITORY")
+    if repo:
+        branch = os.environ.get("GITHUB_REF_NAME") or "main"
+        return (f"https://github.com/{repo}/blob/{branch}/"
+                f"{DIGEST_FILE}")
+    return GH_LINK
+
 UA = "internship-watcher (+github actions; contact via repo issues)"
 
 LISTINGS = ("https://raw.githubusercontent.com/SimplifyJobs/"
@@ -754,7 +776,17 @@ def notify(title, body, click, priority="high"):
     urllib.request.urlopen(req, timeout=20).read()
 
 
-def announce(name, new):
+def entry_lines(r):
+    meta = ago(r["age"])
+    # Surface a degree ceiling the title does not mention.
+    if r["degrees"] and "Bachelor's" not in r["degrees"]:
+        meta += (" · " if meta else "") + "/".join(r["degrees"])
+    return (f"• {r['company']} — {r['role']}\n   {r['loc']}"
+            + (f"   [{meta}]" if meta else "")
+            + f"\n   {r['url']}")
+
+
+def announce(name, new, link):
     # Newest posting first; unknown age last.
     new.sort(key=lambda r: (r["age"] is None, r["age"] if r["age"] else 0))
 
@@ -767,20 +799,87 @@ def announce(name, new):
     if len(companies) > 4:
         title += f" +{len(companies) - 4} more"
 
-    lines = []
-    for r in new[:25]:
-        meta = ago(r["age"])
-        # Surface a degree ceiling the title does not mention.
-        if r["degrees"] and "Bachelor's" not in r["degrees"]:
-            meta += (" · " if meta else "") + "/".join(r["degrees"])
-        head = f"• {r['company']} — {r['role']}"
-        lines.append(f"{head}\n   {r['loc']}"
-                     + (f"   [{meta}]" if meta else "")
-                     + f"\n   {r['url']}")
-    if len(new) > 25:
-        lines.append(f"\n...and {len(new) - 25} more")
+    # Fill up to the byte budget rather than a fixed entry count: entries vary
+    # from ~90 to ~300 bytes, so a count-based cap cannot bound the message.
+    lines, used, shown = [], 0, 0
+    for r in new:
+        block = entry_lines(r)
+        cost = len(block.encode("utf-8")) + 2
+        if used + cost > NTFY_BUDGET:
+            break
+        lines.append(block)
+        used += cost
+        shown += 1
 
-    notify(title, "\n\n".join(lines), new[0].get("link") or GH_LINK)
+    if shown < len(new):
+        lines.append(f"…and {len(new) - shown} more — full list:\n{link}")
+    else:
+        lines.append(f"Full list: {link}")
+
+    body = "\n\n".join(lines)
+    if len(body.encode("utf-8")) > NTFY_MAX:          # belt and braces
+        body = body.encode("utf-8")[:NTFY_MAX - 200].decode("utf-8", "ignore")
+        body += f"\n\n…truncated — full list:\n{link}"
+    notify(title, body, link)
+
+
+def write_digest(new_by_source, boards, path=DIGEST_FILE):
+    """The page the notification's Click opens: every new posting in full,
+    then the complete watched-company index with portal links."""
+    now = datetime.datetime.now(datetime.timezone.utc)
+    total = sum(len(v) for v in new_by_source.values())
+    out = ["# Internship watcher — latest",
+           "",
+           f"_Updated {now:%Y-%m-%d %H:%M UTC} · {total} new listing"
+           f"{'' if total == 1 else 's'}_",
+           ""]
+
+    if not total:
+        out += ["Nothing new this run.", ""]
+    for src in PRIORITY:
+        rows = new_by_source.get(src) or []
+        if not rows:
+            continue
+        label = "SimplifyJobs" if src == "simplify" else "Company portals"
+        out += [f"## New from {label} ({len(rows)})", "",
+                "| Company | Role | Location | Posted | Link |",
+                "|---|---|---|---|---|"]
+        for r in rows:
+            role = (r["role"] or "").replace("|", "\\|")
+            comp = (r["company"] or "").replace("|", "\\|")
+            loc = (r["loc"] or "—").replace("|", "\\|")
+            deg = ("<br>" + "/".join(r["degrees"])
+                   if r["degrees"] and "Bachelor's" not in r["degrees"] else "")
+            out.append(f"| **{comp}** | {role}{deg} | {loc} | "
+                       f"{ago(r['age']) or '—'} | [apply]({r['url']}) |")
+        out.append("")
+
+    out += ["## Watched company portals", "",
+            "Every board polled each run, with the page to check by hand.", ""]
+    linkers = {
+        "greenhouse": lambda s: f"https://job-boards.greenhouse.io/{s}",
+        "lever": lambda s: f"https://jobs.lever.co/{s}",
+        "ashby": lambda s: f"https://jobs.ashbyhq.com/{s}",
+        "smartrecruiters": lambda s: f"https://jobs.smartrecruiters.com/{s}",
+        "workday": lambda s: s if s.startswith("http") else "#",
+        "amazon": lambda s: ("https://www.amazon.jobs/en/search?base_query="
+                             + urllib.parse.quote(s)),
+    }
+    rows = []
+    for kind, entry in (boards or {}).items():
+        if kind not in linkers or not isinstance(entry, dict):
+            continue
+        for slug, nm in entry.items():
+            rows.append((nm, kind, linkers[kind](slug)))
+    out += [f"_{len(rows)} boards_", "",
+            "| Company | Platform | Careers page |", "|---|---|---|"]
+    for nm, kind, url in sorted(rows, key=lambda x: x[0].lower()):
+        out.append(f"| {nm} | {kind} | [open]({url}) |")
+    out.append("")
+
+    with open(path, "w") as f:
+        f.write("\n".join(out))
+    return path
 
 
 # --------------------------------------------------------------------------
@@ -802,7 +901,7 @@ def main():
     # Cross-source dedupe. A source that failed this run still contributes its
     # last-known keys, so an outage cannot unmask duplicates it was
     # previously suppressing.
-    claimed, seen_up, ded_up = set(), {}, {}
+    claimed, seen_up, ded_up, new_by_source = set(), {}, {}, {}
     for name in active:
         rows = rows_by_source.get(name)
         if rows is None:
@@ -827,10 +926,17 @@ def main():
             continue
 
         new = [r for r in kept if r["sk"] not in seen]
+        new.sort(key=lambda r: (r["age"] is None, r["age"] if r["age"] else 0))
+        new_by_source[name] = new
         extra = f", {dropped} dup of higher-priority source" if dropped else ""
         print(f"[{name}] {len(kept)} relevant{extra}, {len(new)} new")
-        if new:
-            announce(name, new)
+
+    # Written before notifying so the link the push opens is already correct.
+    write_digest(new_by_source, boards)
+    link = digest_url()
+    for name in active:
+        if new_by_source.get(name):
+            announce(name, new_by_source[name], link)
 
     save_state(prev_seen, prev_ded, seen_up, ded_up)
     if failures:

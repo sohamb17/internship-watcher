@@ -2,7 +2,7 @@ name: watch-internships
 
 on:
   schedule:
-    - cron: '7,37 * * * *'      # instead of */30      # check every 30 min
+    - cron: '7,37 * * * *'      # check every 30 min
     - cron: '0 12 * * SUN'      # weekly heartbeat
   workflow_dispatch:
 
@@ -50,7 +50,7 @@ jobs:
         run: |
           git config user.name  "watcher"
           git config user.email "watcher@users.noreply.github.com"
-          git add state.json
+          git add state.json digest.md
           git diff --staged --quiet && exit 0
           git commit -m "state $(date -u +%F_%H:%M)"
           # Another run may have pushed while this one was working.
