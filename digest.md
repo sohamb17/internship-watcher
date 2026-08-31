@@ -1,8 +1,29 @@
 # Internship watcher — latest
 
-_Updated 2026-08-31 03:31 UTC · 0 new listings_
+_Updated 2026-08-31 08:52 UTC · 13 new listings_
 
-Nothing new this run.
+## New from SimplifyJobs (12)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **PIMCO** | Software Engineering Intern - Technology Analyst | London, UK | today | [apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) |
+| **Qorvo** | Full-Stack Web Developer Intern | Richardson, TX | today | [apply](https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/?ats=successfactors) |
+| **The Walt Disney Company** | Project Controls Planning Intern - Spring 2027 | Lake Buena Vista, FL | today | [apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDI-Project-Controls-Planning-Intern--Spring-2027_10158254-1) |
+| **The Walt Disney Company** | Project Controls Planning Intern - Spring 2027 | Lake Buena Vista, FL | today | [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Project-Controls-Planning-Intern--Spring-2027_10158254) |
+| **GE Aerospace** | Applied AI Engineer Co-op | Evendale, OH / Atlanta, GA | today | [apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1) |
+| **GE Aerospace** | Applied AI Intern | Evendale, OH / Atlanta, GA | today | [apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
+| **Stryker** | Data Analytics Intern - Multiple Teams | Portage, MI | today | [apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601) |
+| **Stryker** | Software Engineering Intern - Software Engineering | Fort Lauderdale, FL | today | [apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1) |
+| **Stryker** | Software Engineering Intern - Multiple Teams | Fort Wayne, IN | today | [apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631) |
+| **Stryker** | Software Engineering Intern - Software Engineering | Portage, MI | today | [apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1) |
+| **Johnson & Johnson** | Quality Data Science Co-op - MD Q&C Digital Solutions | Cincinnati, OH | today | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-op--Spring-2027_R-095792) |
+| **Stryker** | Software Engineering Intern - Multiple Teams | Fremont, CA / San Jose, CA | today | [apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Samsara** | Electrical Engineering Co-Op | San Francisco - SF9 | — | [apply](https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118) |
 
 ## Watched company portals
 
