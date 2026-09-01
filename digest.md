@@ -1,52 +1,54 @@
 # Internship watcher — latest
 
-_Updated 2026-09-01 01:13 UTC · 36 new listings_
+_Updated 2026-09-01 06:44 UTC · 43 new listings_
 
-## New from SimplifyJobs (34)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Mackenzie Investments** | Technology Engineering Intern | Toronto, ON, Canada | today | [apply](https://careersen-mackenzieinvestments.icims.com/jobs/6000/job?mobile=true&needsRedirect=false) |
-| **Epic Games** | Frontend Programmer Intern | Cary, NC | today | [apply](https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004) |
-| **Bosch Home Comfort** | AI Application Intern | Farmington Hills, MI | today | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000146547599) |
-| **Bosch Home Comfort** | Software Engineer Intern | Farmington Hills, MI | today | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000146546849) |
-| **Panasonic Holdings** | Back-End Cloud Developer Intern | Bridgeton, MO | today | [apply](https://careers.na.panasonic.com/jobs/50754?icims=1) |
-| **Google** | Software Engineer Intern - Multiple Teams | Palo Alto, CA / Cambridge, MA / Madison, WI / Seattle, WA /  | today | [apply](https://www.google.com/about/careers/applications/jobs/results/94172495052972742) |
-| **Google** | Software Engineer Intern - Multiple Teams | Palo Alto, CA / Cambridge, MA / Madison, WI / Seattle, WA /  | today | [apply](https://www.google.com/about/careers/applications/jobs/results/100648618540573382) |
-| **HP IQ** | Software Engineer Intern | SF | today | [apply](https://job-boards.greenhouse.io/hpiq/jobs/6114912004) |
-| **HP IQ** | Software Engineer Intern - Product Security | SF | today | [apply](https://job-boards.greenhouse.io/hpiq/jobs/6116398004) |
-| **HP IQ** | Software Engineer Intern - Cloud Services - Summer 2027<br>Master's/PhD | SF | today | [apply](https://job-boards.greenhouse.io/hpiq/jobs/6111955004) |
-| **HP IQ** | Software Engineer Intern - Product & Developer Productivity - Summer 2027 | SF | today | [apply](https://job-boards.greenhouse.io/hpiq/jobs/6114890004) |
-| **HP IQ** | Software Engineer Intern - Software Systems | SF | today | [apply](https://job-boards.greenhouse.io/hpiq/jobs/6140119004) |
-| **HP IQ** | Software Engineer Intern - AML Platform | SF | today | [apply](https://job-boards.greenhouse.io/hpiq/jobs/6114781004) |
-| **Aerotech** | Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team | Pittsburgh, PA | today | [apply](https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027) |
-| **Westinghouse Electric Company** | Computer Engineering / Software Engineering Intern | Rock Hill, SC / Columbia, SC | today | [apply](https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/?ats=successfactors) |
-| **Cvent** | Software Engineer Intern - Summer 2027 | Tysons, VA | today | [apply](https://careers.cvent.com/jobs/10806?icims=1) |
-| **Regions Bank** | Human Resources Data and Analytics Intern | Birmingham, AL / Hoover, AL | 1d ago | [apply](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/XMLNAME-2027-ETP-Intern---Human-Resources-Data-and-Analytics--Birmingham--AL_R105679) |
-| **United Parcel Service** | Information Technology Intern - Multiple Teams | Mahwah, NJ | 1d ago | [apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Technology-Group-Summer-2027-Internship---NJ_R26029748) |
-| **United Parcel Service** | Information Technology Intern - Multiple Teams | Timonium, MD | 1d ago | [apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-MARYLAND-MDROA/UPS-Technology-Group-Summer-2027-Internship---MD_R26029757) |
-| **PricewaterhouseCoopers (PwC)** | Geographic Information Systems Intern | Boston, MA / Seattle, WA / Houston, TX / Washington, DC / SF | 1d ago | [apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Technology-Consulting---Geographic-Information-Systems-Intern---Summer-2027_757257WD) |
-| **PricewaterhouseCoopers (PwC)** | Contracts Intern - Deals - Summer 2027 | Boston, MA / Seattle, WA / Houston, TX / Washington, DC / SF | 1d ago | [apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---DTDS---Contracts-Intern---Summer-2027_757235WD) |
-| **PricewaterhouseCoopers (PwC)** | Diligence Analytics Intern - Deals | Boston, MA / Seattle, WA / Houston, TX / Washington, DC / SF | 1d ago | [apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---Diligence-Analytics-Intern---Summer-2027_757227WD) |
-| **PricewaterhouseCoopers (PwC)** | Digital Assurance & Transparency Intern - Multiple Teams | SF / Florham Park, NJ / Rosemont, IL / Chicago, IL / Silicon | 1d ago | [apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Digital-Assurance---Transparency--DAT----Tech---Intern---Summer-2027_756925WD) |
-| **PricewaterhouseCoopers (PwC)** | Tax Innovation Delivery Experience Intern - Multiple Teams | Rosemont, IL | 1d ago | [apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Software-Engineering---Intern---Summer-2027_756410WD) |
-| **Arch Capital Group** | Data and Analytics Intern | Farmington, CT | 1d ago | [apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845) |
-| **PricewaterhouseCoopers (PwC)** | Connected Physical Products Intern - Summer 2027 | Boston, MA / Seattle, WA / Houston, TX / Washington, DC / SF | 1d ago | [apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD) |
-| **PricewaterhouseCoopers (PwC)** | Deals Analytics Intern - DTDS | Boston, MA / Seattle, WA / Houston, TX / Washington, DC / SF | 1d ago | [apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---DTDS---Analytics-Intern---Summer-2027_757228WD) |
-| **The Walt Disney Company** | Revenue Planning & Analytics Intern - Spring 2027 | Anaheim, CA | 1d ago | [apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Anaheim-CA-USA/Revenue-Planning---Analytics-Intern--Spring-2027_10159737-1) |
-| **PricewaterhouseCoopers (PwC)** | Financial Crimes Unit Data & Analytics Tech Consulting Intern - Summer 2027 | Rosemont, IL / NYC | 1d ago | [apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Financial-Crimes-Unit-Data---Analytics-Tech-Consulting-Intern---Summer-2027_757242WD) |
-| **PricewaterhouseCoopers (PwC)** | Market Information and Data Analytics Intern - Multiple Teams | Boston, MA / Tampa, FL / Rosemont, IL / NYC | 1d ago | [apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Market-Information-and-Data-Analytics--MIDA----Data-Quality----Intern---Summer-2027_757081WD) |
-| **PricewaterhouseCoopers (PwC)** | Business Analytics Intern - Mida | Boston, MA / Tampa, FL / Rosemont, IL / NYC | 1d ago | [apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Market-Information-and-Data-Analytics--MIDA----Business-Analytics----Intern---Summer-2027_757090WD) |
-| **The Walt Disney Company** | Revenue Planning & Analytics Intern - Spring 2027 | Anaheim, CA | 1d ago | [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Revenue-Planning---Analytics-Intern--Spring-2027_10159737) |
-| **Stryten** | Procurement Intern | Alpharetta, GA | 1d ago | [apply](https://jobs.stryten.com/jobs/5808?icims=1) |
-| **Vanguard** | Data Science Intern - College to Corporate IT | Charlotte, NC | 12d ago | [apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) |
-
-## New from Company portals (2)
+## New from SimplifyJobs (43)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Adobe** | 2027 Intern - Machine Learning Engineer | San Jose | today | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) |
-| **Stripe** | Software Engineer, Intern (Summer or Winter) | San Francisco, Seattle, New York City | — | [apply](https://stripe.com/jobs/search?gh_jid=8128745) |
+| **Merchants Bank of Indiana** | Business Technology Intern - Application Development | Carmel, IN | today | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464054) |
+| **Merchants Bank of Indiana** | Business Technology Intern - Summer 2027 | Carmel, IN | today | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464029) |
+| **Johns Hopkins Applied Physics Laboratory** | Signal Processing Intern - Multiple Teams | Laurel, MD | today | [apply](https://careers.jhuapl.edu/jobs/59875?icims=1) |
+| **American Express** | Data Analytics Intern - Enterprise Technology Services | Phoenix, AZ | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703) |
+| **Travelers** | Business Insights & Analytics Intern - BI&A LDP | Hartford, CT / St Paul, MN | today | [apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304) |
+| **Travelers** | Engineering Development Intern | Hunt Valley, Cockeysville, MD / Hartford, CT / Atlanta, GA / | today | [apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270) |
+| **WhatNot** | Software Engineer Intern | Seattle, WA / SF / LA / NYC | today | [apply](https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true) |
+| **Wealthsimple** | Software Development Intern / Data Science Intern - Multiple Teams<br>Bootcamp | Toronto, ON, Canada | today | [apply](https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26/application?embed=true) |
+| **Sierra** | Software Engineer Intern | SF / NYC | today | [apply](https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true) |
+| **Trane Technologies** | AI & Analytics Intern | Minneapolis, MN / Davidson, NC | today | [apply](https://careers.tranetechnologies.com/global/en/job/JR-7591) |
+| **Trane Technologies** | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | today | [apply](https://careers.tranetechnologies.com/global/en/job/JR-7608) |
+| **American Express** | Data Analytics Intern - Enterprise Technology Services<br>Master's | Charlotte, NC | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784) |
+| **American Express** | Data Engineer Intern - Enterprise Technology Services | Phoenix, AZ | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333) |
+| **American Express** | Data Analytics Intern - Enterprise Technology Services | Palo Alto, CA | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011818) |
+| **American Express** | Data Analytics Intern - Enterprise Technology Services<br>Master's | Palo Alto, CA | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782) |
+| **American Express** | Data Analytics Intern - US Consumer Services<br>Master's/MBA | NYC | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607) |
+| **American Express** | Data Engineer Intern - Enterprise Technology Services | Sunrise, FL | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831) |
+| **American Express** | Data Analytics Intern - Enterprise Technology Services<br>Master's | Phoenix, AZ | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012729) |
+| **American Express** | Data Engineer Intern - Enterprise Technology Services | Charlotte, NC | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828) |
+| **American Express** | Data Analytics Intern - Enterprise Technology Services | NYC | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011813) |
+| **American Express** | Data Engineer Intern - Enterprise Technology Services<br>Master's | Sunrise, FL | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781) |
+| **American Express** | Data Management Intern - Global Merchant & Network Services<br>Master's | Phoenix, AZ | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668) |
+| **American Express** | Data Science Intern - Finance | NYC | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190) |
+| **TC Energy** | Engineering Intern | Charleston, WV | today | [apply](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Student-Intern--Engineering_JR-10741) |
+| **American Express** | Data Engineer Intern - Enterprise Technology Services<br>Master's | Phoenix, AZ | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012339) |
+| **American Express** | Data Engineer Intern - Enterprise Technology Services<br>Master's | Charlotte, NC | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764) |
+| **American Express** | Data Analytics Intern - Enterprise Technology Services<br>Master's | NYC | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012783) |
+| **American Express** | Data Analytics Intern - Enterprise Technology Services | Charlotte, NC | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011807) |
+| **American Express** | Data Science Intern - Finance<br>Master's | NYC | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191) |
+| **JP Morgan Chase** | Summer Analyst Intern - Corporate Functions - Corporate Analyst Development Program | Bournemouth, UK | today | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775228) |
+| **JP Morgan Chase** | Software Engineer Intern | London, UK / Glasgow, UK | today | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738) |
+| **JP Morgan Chase** | Software Engineer Intern - Summer Internship | London, UK / Glasgow, UK | today | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716) |
+| **JP Morgan Chase** | Data & AI Intern - Data & AI Program | London, UK / Glasgow, UK | today | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745) |
+| **JP Morgan Chase** | Software Engineer Intern - Immersion Program | Glasgow, UK | today | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) |
+| **First National Bank** | Retail Administration Analytics Intern | Pittsburgh, PA | today | [apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Retail-Administration-Analytics-Intern_2026-02039) |
+| **ISN Software** | Software Developer Intern - Fall 2026 | Dallas, TX | today | [apply](https://isnetworld.com/en/about/careers/jobs?gh_jid=6176204004) |
+| **Momentive** | Service Quality Intern | Waterford, NY | today | [apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2027-Intern---Service-Quality_R9767) |
+| **Tesla** | Software Engineer Intern - Core AI Compiler & Runtime | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/281951) |
+| **Philips** | Cybersecurity & Data Analytics Co-op - Ultrasound Regulatory Affairs | Cambridge, MA / Bothell, WA / Plymouth, MN | 1d ago | [apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Cybersecurity---Data-Analytics--Ultrasound-Regulatory-Affairs----Cambridge--MA---January-2027_590901) |
+| **Adobe** | Machine Learning Engineer Intern | Seattle, WA / SF / Austin, TX / San Jose, CA / NYC / Lehi, U | 1d ago | [apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) |
+| **Verdantas** | Data Analytics Intern | Texas | 1d ago | [apply](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Remote-TX/Data-Analytics-Intern-Summer-2027_R-101128) |
+| **RTX** | Software Engineer Intern | Aurora, CO | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410) |
+| **BlueCross BlueShield of Nebraska** | Data Intern - Data Science - Data Analytics | Omaha, NE | 1d ago | [apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) |
 
 ## Watched company portals
 
