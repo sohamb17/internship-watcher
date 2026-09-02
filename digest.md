@@ -1,19 +1,38 @@
 # Internship watcher — latest
 
-_Updated 2026-09-02 13:50 UTC · 8 new listings_
+_Updated 2026-09-02 17:50 UTC · 22 new listings_
 
-## New from SimplifyJobs (8)
+## New from SimplifyJobs (14)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Nokia** | Tools and Automation Software Developer Co-op/Intern | Ottawa, ON, Canada | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39341) |
-| **Geotab** | DataOps Developer Intern - Months | Atlanta, GA | today | [apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5389379008) |
-| **Geotab** | Data Analyst Intern | Toronto, ON, Canada / Oakville, ON, Canada | today | [apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5324252008) |
-| **Michelin** | Data Engineering Intern | Ardmore, OK | 1d ago | [apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ARDMORE-OK/Summer-2027-Internship--Data-Engineering---Ardmore--OK-_R-2026030979) |
-| **The Federal Reserve System** | Graduate Intern - Markets Group - New York Innovation Center | NYC | 1d ago | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern----Markets-Group---New-York-Innovation-Center---Graduate-Intern_R-0000033034) |
-| **Hormel Foods** | Packaging Intern | Austin, MN | 1d ago | [apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35613) |
-| **TikTok** | Data Analyst and Business Projects Intern | London, UK | 12d ago | [apply](https://lifeattiktok.com/search/7676124919956867333) |
-| **GE Aerospace** | Digital Technology Co-op - US - Spring 2027 | Evendale, OH | 16d ago | [apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Spring-2027_R5029741-1) |
+| **Toast** | Engineer Intern | Boston, MA | today | [apply](https://boards.greenhouse.io/embed/job_app?token=8171800) |
+| **Steel Dynamics** | Software Development Intern | Fort Wayne, IN | today | [apply](https://careers-steeldynamics.icims.com/jobs/7994/job?mobile=true&needsRedirect=false) |
+| **Nokia** | Software Designer Co-op Intern - Intern | Ottawa, ON, Canada | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39679) |
+| **Nokia** | Software Developer Co-op Intern - Intern | Ottawa, ON, Canada | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39395) |
+| **Nokia** | Web Developer Co-op Intern - Intern | Ottawa, ON, Canada | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39612) |
+| **Nokia** | Software Developer Co-op Intern | Ottawa, ON, Canada | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39435) |
+| **Nokia** | Web Developer Co-op Intern | Ottawa, ON, Canada | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39821) |
+| **General Dynamics UK** | Software Developer Co-op - 16-Months | Calgary, AB, Canada | today | [apply](https://jobs.smartrecruiters.com/GDMSI/744000146985399) |
+| **Williams Racing** | Performance Optimisation Industrial Placement | Grove, Wantage, UK | today | [apply](https://jobs.smartrecruiters.com/WilliamsRacing/744000146956879) |
+| **Williams Racing** | Race Operations Intern | Grove, Wantage, UK | today | [apply](https://jobs.smartrecruiters.com/WilliamsRacing/744000146957409) |
+| **Williams Racing** | Data Engineer Intern | Grove, Wantage, UK | today | [apply](https://jobs.smartrecruiters.com/WilliamsRacing/744000146954769) |
+| **Universal Health Services** | Software Engineer Intern - Data Analytics | King of Prussia, PA | today | [apply](https://jobs.uhsinc.com/jobs/367247?icims=1) |
+| **Universal Health Services** | Revenue Cycle Analyst Intern | Tredyffrin Township, PA | today | [apply](https://jobs.uhsinc.com/jobs/367250?icims=1) |
+| **RTX** | Data Science and Advanced Analytics Intern - Data Science and Advanced Analytics | Longueuil, QC, Canada | 9d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Science-des-donnees-et-analytique-avancee---Internship---Winter-2027---Data-Science-and-Advanced-Analytics_01865000) |
+
+## New from Company portals (8)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Intel** | Software Engineering - Intern, Graduate | US Oregon Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) |
+| **Intel** | Software Engineering - Intern, Bachelor’s | US Oregon Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) |
+| **Intel** | Silicon Hardware Engineering - Intern, Bachelor’s | US Oregon Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829) |
+| **Intel** | Silicon Hardware Engineering - Intern, Graduate | US Oregon Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830) |
+| **Intel** | Manufacturing and Process Development - Intern, Graduate | US Oregon Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Graduate_JR0286833) |
+| **Intel** | Manufacturing and Process Development - Intern, Bachelor’s | US Oregon Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Bachelor-s_JR0286825) |
+| **Intel** | Platform Hardware and Systems Engineering - Intern, Graduate | US Oregon Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828) |
+| **Intel** | Platform Hardware and Systems Engineering - Intern, Bachelor’s | US Oregon Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827) |
 
 ## Watched company portals
 
