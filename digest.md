@@ -1,30 +1,42 @@
 # Internship watcher — latest
 
-_Updated 2026-09-02 00:29 UTC · 19 new listings_
+_Updated 2026-09-02 04:59 UTC · 31 new listings_
 
-## New from SimplifyJobs (19)
+## New from SimplifyJobs (31)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Corning** | Optical Fiber and Cable Engineer Intern - Summer 2027 | Charlotte, NC | today | [apply](https://corningjobs.corning.com/job/Charlotte-Optical-Fiber-and-Cable-Engineering-Intern-Summer-2027-NC-28216/1425615400/?ats=successfactors) |
-| **Corning** | Artificial Intelligence and Machine Learning Intern | Wilmington, NC | today | [apply](https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors) |
-| **TWG Global** | Data Science Intern - MAQR | Santa Monica, CA | today | [apply](https://apply.workable.com/twgai/j/AC536E5EE2/apply) |
-| **TWG Global** | AI Engineer Intern - Summer 2027 | Santa Monica, CA | today | [apply](https://apply.workable.com/twgai/j/772CD136FF/apply) |
-| **TWG Global** | Data Science Intern - SOLT<br>Master's/PhD | Santa Monica, CA | today | [apply](https://apply.workable.com/twgai/j/263B34D737/apply) |
-| **Ragle Inc** | Data Engineering Intern | North Richland Hills, TX | today | [apply](https://ragleinc.applytojob.com/apply/bOx8uiciOs/Data-Engineering-Intern-Summer-2027) |
-| **Lawrence Livermore National Laboratory (LLNL)** | Computing Undergraduate Student Intern - Early Internship Program | Livermore, CA | today | [apply](https://jobs.smartrecruiters.com/LLNL/3743990014981656) |
-| **Lawrence Livermore National Laboratory (LLNL)** | Computing Intern - Summer Undergraduate Internship Program | Livermore, CA | today | [apply](https://jobs.smartrecruiters.com/LLNL/3743990014982059) |
-| **Lawrence Livermore National Laboratory (LLNL)** | Computing Intern | Livermore, CA | today | [apply](https://jobs.smartrecruiters.com/LLNL/3743990014982336) |
-| **Lawrence Livermore National Laboratory (LLNL)** | Computing Intern<br>Master's | Livermore, CA | today | [apply](https://jobs.smartrecruiters.com/LLNL/3743990014982576) |
-| **Berkshire Grey** | Software Co-op | Bedford, MA | today | [apply](https://berkshiregrey.bamboohr.com/careers/763/) |
-| **Toast** | Engineer Intern | Boston, MA | today | [apply](https://boards.greenhouse.io/embed/job_app?token=8171800) |
-| **Grant Thornton** | Tax Technology Intern - Summer 2027 | Bellevue, WA | today | [apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115822) |
-| **Parsons** | Software Developer Intern - Fall 2026/Spring 2027 | Remote in USA | 1d ago | [apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Software-Developer-Intern_R185565) |
-| **United Parcel Service** | Finance Analytics Intern - Global Finance | Atlanta, GA | 1d ago | [apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2027-Analytics-Internship_R26030589) |
-| **Medline** | Software Engineer Intern - Summer 2027 | Northbrook, IL | 1d ago | [apply](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623) |
-| **Medline** | Business Systems Intern - Summer 2027 | Northbrook, IL | 1d ago | [apply](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Business-Systems-Intern---Summer-2027_R2617626) |
-| **POET** | Process Engineering Intern | Sioux Falls, SD | 1d ago | [apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Process-Engineering-Intern---Summer-2027_R101679) |
-| **Compeer Financial** | New Markets Intern | Sun Prairie, WI / Naperville, IL / Prairie du Sac, WI | 5d ago | [apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5406940008) |
+| **Tesla** | Vehicle Software Engineer Intern - Diagnostic User Interface | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/281921) |
+| **Tesla** | Robotaxi Simulation Engineer Intern - Systems Modeling & Optimization | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/281936) |
+| **Tesla** | Machine Learning Engineer Intern - Charging Data Modeling | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/281940) |
+| **Corning** | Digital & IT Intern - Analyst - Enterprise Data Management | Charlotte, NC | today | [apply](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Enterprise-Data-Management-Summer-2027-NC-28216/1425715900/?ats=successfactors) |
+| **Panasonic Holdings** | Data Engineering Intern | Bridgeton, MO | today | [apply](https://careers.na.panasonic.com/jobs/50772?icims=1) |
+| **Remarcable** | Full Stack Developer Co-op | Vancouver, BC, Canada | today | [apply](https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7/application?embed=true) |
+| **Textron** | Aftermarket Analyst Intern | Cartersville, GA | today | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343153) |
+| **Textron** | Data Product & Analytics Intern | Augusta, GA | today | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343181) |
+| **Textron** | Software Engineer Intern | Augusta, GA | today | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299) |
+| **John Deere** | Product Engineering Intern | Fargo, ND | today | [apply](https://johndeere.eightfold.ai/careers/job/137482769212) |
+| **Tesla** | Physics Engine Development Engineer Intern - Optimus | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282147) |
+| **General Motors** | Electrical & SDV Intern - Global Manufacturing | Warren, MI | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352) |
+| **Ingredion** | Digital Innovation Intern | Bridgewater, NJ | 1d ago | [apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Digital-Innovation-Intern_Req-40180-1) |
+| **Royal Bank of Canada** | Financial Crime Analytics Intern | Toronto, ON, Canada | 1d ago | [apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--FC-Insights-and-Analytics-Intern--4-Months-_R-0000185601-2) |
+| **First National Bank** | AI/Machine Learning Modeler Intern | Pittsburgh, PA | 1d ago | [apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851) |
+| **First National Bank** | Systems Analyst Intern - Consumer and Commercial Banking Technology | Pittsburgh, PA | 1d ago | [apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021) |
+| **First National Bank** | Data Management Intern - Data Quality and Governance | Pittsburgh, PA | 1d ago | [apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2026-Data-Management-Intern---Pittsburgh--PA_2026-01833) |
+| **First National Bank** | Data Engineer Intern | Pittsburgh, PA / Hermitage, PA | 1d ago | [apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01714) |
+| **First National Bank** | Data Engineering Intern | Pittsburgh, PA / Hermitage, PA | 1d ago | [apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713) |
+| **First National Bank** | Application Development Intern | Pittsburgh, PA | 1d ago | [apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Application-Development-Intern_2026-01847) |
+| **First National Bank** | Data Engineering Intern | Pittsburgh, PA / Hermitage, PA | 1d ago | [apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01712) |
+| **Ameriprise Financial** | Asset Management Technology Intern - Data Enablement | Boston, MA | 1d ago | [apply](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538) |
+| **AeroVironment** | Machine Learning Intern | Centreville, VA / Minneapolis, MN | 1d ago | [apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) |
+| **AeroVironment** | Software Engineer Intern | Germantown, MD / Annapolis Junction, MD / Pottstown, PA / Al | 1d ago | [apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611) |
+| **Vermeer** | Software Engineer Intern - IT | Pella, IA | 1d ago | [apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178) |
+| **RTX** | Software Engineer Intern | Melbourne, FL | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Summer-2027-_01871423) |
+| **Michelin** | R&D Performance Measurement Intern | Greenville, SC | 1d ago | [apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/GREENVILLE-SC/Spring-2027--R-D-Performance-Measurement--Greenville--SC-_R-2026033244) |
+| **Michelin** | R&D Testing Intern | Greenville, SC | 1d ago | [apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/GREENVILLE-SC/Spring-2027---R-D-Testing--Greenville--SC-_R-2026033240) |
+| **Northern Trust** | Technology Intern - Software Engineering | Chicago, IL | 1d ago | [apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1) |
+| **Northern Trust** | Technology Intern - Data Science and Analytics | Chicago, IL | 1d ago | [apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1) |
+| **GE Appliances** | Software Engineer Co-op - Software Engineering | Louisville, KY | 28d ago | [apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427) |
 
 ## Watched company portals
 
