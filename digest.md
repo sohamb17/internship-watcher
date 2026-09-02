@@ -1,15 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-09-02 09:29 UTC · 4 new listings_
+_Updated 2026-09-02 13:50 UTC · 8 new listings_
 
-## New from SimplifyJobs (4)
+## New from SimplifyJobs (8)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Johns Hopkins Applied Physics Laboratory** | Mission Systems Engineering Intern | Laurel, MD | today | [apply](https://careers.jhuapl.edu/jobs/59883?icims=1) |
-| **TikTok** | Ecosystem Analyst Intern - TikTok LIVE | LA | today | [apply](https://lifeattiktok.com/search/7678985103851407669) |
-| **Fenwick & West** | Forward Deployed Operations Intern | Boston, MA / Seattle, WA / Santa Monica, CA / Washington, DC | 1d ago | [apply](https://fenwick.wd1.myworkdayjobs.com/Fenwick_External_Careers/job/Silicon-Valley/Forward-Deployed-Operations-Intern_R2964) |
-| **Johnson & Johnson** | Materials Engineer Co-op | Jacksonville, FL | 15d ago | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380) |
+| **Nokia** | Tools and Automation Software Developer Co-op/Intern | Ottawa, ON, Canada | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39341) |
+| **Geotab** | DataOps Developer Intern - Months | Atlanta, GA | today | [apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5389379008) |
+| **Geotab** | Data Analyst Intern | Toronto, ON, Canada / Oakville, ON, Canada | today | [apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5324252008) |
+| **Michelin** | Data Engineering Intern | Ardmore, OK | 1d ago | [apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ARDMORE-OK/Summer-2027-Internship--Data-Engineering---Ardmore--OK-_R-2026030979) |
+| **The Federal Reserve System** | Graduate Intern - Markets Group - New York Innovation Center | NYC | 1d ago | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern----Markets-Group---New-York-Innovation-Center---Graduate-Intern_R-0000033034) |
+| **Hormel Foods** | Packaging Intern | Austin, MN | 1d ago | [apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35613) |
+| **TikTok** | Data Analyst and Business Projects Intern | London, UK | 12d ago | [apply](https://lifeattiktok.com/search/7676124919956867333) |
+| **GE Aerospace** | Digital Technology Co-op - US - Spring 2027 | Evendale, OH | 16d ago | [apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Spring-2027_R5029741-1) |
 
 ## Watched company portals
 
