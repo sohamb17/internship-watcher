@@ -1,15 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-09-02 20:57 UTC · 4 new listings_
+_Updated 2026-09-02 23:15 UTC · 2 new listings_
 
-## New from Company portals (4)
+## New from Company portals (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Cadence Design Systems** | Graduate Student Intern - Software Engineering | AUSTIN | today | [apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56028-1) |
-| **Cadence Design Systems** | Graduate Student Intern - Software Engineering | AUSTIN | today | [apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56029-2) |
-| **Intel** | AI Software Engineering Intern | US Oregon Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) |
-| **Intel** | Module Engineering Undergraduate Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0286875) |
+| **Cisco** | Machine Learning Engineer II (Intern) - United States | San Francisco California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683) |
+| **Intel** | Software Development Graduate Intern | US, California, Folsom | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) |
 
 ## Watched company portals
 
