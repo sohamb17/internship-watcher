@@ -1,27 +1,30 @@
 # Internship watcher — latest
 
-_Updated 2026-09-01 22:33 UTC · 16 new listings_
+_Updated 2026-09-02 00:29 UTC · 19 new listings_
 
-## New from SimplifyJobs (16)
+## New from SimplifyJobs (19)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Clarios** | Forward Deployed Engineer Intern - Summer 2027 | Milwaukee, WI | today | [apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Forward-Deployed-Engineering-Intern--Summer-2027-_WD49962) |
-| **Hermeus** | Software Engineer Intern - Hardware in the Loop | Atlanta, GA | today | [apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b/apply) |
-| **Hermeus** | Software Engineer Intern - Modeling & Simulation - Multiple Teams | LA | today | [apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply) |
-| **United Airlines** | Air Traffic Strategy Data Analytics Intern - Summer 2027 | Arlington Heights, IL | today | [apply](https://careers.united.com/us/en/job/WHQ00026613) |
-| **United Airlines** | Airport Operations Intern - Safety Strategy | Chicago, IL | today | [apply](https://careers.united.com/us/en/job/WHQ00026456) |
-| **Corning** | Raw Material Engineering Intern - Summer 2027 | Painted Post, NY | today | [apply](https://corningjobs.corning.com/job/Painted-Post-Raw-Material-Engineering-Intern-Summer-2027-NY-14870/1425513800/?ats=successfactors) |
-| **Corning** | Digital & IT Intern - Analyst - Machine Learning | Charlotte, NC | today | [apply](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Machine-Learning-Summer-2027-NC-28216/1425580100/?ats=successfactors) |
-| **Corning** | Vision System Intern - Summer 2027 | Painted Post, NY | today | [apply](https://corningjobs.corning.com/job/Painted-Post-Vision-System-Intern-Summer-2027-NY-14870/1425508200/?ats=successfactors) |
-| **Nike** | Global Apparel Materials Developer Intern - Apparel Development - Global Apparel Materials | Beaverton, OR | today | [apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel-Development--Global-Apparel-Materials--Undergraduate-Internship_R-91228) |
-| **Grass Valley** | Software Development Intern | Montreal, QC, Canada | today | [apply](https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development) |
-| **John Deere** | Data & Analytics Intern | Moline, IL | today | [apply](https://johndeere.eightfold.ai/careers/job/137482673640) |
-| **AIG** | Summer Intern - Data Office | Charlotte, NC / Jersey City, NJ / NYC / Parsippany-Troy Hill | today | [apply](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655) |
-| **Kinder Morgan** | Information Technology Intern - Application Development | Houston, TX | today | [apply](https://careers.kindermorgan.com/jobs/6032?icims=1) |
-| **Eulerity** | Backend Developer Intern | NYC | today | [apply](https://job-boards.greenhouse.io/eulerity/jobs/4709040006) |
-| **Southern Star Central Gas Pipeline** | GIS Analyst Intern | Owensboro, KY | today | [apply](https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false) |
-| **Royal Bank of Canada** | Financial Crime Insights and Analytics Intern - Group Risk Management | Toronto, ON, Canada | today | [apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--FC-Insights-and-Analytics-Intern--4-Months-_R-0000185601-1) |
+| **Corning** | Optical Fiber and Cable Engineer Intern - Summer 2027 | Charlotte, NC | today | [apply](https://corningjobs.corning.com/job/Charlotte-Optical-Fiber-and-Cable-Engineering-Intern-Summer-2027-NC-28216/1425615400/?ats=successfactors) |
+| **Corning** | Artificial Intelligence and Machine Learning Intern | Wilmington, NC | today | [apply](https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors) |
+| **TWG Global** | Data Science Intern - MAQR | Santa Monica, CA | today | [apply](https://apply.workable.com/twgai/j/AC536E5EE2/apply) |
+| **TWG Global** | AI Engineer Intern - Summer 2027 | Santa Monica, CA | today | [apply](https://apply.workable.com/twgai/j/772CD136FF/apply) |
+| **TWG Global** | Data Science Intern - SOLT<br>Master's/PhD | Santa Monica, CA | today | [apply](https://apply.workable.com/twgai/j/263B34D737/apply) |
+| **Ragle Inc** | Data Engineering Intern | North Richland Hills, TX | today | [apply](https://ragleinc.applytojob.com/apply/bOx8uiciOs/Data-Engineering-Intern-Summer-2027) |
+| **Lawrence Livermore National Laboratory (LLNL)** | Computing Undergraduate Student Intern - Early Internship Program | Livermore, CA | today | [apply](https://jobs.smartrecruiters.com/LLNL/3743990014981656) |
+| **Lawrence Livermore National Laboratory (LLNL)** | Computing Intern - Summer Undergraduate Internship Program | Livermore, CA | today | [apply](https://jobs.smartrecruiters.com/LLNL/3743990014982059) |
+| **Lawrence Livermore National Laboratory (LLNL)** | Computing Intern | Livermore, CA | today | [apply](https://jobs.smartrecruiters.com/LLNL/3743990014982336) |
+| **Lawrence Livermore National Laboratory (LLNL)** | Computing Intern<br>Master's | Livermore, CA | today | [apply](https://jobs.smartrecruiters.com/LLNL/3743990014982576) |
+| **Berkshire Grey** | Software Co-op | Bedford, MA | today | [apply](https://berkshiregrey.bamboohr.com/careers/763/) |
+| **Toast** | Engineer Intern | Boston, MA | today | [apply](https://boards.greenhouse.io/embed/job_app?token=8171800) |
+| **Grant Thornton** | Tax Technology Intern - Summer 2027 | Bellevue, WA | today | [apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115822) |
+| **Parsons** | Software Developer Intern - Fall 2026/Spring 2027 | Remote in USA | 1d ago | [apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Software-Developer-Intern_R185565) |
+| **United Parcel Service** | Finance Analytics Intern - Global Finance | Atlanta, GA | 1d ago | [apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2027-Analytics-Internship_R26030589) |
+| **Medline** | Software Engineer Intern - Summer 2027 | Northbrook, IL | 1d ago | [apply](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623) |
+| **Medline** | Business Systems Intern - Summer 2027 | Northbrook, IL | 1d ago | [apply](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Business-Systems-Intern---Summer-2027_R2617626) |
+| **POET** | Process Engineering Intern | Sioux Falls, SD | 1d ago | [apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Process-Engineering-Intern---Summer-2027_R101679) |
+| **Compeer Financial** | New Markets Intern | Sun Prairie, WI / Naperville, IL / Prairie du Sac, WI | 5d ago | [apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5406940008) |
 
 ## Watched company portals
 
