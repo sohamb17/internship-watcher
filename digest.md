@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-09-02 23:15 UTC · 2 new listings_
+_Updated 2026-09-03 01:24 UTC · 0 new listings_
 
-## New from Company portals (2)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Cisco** | Machine Learning Engineer II (Intern) - United States | San Francisco California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683) |
-| **Intel** | Software Development Graduate Intern | US, California, Folsom | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) |
+Nothing new this run.
 
 ## Watched company portals
 
