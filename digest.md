@@ -1,26 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-09-03 19:24 UTC · 10 new listings_
+_Updated 2026-09-03 21:52 UTC · 6 new listings_
 
-## New from SimplifyJobs (9)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **American Express** | Data Science Intern - Global Decision Science - Credit & Fraud Risk<br>Master's | NYC | today | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265) |
-| **Transcard Payments** | Artificial Intelligence Intern | Chattanooga, TN | today | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416) |
-| **Transcard Payments** | Software Engineer Intern | Chattanooga, TN | today | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288) |
-| **Suncor** | Data Science Student | Calgary, AB, Canada / St. John's, NL, Canada / Fort McMurray | 17d ago | [apply](https://suncor.wd1.myworkdayjobs.com/Suncor_External/job/Calgary-AB-CAN/Data-Science-Student---January-2027_R0017534) |
-| **Composio** | Forward Deployed Engineer Intern | SF | 20d ago | [apply](https://jobs.ashbyhq.com/composio/6b742321-a1e6-46d7-88d1-103bae44df23/application?embed=true) |
-| **Perry Homes** | Estimating Analyst - Student Work | Houston, TX | 20d ago | [apply](https://apply.workable.com/perryhomes/j/89E30FE67D/apply) |
-| **Medpace** | Feasibility Informatics Internship/Co-op | Cincinnati, OH | 91d ago | [apply](https://careers.medpace.com/jobs/12803?lang=en-us&icims=1) |
-| **Star Dental Partners** | Imaging Tech Student | Guntersville, AL | 98d ago | [apply](https://careers-hhsys.icims.com/jobs/71368/job?mobile=true&needsRedirect=false) |
-| **Ernst & Young** | Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques | Edmonton, AB, Canada | 182d ago | [apply](https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **GlobalFoundries** | Robotics and Automation Engineering Intern, (Summer 2027) | USA - Vermont - Essex Junction | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Robotics-and-Automation-Engineering-Intern---Summer-2027-_JR-2604645) |
+| **Five Rings Capital** | Software Developer Intern - Software Developer | NYC | 50d ago | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
+
+## New from Company portals (5)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Cisco** | Security Consulting Engineer I (Intern) - United States | RTP, North Carolina, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817) |
+| **Cisco** | Consulting Engineer I (Intern) - United States | RTP North Carolina US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816) |
+| **Micron Technology** | Intern - Memory & System Architecture Research | Folsom CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---Memory---System-Architecture-Research_JR110475) |
+| **Micron Technology** | Intern - AI Agentic Systems Engineer | Folsom CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474) |
+| **Motorola Solutions** | Android Platform Software Engineering Intern - Summer 2027 | Plantation, FL, More... | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363) |
 
 ## Watched company portals
 
