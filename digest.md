@@ -1,22 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-09-03 21:52 UTC · 6 new listings_
+_Updated 2026-09-03 23:58 UTC · 4 new listings_
 
-## New from SimplifyJobs (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Five Rings Capital** | Software Developer Intern - Software Developer | NYC | 50d ago | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
-
-## New from Company portals (5)
+## New from SimplifyJobs (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Cisco** | Security Consulting Engineer I (Intern) - United States | RTP, North Carolina, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817) |
-| **Cisco** | Consulting Engineer I (Intern) - United States | RTP North Carolina US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816) |
-| **Micron Technology** | Intern - Memory & System Architecture Research | Folsom CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---Memory---System-Architecture-Research_JR110475) |
-| **Micron Technology** | Intern - AI Agentic Systems Engineer | Folsom CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474) |
-| **Motorola Solutions** | Android Platform Software Engineering Intern - Summer 2027 | Plantation, FL, More... | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363) |
+| **TikTok** | Machine Learning Infrastructure Engineer Intern - Ads Infrastructure | San Jose, CA | 30d ago | [apply](https://lifeattiktok.com/search/7668881813744191749) |
+| **Uline** | International Operations Analyst Intern | Waukegan, IL / Milwaukee, WI / Glenview, IL / Pleasant Prair | 31d ago | [apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R265918) |
+| **Uline** | Sales Analyst Intern | Waukegan, IL / Milwaukee, WI / Glenview, IL / Pleasant Prair | 31d ago | [apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R265911) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Cadence Design Systems** | Software Intern | SAN JOSE | today | [apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R56258) |
 
 ## Watched company portals
 
