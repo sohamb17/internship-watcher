@@ -1,15 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-09-04 19:26 UTC · 4 new listings_
+_Updated 2026-09-04 21:45 UTC · 5 new listings_
 
-## New from Company portals (4)
+## New from Company portals (5)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Marvell** | Reliability Intern | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Reliability-Intern_2604001) |
-| **Anduril** | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
-| **Anduril** | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
-| **Anduril** | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
+| **Applied Materials** | Summer 2027 Business Operations Technical Porject Manger Intern- Bachelor's (Santa Clara, CA) | Santa Clara,CA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2027-Business-Operations-Technical-Porject-Manger-Intern--Bachelor-s--Santa-Clara--CA-_R2628088) |
+| **Marvell** | IC Validation Engineer Intern, MS - Summer 2027 | Santa Clara CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515) |
+| **Marvell** | Application Engineer Intern, MS - Summer 2027 | Santa Clara CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineer-Intern--MS---Summer-2027_2604509-1) |
+| **Schonfeld** | 2027 PhD Quantitative Research Intern | New York, New York, United States | — | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) |
+| **Schonfeld** | 2027 PhD Quantitative Research Intern | Miami, Florida, United States | — | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) |
 
 ## Watched company portals
 
