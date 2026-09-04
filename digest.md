@@ -1,17 +1,37 @@
 # Internship watcher — latest
 
-_Updated 2026-09-04 09:00 UTC · 6 new listings_
+_Updated 2026-09-04 13:25 UTC · 21 new listings_
 
-## New from SimplifyJobs (6)
+## New from SimplifyJobs (20)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **RSM** | Application Development Intern - Summer 2027 | Des Moines, IA / Chicago, IL / Minneapolis, MN / Denver, CO | today | [apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2027_JR120736) |
-| **Sanofi** | Scientific Data Support Analyst Co-op - mRNA Center of Excellence - Vaccines | Waltham, MA | today | [apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Scientific-Data-Support-Analyst---mRNA-Center-of-Excellence---Vaccines--Waltham--MA_R2853711) |
-| **Primer** | Software Engineer Intern - Full Stack | SF | today | [apply](https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true) |
-| **Marsh** | Government Health Consulting Informatics Intern - College Program | Phoenix, AZ / Minneapolis, MN | 14d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073) |
-| **AQR Capital Management** | Engineering Summer Analyst Intern | Greenwich, CT | 111d ago | [apply](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) |
-| **Vaxcyte** | AI Implementation Consultant - Legal<br>Master's/PhD | San Carlos, CA | 183d ago | [apply](https://boards.greenhouse.io/vaxcyte/jobs/5017289008) |
+| **Symphony** | Business Intelligence and Solutions | Belfast, UK | today | [apply](https://symphony.com/company/apply?gh_jid=8130042) |
+| **Corning** | Digital & IT Intern - Analyst - Data & AI Platform Engineering | Charlotte, NC | 2d ago | [apply](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Data-&-AI-Platform-Engineering-Summer-2027-NC-28216/1425716600/?ats=successfactors) |
+| **Corning** | Digital & IT Intern - Analyst - Manufacturing | Glendale, AZ | 2d ago | [apply](https://corningjobs.corning.com/job/Glendale-Digital-&-IT-Intern,-Analyst,-Phoenix-Manufacturing-Summer-2027-AZ-85301/1425543900/?ats=successfactors) |
+| **Corning** | Digital & IT Intern - Manufacturing AI/ML | Charlotte, NC | 2d ago | [apply](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Manufacturing-AIML-Summer-2027-NC-28216/1425708000/?ats=successfactors) |
+| **Corning** | Digital and Information Technology Intern - Analyst | Concord, NC | 2d ago | [apply](https://corningjobs.corning.com/job/Concord-Digital-&-IT-Intern,-Analyst,-Concord-Manufacturing-Summer-2027-NC-28026/1425549000/?ats=successfactors) |
+| **United Airlines** | Pricing & Revenue Management Intern | Chicago, IL | 2d ago | [apply](https://careers.united.com/us/en/job/WHQ00026532) |
+| **JP Morgan Chase** | Software Engineer Intern | London, UK / Glasgow, UK | 3d ago | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738) |
+| **RTX** | Work Transfer Analyst Intern - Global Work Transfer Analyst | Longueuil, QC, Canada | 8d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-de-Transfert-du-Travail---Internship-Winter-2027---Global-Work-Transfer-Analyst_01867505) |
+| **Metropolitan Transportation Authority** | EAM Analyst Intern - Emerging Talent | NYC | 8d ago | [apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oZuEAfwr?nl=1&nl=1&fr=false) |
+| **RTX** | Business Development Intern | Longueuil, QC, Canada | 9d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Stagiaire-en-dveloppement-d-affaires---Internship---Winter-2027--Business-Development-Intern_01864752) |
+| **Procter & Gamble** | IT Engineering Internship - Software, Platform, Network | Cincinnati, OH | 11d ago | [apply](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503) |
+| **The Walt Disney Company** | Industrial Engineer Intern - Workforce Management | Lake Buena Vista, FL | 11d ago | [apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144-1) |
+| **Blackstone** | Software Engineer Summer Analyst - Blackstone Technology & Innovations | Miami, FL | 14d ago | [apply](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021) |
+| **RTX** | Industrialization Intern - Industrialization Production Readiness | Longueuil, QC, Canada | 14d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Industrialisation----Internship---Winter-2027---Industrialization-Production-Readiness_01867520) |
+| **Vanguard** | Data Analyst Intern - College to Corporate IT | Charlotte, NC | 15d ago | [apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767) |
+| **Deloitte** | Data & AI Solutions Engineering Summer Scholar Intern | Atlanta, GA | 16d ago | [apply](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475) |
+| **Vanguard** | IT Intern - Application Development | Charlotte, NC | 18d ago | [apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1) |
+| **Vanguard** | IT Intern - Investment Systems | Malvern, PA | 18d ago | [apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1) |
+| **Rippling** | Machine Learning Software Engineer Intern<br>Master's/PhD | SF | 90d ago | [apply](https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781) |
+| **GE Appliances** | Software Engineering Co-op Spring 2027 | Louisville, KY | 223d ago | [apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Palantir** | Forward Deployed Software Engineer, Internship - Intel | Washington, D.C. | 64d ago | [apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) |
 
 ## Watched company portals
 
