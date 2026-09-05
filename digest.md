@@ -1,19 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-09-05 15:04 UTC · 8 new listings_
+_Updated 2026-09-05 17:16 UTC · 0 new listings_
 
-## New from SimplifyJobs (8)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Greenheck Group** | Engineering Co-op | Tulsa, OK | 4d ago | [apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Engineering-Co-op-Opportunities--OK-_JR104348) |
-| **NVIDIA** | Autonomous Vehicles and Robotics Intern | Santa Clara, CA | 17d ago | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 21d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 21d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 21d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 21d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 21d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 21d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+Nothing new this run.
 
 ## Watched company portals
 
