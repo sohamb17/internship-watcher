@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-05 19:23 UTC · 0 new listings_
+_Updated 2026-09-05 21:37 UTC · 1 new listing_
 
-Nothing new this run.
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Marvell** | Reliability Intern, BS - Summer 2027 | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Reliability-Intern_2604001) |
 
 ## Watched company portals
 
