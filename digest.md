@@ -1,13 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-09-05 12:00 UTC · 2 new listings_
+_Updated 2026-09-05 15:04 UTC · 8 new listings_
 
-## New from SimplifyJobs (2)
+## New from SimplifyJobs (8)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Wealthsimple** | Credit & Fraud Analytics Intern - Winter 2027 | Toronto, ON, Canada | 1d ago | [apply](https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application?embed=true) |
-| **Auto-Owners Insurance** | Software Developer Intern - Summer 2027 | Lansing, MI | 9d ago | [apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121) |
+| **Greenheck Group** | Engineering Co-op | Tulsa, OK | 4d ago | [apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Engineering-Co-op-Opportunities--OK-_JR104348) |
+| **NVIDIA** | Autonomous Vehicles and Robotics Intern | Santa Clara, CA | 17d ago | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 21d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 21d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 21d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 21d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 21d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 21d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
