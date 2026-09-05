@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-09-05 08:32 UTC · 1 new listing_
+_Updated 2026-09-05 12:00 UTC · 2 new listings_
 
-## New from SimplifyJobs (1)
+## New from SimplifyJobs (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Anthropic** | Anthropic Fellows Program - ML Systems & Performance | London, UK / SF / Remote in USA / Remote in Canada | 148d ago | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
+| **Wealthsimple** | Credit & Fraud Analytics Intern - Winter 2027 | Toronto, ON, Canada | 1d ago | [apply](https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application?embed=true) |
+| **Auto-Owners Insurance** | Software Developer Intern - Summer 2027 | Lansing, MI | 9d ago | [apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121) |
 
 ## Watched company portals
 
