@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-05 21:37 UTC · 1 new listing_
+_Updated 2026-09-05 23:47 UTC · 1 new listing_
 
-## New from Company portals (1)
+## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Marvell** | Reliability Intern, BS - Summer 2027 | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Reliability-Intern_2604001) |
+| **AArete** | Business Analytics Intern - Summer 2027 | Chicago, IL | 1d ago | [apply](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) |
 
 ## Watched company portals
 
