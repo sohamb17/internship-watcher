@@ -1,21 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-05 04:15 UTC · 10 new listings_
+_Updated 2026-09-05 08:32 UTC · 1 new listing_
 
-## New from SimplifyJobs (10)
+## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **ATCO** | Data Analytics Co-op - Customer Operations | Edmonton, AB, Canada | today | [apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20626) |
-| **Tesla** | Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282598) |
-| **Replit** | Cohort 0 | Foster City, CA | today | [apply](https://jobs.ashbyhq.com/replit/2c147ccb-2557-40f8-aab9-64422cef220c/application?embed=true) |
-| **Applied Materials** | Data Analyst Intern - Global Technical Learning Center | Albany, NY | 1d ago | [apply](https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551) |
-| **Booz Allen** | Data Scientist Intern - 2027 Summer Games | Honolulu, HI | 4d ago | [apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406) |
-| **Charles Schwab** | Software Engineering Intern - Technology | Austin, TX / Westlake, TX / Ann Arbor, MI / Southlake, TX /  | 7d ago | [apply](https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 20d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 20d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 20d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 20d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **Anthropic** | Anthropic Fellows Program - ML Systems & Performance | London, UK / SF / Remote in USA / Remote in Canada | 148d ago | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
 
 ## Watched company portals
 
