@@ -1,12 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-09-05 23:47 UTC · 1 new listing_
+_Updated 2026-09-06 04:24 UTC · 8 new listings_
 
-## New from SimplifyJobs (1)
+## New from SimplifyJobs (8)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **AArete** | Business Analytics Intern - Summer 2027 | Chicago, IL | 1d ago | [apply](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) |
+| **GE Aerospace** | Software Engineering Placement - Month Placement | Bristol, UK / Cheltenham, UK | today | [apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/GE-Aerospace-Software-Engineering---12-Month-Placement_R5039374-2) |
+| **GE Aerospace** | Data Science Placement - Month Placement | Eastleigh, UK | today | [apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Eastleigh/GE-Aerospace-Data-Science---12-Month-Placement--Eastleigh_R5039365-1) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 21d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 21d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 21d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 21d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 21d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 21d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
