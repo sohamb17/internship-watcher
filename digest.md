@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-06 08:50 UTC · 1 new listing_
+_Updated 2026-09-06 12:49 UTC · 1 new listing_
 
 ## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 22d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **AArete** | Business Analytics Intern - Summer 2027 | Chicago, IL | 1d ago | [apply](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) |
 
 ## Watched company portals
 
