@@ -1,19 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-09-06 15:03 UTC · 8 new listings_
+_Updated 2026-09-06 16:09 UTC · 0 new listings_
 
-## New from SimplifyJobs (8)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Marsh** | Government Health Consulting Informatics Intern - College Program | Phoenix, AZ / Minneapolis, MN | 16d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 22d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 22d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 22d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 22d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 22d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 22d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-| **Montenson** | Data Analytics Intern - Insights | Minnesota | 26d ago | [apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342) |
+Nothing new this run.
 
 ## Watched company portals
 
