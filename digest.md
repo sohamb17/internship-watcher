@@ -1,26 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-09-07 17:53 UTC · 15 new listings_
+_Updated 2026-09-07 21:27 UTC · 0 new listings_
 
-## New from SimplifyJobs (15)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **incident.io** | Product Engineer Placement - 6 Months | London, UK | today | [apply](https://jobs.ashbyhq.com/incident/470989ec-6ac5-4800-beb1-0ba1684ec1ee/application?embed=true) |
-| **incident.io** | Product Engineer Intern | London, UK | today | [apply](https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true) |
-| **Marsh & McLennan** | Data & Analytics Intern - Data & Analytics | Newcastle upon Tyne, UK | today | [apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1) |
-| **Blackstone** | Software Engineer Summer Analyst - Technology and Innovations | London, UK | today | [apply](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358) |
-| **Ernst & Young** | Data and Intelligence Delivery Intern - Assurance | Salt Lake City, UT / Indianapolis, IN / Houston, TX / Des Mo | today | [apply](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
-| **Nasdaq** | Software Development Student - January 2027 | Toronto, ON, Canada / St. John's, NL, Canada | today | [apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Software-Development-Student--January-2027-_R0026898) |
-| **Dropbox** | Software Engineer Intern - Summer 2027 | Remote in USA | today | [apply](https://boards.greenhouse.io/embed/job_app?token=8106224) |
-| **Entrust** | Software Developer Intern | Ottawa, ON, Canada | today | [apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 23d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 23d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 23d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 23d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 23d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 23d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 23d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+Nothing new this run.
 
 ## Watched company portals
 
