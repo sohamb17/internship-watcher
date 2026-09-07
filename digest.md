@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-07 21:27 UTC · 0 new listings_
+_Updated 2026-09-07 23:43 UTC · 1 new listing_
 
-Nothing new this run.
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Applied Materials** | 2027 Manufacturing Engineer Summer Internship (Bachelors Austin, TX) | Austin,TX | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242) |
 
 ## Watched company portals
 
