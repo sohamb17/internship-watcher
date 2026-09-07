@@ -1,8 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-09-06 22:51 UTC · 0 new listings_
+_Updated 2026-09-07 00:53 UTC · 2 new listings_
 
-Nothing new this run.
+## New from SimplifyJobs (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **TikTok** | Software Engineer Intern - Global E-commerce-Search | Seattle, WA | 27d ago | [apply](https://lifeattiktok.com/search/7670839727059339525) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Micron Technology** | Intern - DRAM Test Structure Design and Layout Engineering | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Test-Structure-Design-and-Layout-Engineering_JR110341) |
 
 ## Watched company portals
 
