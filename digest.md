@@ -1,18 +1,39 @@
 # Internship watcher — latest
 
-_Updated 2026-09-07 00:53 UTC · 2 new listings_
+_Updated 2026-09-07 05:57 UTC · 23 new listings_
 
-## New from SimplifyJobs (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **TikTok** | Software Engineer Intern - Global E-commerce-Search | Seattle, WA | 27d ago | [apply](https://lifeattiktok.com/search/7670839727059339525) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (13)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Micron Technology** | Intern - DRAM Test Structure Design and Layout Engineering | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Test-Structure-Design-and-Layout-Engineering_JR110341) |
+| **Airbus** | Landing Gear Engineering AI & Data Analytics Placement | Bristol, UK | today | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Landing-Gear-Engineering---AI---Data-Analytics-Placement--125-months-_JR10430647) |
+| **Airbus** | Airframe Data Scientist Placement | Filton, Bristol, UK | today | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Airframe-Data-Scientist-Placement--125-months-_JR10427455) |
+| **Airbus** | Full-Stack Software Developer Intern | Portsmouth, UK | today | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Software-Developer--Full-Stack--Placement--13-months-_JR10426667) |
+| **Airbus** | Software Engineering Intern | Filton, Bristol, UK | today | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Software-Engineering-Placement--125-months-_JR10429196) |
+| **Airbus** | Digital Wing Engineering Placement - Months | Bristol, UK | today | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Digital-Wing-Engineering-Placement--125-months-_JR10423984) |
+| **Airbus** | Software Developer Placement | Stevenage, UK | today | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/Software-Developer-Placement--13-months-_JR10425651) |
+| **Airbus** | Flight Physics Data Science Engineer | Filton, Bristol, UK | today | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Flight-Physics-Data-Science-Engineer-Placement--125-months-_JR10430147) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 23d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 23d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 23d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 23d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 23d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 23d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+
+## New from Company portals (10)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **NXP Semiconductors** | Equipment Engineer Intern - Summer 2027 | Austin (Ed Bluestein, Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Equipment-Engineer-Intern---Summer-2026_R-10064578) |
+| **NXP Semiconductors** | Microcontrollers System Engineering Intern - Summer 2027 | Austin (Oakhill, Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Microcontrollers-System-Engineering-Intern---Summer-2027_R-10066400-1) |
+| **NXP Semiconductors** | Data Analytics Engineer Intern - Summer 2027 | Austin (Oakhill, Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538) |
+| **NXP Semiconductors** | Etch Equipment Engineer Intern - Summer 2027 | Austin (Ed Bluestein, Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Etch-Equipment-Engineer-Intern---Summer-2026_R-10064579) |
+| **NXP Semiconductors** | FAB Device Engineer Intern - Summer 2027 | Austin (Ed Bluestein, Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/FAB-Device-Engineer-Intern---Summer-2027_R-10064583) |
+| **NXP Semiconductors** | CMP-Implant Engineer Intern - Summer 2027 | Austin (Ed Bluestein, Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/CMP-Implant-Engineer-Intern---Summer-2027_R-10064576) |
+| **NXP Semiconductors** | Device/Yield Engineer Intern - Summer 2027 | Austin (Ed Bluestein, Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Device-Yield-Engineer-Intern---Summer-2027_R-10064582) |
+| **NXP Semiconductors** | DCP Equipment Engineering Intern - Summer 2027 | Austin (Ed Bluestein, Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/DCP-Equipment-Engineering-Intern---Summer-2027_R-10064577) |
+| **NXP Semiconductors** | Photo/Metro Equipment Engineering Intern - Summer 2027 | Austin (Ed Bluestein, Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Photo-Metro-Equipment-Engineering-Intern---Summer-2027_R-10064580) |
+| **NXP Semiconductors** | Data Science / Structured Problem Solving Intern - Summer 2027 | Austin (Ed Bluestein, Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037) |
 
 ## Watched company portals
 
