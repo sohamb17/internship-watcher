@@ -1,63 +1,26 @@
 # Internship watcher — latest
 
-_Updated 2026-09-07 12:19 UTC · 47 new listings_
+_Updated 2026-09-07 17:53 UTC · 15 new listings_
 
-## New from SimplifyJobs (44)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Xcel Energy** | Renewable Operations Center Intern | Golden, CO | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Golden-CO-80401/Renewable-Operation-Center-Intern--CO_JR115736-1) |
-| **Xcel Energy** | Asset Strategy & Budget Integration Intern | Henderson, CO | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Henderson-CO-80640/Asset-Strategy---Budget-Integration-Intern--CO_JR115564-1) |
-| **Xcel Energy** | Gas Data Intern | Denver, CO | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Gas-Data-Intern--CO_JR116314-1) |
-| **Xcel Energy** | Grid Data Intern | Minneapolis, MN | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1) |
-| **OMERS** | AI/ML Engineer Student - Winter 2027 - 8 Months | Toronto, ON, Canada | today | [apply](https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/Student--AI-ML-Engineer--Winter-2027--8-Months-_JR-8403) |
-| **Xcel Energy** | Resource Planning Intern | Denver, CO | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Resource-Planning-Intern--CO_JR115820-1) |
-| **Xcel Energy** | Renewable and Demand Response Intern | Denver, CO | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Renewable-and-Demand-Response-Intern--CO_JR115433-1) |
-| **Xcel Energy** | Power Generation Analytics Intern | Henderson, CO | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Henderson-CO-80640/Power-Generation-Analytics-Intern--CO_JR115734-2) |
-| **Xcel Energy** | GIS Intern | Minneapolis, MN | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/GIS-Intern---MN_JR115658) |
-| **Xcel Energy** | Wildfire Analyst Intern | Denver, CO | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Wildfire-Analyst-Intern--CO_JR115413-1) |
-| **Xcel Energy** | Data Science Intern | Minneapolis, MN / Denver, CO | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Science-Intern-CO--MN_JR116327-1) |
-| **Xcel Energy** | AI & Automation Intern - Regulatory | Denver, CO | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1) |
-| **Xcel Energy** | Data Scientist Intern | Minneapolis, MN / Denver, CO | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Data-Scientist-Intern---MN--CO_JR115668-1) |
-| **Xcel Energy** | AI Solutions Development Intern | Minneapolis, MN / Denver, CO | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1) |
-| **Xcel Energy** | Energy Supply Renewable Intern - MN | Minneapolis, MN | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Energy-Supply-Renewable-Intern---MN_JR115609-1) |
-| **Xcel Energy** | Reporting and Compliance Analyst Intern | Minneapolis, MN | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Reporting-and-Compliance-Analyst-Intern---MN_JR115608-1) |
-| **Xcel Energy** | Data Analyst Intern | Denver, CO | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833) |
-| **ICF International** | Software Developer Intern | Reston, VA | today | [apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002) |
-| **Airbus** | Artificial Intelligence Intern | Filton, Bristol, UK | today | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Artificial-Intelligence-Placement--125-months-_JR10424830) |
-| **Tokyo Electron** | Data Platforms Engineer Intern | Austin, TX | today | [apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Data-Platforms-Engineer-Summer-2027-Intern_R26-01498) |
-| **Tokyo Electron** | Business Intelligence Analyst Intern | Austin, TX | today | [apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Business-Intelligence-Analyst-Summer-2027-Intern_R26-01504) |
-| **Tokyo Electron** | Automation Developer/Analyst Intern | Austin, TX | today | [apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Automation-Developer-Analyst-Intern_R26-01497) |
-| **Royal Bank of Canada** | Developer | Toronto, ON, Canada | today | [apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2026--Toronto_R-0000140792-2) |
-| **Royal Bank of Canada** | Data Engineer - RBC Amplify | Halifax Regional Municipality, NS, Canada | today | [apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000187117) |
-| **Royal Bank of Canada** | Developer - Amplify | Halifax Regional Municipality, NS, Canada | today | [apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000187119) |
-| **Royal Bank of Canada** | Data Engineer - RBC Amplify 2027 | Toronto, ON, Canada | today | [apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000187113) |
-| **Royal Bank of Canada** | Developer - Amplify | Toronto, ON, Canada | today | [apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2026--Toronto_R-0000140792) |
-| **Royal Bank of Canada** | Data Engineer - RBC Amplify | Halifax Regional Municipality, NS, Canada | today | [apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000187117-1) |
-| **Royal Bank of Canada** | Developer | Halifax Regional Municipality, NS, Canada | today | [apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000187119-1) |
-| **Royal Bank of Canada** | Data Engineer - RBC Amplify | Toronto, ON, Canada | today | [apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000187113-1) |
-| **Bank of Montreal** | Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months | Toronto, ON, Canada | today | [apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Climate-Risk-Reporting-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024768-1) |
-| **Bank of Montreal** | Data Science Risk Analyst Co-op Intern | Toronto, ON, Canada | today | [apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-1) |
-| **Bank of Montreal** | Data Science Analyst Co-op Intern - Audit AI & Analytics | Toronto, ON, Canada | today | [apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761-1) |
-| **Bank of Montreal** | Business Analyst Co-op Intern - Data and Change Management | Toronto, ON, Canada | today | [apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737-2) |
-| **Bank of Montreal** | Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months | Toronto, ON, Canada | today | [apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Climate-Risk-Reporting-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024768-2) |
-| **Bank of Montreal** | Data Science Analyst Co-op Intern - Audit AI & Analytics | Toronto, ON, Canada | today | [apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761-2) |
-| **Bank of Montreal** | Data Science Risk Analyst Co-op Intern | Toronto, ON, Canada | today | [apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-2) |
-| **Bank of Montreal** | Business Analyst Co-op Intern - Data and Change Management | Toronto, ON, Canada | today | [apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737-1) |
-| **NXP Semiconductors** | Data Science / Structured Problem Solving Intern - Summer 2027 | Austin, TX | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037) |
-| **NXP Semiconductors** | Embedded Machine Learning & Radar Processing Intern - Summer 2027<br>Master's/PhD | San Jose, CA | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534) |
-| **NXP Semiconductors** | Data Analytics Engineer Intern - Summer 2027 | Austin, TX | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538) |
-| **Marsh** | Data & Analytics Industrial Placement | Newcastle upon Tyne, UK | today | [apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970-1) |
-| **Xcel Energy** | Gas & Electric Design Analytics and Process Improvement Intern - MN | Minneapolis, MN | 5d ago | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Gas---Electric-Design-Analytics-and-Process-Improvement-Intern---MN_JR115641) |
-| **Xcel Energy** | Geospatial Data Validation Intern | Minneapolis, MN / Denver, CO | 5d ago | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Geospatial-Tech---Data---Vendor-Mgmt-Intern---MN--CO_JR115634-2) |
-
-## New from Company portals (3)
+## New from SimplifyJobs (15)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **NXP Semiconductors** | Systems Engineer Intern - Summer 2027 | Irvine | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Irvine/Systems-Engineer-Intern---Summer-2027_R-10064723) |
-| **NXP Semiconductors** | Device Engineering Intern - Summer 2027 | Chandler (Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586) |
-| **NXP Semiconductors** | AI/ML ASIC Design and Implementation Automation Intern - Summer 2027 | San Diego (Treena St) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2027_R-10065562) |
+| **incident.io** | Product Engineer Placement - 6 Months | London, UK | today | [apply](https://jobs.ashbyhq.com/incident/470989ec-6ac5-4800-beb1-0ba1684ec1ee/application?embed=true) |
+| **incident.io** | Product Engineer Intern | London, UK | today | [apply](https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true) |
+| **Marsh & McLennan** | Data & Analytics Intern - Data & Analytics | Newcastle upon Tyne, UK | today | [apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1) |
+| **Blackstone** | Software Engineer Summer Analyst - Technology and Innovations | London, UK | today | [apply](https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358) |
+| **Ernst & Young** | Data and Intelligence Delivery Intern - Assurance | Salt Lake City, UT / Indianapolis, IN / Houston, TX / Des Mo | today | [apply](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
+| **Nasdaq** | Software Development Student - January 2027 | Toronto, ON, Canada / St. John's, NL, Canada | today | [apply](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Software-Development-Student--January-2027-_R0026898) |
+| **Dropbox** | Software Engineer Intern - Summer 2027 | Remote in USA | today | [apply](https://boards.greenhouse.io/embed/job_app?token=8106224) |
+| **Entrust** | Software Developer Intern | Ottawa, ON, Canada | today | [apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 23d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 23d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 23d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 23d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 23d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 23d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 23d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
