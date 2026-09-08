@@ -1,14 +1,26 @@
 # Internship watcher — latest
 
-_Updated 2026-09-08 20:11 UTC · 3 new listings_
+_Updated 2026-09-08 22:56 UTC · 15 new listings_
 
-## New from Company portals (3)
+## New from Company portals (15)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Amazon** | Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA ) | Bellevue, Washington, USA | today | [apply](https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa) |
-| **Amazon** | Operations Engineering Field Execution Internship - Summer 2027 (CA, CT, GA, TX) | Cleburne, Texas, USA | today | [apply](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-internship-summer-2027-ca-ct-ga-tx) |
-| **Amazon** | System Dev Engineer I Co-op (Robotics), Autonomous AI Security | Austin, Texas, USA | today | [apply](https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security) |
+| **Cisco** | Software Consulting Engineer I (Intern) United States | USA-RESEARCH TRIANGLE PARK | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180) |
+| **Coinbase** | Analytics Engineer Intern | Hybrid - San Francisco, CA | — | [apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
+| **Coinbase** | Data Engineer Intern | Hybrid - San Francisco, CA | — | [apply](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
+| **Coinbase** | Data Science Intern | Hybrid - San Francisco, CA | — | [apply](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
+| **Coinbase** | Learning & Development Intern | Hybrid - New York, NY | — | [apply](https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514) |
+| **Coinbase** | Machine Learning Engineer Intern | Hybrid - San Francisco, CA | — | [apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
+| **Coinbase** | Software Engineer Intern | Hybrid - San Francisco, CA | — | [apply](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
+| **Coinbase** | User Research Intern | Hybrid - San Francisco, CA | — | [apply](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) |
+| **Databricks** | PhD GenAI Research Scientist Intern | San Francisco, California | — | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
+| **Databricks** | Software Engineering Intern (2027 Start) - Winter | Bellevue, Washington; Mountain View, California; San Francis | — | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) |
+| **Five Rings Capital** | Summer Intern 2027 - Quantitative Researcher (PhD) | New York | — | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
+| **Five Rings Capital** | Summer Intern 2027 - Quantitative Trader | New York | — | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) |
+| **Optiver** | Institutional Trader Intern (2027 Start - Chicago) | Chicago, Illinois, United States | — | [apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002) |
+| **Schonfeld** | 2027 PhD Quantitative Research Intern | New York, New York, United States | — | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) |
+| **Schonfeld** | 2027 PhD Quantitative Research Intern | Miami, Florida, United States | — | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) |
 
 ## Watched company portals
 
