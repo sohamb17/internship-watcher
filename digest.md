@@ -1,25 +1,40 @@
 # Internship watcher — latest
 
-_Updated 2026-09-08 13:30 UTC · 9 new listings_
+_Updated 2026-09-08 17:25 UTC · 24 new listings_
 
-## New from SimplifyJobs (6)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **RTX** | Software Engineer Intern | Richardson, TX | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872097) |
-| **RTX** | Software Engineer Intern - Summer 2027 | Richardson, TX | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872100) |
-| **Nationwide** | Personal Lines Sales Business Analyst Intern | Columbus, OH | 4d ago | [apply](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Sales-Business-Analyst-Intern_100038) |
-| **Ontario Teachers' Pension Plan** | Finance Intern - Risk Analytics | Toronto, ON, Canada | 18d ago | [apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Finance--Risk-Analytics--January-2027--8-months-_7145) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 24d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 24d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-
-## New from Company portals (3)
+## New from SimplifyJobs (19)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Capital One** | Current PhD, Applied Research Internship Program - Summer 2027 | New York NY | today | [apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2027_R244323-1) |
-| **Capital One** | Current PhD, AI Engineering Internship Program - Summer 2027 | New York NY | today | [apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1) |
-| **Capital One** | Current Master's, AI Engineering Internship Program - Summer 2027 | New York NY | today | [apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1) |
+| **BJC HealthCare** | RPA Automation Intern | St. Louis, MO | today | [apply](https://jobs.bjc.org/jobs/116509?icims=1) |
+| **United Launch Alliance** | Software Engineer Intern | Centennial, CO | today | [apply](https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/?ats=successfactors) |
+| **RRS Group** | Data Engineering Intern<br>Master's | SF | today | [apply](https://jobs.smartrecruiters.com/RRSGroup/744000148188340) |
+| **Motorola** | Software Engineer Intern | Chicago, IL | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388) |
+| **Dick's Sporting Goods** | Data Analytics & Engineering Intern | Pittsburgh, PA | today | [apply](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Data-Analytics---Engineering---Summer-2027-Internship_202608778-1) |
+| **Capital One** | AI Engineer Intern<br>Master's | San Jose, CA / McLean, VA / NYC | today | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1) |
+| **Intact** | Software Developer 1 Co-op Intern | Toronto, ON, Canada | today | [apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Software-Developer-I---4-Month-Co-op-Internship--Winter-2027-_R155112) |
+| **Intact** | Software Developer 1 Co-op - Multiple Teams | Montreal, QC, Canada | today | [apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Dveloppeur-logiciel-I---4-mois-Coop-Stagiaire--Hiver-2027-_R155561) |
+| **Philips** | Service Contracts Lifecycle Operations Intern | Nashville, TN | today | [apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--Service-Contracts-Lifecycle-Operations--Nashville--TN-Summer-2027_591619) |
+| **Peraton** | Software Engineer Intern | Blacksburg, VA / Herndon, VA | today | [apply](https://careers-peraton.icims.com/jobs/169665/job?mobile=true&needsRedirect=false) |
+| **Bank of Montreal** | Junior Software Developer Co-op Intern - Winter 2027 - 4 months | Toronto, ON, Canada | today | [apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027---Co-op-Internship---4-months_R260026100) |
+| **C.H. Robinson** | Software Engineer Intern | Eden Prairie, MN | today | [apply](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323) |
+| **Dimensional Fund Advisors** | Software Engineer Intern | Austin, TX | today | [apply](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022) |
+| **RTX** | Manufacturing & Quality Analyst Intern | Longueuil, QC, Canada | 21d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-de-Fabrication-Qualite---Internship-Winter-2027-Winter---Manufacturing---Quality-Analyst_01864107) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 24d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 24d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 24d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 24d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 24d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+
+## New from Company portals (5)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Adobe** | 2027 Intern - Solutions Consulting Analyst | New York | today | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/XMLNAME-2027-Intern---Solutions-Consulting-Analyst_R171696) |
+| **Anduril** | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
+| **Anduril** | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
+| **Anduril** | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
+| **Datadog** | Software Engineering Intern (Summer) | Boston, Massachusetts, USA; New York, New York, USA | — | [apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
 
 ## Watched company portals
 
