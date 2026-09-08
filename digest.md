@@ -1,19 +1,55 @@
 # Internship watcher — latest
 
-_Updated 2026-09-08 04:23 UTC · 8 new listings_
+_Updated 2026-09-08 09:01 UTC · 39 new listings_
 
-## New from SimplifyJobs (8)
+## New from SimplifyJobs (35)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Marsh** | Summer Analyst - Data and Analytics | Raleigh, NC | 12d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696) |
-| **Marsh** | Summer Analyst Intern - Data and Analytics | Toronto, ON, Canada | 12d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 23d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 23d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 23d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 23d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 23d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 23d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **Loblaw Companies** | Analyst Co-op Student - Product Information Management | Toronto, ON, Canada | today | [apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Analyst--Product-Information-Management---Co-op-Student_R2000697260-1) |
+| **Loblaw Companies** | Replenishment Optimization Data & Analytics Co-op | Brampton, ON, Canada | today | [apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Replenishment-Optimization-Data---Analytics---Co-op-Student_R2000697074) |
+| **Loblaw Companies** | Applied Machine Learning Co-op | Brampton, ON, Canada | today | [apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038) |
+| **Loblaw Companies** | Software Development Co-op | Toronto, ON, Canada | today | [apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Software-Development---Co-op-Student_R2000699845) |
+| **Loblaw Companies** | Revenue Management Co-op Student | Toronto, ON, Canada | today | [apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Revenue-Management---Co-op-Student_R2000695589) |
+| **Loblaw Companies** | Technical Analyst Co-op | Mississauga, ON, Canada | today | [apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1685-Tech-Ave-Mississauga-ON/Business-Analyst-Co-op-Student_R2000697512-2) |
+| **Loblaw Companies** | Insights Analyst Co-op | Brampton, ON, Canada | today | [apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Insights-Analyst---Co-op-Student_R2000695181) |
+| **Cox** | Data Scientist Intern | Atlanta, GA | today | [apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164) |
+| **Loblaw Companies** | Technology Transformation Co-op - Technology Transformation | Brampton, ON, Canada | today | [apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Loblaw-Brands--Technology-Transformation---Co-op-Student_R2000695051) |
+| **Loblaw Companies** | Replenishment Optimization Data & Analytics Co-op | Brampton, ON, Canada | today | [apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Replenishment-Optimization-Data---Analytics---Co-op-Student_R2000697099) |
+| **Loblaw Companies** | Supply Chain Business Intelligence Co-op | Brampton, ON, Canada | today | [apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Supply-Chain-Business-Intelligence---Co-op-Student_R2000697069) |
+| **Merck** | Digital Strategy & Insights Intern - Global Supplier Management Group | Rahway, NJ | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Supplier-Management-Group-Digital-Strategy---Insights--DS-I----Intern_R416016) |
+| **TD Bank** | Applied Machine Learning Scientist Co-op - Winter 2027<br>Master's | Toronto, ON, Canada | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist-Co-op--WINTER-2027-_R_1506697-1) |
+| **Thermo Fisher Scientific** | Senior Operations Data Analytics Intern | United States | today | [apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ho-Chi-Minh-City-Vietnam/Sr-Operations-Data-Analytics-Intern_R-01366619) |
+| **Merck** | Portfolio Resource Forecasting Intern | North Wales, PA / Rahway, NJ | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Portfolio-Resource-Forecasting---Intern_R414068) |
+| **TD Bank** | Business Intelligence Co-op Intern - Winter 2027 | Toronto, ON, Canada | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Business-Intelligence-Co-op-Intern--WINTER-2027-_R_1506122) |
+| **TD Bank** | Business Insights & Analytics Co-op Intern | Toronto, ON, Canada | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Centre---TD-Tower---66-Wellington-Street-West-Toronto-Ontario/Business-Insights---Analytics-Co-op-Intern-Winter-2027_R_1506527) |
+| **TD Bank** | Data Science Intern/Co-op | Toronto, ON, Canada | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Enterprise-Real-Estate-Intern-Co-op_R_1504711) |
+| **Merck** | Information Science Intern - Future Talent Program | Rahway, NJ | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Information-Science---Intern_R413651) |
+| **TD Bank** | Portfolio Analytics Developer Intern/Co-op - Winter 2027 | Toronto, ON, Canada | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223) |
+| **TD Bank** | Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027 | Toronto, ON, Canada | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711) |
+| **TD Bank** | Summer Analyst - Software Engineering Rotational Program | Toronto, ON, Canada | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435) |
+| **Merck** | Medical Data Scientist Intern | North Wales, PA | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403) |
+| **Merck** | Co-op | Rahway, NJ | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296) |
+| **Merck** | Global Data Management and Standards Intern | Rahway, NJ | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Data-Management-and-Standards--GDMS----Intern_R412060) |
+| **Dick's Sporting Goods** | Retail Analytics Intern - Corporate Internship | Pittsburgh, PA | today | [apply](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Retail-Analytics---Summer-2027-Corporate-Internship_202608785-1) |
+| **Merck** | Data Scientist Intern - Nonclinical Drug Safety | Boston, MA | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861) |
+| **Merck** | Computational Toxicology Intern - AI/ML Computational Toxicology | West Point, PA | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871) |
+| **Dick's Sporting Goods** | Software Engineer Intern - Corporate Internship | Pittsburgh, PA | today | [apply](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1) |
+| **Merck** | Business Intelligence Intern - Research Lab | North Wales, PA / Rahway, NJ | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Business-Intelligence---Intern_R412411) |
+| **Merck** | Intern | West Point, PA | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939) |
+| **Merck** | Optical Imaging Data Science Intern | Boston, MA | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885) |
+| **Zions Bank** | Process Automation Developer Intern | United States | today | [apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071580) |
+| **TD Bank** | Direct Investing Analytics & Insights Intern Co-op - Winter 2027 | Toronto, ON, Canada | 7d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Analytics---Insights-Intern---Co-Op--Fall-2026-_R_1507372) |
+| **TD Bank** | One TD Intern Co-op - Winter 2027 | Toronto, ON, Canada | 7d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/ONE-TD-Intern---Co-Op--Winter-2027-_R_1507629) |
+
+## New from Company portals (4)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Micron Technology** | Intern - DRAM Customer Enablement Engineering | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521) |
+| **Micron Technology** | Intern - DRAM Customer Enablement Engineering | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR107740) |
+| **Micron Technology** | Intern - Photomask Sustaining Engineering | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Photomask-Sustaining-Engineering_JR108456) |
+| **Micron Technology** | Intern - Software Engineer | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550) |
 
 ## Watched company portals
 
