@@ -1,12 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-09-07 23:43 UTC · 1 new listing_
+_Updated 2026-09-08 04:23 UTC · 8 new listings_
 
-## New from Company portals (1)
+## New from SimplifyJobs (8)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Applied Materials** | 2027 Manufacturing Engineer Summer Internship (Bachelors Austin, TX) | Austin,TX | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242) |
+| **Marsh** | Summer Analyst - Data and Analytics | Raleigh, NC | 12d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696) |
+| **Marsh** | Summer Analyst Intern - Data and Analytics | Toronto, ON, Canada | 12d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 23d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 23d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 23d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 23d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 23d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 23d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
