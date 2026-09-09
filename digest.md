@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-09-09 19:26 UTC · 1 new listing_
+_Updated 2026-09-09 21:55 UTC · 2 new listings_
 
-## New from Company portals (1)
+## New from Company portals (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Motorola Solutions** | FPGA Design Engineering Intern - Summer 2027 | Schaumburg, IL | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401) |
+| **Amazon** | Supply Chain Manager Intern/Co-op, ROBOTICS - 2027 | North Reading, Massachusetts, USA | today | [apply](https://www.amazon.jobs/en/jobs/10535281/supply-chain-manager-intern-co-op-robotics-2027) |
+| **Amazon** | Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027 | North Reading, Massachusetts, USA | today | [apply](https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) |
 
 ## Watched company portals
 
