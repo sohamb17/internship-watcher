@@ -1,38 +1,26 @@
 # Internship watcher — latest
 
-_Updated 2026-09-09 06:36 UTC · 22 new listings_
+_Updated 2026-09-09 11:49 UTC · 10 new listings_
 
-## New from SimplifyJobs (21)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Interstates** | Data Analyst Intern | Sioux Center, IA / Sioux Falls, SD | today | [apply](https://www.interstates.com/careers/jobs?gh_jid=4398703009&gh_jid=4398703009) |
-| **Coinbase** | Software Engineer Intern | SF | today | [apply](https://boards.greenhouse.io/embed/job_app?token=8168315) |
-| **Coinbase** | People Analytics Intern | NYC | today | [apply](https://boards.greenhouse.io/embed/job_app?token=8175517) |
-| **Coinbase** | Data Science Intern - Strategy, Execution, & Analytics - Platform | SF | today | [apply](https://boards.greenhouse.io/embed/job_app?token=8175462) |
-| **Coinbase** | Data Engineer Intern | SF | today | [apply](https://boards.greenhouse.io/embed/job_app?token=8175459) |
-| **Coinbase** | Analytics Engineer Intern | SF | today | [apply](https://boards.greenhouse.io/embed/job_app?token=8175471) |
-| **SECURE** | Specialty Chemicals Engineering & Technical Analyst - Student | Calgary, AB, Canada | today | [apply](https://careers-canada-secure.icims.com/jobs/1926/job?mobile=true&needsRedirect=false) |
-| **SECURE** | Software Developer Intern | Calgary, AB, Canada | today | [apply](https://careers-canada-secure.icims.com/jobs/1934/job?mobile=true&needsRedirect=false) |
-| **SECURE** | Measurement Intern - Measurement & Quality | Calgary, AB, Canada | today | [apply](https://careers-canada-secure.icims.com/jobs/1954/job?mobile=true&needsRedirect=false) |
-| **Gallup** | Data Science Intern - Summer 2027 | SF | today | [apply](https://job-boards.greenhouse.io/gallup/jobs/4395491009) |
-| **Gallup** | Fintech Intern - Summer 2027 | Omaha, NE | today | [apply](https://job-boards.greenhouse.io/gallup/jobs/4393289009) |
-| **Gallup** | Artificial Intelligence/Machine Learning Research Intern | SF | today | [apply](https://job-boards.greenhouse.io/gallup/jobs/4395921009) |
-| **Gallup** | Software Engineer Intern - Summer 2027 | SF | today | [apply](https://job-boards.greenhouse.io/gallup/jobs/4395897009) |
-| **Gallup** | Data Engineering Intern | Omaha, NE | today | [apply](https://job-boards.greenhouse.io/gallup/jobs/4395454009) |
-| **Allen Control Systems** | Systems Engineering Intern | Austin, TX | today | [apply](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application?embed=true) |
-| **Tesla** | Software Engineer Intern - Service Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282233) |
-| **Wells Fargo** | Quantitative Analytics Intern - Applied Computational Intelligence<br>Master's | Charlotte, NC | today | [apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-Masters----Early-Careers_R-574030) |
-| **General Motors** | Global Customer Research Intern<br>Master's/MBA | Washington, DC / Warren, MI | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Global-Customer-Research-Intern--Master-MBA-Degree-_JR-202619679) |
-| **Bird Construction** | Business Intelligence Student | Winnipeg, MB, Canada / Calgary, AB, Canada / Edmonton, AB, C | 1d ago | [apply](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521) |
-| **Intact** | Data Analyst Intern Co-op - Winter 2027 | Montreal, QC, Canada | 1d ago | [apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Analyst-I---4-Month-Internship-Coop--Winter-2027--_R155138) |
-| **AArete** | Business Analytics Intern - Summer 2027 | Chicago, IL | 4d ago | [apply](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (7)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Amazon** | Operations Engineering Field Execution Internship - Spring and Summer 2027 (CA, CT, GA, TX) | Cleburne, Texas, USA | 1d ago | [apply](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-internship-spring-and-summer-2027-ca-ct-ga-tx) |
+| **K2 Space** | Simulation Software Engineering Intern | LA | today | [apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008) |
+| **Hearst** | AI Newsroom Developer Fellow - Hearst Journalism Fellowship Program | SF | 4d ago | [apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027417) |
+| **RTX** | Digital Transformation of Aeronautic Manufacturing Intern | Longueuil, QC, Canada | 5d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---hiver-2027---Transformation-numerique-de-la-fabrication-aeronautique---Internship---Winter-2027---Digital-Transformation-of-Aeronautic-Manufacturing_01865735) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 25d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 25d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 25d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 25d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+
+## New from Company portals (3)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Applied Materials** | 2027 Spring Product Quality Engineer Co-op  - Bachelor's (Gloucester, MA) | Gloucester,MA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Spring-Product-Quality-Engineer-Co-op----Bachelor-s--Gloucester--MA-_R2628291) |
+| **Applied Materials** | 2027 Spring Electrical Engineer Co-op BS or MS (Gloucester, MA) | Gloucester,MA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-BS-or-MS--Gloucester--MA-_R2628288-1) |
+| **Applied Materials** | 2027 Spring Mechanical Engineer Co-op (Gloucester. MA) | Gloucester,MA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Spring-Mechanical-Engineer-Co-op--Gloucester-MA-_R2628290) |
 
 ## Watched company portals
 
