@@ -1,14 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-09-10 09:07 UTC · 3 new listings_
+_Updated 2026-09-10 13:32 UTC · 9 new listings_
 
-## New from SimplifyJobs (3)
+## New from SimplifyJobs (9)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Constellation Energy** | Business Performance & Analytics Intern | Houston, TX | today | [apply](https://jobs.constellationenergy.com/jobs/138770?icims=1) |
-| **Barr** | GIS Specialist Intern | Salt Lake City, UT | today | [apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1) |
-| **RTX** | Software Engineering Intern | Huntsville, AL | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655) |
+| **Domino Data Lab** | Forward Deployed Engineer Intern - Campus Recruiting 2027 | NYC | today | [apply](https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534) |
+| **TD Bank** | Data Engineer Intern/Co-op - Winter 2027 | Toronto, ON, Canada | 2d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826) |
+| **Airbus** | Digital Wing Engineering Placement - Months | Bristol, UK | 3d ago | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Digital-Wing-Engineering-Placement--125-months-_JR10423984) |
+| **Hermeus** | Software Engineer Intern - Modeling & Simulation - Multiple Teams | LA | 8d ago | [apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply) |
+| **Ontario Teachers' Pension Plan** | Business Insights and Analytics Intern - Member Services | Toronto, ON, Canada | 20d ago | [apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 26d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 26d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Composio** | Fullstack Engineer Intern - Product Team | SF | 27d ago | [apply](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true) |
+| **Pylon** | Software Engineer Intern | SF | 62d ago | [apply](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) |
 
 ## Watched company portals
 
