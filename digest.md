@@ -1,13 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-09-10 20:00 UTC · 2 new listings_
+_Updated 2026-09-10 22:28 UTC · 2 new listings_
 
 ## New from Company portals (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Intel** | AI Software Engineering PhD Intern | US Arizona Phoenix | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) |
-| **IMC Trading** | Quant Performance Engineer Intern - Summer 2027 | Chicago, United States | — | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) |
+| **Adobe** | 2027 Intern - Digital Strategy Analyst | New York | today | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/XMLNAME-2027-Intern---Digital-Strategy-Analyst_R171828) |
+| **Amazon** | Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027 | North Reading, Massachusetts, USA | today | [apply](https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027) |
 
 ## Watched company portals
 
