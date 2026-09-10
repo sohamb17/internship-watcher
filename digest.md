@@ -1,20 +1,35 @@
 # Internship watcher — latest
 
-_Updated 2026-09-10 13:32 UTC · 9 new listings_
+_Updated 2026-09-10 17:08 UTC · 19 new listings_
 
-## New from SimplifyJobs (9)
+## New from SimplifyJobs (14)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Domino Data Lab** | Forward Deployed Engineer Intern - Campus Recruiting 2027 | NYC | today | [apply](https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534) |
-| **TD Bank** | Data Engineer Intern/Co-op - Winter 2027 | Toronto, ON, Canada | 2d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826) |
-| **Airbus** | Digital Wing Engineering Placement - Months | Bristol, UK | 3d ago | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Digital-Wing-Engineering-Placement--125-months-_JR10423984) |
-| **Hermeus** | Software Engineer Intern - Modeling & Simulation - Multiple Teams | LA | 8d ago | [apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply) |
-| **Ontario Teachers' Pension Plan** | Business Insights and Analytics Intern - Member Services | Toronto, ON, Canada | 20d ago | [apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Member-Services--Business-Insights-and-Analytics--January-2027---8-months-_7179) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 26d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 26d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Composio** | Fullstack Engineer Intern - Product Team | SF | 27d ago | [apply](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true) |
-| **Pylon** | Software Engineer Intern | SF | 62d ago | [apply](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) |
+| **Entegris** | Lab Automation & AI Engineering Co-op | Billerica, MA | today | [apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1) |
+| **CACI** | Configuration Control/Data Management Co-op - Engineering Department | Danbury, CT | today | [apply](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440) |
+| **CACI** | Software Engineer Intern | Denver, CO | today | [apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1) |
+| **Intel** | Compiler Engineer Intern - SYCL Runtime | Toronto, ON, Canada | today | [apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849) |
+| **Mackenzie Investments** | Winter Intern - Investment Management - Multi-Asset | Winnipeg, MB, Canada / Toronto, ON, Canada | today | [apply](https://careersen-mackenzieinvestments.icims.com/jobs/6008/job?mobile=true&needsRedirect=false) |
+| **Barclays** | Technology Analyst Apprentice - AI and Data Science | Glasgow, UK | today | [apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-AI-and-Data-Science-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129128) |
+| **Planview** | Software Engineer Intern | Austin, TX | today | [apply](https://careers.planview.com/jobs/5128?icims=1) |
+| **BDC Venture Capital** | Student Analyst - Business Performance and Analytics | Montreal, QC, Canada | today | [apply](https://bdc.wd10.myworkdayjobs.com/BDC_Careers/job/Montreal/STUDENT-ANALYST---BUSINESS-PERFORMANCE-AND-ANALYTICS_R-8214) |
+| **MKS Instruments** | Business Intelligence/Data Analytics Intern | Andover, MA | 15d ago | [apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 26d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 26d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 26d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 26d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 26d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+
+## New from Company portals (5)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Intel** | Module Engineering PhD Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1) |
+| **Intel** | Module Engineering PhD Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287026) |
+| **Intel** | Module Engineering PhD Intern - Wet Etch | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047) |
+| **Micron Technology** | Intern - AI Agentic Systems Engineer | Folsom CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474) |
+| **Schonfeld** | 2027 Platform Engineering Intern | New York, New York, United States | — | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
 
 ## Watched company portals
 
