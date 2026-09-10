@@ -1,35 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-09-10 17:08 UTC · 19 new listings_
+_Updated 2026-09-10 20:00 UTC · 2 new listings_
 
-## New from SimplifyJobs (14)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Entegris** | Lab Automation & AI Engineering Co-op | Billerica, MA | today | [apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1) |
-| **CACI** | Configuration Control/Data Management Co-op - Engineering Department | Danbury, CT | today | [apply](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440) |
-| **CACI** | Software Engineer Intern | Denver, CO | today | [apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1) |
-| **Intel** | Compiler Engineer Intern - SYCL Runtime | Toronto, ON, Canada | today | [apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849) |
-| **Mackenzie Investments** | Winter Intern - Investment Management - Multi-Asset | Winnipeg, MB, Canada / Toronto, ON, Canada | today | [apply](https://careersen-mackenzieinvestments.icims.com/jobs/6008/job?mobile=true&needsRedirect=false) |
-| **Barclays** | Technology Analyst Apprentice - AI and Data Science | Glasgow, UK | today | [apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-AI-and-Data-Science-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129128) |
-| **Planview** | Software Engineer Intern | Austin, TX | today | [apply](https://careers.planview.com/jobs/5128?icims=1) |
-| **BDC Venture Capital** | Student Analyst - Business Performance and Analytics | Montreal, QC, Canada | today | [apply](https://bdc.wd10.myworkdayjobs.com/BDC_Careers/job/Montreal/STUDENT-ANALYST---BUSINESS-PERFORMANCE-AND-ANALYTICS_R-8214) |
-| **MKS Instruments** | Business Intelligence/Data Analytics Intern | Andover, MA | 15d ago | [apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 26d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 26d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 26d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 26d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 26d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-
-## New from Company portals (5)
+## New from Company portals (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Intel** | Module Engineering PhD Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1) |
-| **Intel** | Module Engineering PhD Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287026) |
-| **Intel** | Module Engineering PhD Intern - Wet Etch | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047) |
-| **Micron Technology** | Intern - AI Agentic Systems Engineer | Folsom CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474) |
-| **Schonfeld** | 2027 Platform Engineering Intern | New York, New York, United States | — | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
+| **Intel** | AI Software Engineering PhD Intern | US Arizona Phoenix | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) |
+| **IMC Trading** | Quant Performance Engineer Intern - Summer 2027 | Chicago, United States | — | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) |
 
 ## Watched company portals
 
