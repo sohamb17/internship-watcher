@@ -1,27 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-09-10 04:32 UTC · 16 new listings_
+_Updated 2026-09-10 09:07 UTC · 3 new listings_
 
-## New from SimplifyJobs (16)
+## New from SimplifyJobs (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Tradeweb** | Software Developer Intern - STP | Jersey City, NJ | today | [apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301914) |
-| **Tradeweb** | AI Software Engineer Intern | Jersey City, NJ | today | [apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301902) |
-| **Tradeweb** | Market Data Developer Intern | Jersey City, NJ | today | [apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301910) |
-| **Tradeweb** | Credit Software Engineer Intern | Jersey City, NJ | today | [apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301915) |
-| **Epic Games** | Backend Services Programmer Intern - Epic Games Services | Cary, NC | today | [apply](https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004) |
-| **Tradeweb** | Data Platform Intern | Jersey City, NJ | today | [apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301904) |
-| **Tradeweb** | Java Software Engineer Intern | Jersey City, NJ | today | [apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301907) |
-| **Tradeweb** | Node.js Developer Intern | Jersey City, NJ | today | [apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301912) |
-| **Tradeweb** | C++ Distributed Systems Developer Intern - C++ Core Services | Jersey City, NJ | today | [apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903) |
-| **Tradeweb** | Application Software Engineering Internship - IFI Application | Jersey City, NJ | today | [apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301906) |
-| **Shield AI** | Software Engineer Intern | San Diego, CA | today | [apply](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply) |
-| **Dell Technologies** | Software Engineer Intern - Client Solutions Group Engineering | Austin, TX | today | [apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217) |
-| **Tradeweb** | Engineering Intern - Distributed Ledger Technology - Engineering | Jersey City, NJ | today | [apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301905) |
-| **Intel** | AI and Compiler Engineering Graduate Intern<br>Master's/PhD | Remote in Canada | 1d ago | [apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) |
-| **The Aerospace Corporation** | Machine Learning Engineering Intern<br>Master's/PhD | Colorado Springs, CO / El Segundo, CA | 1d ago | [apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 26d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Constellation Energy** | Business Performance & Analytics Intern | Houston, TX | today | [apply](https://jobs.constellationenergy.com/jobs/138770?icims=1) |
+| **Barr** | GIS Specialist Intern | Salt Lake City, UT | today | [apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1) |
+| **RTX** | Software Engineering Intern | Huntsville, AL | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655) |
 
 ## Watched company portals
 
