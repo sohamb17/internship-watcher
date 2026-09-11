@@ -1,23 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-09-11 09:58 UTC · 12 new listings_
+_Updated 2026-09-11 14:19 UTC · 2 new listings_
 
-## New from SimplifyJobs (12)
+## New from SimplifyJobs (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **TD Bank** | Data Analyst Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236) |
-| **TD Bank** | Data Engineer Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111) |
-| **TD Bank** | Software Engineer Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773) |
-| **Wellmark** | Data Analytics & Governance Internship | Des Moines, IA | today | [apply](https://jobs.smartrecruiters.com/WellmarkInc/744000148917718) |
-| **Wellmark** | Software Engineer Intern | Des Moines, IA | today | [apply](https://jobs.smartrecruiters.com/WellmarkInc/744000148915793) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 27d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 27d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 27d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 27d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 27d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 27d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 27d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **Kinaxis** | Developer Intern - Clients - Front End Technologies | Ottawa, ON, Canada | today | [apply](https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false) |
+| **Kinaxis** | Developer Intern - AI Solutions | Ottawa, ON, Canada | 2d ago | [apply](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) |
 
 ## Watched company portals
 
