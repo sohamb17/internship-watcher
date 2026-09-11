@@ -1,40 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-09-11 17:52 UTC · 24 new listings_
+_Updated 2026-09-11 20:53 UTC · 3 new listings_
 
-## New from SimplifyJobs (19)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Citizens Financial Group** | Software Engineer Intern | Plano, TX / Johnston, RI / Phoenix, AZ | today | [apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286) |
-| **The Toro Company** | Robotics Engineer Intern | Bloomington, MN | today | [apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194) |
-| **The Toro Company** | Spatial Data R&D Intern | Bloomington, MN | today | [apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Spatial-Data-R-D-Intern---The-Toro-Company_JR17187) |
-| **The Toro Company** | Enterprise Analytics Intern | Bloomington, MN | today | [apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Enterprise-Analytics-Intern---The-Toro-Company_JR17104) |
-| **Citizens Financial Group** | Data Management Intern - Enterprise Data and Analytics<br>Master's | Boston, MA / Johnston, RI / Columbus, OH | today | [apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281) |
-| **Citizens Financial Group** | Data Management Intern - Multiple Teams | Boston, MA / Johnston, RI / Columbus, OH | today | [apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277) |
-| **Citizens Financial Group** | Data Science Intern - Multiple Teams<br>Master's/PhD | Boston, MA / Johnston, RI / Columbus, OH | today | [apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280) |
-| **Citizens Financial Group** | Business Insights Intern - Multiple Teams<br>Master's/PhD | Boston, MA / Johnston, RI / Columbus, OH | today | [apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283) |
-| **Citizens Financial Group** | Data Analyst Intern - Multiple Teams<br>Master's/PhD | Boston, MA / Johnston, RI / Columbus, OH | today | [apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282) |
-| **Citizens Financial Group** | Business Insights Intern - Multiple Teams | Boston, MA / Johnston, RI / Columbus, OH | today | [apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49279) |
-| **Citizens Financial Group** | Data Engineer Intern - Enterprise Technology & Security | Plano, TX / Johnston, RI / Phoenix, AZ | today | [apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) |
-| **Citizens Financial Group** | Data Science Intern - Multiple Teams | Boston, MA / Johnston, RI / Columbus, OH | today | [apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) |
-| **Citizens Financial Group** | Data Analyst Intern - Multiple Teams | Boston, MA / Johnston, RI / Columbus, OH | today | [apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278) |
-| **NAV CANADA** | Air Traffic Management Engineering Co-op Student - ATM - Tower Products | Ottawa, ON, Canada | today | [apply](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Air-Traffic-Management--ATM--Tower-Products---Winter-2027-Coop-Student---2-positions_JR-8366) |
-| **Tesla** | Software Engineer Intern - Data Platforms | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283117) |
-| **Tesla** | Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283128) |
-| **Westinghouse Electric Company** | Finance Analyst Intern | Madison, PA | today | [apply](https://careers.westinghousenuclear.com/job/Madison-Summer-Intern-Finance-Analyst-PA-15663/1427820800/?ats=successfactors) |
-| **Johns Hopkins Applied Physics Laboratory** | Decision Science Intern - Software Engineer | Laurel, MD | today | [apply](https://careers.jhuapl.edu/jobs/60040?icims=1) |
-| **Tesla** | Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering | Fremont, CA | 10d ago | [apply](https://www.tesla.com/careers/search/job/281462) |
-
-## New from Company portals (5)
+## New from Company portals (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Abridge** | Software Engineer, Intern | SF Office | today | [apply](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883) |
-| **Lyft** | Data Science Intern, Algorithms (Summer 2027) | New York, NY | — | [apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
-| **Lyft** | Data Science Intern, Algorithms (Summer 2027) | San Francisco, CA | — | [apply](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) |
-| **Lyft** | Software Engineer Intern, Backend (Summer 2027) | San Francisco, CA | — | [apply](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) |
-| **Lyft** | Software Engineer Intern, Fullstack (Summer 2027) | New York, NY | — | [apply](https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002) |
+| **Intel** | Module Engineering PhD Intern New 2027 | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021) |
+| **NXP Semiconductors** | Test Engineer Intern - Summer 2027 | Austin (Oakhill, Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Test-Engineer-Intern---Summer-2027_R-10064679) |
+| **Lyft** | Data Analyst Intern (Summer 2027) | New York, NY | — | [apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
 
 ## Watched company portals
 
