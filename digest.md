@@ -1,22 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-09-11 05:07 UTC · 11 new listings_
+_Updated 2026-09-11 09:58 UTC · 12 new listings_
 
-## New from SimplifyJobs (11)
+## New from SimplifyJobs (12)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Vertiv** | Innovation Lab Engineering Intern 2 | Delaware, OH | today | [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280129) |
-| **Definity Financial** | Business Intelligence Co-op | Toronto, ON, Canada / Waterloo, ON, Canada | today | [apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351) |
-| **Definity Financial** | Commercial Insurance Portfolio Analyst Co-op Intern | Toronto, ON, Canada / Waterloo, ON, Canada | today | [apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9349) |
-| **Vertiv** | Innovation Lab Intern | Delaware, OH | today | [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126) |
-| **Definity Financial** | Analyst Co-op Intern - Consumer Insights & Market Research | Toronto, ON, Canada | today | [apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9344) |
-| **Visier Solutions** | Software Developer Co-op | Vancouver, BC, Canada | today | [apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006) |
-| **Emerson Electric** | Software Engineer Co-op | Eden Prairie, MN | today | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738) |
-| **Visier Solutions** | Test Developer Co-op | Vancouver, BC, Canada | today | [apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006) |
-| **Tanium** | Software Engineer Intern - Summer 2027 | Emeryville, CA / Durham, NC | today | [apply](https://job-boards.greenhouse.io/tanium/jobs/8181017) |
-| **Entegris** | Portfolio Analytics Co-op | Danbury, CT | 1d ago | [apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Danbury-CT/Portfolio-Analytics-Analyst-Co-Op_REQ-14499) |
-| **Walmart** | Software Engineer 2 Intern | Bentonville, AR / Bellevue, WA / Sunnyvale, CA | 1d ago | [apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1) |
+| **TD Bank** | Data Analyst Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236) |
+| **TD Bank** | Data Engineer Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111) |
+| **TD Bank** | Software Engineer Co-op - Global Technology & Solutions | Mt Laurel Township, NJ | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773) |
+| **Wellmark** | Data Analytics & Governance Internship | Des Moines, IA | today | [apply](https://jobs.smartrecruiters.com/WellmarkInc/744000148917718) |
+| **Wellmark** | Software Engineer Intern | Des Moines, IA | today | [apply](https://jobs.smartrecruiters.com/WellmarkInc/744000148915793) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 27d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 27d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 27d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 27d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 27d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 27d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 27d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
