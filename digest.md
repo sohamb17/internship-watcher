@@ -1,14 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-12 19:37 UTC · 3 new listings_
+_Updated 2026-09-12 21:37 UTC · 1 new listing_
 
-## New from SimplifyJobs (3)
+## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Klaviyo** | Software Engineer Co-op | Boston, MA | today | [apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003) |
-| **Klaviyo** | Software Engineer Intern - Summer 2027 | Boston, MA | today | [apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003) |
-| **Trane Technologies** | AI & Analytics Intern | Minneapolis, MN / Davidson, NC | 11d ago | [apply](https://careers.tranetechnologies.com/global/en/job/JR-7591) |
+| **AnaVation** | Computer Science Intern - Summer 2027 | Chantilly, VA | today | [apply](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply) |
 
 ## Watched company portals
 
