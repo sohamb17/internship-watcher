@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-09-12 14:20 UTC · 1 new listing_
+_Updated 2026-09-12 17:24 UTC · 0 new listings_
 
-## New from SimplifyJobs (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Stand Together** | Strategic Research Intern - Pacific Legal Foundation | Arlington County, Arlington, VA | 2d ago | [apply](https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply) |
+Nothing new this run.
 
 ## Watched company portals
 
