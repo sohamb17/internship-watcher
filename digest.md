@@ -1,12 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-09-12 21:37 UTC · 1 new listing_
+_Updated 2026-09-12 23:56 UTC · 7 new listings_
 
-## New from SimplifyJobs (1)
+## New from SimplifyJobs (7)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **AnaVation** | Computer Science Intern - Summer 2027 | Chantilly, VA | today | [apply](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 28d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 28d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 28d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 28d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 28d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 28d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 28d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
