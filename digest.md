@@ -1,24 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-09-12 01:29 UTC · 13 new listings_
+_Updated 2026-09-12 06:25 UTC · 10 new listings_
 
-## New from SimplifyJobs (13)
+## New from SimplifyJobs (10)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **MegazoneCloud** | Software Engineer Co-op | Rochester, NY | today | [apply](https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca/application?embed=true) |
-| **Cone Health** | Healthcare Innovation Intern - AI | Greensboro, NC | today | [apply](https://careers.conehealth.com/us/en/job/JR155166) |
-| **Commure** | Software Engineer Intern - Summer 2027 | Mountain View, CA | today | [apply](https://jobs.ashbyhq.com/Commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application?embed=true) |
-| **ibotta** | Software Engineer Intern | Denver, CO | today | [apply](https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true) |
-| **Cozey** | Data Science Intern | Mount Royal, QC, Canada | today | [apply](https://ats.rippling.com/cozey-internships/jobs/d19a9f0b-e828-436b-890f-a6f2216c6888) |
-| **Dialogue** | Full Stack Developer Intern - Euse | Montreal, QC, Canada | today | [apply](https://ats.rippling.com/dialogue-fr/jobs/8b2f0f5d-c830-48ab-9b48-14e2bfdb91cd) |
-| **John Deere** | Student - OEM/Marine Applications | Waterloo, IA | today | [apply](https://johndeere.eightfold.ai/careers/job/137483396343) |
-| **Qualcomm** | Machine Learning Compiler & Performance Engineering Intern - Systems | Markham, ON, Canada | today | [apply](https://qualcomm.eightfold.ai/careers/job/446721064018) |
-| **Avis Budget Group** | Revenue Management Intern - Accelerate | Parsippany-Troy Hills, NJ | 1d ago | [apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Revenue-Management-Summer-2027-Intern_R0190482) |
-| **Avis Budget Group** | Transformation Engineer Intern - Accelerate | Parsippany-Troy Hills, NJ | 1d ago | [apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388) |
-| **EMC Insurance** | Data Science Intern | Iowa | 1d ago | [apply](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Data-Science_R6524) |
-| **Leidos** | Artificial Intelligence/Machine Learning Intern | Huntsville, AL | 1d ago | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00192042) |
-| **Capital One** | Full Stack Software Engineer Intern - Team Pickle | Toronto, ON, Canada | 26d ago | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) |
+| **Energy Transfer Partners** | Business Transformation and Integration Intern | Dallas, TX | today | [apply](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003511) |
+| **Bank of Montreal** | Software Engineer Co-op Intern - Winter 2027 | Toronto, ON, Canada | 1d ago | [apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Engineer--Winter-2027--Co-op-Internship----4-month_R260025826) |
+| **Charles Schwab** | Software Engineering Intern - Technology | Austin, TX / Westlake, TX / Ann Arbor, MI / Southlake, TX /  | 14d ago | [apply](https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 28d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 28d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 28d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 28d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 28d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 28d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 28d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
