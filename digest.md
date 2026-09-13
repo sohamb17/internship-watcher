@@ -1,8 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-09-13 17:36 UTC · 0 new listings_
+_Updated 2026-09-13 19:44 UTC · 4 new listings_
 
-Nothing new this run.
+## New from SimplifyJobs (4)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 29d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 29d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 29d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 29d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
 
 ## Watched company portals
 
