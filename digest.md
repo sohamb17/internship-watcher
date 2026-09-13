@@ -1,15 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-13 19:44 UTC · 4 new listings_
+_Updated 2026-09-13 22:20 UTC · 1 new listing_
 
-## New from SimplifyJobs (4)
+## New from Company portals (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 29d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 29d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 29d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 29d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **NVIDIA** | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) |
 
 ## Watched company portals
 
