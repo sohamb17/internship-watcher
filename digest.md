@@ -1,20 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-09-13 09:42 UTC · 9 new listings_
+_Updated 2026-09-13 14:15 UTC · 0 new listings_
 
-## New from SimplifyJobs (9)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Google** | Data Analytics Apprentice - February 2027 Start | LA / Chicago, IL / NYC / Atlanta, GA | 11d ago | [apply](https://www.google.com/about/careers/applications/jobs/results/132315893450318534) |
-| **Mastercard** | Data Scientist Intern | O'Fallon, MO | 13d ago | [apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 29d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 29d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 29d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 29d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 29d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 29d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 29d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+Nothing new this run.
 
 ## Watched company portals
 
