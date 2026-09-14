@@ -1,8 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-09-14 00:22 UTC · 0 new listings_
+_Updated 2026-09-14 05:22 UTC · 11 new listings_
 
-Nothing new this run.
+## New from SimplifyJobs (11)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **TD Bank** | Software Engineer Intern - Global Technology & Solutions | Mt Laurel Township, NJ | 1d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1) |
+| **TD Bank** | Data Engineer Intern - Global Technology & Solutions | Mt Laurel Township, NJ | 1d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797) |
+| **PricewaterhouseCoopers (PwC)** | Data Enablement Co-op | Calgary, AB, Canada | 24d ago | [apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Calgary_754211WD-1) |
+| **PricewaterhouseCoopers (PwC)** | Data Enablement Co-op - CPA | Calgary, AB, Canada | 24d ago | [apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--CPA----8-month-Co-op---Calgary_754208WD) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 30d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 30d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 30d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 30d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 30d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 30d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 30d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
