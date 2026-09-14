@@ -1,22 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-09-14 05:22 UTC · 11 new listings_
+_Updated 2026-09-14 10:56 UTC · 7 new listings_
 
-## New from SimplifyJobs (11)
+## New from SimplifyJobs (7)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **TD Bank** | Software Engineer Intern - Global Technology & Solutions | Mt Laurel Township, NJ | 1d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1) |
-| **TD Bank** | Data Engineer Intern - Global Technology & Solutions | Mt Laurel Township, NJ | 1d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797) |
-| **PricewaterhouseCoopers (PwC)** | Data Enablement Co-op | Calgary, AB, Canada | 24d ago | [apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--Non-CPA----8-month-Co-op---Calgary_754211WD-1) |
-| **PricewaterhouseCoopers (PwC)** | Data Enablement Co-op - CPA | Calgary, AB, Canada | 24d ago | [apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/September-2027---Data-Enablement--CPA----8-month-Co-op---Calgary_754208WD) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 30d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 30d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 30d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 30d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 30d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 30d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 30d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **Philips** | Software Engineer Intern | Plymouth, MN | today | [apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403) |
+| **Interstates** | Data Analyst Intern | Sioux Center, IA / Sioux Falls, SD | today | [apply](https://www.interstates.com/careers/jobs?gh_jid=4056077009&gh_jid=4056077009) |
+| **Guardian Life** | Data Engineering Intern - Digital & Technology | Holmdel, NJ / NYC / Bethlehem, PA | today | [apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202) |
+| **Guardian Life** | Application Development Intern - Digital & Technology | Holmdel, NJ / NYC / Bethlehem, PA | today | [apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209) |
+| **Guardian Life** | Summer Intern - Digital & Technology - AI & Machine Learning | Holmdel, NJ / NYC / Bethlehem, PA | today | [apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205) |
+| **TD Bank** | Data Analyst Intern - Global Technology & Solutions | Mt Laurel Township, NJ | 1d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800) |
+| **Philips** | Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application | Plymouth, MN | 21d ago | [apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406) |
 
 ## Watched company portals
 
