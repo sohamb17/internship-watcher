@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-09-13 22:20 UTC · 1 new listing_
+_Updated 2026-09-14 00:22 UTC · 0 new listings_
 
-## New from Company portals (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **NVIDIA** | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) |
+Nothing new this run.
 
 ## Watched company portals
 
