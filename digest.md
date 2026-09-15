@@ -1,23 +1,44 @@
 # Internship watcher — latest
 
-_Updated 2026-09-15 09:58 UTC · 12 new listings_
+_Updated 2026-09-15 14:53 UTC · 28 new listings_
 
-## New from SimplifyJobs (12)
+## New from SimplifyJobs (23)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **CAI** | Software Developer Intern | Pennsylvania | today | [apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462) |
-| **CAI** | Data Analyst Intern | Pennsylvania | today | [apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452) |
-| **CAI** | Software Developer Intern | Pennsylvania | today | [apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8451) |
-| **Tighe & Bond** | GIS Intern - Geographic Information Systems | Worcester, MA | today | [apply](https://careers-tighebond.icims.com/jobs/1892/job?mobile=true&needsRedirect=false) |
-| **Tesla** | Solar Hardware Engineer Intern - Energy Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283423) |
-| **3M** | Business Analyst Intern - Consumer Business Group | Maplewood, MN | 1d ago | [apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
-| **RTX** | Software Engineer Co-op - Summer/Fall 2027 | Wilsonville, OR | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01873970) |
-| **Entegris** | Operations Technical Training Platforms Co-op | Colorado Springs, CO / Billerica, MA | 6d ago | [apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Operations-Technical-Training-Platforms-Co-Op_REQ-14416) |
-| **Mastercard** | Software Engineer Intern | O'Fallon, MO / Arlington County, Arlington, VA / NYC / Atlan | 22d ago | [apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 31d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 31d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 31d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Principal Financial Group** | Data and Analytics Intern - Multiple Teams | Des Moines, IA / Remote in USA / Raleigh, NC / Charlotte, NC | today | [apply](https://careers.principal.com/jobs/52574?icims=1) |
+| **Waymo** | Software Engineering Intern - Commercialization | SF / Mountain View, CA | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8198218) |
+| **Autodesk** | Software Developer Intern | Montreal, QC, Canada | today | [apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2) |
+| **HF Sinclair** | Reporting & Analytics Intern | Dallas, TX | today | [apply](https://careers.hfsinclair.com/job/Dallas-Reporting-&-Analytics-Intern-TX-75219/1430067400/?ats=successfactors) |
+| **HF Sinclair** | IT Data Analytics Intern | Dallas, TX | today | [apply](https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors) |
+| **Johnson & Johnson** | Commercial Analyst Placement Student | Wokingham, UK | today | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Wokingham-Berkshire-United-Kingdom/Commercial-Analyst---Placement-Student-2027_R-091175) |
+| **General Dynamics Information Technology** | Software Development Intern | Falls Church, VA | today | [apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406) |
+| **Nokia** | Software Tools Development Co-op Intern | Ottawa, ON, Canada | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39230) |
+| **QTS** | Tableau Analytics and Business Intelligence Intern | Overland Park, KS | today | [apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090) |
+| **Gulfstream** | Azure AI Collegiate Associate Intern | Savannah, GA | today | [apply](https://careers.gulfstream.com/job/Savannah-Spring-2027-Azure-AI-Collegiate-Associate-Intern-GA-31401/1430045500/?ats=successfactors) |
+| **RTX** | Software Engineer Intern | State College, PA | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01871987) |
+| **Gulfstream** | AI Product Collegiate Associate Intern | Savannah, GA | today | [apply](https://careers.gulfstream.com/job/Savannah-Spring-2027-AI-Product-Collegiate-Associate-Intern-GA-31401/1430047800/?ats=successfactors) |
+| **CAI** | Data Engineer Intern | Pennsylvania | today | [apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481) |
+| **Huntington Ingalls Industries** | Computer Engineering Intern | Pascagoula, MS | today | [apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors) |
+| **Verizon Communications** | Marketing Technology Intern - Consumer Group | Basking Ridge, Bernards, NJ | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Marketing-Technology-Summer-2027-Internship_R-1100887) |
+| **URBN** | Data Science Intern | Philadelphia, PA | 1d ago | [apply](https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false) |
+| **Citizens Financial Group** | Data Science Intern - Multiple Teams | Boston, MA / Johnston, RI / Columbus, OH | 4d ago | [apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) |
+| **AArete** | Data Architecture & Engineering Intern | Chicago, IL | 6d ago | [apply](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) |
+| **Baird** | IT AI & Automation Intern | Milwaukee, WI | 7d ago | [apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 31d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 31d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 31d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 31d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+
+## New from Company portals (5)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Analog Devices** | Embedded Software Engineer Intern | US MA Wilmington | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132) |
+| **Analog Devices** | Design Evaluation Engineer Intern | US MA Wilmington | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R266128) |
+| **Intel** | Process Integration and Yield Engineering PhD Intern Repeat | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168) |
+| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452) |
+| **Five Rings Capital** | Summer 2027 - Trading Operations Engineer Intern | New York | — | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
 
 ## Watched company portals
 
