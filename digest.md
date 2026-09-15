@@ -1,44 +1,48 @@
 # Internship watcher — latest
 
-_Updated 2026-09-15 14:53 UTC · 28 new listings_
+_Updated 2026-09-15 18:53 UTC · 32 new listings_
 
-## New from SimplifyJobs (23)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Principal Financial Group** | Data and Analytics Intern - Multiple Teams | Des Moines, IA / Remote in USA / Raleigh, NC / Charlotte, NC | today | [apply](https://careers.principal.com/jobs/52574?icims=1) |
-| **Waymo** | Software Engineering Intern - Commercialization | SF / Mountain View, CA | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8198218) |
-| **Autodesk** | Software Developer Intern | Montreal, QC, Canada | today | [apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2) |
-| **HF Sinclair** | Reporting & Analytics Intern | Dallas, TX | today | [apply](https://careers.hfsinclair.com/job/Dallas-Reporting-&-Analytics-Intern-TX-75219/1430067400/?ats=successfactors) |
-| **HF Sinclair** | IT Data Analytics Intern | Dallas, TX | today | [apply](https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors) |
-| **Johnson & Johnson** | Commercial Analyst Placement Student | Wokingham, UK | today | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Wokingham-Berkshire-United-Kingdom/Commercial-Analyst---Placement-Student-2027_R-091175) |
-| **General Dynamics Information Technology** | Software Development Intern | Falls Church, VA | today | [apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406) |
-| **Nokia** | Software Tools Development Co-op Intern | Ottawa, ON, Canada | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39230) |
-| **QTS** | Tableau Analytics and Business Intelligence Intern | Overland Park, KS | today | [apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Tableau-Analytics-and-Business-Intelligence_R2026-2090) |
-| **Gulfstream** | Azure AI Collegiate Associate Intern | Savannah, GA | today | [apply](https://careers.gulfstream.com/job/Savannah-Spring-2027-Azure-AI-Collegiate-Associate-Intern-GA-31401/1430045500/?ats=successfactors) |
-| **RTX** | Software Engineer Intern | State College, PA | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01871987) |
-| **Gulfstream** | AI Product Collegiate Associate Intern | Savannah, GA | today | [apply](https://careers.gulfstream.com/job/Savannah-Spring-2027-AI-Product-Collegiate-Associate-Intern-GA-31401/1430047800/?ats=successfactors) |
-| **CAI** | Data Engineer Intern | Pennsylvania | today | [apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481) |
-| **Huntington Ingalls Industries** | Computer Engineering Intern | Pascagoula, MS | today | [apply](https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors) |
-| **Verizon Communications** | Marketing Technology Intern - Consumer Group | Basking Ridge, Bernards, NJ | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Marketing-Technology-Summer-2027-Internship_R-1100887) |
-| **URBN** | Data Science Intern | Philadelphia, PA | 1d ago | [apply](https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false) |
-| **Citizens Financial Group** | Data Science Intern - Multiple Teams | Boston, MA / Johnston, RI / Columbus, OH | 4d ago | [apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) |
-| **AArete** | Data Architecture & Engineering Intern | Chicago, IL | 6d ago | [apply](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) |
-| **Baird** | IT AI & Automation Intern | Milwaukee, WI | 7d ago | [apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 31d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 31d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 31d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 31d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-
-## New from Company portals (5)
+## New from SimplifyJobs (12)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Analog Devices** | Embedded Software Engineer Intern | US MA Wilmington | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132) |
-| **Analog Devices** | Design Evaluation Engineer Intern | US MA Wilmington | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R266128) |
-| **Intel** | Process Integration and Yield Engineering PhD Intern Repeat | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168) |
-| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452) |
-| **Five Rings Capital** | Summer 2027 - Trading Operations Engineer Intern | New York | — | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
+| **Ekimetrics** | Data Science & Marketing Effectiveness Intern | London, UK | today | [apply](https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548/apply) |
+| **General Dynamics Information Technology** | Software Development Intern | Falls Church, VA | today | [apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404) |
+| **General Dynamics Information Technology** | Software Development Intern | Falls Church, VA | today | [apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405) |
+| **General Motors** | Summer Intern - Performance Analysis | Concord, NC | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985) |
+| **General Motors** | Race Strategy & Analytics Intern - IndyCar | Concord, NC | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990) |
+| **General Motors** | Motorsports Strategy Intern - Sportscar Motorsports Strategy | Concord, NC | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Sportscar-Motorsports-Strategy_JR-202619859) |
+| **General Motors** | Economics Intern<br>Master's/PhD | Washington, DC / Warren, MI | 5d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---General-Motors-Economics-Intern_JR-202619691) |
+| **General Motors** | Global Customer Research Intern<br>Master's/MBA | Washington, DC / Warren, MI | 7d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Global-Customer-Research-Intern--Master-MBA-Degree-_JR-202619679) |
+| **Marsh** | Data & Analytics Industrial Placement | Newcastle upon Tyne, UK | 8d ago | [apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970-1) |
+| **AArete** | Business Analytics Intern - Summer 2027 | Chicago, IL | 10d ago | [apply](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) |
+| **General Motors** | Data Engineering Software Developer Co-op | Markham, ON, Canada / Oshawa, ON, Canada | 15d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353) |
+| **Marsh** | Summer Analyst - Data and Analytics | Raleigh, NC | 19d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696) |
+
+## New from Company portals (20)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Micron Technology** | Intern - ASIC Validation | Minneapolis, MN | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823) |
+| **Micron Technology** | Intern - Firmware Engineer | Longmont-MAX- Office, CO | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584) |
+| **Micron Technology** | Intern - HBM SoC Physical Design Engineer | Folsom, CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---HBM-SoC-Physical-Design-Engineer_JR111041) |
+| **Micron Technology** | Intern - Data Center SSD Firmware | Longmont-MAX- Office, CO | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461) |
+| **Micron Technology** | Intern - Node Development Product Engineer - DRAM Technology | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Node-Development-Product-Engineer---DRAM-Technology_JR111846) |
+| **Micron Technology** | Intern - AI Hardware and Memory Systems | Folsom, CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---AI-Hardware-and-Memory-Systems_JR111017) |
+| **NVIDIA** | Physical Design and Timing Engineer Intern - Summer 2027 | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511) |
+| **NVIDIA** | Research Intern, Fundamental Generative AI - 2027 | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) |
+| **Anduril** | Winter 2027 Electrical Engineer Co-op | Costa Mesa, California, United States; Quincy, Massachusetts | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) |
+| **Anduril** | Winter 2027 EWIS Harness Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) |
+| **Anduril** | Winter 2027 Manufacturing Engineer Co-op | Lexington, Massachusetts, United States; Quincy, Massachuset | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) |
+| **Anduril** | Winter 2027 Mechanical Engineer Co-op | Quincy, Massachusetts, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007) |
+| **Anduril** | Winter 2027 PCB Layout Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236579007?gh_jid=5236579007) |
+| **Anduril** | Winter 2027 Propulsion Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) |
+| **Anduril** | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
+| **Anduril** | Winter 2027 Technical Program Management Co-op | Washington, District of Columbia, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007) |
+| **Anduril** | Winter 2027 Test Automation Engineer Co-op | Washington, District of Columbia, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007) |
+| **Anduril** | Winter 2027 Test & Evaluation Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007) |
+| **Anduril** | Winter 2027 Warhead Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007) |
+| **Datadog** | Research Science Intern (PhD) | New York, New York, USA; Pittsburgh, Pennsylvania, USA | — | [apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
 
 ## Watched company portals
 
