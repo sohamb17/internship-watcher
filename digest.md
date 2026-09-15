@@ -1,33 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-09-15 04:44 UTC · 17 new listings_
+_Updated 2026-09-15 09:58 UTC · 12 new listings_
 
-## New from SimplifyJobs (15)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **DoorDash** | Software Engineer Intern - Summer 2027 | Seattle, WA / SF / LA / NYC / Sunnyvale, CA | today | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
-| **DoorDash** | Software Engineer Intern | Toronto, ON, Canada | today | [apply](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) |
-| **Superhuman** | Software Engineer Intern - Summer 2027 | Seattle, WA / SF / NYC | today | [apply](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application?embed=true) |
-| **Superhuman** | Software Engineer Intern | Toronto, ON, Canada | today | [apply](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true) |
-| **A Thinking Ape** | Software Development Engineer Co-op | Remote in Canada | today | [apply](https://job-boards.greenhouse.io/athinkingape/jobs/8203048) |
-| **Johns Hopkins Applied Physics Laboratory** | Computer Engineer Intern - Shipboard Systems Group | Laurel, MD | today | [apply](https://careers.jhuapl.edu/jobs/60049?icims=1) |
-| **Definity Financial** | Technology Solutions Co-op Intern - Data Platform & Engineering | Toronto, ON, Canada | today | [apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324) |
-| **Tesla** | Internship - Software Integration Engineer - Factory Firmware Team - Winter/Spring 2027 | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283447) |
-| **Howden** | Analytics Intern | London, UK | today | [apply](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Analytics-Summer-Internship-2027_R0019272) |
-| **Tesla** | Computer Vision Engineer Intern - Cell Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283290) |
-| **Howden** | Business Intelligence Intern | London, UK | today | [apply](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Business-Intelligence-Summer-Internship-2027_R0019273) |
-| **Johnson & Johnson** | Robotics Controls & Autonomy Intern - Robotics R&D | Santa Clara, CA | 1d ago | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1) |
-| **Wex** | AI & Data Platform Engineering Intern - Undergraduate | Remote in USA | 1d ago | [apply](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055) |
-| **Repsol** | Energy Assessment Intern | Houston, TX | 1d ago | [apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/Energy-Assesment-Intern_84105) |
-| **Repsol** | GIS Intern | Houston, TX | 1d ago | [apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/GIS-Intern_84106) |
-
-## New from Company portals (2)
+## New from SimplifyJobs (12)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Intel** | AI Solutions Engineering Undergraduate Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629) |
-| **Micron Technology** | Intern - Semiconductor Research & Technology Development | Albany, NY | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876) |
+| **CAI** | Software Developer Intern | Pennsylvania | today | [apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462) |
+| **CAI** | Data Analyst Intern | Pennsylvania | today | [apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452) |
+| **CAI** | Software Developer Intern | Pennsylvania | today | [apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8451) |
+| **Tighe & Bond** | GIS Intern - Geographic Information Systems | Worcester, MA | today | [apply](https://careers-tighebond.icims.com/jobs/1892/job?mobile=true&needsRedirect=false) |
+| **Tesla** | Solar Hardware Engineer Intern - Energy Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283423) |
+| **3M** | Business Analyst Intern - Consumer Business Group | Maplewood, MN | 1d ago | [apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
+| **RTX** | Software Engineer Co-op - Summer/Fall 2027 | Wilsonville, OR | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01873970) |
+| **Entegris** | Operations Technical Training Platforms Co-op | Colorado Springs, CO / Billerica, MA | 6d ago | [apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Operations-Technical-Training-Platforms-Co-Op_REQ-14416) |
+| **Mastercard** | Software Engineer Intern | O'Fallon, MO / Arlington County, Arlington, VA / NYC / Atlan | 22d ago | [apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 31d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 31d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 31d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
 
 ## Watched company portals
 
