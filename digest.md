@@ -1,48 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-09-15 18:53 UTC · 32 new listings_
+_Updated 2026-09-15 22:07 UTC · 4 new listings_
 
-## New from SimplifyJobs (12)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Ekimetrics** | Data Science & Marketing Effectiveness Intern | London, UK | today | [apply](https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548/apply) |
-| **General Dynamics Information Technology** | Software Development Intern | Falls Church, VA | today | [apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404) |
-| **General Dynamics Information Technology** | Software Development Intern | Falls Church, VA | today | [apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405) |
-| **General Motors** | Summer Intern - Performance Analysis | Concord, NC | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985) |
-| **General Motors** | Race Strategy & Analytics Intern - IndyCar | Concord, NC | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990) |
-| **General Motors** | Motorsports Strategy Intern - Sportscar Motorsports Strategy | Concord, NC | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Sportscar-Motorsports-Strategy_JR-202619859) |
-| **General Motors** | Economics Intern<br>Master's/PhD | Washington, DC / Warren, MI | 5d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---General-Motors-Economics-Intern_JR-202619691) |
-| **General Motors** | Global Customer Research Intern<br>Master's/MBA | Washington, DC / Warren, MI | 7d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Global-Customer-Research-Intern--Master-MBA-Degree-_JR-202619679) |
-| **Marsh** | Data & Analytics Industrial Placement | Newcastle upon Tyne, UK | 8d ago | [apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970-1) |
-| **AArete** | Business Analytics Intern - Summer 2027 | Chicago, IL | 10d ago | [apply](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) |
-| **General Motors** | Data Engineering Software Developer Co-op | Markham, ON, Canada / Oshawa, ON, Canada | 15d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353) |
-| **Marsh** | Summer Analyst - Data and Analytics | Raleigh, NC | 19d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696) |
-
-## New from Company portals (20)
+## New from Company portals (4)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Micron Technology** | Intern - ASIC Validation | Minneapolis, MN | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823) |
-| **Micron Technology** | Intern - Firmware Engineer | Longmont-MAX- Office, CO | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584) |
-| **Micron Technology** | Intern - HBM SoC Physical Design Engineer | Folsom, CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---HBM-SoC-Physical-Design-Engineer_JR111041) |
-| **Micron Technology** | Intern - Data Center SSD Firmware | Longmont-MAX- Office, CO | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461) |
-| **Micron Technology** | Intern - Node Development Product Engineer - DRAM Technology | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Node-Development-Product-Engineer---DRAM-Technology_JR111846) |
-| **Micron Technology** | Intern - AI Hardware and Memory Systems | Folsom, CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---AI-Hardware-and-Memory-Systems_JR111017) |
-| **NVIDIA** | Physical Design and Timing Engineer Intern - Summer 2027 | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511) |
-| **NVIDIA** | Research Intern, Fundamental Generative AI - 2027 | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) |
-| **Anduril** | Winter 2027 Electrical Engineer Co-op | Costa Mesa, California, United States; Quincy, Massachusetts | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) |
-| **Anduril** | Winter 2027 EWIS Harness Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) |
-| **Anduril** | Winter 2027 Manufacturing Engineer Co-op | Lexington, Massachusetts, United States; Quincy, Massachuset | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) |
-| **Anduril** | Winter 2027 Mechanical Engineer Co-op | Quincy, Massachusetts, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007) |
-| **Anduril** | Winter 2027 PCB Layout Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236579007?gh_jid=5236579007) |
-| **Anduril** | Winter 2027 Propulsion Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) |
-| **Anduril** | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
-| **Anduril** | Winter 2027 Technical Program Management Co-op | Washington, District of Columbia, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007) |
-| **Anduril** | Winter 2027 Test Automation Engineer Co-op | Washington, District of Columbia, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007) |
-| **Anduril** | Winter 2027 Test & Evaluation Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007) |
-| **Anduril** | Winter 2027 Warhead Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007) |
-| **Datadog** | Research Science Intern (PhD) | New York, New York, USA; Pittsburgh, Pennsylvania, USA | — | [apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
+| **GlobalFoundries** | Systems Engineering Intern (Summer 2027) | USA - Texas - Richardson | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044) |
+| **Intel** | Module Engineering PhD Intern Summer 2027 | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-Summer-2027_JR0286916) |
+| **NVIDIA** | PhD Research Intern, Generative AI for Physical AI - 2027 | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) |
+| **Anduril** | 2027 Flight Software Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) |
 
 ## Watched company portals
 
