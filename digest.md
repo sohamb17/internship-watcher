@@ -1,42 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-09-16 15:08 UTC · 26 new listings_
+_Updated 2026-09-16 19:02 UTC · 3 new listings_
 
-## New from SimplifyJobs (22)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **APEX Analytix** | Automation Developer Intern | Greensboro, NC | today | [apply](https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7) |
-| **Enterprise Holdings** | Software Engineer Intern - Summer 2027 | St. Louis, MO | today | [apply](https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false) |
-| **Bedrock Robotics** | Software Engineer Intern - Fleet Platform | NYC | today | [apply](https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true) |
-| **Abundant** | Research Intern Fellow | SF | today | [apply](https://jobs.ashbyhq.com/abundant/4da99916-c29b-49a2-8e2d-1964b1838e11/application?embed=true) |
-| **Gecko Robotics** | AI/Machine Learning Engineer Intern | NYC | today | [apply](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true) |
-| **Talos** | Software Engineer Intern - Trading | London, UK | today | [apply](https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application?embed=true) |
-| **General Dynamics** | Information Technology Intern - Software Engineering - Computer Science | Newport, RI / New London, CT / North Kingstown, RI / North S | today | [apply](https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false) |
-| **Gecko Robotics** | Full Stack Software Engineer Intern | NYC | today | [apply](https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application?embed=true) |
-| **V2X** | Artificial Intelligence Intern | Indianapolis, IN | today | [apply](https://careers.gov2x.com/jobs/62843?icims=1) |
-| **Wabash Valley Power Alliance** | Energy Efficiency & Demand Response Intern | Indianapolis, IN | today | [apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771) |
-| **RTX** | Software Engineer Intern | Marlborough, MA | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743) |
-| **Louisiana Blue** | Value Based Operations Analyst Intern - Spring 2027 | LA | today | [apply](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Remote-LA/CW-Value-Based-Operations-Analyst-Intern--Spring-2027-_R12138) |
-| **Bass Pro Shops** | IT Developer Intern | Springfield, MO | today | [apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1) |
-| **CAI** | Software Developer Intern | Pennsylvania | 1d ago | [apply](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462) |
-| **Principal Financial Group** | Software Engineer Intern - Summer 2027 | Des Moines, IA | 2d ago | [apply](https://careers.principal.com/jobs/52512?icims=1) |
-| **Nova-Tech** | Software Development Co-op | Willmar, MN | 6d ago | [apply](https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN) |
-| **Walmart** | Data Science Intern 3 | Bentonville, AR | 6d ago | [apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) |
-| **The Federal Reserve System** | Statistics Intern | NYC | 15d ago | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern----Statistics---Sophomore-Intern_R-0000033027) |
-| **Deloitte** | AI Innovation Summer Scholar Intern - AI Innovation | McLean, VA | 19d ago | [apply](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-AI-Innovation/364696) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 32d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 32d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 32d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-
-## New from Company portals (4)
+## New from Company portals (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Cisco** | Business Analyst I (Intern) United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Business-Analyst-I--Intern--United-States_2024552-1) |
-| **GlobalFoundries** | Finance & Operations Analyst Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Finance---Operations-Analyst-Intern--Summer-2027-_JR-2605140) |
-| **Intel** | Operations Research, Engineering Analytics Graduate Intern | US, Arizona, Phoenix | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) |
-| **Robinhood** | Security Risk Management Intern (Summer 2027) | Menlo Park, CA | — | [apply](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) |
+| **Cisco** | Hardware Engineer I (Intern) - United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024535-1) |
+| **Mercor** | Data Science Intern | San Francisco | 28d ago | [apply](https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a) |
+| **Mercor** | Software Engineer Intern | San Francisco | 43d ago | [apply](https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d) |
 
 ## Watched company portals
 
