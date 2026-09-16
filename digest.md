@@ -1,14 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-09-16 19:02 UTC · 3 new listings_
+_Updated 2026-09-16 22:03 UTC · 4 new listings_
 
-## New from Company portals (3)
+## New from Company portals (4)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Cisco** | Hardware Engineer I (Intern) - United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024535-1) |
-| **Mercor** | Data Science Intern | San Francisco | 28d ago | [apply](https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a) |
-| **Mercor** | Software Engineer Intern | San Francisco | 43d ago | [apply](https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d) |
+| **Cisco** | Security Engineer I (Intern) - United States | RTP, North Carolina, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885) |
+| **Cisco** | Security Research Engineer I (Intern) - United States | RTP North Carolina US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Security-Research-Engineer-I--Intern----United-States_2025886) |
+| **Cisco** | Software Engineer I (Intern) - United States | RTP, North Carolina, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890) |
+| **Decagon** | Engineering Intern (Summer 2027) | San Francisco | 26d ago | [apply](https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b) |
 
 ## Watched company portals
 
