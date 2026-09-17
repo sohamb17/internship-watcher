@@ -1,17 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-09-17 19:13 UTC · 6 new listings_
+_Updated 2026-09-17 22:24 UTC · 2 new listings_
 
-## New from Company portals (6)
+## New from Company portals (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Cisco** | Data Analyst I (Intern) - United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Data-Analyst-I--Intern----United-States_2024561-1) |
-| **GlobalFoundries** | Finance & Operations Analyst Intern (Summer 2027) | USA - Texas - Austin | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Finance---Operations-Analyst-Intern--Summer-2027-_JR-2605137) |
-| **Marvell** | SRAM Software Engineer Intern, BS - Summer 2027 | Burlington, VT | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760) |
-| **NVIDIA** | PhD Research Intern, Hardware and Systems Architecture - 2027 | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893) |
-| **NVIDIA** | PhD Research Intern, Generalist Embodied Agents Research - 2027 | US CA Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103) |
-| **NVIDIA** | PhD Research Intern, Architecture – 2027 | US CA Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395) |
+| **Abridge** | Software Engineering Intern, Spring | SF Office | today | [apply](https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e) |
+| **Micron Technology** | INTERN- ID1 Process Engineer | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/INTERN--ID1-Process-Engineer_JR111233) |
 
 ## Watched company portals
 
