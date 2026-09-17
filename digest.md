@@ -1,43 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-09-17 05:15 UTC · 27 new listings_
+_Updated 2026-09-17 10:21 UTC · 6 new listings_
 
-## New from SimplifyJobs (11)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **onsemi** | Data and Visualization Intern | Hopewell Junction, NY | today | [apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638) |
-| **CoStar Group** | Technology Intern | Irvine, CA | 1d ago | [apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673) |
-| **Wellington Management** | People Analytics Co-op - HR | Boston, MA | 1d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/HR--People-Analytics-Co-Op_R94815) |
-| **Wellington Management** | Portfolio Reference Data Analyst Co-op | Boston, MA | 1d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829-1) |
-| **DraftKings** | Analytics Intern - Summer 2027 | Boston, MA | 1d ago | [apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15147) |
-| **Sun Life** | Data Engineer Student | Montreal, QC, Canada / Toronto, ON, Canada / Waterloo, ON, C | 1d ago | [apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Engineer--Winter-and-Summer-2027-_JR00127385) |
-| **United Airlines** | Operations Data & Analytics Intern - Summer 2027 | Chicago, IL | 15d ago | [apply](https://careers.united.com/us/en/job/WHQ00026620) |
-| **United Airlines** | Operations Strategy & Analytics Intern - Summer 2027 | Chicago, IL | 15d ago | [apply](https://careers.united.com/us/en/job/WHQ00026619) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 33d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 33d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 33d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-
-## New from Company portals (16)
+## New from SimplifyJobs (6)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Anduril** | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
-| **Anduril** | 2027 Flight Software Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) |
-| **Anduril** | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
-| **Anduril** | 2027 Manufacturing Optimization Engineer Intern | Ashville, Ohio, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007) |
-| **Anduril** | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
-| **Anduril** | Winter 2027 Electrical Engineer Co-op | Costa Mesa, California, United States; Quincy, Massachusetts | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) |
-| **Anduril** | Winter 2027 EWIS Harness Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) |
-| **Anduril** | Winter 2027 Manufacturing Engineer Co-op | Lexington, Massachusetts, United States; Quincy, Massachuset | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) |
-| **Anduril** | Winter 2027 Mechanical Engineer Co-op | Quincy, Massachusetts, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007) |
-| **Anduril** | Winter 2027 PCB Layout Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236579007?gh_jid=5236579007) |
-| **Anduril** | Winter 2027 Propulsion Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) |
-| **Anduril** | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
-| **Anduril** | Winter 2027 Technical Program Management Co-op | Washington, District of Columbia, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007) |
-| **Anduril** | Winter 2027 Test Automation Engineer Co-op | Washington, District of Columbia, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007) |
-| **Anduril** | Winter 2027 Test & Evaluation Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007) |
-| **Anduril** | Winter 2027 Warhead Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007) |
+| **Vanguard** | Co-op - Multiple Teams | Dallas, TX | today | [apply](https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/DallasFt-Worth-TX/XMLNAME-2027-Spring-Summer-Co-op-Opportunities---Dallas_182410) |
+| **Smith+Nephew** | Data Science Intern - AI Center of Excellence | Pittsburgh, PA | today | [apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1) |
+| **Thales** | Computer Science Intern Co-op | Ottawa, ON, Canada | today | [apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa---Palladium/Computer-Science-Intern-or-Coop_R0338233) |
+| **Smith+Nephew** | Robotics Software Engineer Intern | Pittsburgh, PA | today | [apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482) |
+| **Waymo** | Software Engineering Intern - Maneuvering Tech | SF | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8203200) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 33d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
 
 ## Watched company portals
 
