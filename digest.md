@@ -1,12 +1,29 @@
 # Internship watcher — latest
 
-_Updated 2026-09-18 18:19 UTC · 1 new listing_
+_Updated 2026-09-18 21:11 UTC · 13 new listings_
+
+## New from SimplifyJobs (12)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Tyler Technologies** | Software Development Intern | Lawrenceville, GA | today | [apply](https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false) |
+| **Altar'd State** | IT Analytics Intern | Knoxville, TN | today | [apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499) |
+| **Sun Life** | Full Stack Developer Intern | Toronto, ON, Canada / Waterford, Ireland | today | [apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterford-Waterford-Ireland/Student--Full-Stack-Developer_JR00126897) |
+| **Cogna** | Software Engineer Intern<br>Master's/PhD | London, UK | today | [apply](https://apply.workable.com/cogna/j/45A6283F88/apply) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 34d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 34d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 34d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 34d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 34d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 34d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **GE Vernova** | Engineering Intern | Niskayuna, NY | 37d ago | [apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2) |
+| **GE Vernova** | Engineering Intern | Niskayuna, NY | 37d ago | [apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1) |
 
 ## New from Company portals (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Micron Technology** | Intern - ASIC Digital Design | Minneapolis, MN | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163) |
+| **Robinhood** | Offensive Security Intern (Summer 2027) | Bellevue, WA; Menlo Park, CA | — | [apply](https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142) |
 
 ## Watched company portals
 
