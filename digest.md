@@ -1,25 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-18 14:56 UTC · 9 new listings_
+_Updated 2026-09-18 18:19 UTC · 1 new listing_
 
-## New from SimplifyJobs (7)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Tesla** | Internship - Software Engineering - People Products - Winter/Spring 2027 | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284003) |
-| **Tesla** | Internship - Software Engineering - People Products - Summer 2027 | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284004) |
-| **Tesla** | Software Engineer Intern - Energy Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283950) |
-| **Microsoft** | Software Engineer Intern | Redmond, WA / Santa Clara, CA | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393556982258) |
-| **Gordon Food Service** | Vendor & Customer Master Data Intern - Master Data | Wyoming, MI | 1d ago | [apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 34d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Netsmart** | Software Engineer Intern | Overland Park, KS | 46d ago | [apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) |
-
-## New from Company portals (2)
+## New from Company portals (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Cisco** | Business Analyst I (Intern) United States | RTP, North Carolina, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Business-Analyst-I--Intern--United-States_2026181) |
-| **Micron Technology** | Intern - TSE KEG Engineer | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/TSE-KEG-Intern-Engineer_JR112283) |
+| **Micron Technology** | Intern - ASIC Digital Design | Minneapolis, MN | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163) |
 
 ## Watched company portals
 
