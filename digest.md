@@ -1,27 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-09-18 05:48 UTC · 11 new listings_
+_Updated 2026-09-18 11:04 UTC · 7 new listings_
 
-## New from SimplifyJobs (10)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **TRC Companies** | Software Engineer Intern | Calgary, AB, Canada | today | [apply](https://careers.trccompanies.com/jobs/26840?icims=1) |
-| **Amazon** | Software Development Engineer Intern - Summer | Seattle, WA / Arlington County, Arlington, VA | today | [apply](https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) |
-| **Kinaxis** | Developer Intern Co-op - AI Innovation | Ottawa, ON, Canada | today | [apply](https://careers-kinaxis.icims.com/jobs/35377/job?mobile=true&needsRedirect=false) |
-| **RTX** | Software Engineer Intern | Colorado Springs, CO | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 34d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 34d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 34d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 34d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 34d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 34d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (7)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Micron Technology** | Intern – Process Engineer ID1 | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Engineer-ID1_JR109507) |
+| **Tesla** | Internship - Software Engineering - People Products - Winter/Spring 2027 | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284003) |
+| **Tesla** | Internship - Software Engineering - People Products - Summer 2027 | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284004) |
+| **Tesla** | Software Engineer Intern - Energy Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283950) |
+| **Microsoft** | Software Engineer Intern | Redmond, WA / Santa Clara, CA | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393556982258) |
+| **Gordon Food Service** | Vendor & Customer Master Data Intern - Master Data | Wyoming, MI | 1d ago | [apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 34d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Netsmart** | Software Engineer Intern | Overland Park, KS | 46d ago | [apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) |
 
 ## Watched company portals
 
