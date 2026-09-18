@@ -1,29 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-09-18 21:11 UTC · 13 new listings_
+_Updated 2026-09-18 23:33 UTC · 4 new listings_
 
-## New from SimplifyJobs (12)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Tyler Technologies** | Software Development Intern | Lawrenceville, GA | today | [apply](https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false) |
-| **Altar'd State** | IT Analytics Intern | Knoxville, TN | today | [apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499) |
-| **Sun Life** | Full Stack Developer Intern | Toronto, ON, Canada / Waterford, Ireland | today | [apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterford-Waterford-Ireland/Student--Full-Stack-Developer_JR00126897) |
-| **Cogna** | Software Engineer Intern<br>Master's/PhD | London, UK | today | [apply](https://apply.workable.com/cogna/j/45A6283F88/apply) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 34d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 34d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 34d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 34d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 34d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 34d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-| **GE Vernova** | Engineering Intern | Niskayuna, NY | 37d ago | [apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2) |
-| **GE Vernova** | Engineering Intern | Niskayuna, NY | 37d ago | [apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (4)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Robinhood** | Offensive Security Intern (Summer 2027) | Bellevue, WA; Menlo Park, CA | — | [apply](https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142) |
+| **Sun Life** | Martech Software Engineer | Waterloo, ON, Canada | today | [apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Winter-2027-_JR00128038) |
+| **CoBank** | Software Engineer Intern | Greenwood Village, CO | today | [apply](https://careers.cobank.com/jobs/7940?icims=1) |
+| **Oshkosh** | Advanced Analytics Intern | Frederick, MD | 4d ago | [apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Summer-2027-Advanced-Analytics-Intern_R49541) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 34d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
 
 ## Watched company portals
 
