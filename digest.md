@@ -1,6 +1,6 @@
 # Internship watcher — latest
 
-_Updated 2026-09-18 11:04 UTC · 7 new listings_
+_Updated 2026-09-18 14:56 UTC · 9 new listings_
 
 ## New from SimplifyJobs (7)
 
@@ -13,6 +13,13 @@ _Updated 2026-09-18 11:04 UTC · 7 new listings_
 | **Gordon Food Service** | Vendor & Customer Master Data Intern - Master Data | Wyoming, MI | 1d ago | [apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341) |
 | **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 34d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
 | **Netsmart** | Software Engineer Intern | Overland Park, KS | 46d ago | [apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) |
+
+## New from Company portals (2)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Cisco** | Business Analyst I (Intern) United States | RTP, North Carolina, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Business-Analyst-I--Intern--United-States_2026181) |
+| **Micron Technology** | Intern - TSE KEG Engineer | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/TSE-KEG-Intern-Engineer_JR112283) |
 
 ## Watched company portals
 
