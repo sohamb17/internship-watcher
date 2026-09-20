@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-09-20 10:03 UTC · 1 new listing_
+_Updated 2026-09-20 14:08 UTC · 2 new listings_
 
-## New from SimplifyJobs (1)
+## New from SimplifyJobs (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **RTX** | Software Engineer Intern | Cambridge, MA | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017) |
+| **Tive** | Software Engineer Co-op | Boston, MA | 5d ago | [apply](https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0) |
+| **Collier Aerospace** | Software Engineer Intern - Web Applications - Summer 2027 | Newport News, VA | 10d ago | [apply](https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77) |
 
 ## Watched company portals
 
