@@ -1,13 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-09-20 14:08 UTC · 2 new listings_
+_Updated 2026-09-20 15:35 UTC · 8 new listings_
 
-## New from SimplifyJobs (2)
+## New from SimplifyJobs (8)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Tive** | Software Engineer Co-op | Boston, MA | 5d ago | [apply](https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0) |
-| **Collier Aerospace** | Software Engineer Intern - Web Applications - Summer 2027 | Newport News, VA | 10d ago | [apply](https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77) |
+| **The Aerospace Corporation** | Reliability and Statistics Intern | El Segundo, CA | today | [apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 36d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 36d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 36d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 36d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 36d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 36d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 36d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
