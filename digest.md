@@ -1,16 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-20 05:19 UTC · 5 new listings_
+_Updated 2026-09-20 10:03 UTC · 1 new listing_
 
-## New from SimplifyJobs (5)
+## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 36d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 36d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 36d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 36d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 36d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **RTX** | Software Engineer Intern | Cambridge, MA | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017) |
 
 ## Watched company portals
 
