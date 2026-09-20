@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-09-20 17:38 UTC · 1 new listing_
+_Updated 2026-09-20 20:43 UTC · 0 new listings_
 
-## New from SimplifyJobs (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **GE Appliances** | Software Engineer Co-op | Louisville, KY | 71d ago | [apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) |
+Nothing new this run.
 
 ## Watched company portals
 
