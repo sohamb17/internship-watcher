@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-20 20:43 UTC · 0 new listings_
+_Updated 2026-09-20 23:10 UTC · 1 new listing_
 
-Nothing new this run.
+## New from SimplifyJobs (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **RTX** | Software Engineer Intern | Annapolis, MD | 18d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Software-Engineering-Intern--Summer-2027-_01870699) |
 
 ## Watched company portals
 
