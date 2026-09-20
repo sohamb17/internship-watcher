@@ -1,19 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-20 15:35 UTC · 8 new listings_
+_Updated 2026-09-20 17:38 UTC · 1 new listing_
 
-## New from SimplifyJobs (8)
+## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **The Aerospace Corporation** | Reliability and Statistics Intern | El Segundo, CA | today | [apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 36d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 36d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 36d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 36d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 36d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 36d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 36d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **GE Appliances** | Software Engineer Co-op | Louisville, KY | 71d ago | [apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) |
 
 ## Watched company portals
 
