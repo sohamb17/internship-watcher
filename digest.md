@@ -1,17 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-09-21 07:01 UTC · 6 new listings_
+_Updated 2026-09-21 13:56 UTC · 3 new listings_
 
-## New from SimplifyJobs (6)
+## New from SimplifyJobs (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **AutoZone** | Information Technology Intern | Memphis, TN | today | [apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451) |
-| **AutoZone** | Data Science Intern | Memphis, TN | today | [apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461) |
-| **MFS** | Consultant Relations Co-op - January - June | Boston, MA | today | [apply](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Global-Institutional-Strategic-Accounts-Co-op-Spring-2027--January---June-_MFS-231931) |
-| **MFS** | Distribution Sales Reporting Co-op | Boston, MA | today | [apply](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Distribution-Sales-Reporting-Co-op-Spring-2027--January---June-_MFS-231926) |
-| **ICF International** | Software Developer Intern | Reston, VA | 14d ago | [apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002) |
-| **Mastercard** | Software Engineer Intern | O'Fallon, MO / Arlington County, Arlington, VA / NYC / Atlan | 28d ago | [apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1) |
+| **Mercury** | Software Engineering Intern - Spring 2027 | SF / Remote in USA / NYC / Portland, OR / Remote in Canada | today | [apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 37d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 37d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
 
 ## Watched company portals
 
