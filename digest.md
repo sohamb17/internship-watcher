@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-20 23:10 UTC · 1 new listing_
+_Updated 2026-09-21 01:32 UTC · 1 new listing_
 
-## New from SimplifyJobs (1)
+## New from Company portals (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **RTX** | Software Engineer Intern | Annapolis, MD | 18d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Software-Engineering-Intern--Summer-2027-_01870699) |
+| **Intel** | Process Integration and Yield Engineering PhD Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132) |
 
 ## Watched company portals
 
