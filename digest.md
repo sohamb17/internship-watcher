@@ -1,12 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-09-21 01:32 UTC · 1 new listing_
+_Updated 2026-09-21 07:01 UTC · 6 new listings_
 
-## New from Company portals (1)
+## New from SimplifyJobs (6)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Intel** | Process Integration and Yield Engineering PhD Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132) |
+| **AutoZone** | Information Technology Intern | Memphis, TN | today | [apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451) |
+| **AutoZone** | Data Science Intern | Memphis, TN | today | [apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461) |
+| **MFS** | Consultant Relations Co-op - January - June | Boston, MA | today | [apply](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Global-Institutional-Strategic-Accounts-Co-op-Spring-2027--January---June-_MFS-231931) |
+| **MFS** | Distribution Sales Reporting Co-op | Boston, MA | today | [apply](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Distribution-Sales-Reporting-Co-op-Spring-2027--January---June-_MFS-231926) |
+| **ICF International** | Software Developer Intern | Reston, VA | 14d ago | [apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002) |
+| **Mastercard** | Software Engineer Intern | O'Fallon, MO / Arlington County, Arlington, VA / NYC / Atlan | 28d ago | [apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1) |
 
 ## Watched company portals
 
