@@ -1,14 +1,43 @@
 # Internship watcher — latest
 
-_Updated 2026-09-21 13:56 UTC · 3 new listings_
+_Updated 2026-09-21 19:18 UTC · 27 new listings_
 
-## New from SimplifyJobs (3)
+## New from SimplifyJobs (25)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Mercury** | Software Engineering Intern - Spring 2027 | SF / Remote in USA / NYC / Portland, OR / Remote in Canada | today | [apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 37d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 37d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Medtronic** | Data Analysis & Market Development Intern | Watford, UK | today | [apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Watford-Hertfordshire-United-Kingdom/Student-Placement-Data-Analysis---Market-Development_R74931) |
+| **Lazard** | AI Engineer Intern | NYC | today | [apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606) |
+| **Lazard** | Data Engineer Intern | NYC | today | [apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605) |
+| **Canadian Tire** | ESG Data & Reporting Student | Toronto, ON, Canada | today | [apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/ESG-Data---Reporting-Student--4-months----Winter-2027_JR166009) |
+| **RSM** | Tax Digital Services Intern - AI Engineering | Charlotte, NC | today | [apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Tax-Digital-Services-Intern---AI-Engineering---Summer-2027_JR121297) |
+| **Acima** | Software Engineer Intern | Draper, UT | today | [apply](https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1) |
+| **Fidelity Investments** | Undergraduate Internship - Software | Boston, MA / Westlake, TX / Durham, NC | today | [apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524) |
+| **G-Research** | Software Engineer Intern | London, UK | today | [apply](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746) |
+| **Upbound Group** | Software Engineer Intern | Plano, TX | today | [apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761) |
+| **Upbound Group** | Software Engineer Intern | Draper, UT | today | [apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Draper-UT/Software-Engineer-Intern_R-100759) |
+| **Upbound Group** | Software Engineer Intern | Plano, TX | today | [apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100762) |
+| **Upbound Group** | Customer Performance Analytics Intern | Plano, TX | today | [apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Customer-Performance-Analytics-Intern_R-100769) |
+| **Upbound Group** | Digital Commerce Intern | Plano, TX | today | [apply](https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Digital-Commerce-Intern_R-100767) |
+| **Alliance Laundry Systems** | Data & Analytics Intern | Ripon, WI | 5d ago | [apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13162/job?mobile=true&needsRedirect=false) |
+| **Lowe's** | Merchandising Analyst Intern | Mooresville, NC | 6d ago | [apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandising-Analyst---Undergrad-Internship---Summer-2027_JR-02650526) |
+| **Johnson & Johnson** | Robotics Controls & Autonomy Intern - Robotics R&D | Santa Clara, CA | 7d ago | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1) |
+| **Capital One** | Full Stack Software Engineer Intern - Team Integrated Sprout | Toronto, ON, Canada | 35d ago | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) |
+| **Capital One** | Mobile Software Engineer Intern | Toronto, ON, Canada | 35d ago | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) |
+| **Capital One** | Full Stack Software Engineer Intern - Team Pickle | Toronto, ON, Canada | 35d ago | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) |
+| **Capital One** | Backend Software Engineer Intern - Team Interstellar | Toronto, ON, Canada | 35d ago | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 37d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Toronto, ON, Canada | 37d ago | [apply](https://higher.gs.com/roles/171567?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 37d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 37d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 37d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+
+## New from Company portals (2)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111814) |
+| **Figma** | PhD Intern, Data Science (2027) | San Francisco, CA • New York, NY | — | [apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
 
 ## Watched company portals
 
