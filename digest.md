@@ -1,15 +1,33 @@
 # Internship watcher — latest
 
-_Updated 2026-09-22 12:32 UTC · 4 new listings_
+_Updated 2026-09-22 17:13 UTC · 17 new listings_
 
-## New from SimplifyJobs (4)
+## New from SimplifyJobs (16)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Northrop Grumman** | Software Engineer Intern - Navigation Intelligence and Connectivity Division | San Diego, CA | today | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150) |
-| **Lowe's** | Store Operations Corporate Facilities Intern | Mooresville, NC | 6d ago | [apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Corporate-Facilities---Undergrad-Internship---Summer-2027_JR-02650834-1) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 38d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Magna** | Robotics AI Algorithm Intern - Research and Development<br>Master's/PhD | Troy, MI | 82d ago | [apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Robotics-AI-Algorithm--R-D-Summer-2026_R00232837) |
+| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | today | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
+| **MBDA** | Operational Analysis - Undergraduate Placement | Stevenage, UK | today | [apply](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Operational-Analysis---Undergraduate-Placement-2027_R37823) |
+| **GSK** | Data & Analytics - Multiple Roles | Ware, UK / Worthing, UK | today | [apply](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---West-Sussex---Worthing/Data---Analytics--Multiple-Roles-and-Locations--Industrial-Placement--UK-2027_446647) |
+| **RTX** | Software Engineer Intern | Portsmouth, RI | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065) |
+| **GuideStone** | Software Developer Intern - Software Development | Dallas, TX | today | [apply](https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129) |
+| **Sanofi** | Machine Learning AI Co-op - Quantitative Pharmacology<br>Master's/PhD | Cambridge, MA | today | [apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862) |
+| **Verizon Communications** | AI Science Intern - Network and Technology | Basking Ridge, Bernards, NJ | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167) |
+| **Verizon Communications** | AI Science Intern - Multiple Teams | Basking Ridge, Bernards, NJ | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169) |
+| **Udig** | Software Engineer Intern | Nashville, TN / Richmond, VA | today | [apply](https://udig.com/careers/job-listing/?gh_jid=7999436003) |
+| **Optiver** | Software Engineer Co-op | Chicago, IL | today | [apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002) |
+| **General Motors** | Software Engineer Intern - Digital Product: Software Engineering | Austin, TX / Milford, MI / Mountain View, CA / Warren, MI | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 38d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 38d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 38d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 38d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 38d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Optiver** | Software Engineer Co-Op (January - April 2027) | Chicago, Illinois, United States | — | [apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002) |
 
 ## Watched company portals
 
