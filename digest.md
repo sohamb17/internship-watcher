@@ -1,43 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-09-22 06:45 UTC · 27 new listings_
+_Updated 2026-09-22 12:32 UTC · 4 new listings_
 
-## New from SimplifyJobs (21)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Epic Games** | Data Science Intern | Cary, NC | today | [apply](https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004) |
-| **Epic Games** | Engine Programmer Intern | Cary, NC | today | [apply](https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004) |
-| **Rivian** | Software Engineer Co-op Intern - Product Development Portal | Palo Alto, CA | today | [apply](https://careers.rivian.com/jobs/33745?icims=1) |
-| **ONE Finance** | AI Research Intern<br>Master's/PhD | United States | today | [apply](https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true) |
-| **Electronic Arts** | Analytics Intern | Orlando, FL | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216252) |
-| **Rivian** | Software Engineer Intern Co-op - Product Lifecycle Management | Palo Alto, CA | today | [apply](https://careers.rivian.com/jobs/33746?icims=1) |
-| **Rivian** | Software Engineer Intern Co-op - Design Automation | Palo Alto, CA | today | [apply](https://careers.rivian.com/jobs/33748?icims=1) |
-| **Rivian** | Software Engineer Co-op Intern - Enterprise Applications | Plymouth, MI | today | [apply](https://careers.rivian.com/jobs/33804?icims=1) |
-| **Rivian** | Software Engineer Co-op Intern - Enterprise Applications | Normal, IL | today | [apply](https://careers.rivian.com/jobs/33803?icims=1) |
-| **Tesla** | Residential Energy Device Software Engineer Intern - Energy Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284275) |
-| **Entergy** | Compliance and Systems Support Intern | New Orleans, LA / The Woodlands, TX / Little Rock, AR | today | [apply](https://jobs.entergy.com/job/Little-Rock-Student,-Intern-Compliance-and-Systems-Support-Spring-2027-Arka/1432001400/?ats=successfactors) |
-| **Waymo** | Software Engineer Intern - MS/PhD - Simulation<br>Master's/PhD | Mountain View, CA | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8221851) |
-| **Waymo** | Software Engineer Intern - Simulation Evaluation ML Model<br>Master's/PhD | Mountain View, CA | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8221795) |
-| **Symbotic** | Bot Controls Intern | Wilmington, MA | 1d ago | [apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Bot-Controls_R7965) |
-| **Symbotic** | Data Engineer | Wilmington, MA | 1d ago | [apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Data-Engineer_R7967) |
-| **Wellington Management** | Investment Platform Technology Co-op | Boston, MA | 1d ago | [apply](https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902-1) |
-| **Wellington Management** | Investment Platform Technology Co-op | Boston, MA | 1d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902) |
-| **GE Aerospace** | Data Science Co-op - Flight Analytics Platform | Austin, TX | 1d ago | [apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2) |
-| **Commerce Bank** | Data Analyst Intern - Summer 2027 | Kansas City, MO | 1d ago | [apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Analyst-Summer-2027_38484) |
-| **Vialto Partners** | Client Technology Intern | Campbell, CA / NYC | 1d ago | [apply](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Manhattan/Client-Technology-Services---Intern_REQ908939) |
-| **ONE Finance** | Software Engineer Intern | Remote in USA | 13d ago | [apply](https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application?embed=true) |
-
-## New from Company portals (6)
+## New from SimplifyJobs (4)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Cisco** | Software Engineer Data & AI I (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306) |
-| **Cisco** | Software Engineer Full Stack / Backend I (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924) |
-| **Cisco** | Engineering Product Management Specialist I (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308) |
-| **Cisco** | Software Engineer Embedded Systems I (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926) |
-| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452) |
-| **Micron Technology** | Intern - ATE Process Engineer ID1 | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ATE-Process-Engineer-ID1_JR113040) |
+| **Northrop Grumman** | Software Engineer Intern - Navigation Intelligence and Connectivity Division | San Diego, CA | today | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150) |
+| **Lowe's** | Store Operations Corporate Facilities Intern | Mooresville, NC | 6d ago | [apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Corporate-Facilities---Undergrad-Internship---Summer-2027_JR-02650834-1) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 38d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Magna** | Robotics AI Algorithm Intern - Research and Development<br>Master's/PhD | Troy, MI | 82d ago | [apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Robotics-AI-Algorithm--R-D-Summer-2026_R00232837) |
 
 ## Watched company portals
 
