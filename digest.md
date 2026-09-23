@@ -1,23 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-09-23 07:40 UTC · 7 new listings_
+_Updated 2026-09-23 13:34 UTC · 4 new listings_
 
-## New from SimplifyJobs (4)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Waymo** | Machine Learning Engineer Intern - MS/PhD - Simulator Realism Evaluation<br>Master's/PhD | SF | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8214350) |
-| **RTX** | Software Engineer Intern | East Hartford, CT | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645) |
-| **Dallas Fort Worth International Airport** | Undergraduate Internship - Environmental Technical Projects | Dallas, TX | 1d ago | [apply](https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Environmental-Technical-Projects_JR102144) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 39d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-
-## New from Company portals (3)
+## New from SimplifyJobs (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **KLA** | Algorithm Engineering Intern (AI, Computer Vision & Software Engineering) | Milpitas, CA | 1d ago | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1) |
-| **KLA** | Software Engineering Intern (C++, Unix) | Milpitas, CA | 1d ago | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325) |
-| **Micron Technology** | Intern - Design Engineer, HIG HBM | Richardson, TX | 1d ago | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512) |
+| **Collier Aerospace** | Software Engineer Intern - Web Applications - Summer 2027 | Newport News, VA | 13d ago | [apply](https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 39d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+
+## New from Company portals (2)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Micron Technology** | INTERN- ID1 Process Engineer | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/INTERN--ID1-Process-Engineer_JR112383) |
+| **Micron Technology** | INTERN- ID1 Process Engineer | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/INTERN--ID1-Process-Engineer_JR112379) |
 
 ## Watched company portals
 
