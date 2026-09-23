@@ -1,27 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-09-23 01:43 UTC · 16 new listings_
+_Updated 2026-09-23 07:40 UTC · 7 new listings_
 
-## New from SimplifyJobs (16)
+## New from SimplifyJobs (4)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Vital Lyfe** | Software Engineering Intern | Torrance, CA | today | [apply](https://jobs.ashbyhq.com/vital-lyfe/c39b72aa-9ad5-43e7-a3fd-8ef2e152ee4b/application?embed=true) |
-| **Astranis** | Backend Software Engineer Intern - Summer 2027 | SF | today | [apply](https://job-boards.greenhouse.io/astranis/jobs/4705214006) |
-| **Astranis** | Software Engineer Enterprise Systems Intern - Summer 2027 | SF | today | [apply](https://job-boards.greenhouse.io/astranis/jobs/4705610006) |
-| **RTX** | Quality Project Management and Data Analysis Tool Development Intern | Longueuil, QC, Canada | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188-1) |
-| **Capital Group** | Data & Technology Summer Associate | LA | 1d ago | [apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/CAMPUS--Data---Technology-Summer-Associate--Los-Angeles--2027-_JR7382) |
-| **Capital Group** | Data & Technology Summer Associate | Irvine, CA | 1d ago | [apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS--Data---Technology-Summer-Associate--Irvine--CA--2027-_JR7384) |
-| **Capital Group** | Data & Technology Summer Associate | Charlotte, NC | 1d ago | [apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Charlotte/CAMPUS--Data---Technology-Summer-Associate--Charlotte-NC--2027-_JR7385) |
-| **Capital Group** | Data & Technology Summer Associate | NYC | 1d ago | [apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/New-York/CAMPUS--Data---Technology-Summer-Associate--New-York--2027-_JR7383) |
-| **The Aerospace Corporation** | Software Tools and Assurance Intern - Information Systems and Cyber Division | El Segundo, CA | 1d ago | [apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429) |
-| **Daimler Truck** | Reliability Engineer Intern | Fort Mill, SC | 1d ago | [apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Fort-Mill-SC-US/Reliability-Engineering-Intern_DT-19828) |
-| **The Walt Disney Company** | Computer Science / Computer Engineering Intern - Multiple Teams | Lake Buena Vista, FL | 30d ago | [apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 38d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 38d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 38d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 38d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 38d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **Waymo** | Machine Learning Engineer Intern - MS/PhD - Simulator Realism Evaluation<br>Master's/PhD | SF | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8214350) |
+| **RTX** | Software Engineer Intern | East Hartford, CT | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645) |
+| **Dallas Fort Worth International Airport** | Undergraduate Internship - Environmental Technical Projects | Dallas, TX | 1d ago | [apply](https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Environmental-Technical-Projects_JR102144) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 39d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+
+## New from Company portals (3)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **KLA** | Algorithm Engineering Intern (AI, Computer Vision & Software Engineering) | Milpitas, CA | 1d ago | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1) |
+| **KLA** | Software Engineering Intern (C++, Unix) | Milpitas, CA | 1d ago | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325) |
+| **Micron Technology** | Intern - Design Engineer, HIG HBM | Richardson, TX | 1d ago | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512) |
 
 ## Watched company portals
 
