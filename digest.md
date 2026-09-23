@@ -1,51 +1,29 @@
 # Internship watcher — latest
 
-_Updated 2026-09-23 17:57 UTC · 35 new listings_
+_Updated 2026-09-23 21:26 UTC · 18 new listings_
 
-## New from SimplifyJobs (30)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Ralliant** | Research & Development Co-op | Fairport, NY | today | [apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10635) |
-| **Ralliant** | Research & Development Co-op | Fairport, NY | today | [apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10634) |
-| **Ralliant** | Research & Development Co-op | Fairport, NY | today | [apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10636) |
-| **Ralliant** | Research and Development Co-op | Fairport, NY | today | [apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637) |
-| **RTX** | Factory Enablement Digital Engineer Co-op | Cedar Rapids, IA | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876474) |
-| **RTX** | Factory Enablement Digital Engineer Co-op | Cedar Rapids, IA | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473) |
-| **CACI** | Software Engineer Intern - Summer 2027 | Sterling, VA | today | [apply](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372) |
-| **CACI** | AI Systems Engineer Intern - Summer 2027 | Annapolis Junction, MD / Fort Meade, MD | today | [apply](https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506) |
-| **Excellus BCBS** | Healthcare Analytics Intern - Healthcare Analytics | Rochester, NY / De Witt, NY / Utica, NY / Albany, NY / Bingh | today | [apply](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Analytics_JR104059-2) |
-| **Excellus BCBS** | Software Engineering Intern | Rochester, NY / De Witt, NY / Utica, NY / Albany, NY / Bingh | today | [apply](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1) |
-| **Excellus BCBS** | College Intern - Healthcare Statistical Analytics | Rochester, NY / De Witt, NY / Utica, NY / Albany, NY / Bingh | today | [apply](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Statistical-Analytics_JR104054-1) |
-| **Excellus BCBS** | College Intern - Research Insights | Rochester, NY / De Witt, NY / Utica, NY / Albany, NY / Bingh | today | [apply](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Research-Insights_JR104048-2) |
-| **Excellus BCBS** | College Intern - Mobile Software Engineering Team | Rochester, NY / De Witt, NY / Utica, NY / Albany, NY / Bingh | today | [apply](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3) |
-| **Excellus BCBS** | College Intern - Data Governance & AI Governance | Rochester, NY / De Witt, NY / Utica, NY / Albany, NY / Bingh | today | [apply](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Data-Governance---AI-Governance_JR104033-1) |
-| **Excellus BCBS** | College Intern - Records and Information Management | Rochester, NY / De Witt, NY / Utica, NY / Albany, NY / Bingh | today | [apply](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Records-and-Information-Management_JR104030-2) |
-| **Excellus BCBS** | College Intern - Digital Analytics | Rochester, NY / De Witt, NY / Utica, NY / Albany, NY / Bingh | today | [apply](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2) |
-| **The Federal Reserve System** | Research Business Survey Intern | Richmond, VA | today | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218) |
-| **Zipline** | Autonomy Intern<br>Master's | South SF | today | [apply](https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003) |
-| **Bedrock Robotics** | Evaluation Engineer Intern - Metric Prototyping | SF | today | [apply](https://jobs.ashbyhq.com/bedrock-robotics/07b55743-d5c4-4347-bfac-000821317b13/application?embed=true) |
-| **Entrust** | Software Development Intern - Citizen Remote Identity Verification | Ottawa, ON, Canada | today | [apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360) |
-| **Entrust** | Software Development Intern | Ottawa, ON, Canada | today | [apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359) |
-| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 1d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
-| **The Walt Disney Company** | Decision Science Intern | Lake Buena Vista, FL | 2d ago | [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Undergraduate-Intern--Spring-2027_10159998-2) |
-| **Amgen** | Machine Learning Engineer Intern - Technology & Medical Organizations | Remote in USA | 12d ago | [apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709) |
-| **Kinder Morgan** | Intern - IT | Colorado Springs, CO | 20d ago | [apply](https://careers.kindermorgan.com/jobs/6171?icims=1) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 39d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 39d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 39d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 39d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 39d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-
-## New from Company portals (5)
+## New from Company portals (18)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Marvell** | Security Verification/Validation Engineer Intern, BS - Summer 2027 | Chandler, AZ | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148) |
-| **Micron Technology** | Intern Design Engineer - HIG HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516) |
-| **Micron Technology** | Intern - ID1 Manufacturing Engineer | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) |
-| **Micron Technology** | Intern - ID1 Equipment Engineer | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Equipment-Engineer_JR113286) |
-| **Micron Technology** | Intern - ID1 Process Engineer | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Process-Engineer_JR113284) |
+| **NVIDIA** | PhD Research Intern, Electronic Design Automation - 2027 | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471) |
+| **NVIDIA** | PhD Research Intern, Quantum Simulation and AI - 2027 | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004) |
+| **Anduril** | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
+| **Anduril** | 2027 Flight Software Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) |
+| **Anduril** | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
+| **Anduril** | 2027 Manufacturing Optimization Engineer Intern | Ashville, Ohio, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007) |
+| **Anduril** | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
+| **Anduril** | Winter 2027 Electrical Engineer Co-op | Costa Mesa, California, United States; Quincy, Massachusetts | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) |
+| **Anduril** | Winter 2027 EWIS Harness Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) |
+| **Anduril** | Winter 2027 Manufacturing Engineer Co-op | Lexington, Massachusetts, United States; Quincy, Massachuset | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) |
+| **Anduril** | Winter 2027 Mechanical Engineer Co-op | Quincy, Massachusetts, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007) |
+| **Anduril** | Winter 2027 Propulsion Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) |
+| **Anduril** | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
+| **Anduril** | Winter 2027 Technical Program Management Co-op | Washington, District of Columbia, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007) |
+| **Anduril** | Winter 2027 Test & Evaluation Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007) |
+| **Anduril** | Winter 2027 Warhead Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007) |
+| **Figma** | Data Engineer Intern (2027) | San Francisco, CA • New York, NY | — | [apply](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) |
+| **IMC Trading** | Hardware Machine Learning PhD Research Internship | Chicago, United States | — | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
 
 ## Watched company portals
 
