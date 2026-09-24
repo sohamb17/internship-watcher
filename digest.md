@@ -1,33 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-09-24 04:34 UTC · 17 new listings_
+_Updated 2026-09-24 09:29 UTC · 2 new listings_
 
-## New from SimplifyJobs (12)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Atlassian** | Data Scientist Intern - Multiple Teams<br>Master's | Seattle, WA | today | [apply](https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job) |
-| **Mondelez International** | Promotions Analyst Intern | Santa Fe, NM | 1d ago | [apply](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Santa-F-Mexico/Becario-Analista-de-promociones--RGM-_R-176656) |
-| **Mondelez International** | Promotions Analyst Intern - Revenue Growth Management | Santa Fe, NM | 1d ago | [apply](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Santa-F-Mexico/Becario-Analista-de-promociones--RGM-_R-176645) |
-| **Zekelman Industries** | Business Intelligence Intern - Program Development | Austin, TX / Troy, MI | 1d ago | [apply](https://zekelman.wd12.myworkdayjobs.com/Careers/job/Troy-MI/Intern--Business-Intelligence_JR002769) |
-| **Teledyne** | Industrialization and Statistical Analysis Intern<br>Master's | Bromont, QC, Canada | 1d ago | [apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Stagiaire-en-industrialisation-et-analyse-statistique_REQ36708) |
-| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 2d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
-| **AtkinsRéalis** | Data Scientist Intern - Summer 2027 | Tempe, AZ | 10d ago | [apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 40d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 40d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 40d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 40d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 40d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-
-## New from Company portals (5)
+## New from SimplifyJobs (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Ramp** | Software Engineer Internship, Frontend | New York, NY (HQ) | today | [apply](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) |
-| **Ramp** | Software Engineering Intern, Android | New York, NY (HQ) | today | [apply](https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8) |
-| **Ramp** | Software Engineering Intern, iOS | New York, NY (HQ) | today | [apply](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9) |
-| **Ramp** | Software Engineering Intern, Backend | New York, NY (HQ) | 168d ago | [apply](https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04) |
-| **Flow Traders** | Quantitative Trading Intern Summer 2027 | New York | — | [apply](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) |
+| **Cenovus Energy** | Information Technology Student - Data Science and Software | Calgary, AB, Canada | today | [apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--IT--Data-Science-and-Software--Calgary--May-2027-_R-411145) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 40d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
 
 ## Watched company portals
 
