@@ -1,13 +1,24 @@
 # Internship watcher — latest
 
-_Updated 2026-09-24 09:29 UTC · 2 new listings_
+_Updated 2026-09-24 14:22 UTC · 8 new listings_
 
-## New from SimplifyJobs (2)
+## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Cenovus Energy** | Information Technology Student - Data Science and Software | Calgary, AB, Canada | today | [apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--IT--Data-Science-and-Software--Calgary--May-2027-_R-411145) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 40d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Fenwick & West** | Forward Deployed Operations Intern | Boston, MA / Seattle, WA / Santa Monica, CA / Washington, DC | 23d ago | [apply](https://fenwick.wd1.myworkdayjobs.com/Fenwick_External_Careers/job/Silicon-Valley/Forward-Deployed-Operations-Intern_R2964) |
+
+## New from Company portals (7)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Cisco** | AI Operations Engineer I (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804) |
+| **Cisco** | Machine Learning Engineer I (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803) |
+| **Cisco** | Engineering Product Management Specialist II (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801) |
+| **Cisco** | Machine Learning Engineer II (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802) |
+| **Cisco** | Software Engineer Full Stack / Backend II (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800) |
+| **Cisco** | Software Engineer Data & AI II (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798) |
+| **Cisco** | Software Engineer Embedded Systems II (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805) |
 
 ## Watched company portals
 
