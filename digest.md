@@ -1,30 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-09-24 18:37 UTC · 14 new listings_
+_Updated 2026-09-24 22:14 UTC · 3 new listings_
 
-## New from SimplifyJobs (12)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Enterprise Holdings** | Data Engineer Intern - IT | St. Louis, MO | today | [apply](https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false) |
-| **Arconic** | Software Developer Intern | Davenport, IA | today | [apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233) |
-| **Royal Bank of Canada** | Data Traceability & Controls Intern | Halifax Regional Municipality, NS, Canada | today | [apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2027-Winter---CDO--Data-Traceability---Controls-Intern--4-Months---Bedford--NS-_R-0000186553) |
-| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 2d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
-| **RTX** | Digital Transformation of Aeronautic Manufacturing Intern | Longueuil, QC, Canada | 20d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---hiver-2027---Transformation-numerique-de-la-fabrication-aeronautique---Internship---Winter-2027---Digital-Transformation-of-Aeronautic-Manufacturing_01865735) |
-| **Amgen** | Business Analyst Co-op | Burnaby, BC, Canada | 22d ago | [apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807) |
-| **Marsh** | Summer Analyst - Data and Analytics | Raleigh, NC | 28d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 40d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 40d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 40d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 40d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 40d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-
-## New from Company portals (2)
+## New from Company portals (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Arista Networks** | Hardware Intern | Nashua, NH, United States | today | [apply](https://jobs.smartrecruiters.com/AristaNetworks/744000151659973) |
-| **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Plantation, FL | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136) |
+| **Notion** | Software Engineer Intern, Mobile (Winter 2027) | San Francisco, California | today | [apply](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) |
+| **Micron Technology** | Intern - ASIC Validation | Minneapolis, MN | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823) |
+| **Samsara** | Firmware Engineer Co-Op | San Francisco - SF9 | — | [apply](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) |
 
 ## Watched company portals
 
