@@ -1,56 +1,33 @@
 # Internship watcher — latest
 
-_Updated 2026-09-25 00:44 UTC · 40 new listings_
+_Updated 2026-09-25 06:05 UTC · 17 new listings_
 
-## New from SimplifyJobs (38)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **CHS** | Data Analyst Intern | Inver Grove Heights, MN | today | [apply](https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Analyst-Intern-MN-55077-1721/1433568700/?ats=successfactors) |
-| **Astranis** | Software Developer Associate - Network Software | SF | today | [apply](https://job-boards.greenhouse.io/astranis/jobs/4705617006) |
-| **Astranis** | Network Software Intern | SF | today | [apply](https://job-boards.greenhouse.io/astranis/jobs/4705597006) |
-| **Astranis** | Software Developer – Network Software Intern | SF | today | [apply](https://job-boards.greenhouse.io/astranis/jobs/4705599006) |
-| **Corning** | Measurements Engineering Intern - Summer 2027 | Corning, NY | today | [apply](https://corningjobs.corning.com/job/Corning-Intern,-Measurements-Summer-2027-NY-14831/1433453700/?ats=successfactors) |
-| **Mill** | Computer Vision Intern - Multiple Teams | San Bruno, CA | today | [apply](https://job-boards.greenhouse.io/mill/jobs/4737741005) |
-| **Genesis Molecular AI** | Software Engineer Intern | San Mateo, CA / NYC | today | [apply](https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true) |
-| **Genesis Molecular AI** | Machine Learning Research Intern | SF / NYC | today | [apply](https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e/application?embed=true) |
-| **DRW** | Software Developer Intern | Chicago, IL | today | [apply](https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8220587) |
-| **Notion** | Mobile Software Engineer Intern | SF / NYC | today | [apply](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application?embed=true) |
-| **State Farm** | Data Science Intern - Magnet Program<br>Master's | Tempe, AZ | today | [apply](https://jobs.statefarm.com/jobs/46353?icims=1) |
-| **Boston Scientific** | Software Development Engineer Intern | Waltham, MA | today | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813567960) |
-| **Boston Scientific** | Software Development Engineer Co-op | Waltham, MA | today | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813567963) |
-| **Boston Scientific** | Software Engineer Intern - R&D | Arden Hills, MN | today | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813542900) |
-| **Lazard** | AI and Data Transformation Intern | NYC | today | [apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650) |
-| **PathAI** | Machine Learning Intern/Co-op<br>Master's/PhD | Boston, MA / Remote in USA / NYC | today | [apply](https://www.pathai.com/careers/8843495002?gh_jid=8843495002) |
-| **Manulife Financial** | Grit Co-op | Toronto, ON, Canada | 1d ago | [apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---GRIT_JR26080515) |
-| **Motorola** | CPE Software End-to-End Triage Intern - Summer 2027 | Plantation, FL | 1d ago | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165) |
-| **Biogen** | Data Science & AI Co-op - Portfolio Data & Digital Innovation<br>Master's | Remote in USA | 1d ago | [apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209) |
-| **Biogen** | Data Science Co-op | Remote in USA | 1d ago | [apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science_REQ24211) |
-| **Motorola** | Software Engineer Intern - Summer 2027 | Plantation, FL | 1d ago | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136) |
-| **NCR Voyix** | Software Engineer Fellow | Florida | 1d ago | [apply](https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Software-Engineer-Fellow_R0158700) |
-| **Radiance Technologies** | Software Engineer Intern | Dayton, OH | 1d ago | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102442) |
-| **Radiance Technologies** | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | 1d ago | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1) |
-| **Radiance Technologies** | Modeling Engineer Intern - Analytics - Simulation Sciences | Beavercreek, OH | 1d ago | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439) |
-| **Radiance Technologies** | Modeling Engineer Intern - Analytics and Simulation Sciences | Beavercreek, OH | 1d ago | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438) |
-| **Radiance Technologies** | Software Engineer Intern | Dayton, OH | 1d ago | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102445) |
-| **Radiance Technologies** | Software Engineer Intern | Dayton, OH | 1d ago | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102446) |
-| **Radiance Technologies** | Software Engineer Intern | Dayton, OH | 1d ago | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102443) |
-| **Radiance Technologies** | Modeling Engineer Intern - Analytics & Simulation Sciences - Mass | Beavercreek, OH | 1d ago | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102436) |
-| **Radiance Technologies** | Software Engineer Intern | Dayton, OH | 1d ago | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102444) |
-| **Radiance Technologies** | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | Beavercreek, OH | 1d ago | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102441) |
-| **Howmet Aerospace** | Artificial Intelligence Intern - AI | Pittsburgh, PA | 7d ago | [apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494) |
-| **ICF International** | Software Developer Intern | Reston, VA | 18d ago | [apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002) |
-| **The Hartford** | Software Engineer Intern - Tech & Data Program | Hartford, CT | 32d ago | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) |
-| **The Hartford** | Data Engineer Intern - Technology, Data, AI, and Operations | Hartford, CT | 32d ago | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 40d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **ByteDance** | Student Researcher - Large Language Model | San Jose, CA | 176d ago | [apply](https://jobs.bytedance.com/en/position/7623541709721307445/detail) |
-
-## New from Company portals (2)
+## New from SimplifyJobs (13)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Amazon** | Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC) | Seattle, Washington, USA | 1d ago | [apply](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) |
-| **Amazon** | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | Redmond, Washington, USA | 1d ago | [apply](https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) |
+| **Snowflake** | Software Engineer Intern - Database Engineering | Menlo Park, CA / Bellevue, WA | today | [apply](https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?embed=true) |
+| **Snowflake** | Software Engineer Intern<br>Master's/PhD | Menlo Park, CA / Bellevue, WA | today | [apply](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?embed=true) |
+| **Snowflake** | Software Engineer Intern - Core, Infrastructure & Security | Menlo Park, CA / Bellevue, WA | today | [apply](https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?embed=true) |
+| **Electronic Arts** | Gameplay Engineer Intern | LA | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245) |
+| **Intuitive Surgical** | AI Research Intern<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://jobs.smartrecruiters.com/Intuitive/744000151714759) |
+| **Astranis** | Software Developer Associate - Network Software | SF | today | [apply](https://job-boards.greenhouse.io/astranis/jobs/4705615006) |
+| **Marathon Petroleum** | Geographic Information Systems Intern/Co-op | Tulsa, OK | 1d ago | [apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411) |
+| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 3d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 41d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 41d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 41d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 41d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 41d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+
+## New from Company portals (4)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Snowflake** | Software Engineer Intern (AI / ML) - Spring 2027 | US-CA-Menlo Park | today | [apply](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca) |
+| **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | Washington, D.C. | 76d ago | [apply](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) |
+| **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, CA | 76d ago | [apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
+| **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | New York, NY | 76d ago | [apply](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) |
 
 ## Watched company portals
 
