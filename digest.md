@@ -1,27 +1,34 @@
 # Internship watcher — latest
 
-_Updated 2026-09-25 11:44 UTC · 11 new listings_
+_Updated 2026-09-25 17:03 UTC · 18 new listings_
 
-## New from SimplifyJobs (10)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **FOX** | Internship Program - Data Analytics | NYC | today | [apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033950) |
-| **Haleon** | Data & Governance Industrial Placement | London, UK | today | [apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/London-Bankside/Data---Governance-Industrial-Placement--2027--London--UK_547610) |
-| **Atlassian** | Data Scientist Intern - Multiple Teams<br>Master's | Seattle, WA | 1d ago | [apply](https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job) |
-| **LabCorp** | Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team | Remote in USA / Milwaukee, WI | 1d ago | [apply](https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615) |
-| **Highgate** | Revenue Management Intern - Summer 2027 | NYC | 10d ago | [apply](https://externalhourly-highgate.icims.com/jobs/82508/job?hub=7&mobile=true&needsRedirect=false) |
-| **Highgate** | Revenue Management Intern - Summer 2027 | SF | 10d ago | [apply](https://externalhourly-highgate.icims.com/jobs/82510/job?hub=7&mobile=true&needsRedirect=false) |
-| **Highgate** | Revenue Management Intern - Summer 2027 | Boston, MA | 10d ago | [apply](https://externalhourly-highgate.icims.com/jobs/82512/job?hub=7&mobile=true&needsRedirect=false) |
-| **Highgate** | Revenue Management Intern - Summer 2027 | Miami, FL | 10d ago | [apply](https://externalhourly-highgate.icims.com/jobs/82513/job?hub=7&mobile=true&needsRedirect=false) |
-| **Highgate** | Revenue Management Intern | LA | 10d ago | [apply](https://externalhourly-highgate.icims.com/jobs/82509/job?hub=7&mobile=true&needsRedirect=false) |
-| **Trane Technologies** | AI & Analytics Intern | Minneapolis, MN / Davidson, NC | 24d ago | [apply](https://careers.tranetechnologies.com/global/en/job/JR-7591) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (13)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **KLA** | Applications Engineering  Intern | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Applications-Engineering--Intern_2641540) |
+| **Cadillac Formula 1 Team** | Race Strategy Intern | Silverstone, Towcester, UK | today | [apply](https://apply.workable.com/cadillacf1team/j/E61499FF7A/apply) |
+| **Capital Group** | Data & Technology Summer Associate - Capital Group Rotational Program | London, UK | today | [apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/London/CAMPUS--Capital-Group-Rotational-Program---Data---Tech-Track-Summer-Associate--London--2027-_JR7451) |
+| **Royal Bank of Canada** | Capital Markets Analyst Intern | Toronto, ON, Canada | today | [apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000187318-2) |
+| **Lutron Electronics** | Software Engineering Co-op | Philadelphia, PA | today | [apply](https://careers.lutron.com/jobs/5616?icims=1) |
+| **First Citizens BancShares** | IT Intern - Software Developer | Raleigh, NC | today | [apply](https://firstcitizens.jibeapply.com/jobs/35709?icims=1) |
+| **Bluestaq** | Software Engineering Resident - Multiple Teams | Colorado Springs, CO | today | [apply](https://job-boards.greenhouse.io/bluestaq/jobs/4420189009) |
+| **Greenheck Group** | Application Developer Co-op | Schofield, WI | today | [apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721) |
+| **Barrios** | Data and Computer Engineering/Computer Science Intern | Houston, TX | today | [apply](https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false) |
+| **ICF International** | Software Developer Intern | Reston, VA | 18d ago | [apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 41d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 41d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 41d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **Magna** | Robotics AI Algorithm Intern - Research and Development<br>Master's/PhD | Troy, MI | 85d ago | [apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Robotics-AI-Algorithm--R-D-Summer-2026_R00232837) |
+
+## New from Company portals (5)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **GlobalFoundries** | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604609) |
+| **GlobalFoundries** | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604606) |
+| **GlobalFoundries** | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604601) |
+| **GlobalFoundries** | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604608) |
+| **GlobalFoundries** | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604628) |
 
 ## Watched company portals
 
