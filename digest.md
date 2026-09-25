@@ -1,33 +1,27 @@
 # Internship watcher — latest
 
-_Updated 2026-09-25 06:05 UTC · 17 new listings_
+_Updated 2026-09-25 11:44 UTC · 11 new listings_
 
-## New from SimplifyJobs (13)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Snowflake** | Software Engineer Intern - Database Engineering | Menlo Park, CA / Bellevue, WA | today | [apply](https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?embed=true) |
-| **Snowflake** | Software Engineer Intern<br>Master's/PhD | Menlo Park, CA / Bellevue, WA | today | [apply](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?embed=true) |
-| **Snowflake** | Software Engineer Intern - Core, Infrastructure & Security | Menlo Park, CA / Bellevue, WA | today | [apply](https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?embed=true) |
-| **Electronic Arts** | Gameplay Engineer Intern | LA | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245) |
-| **Intuitive Surgical** | AI Research Intern<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://jobs.smartrecruiters.com/Intuitive/744000151714759) |
-| **Astranis** | Software Developer Associate - Network Software | SF | today | [apply](https://job-boards.greenhouse.io/astranis/jobs/4705615006) |
-| **Marathon Petroleum** | Geographic Information Systems Intern/Co-op | Tulsa, OK | 1d ago | [apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411) |
-| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 3d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 41d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 41d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 41d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 41d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 41d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-
-## New from Company portals (4)
+## New from SimplifyJobs (10)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Snowflake** | Software Engineer Intern (AI / ML) - Spring 2027 | US-CA-Menlo Park | today | [apply](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca) |
-| **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | Washington, D.C. | 76d ago | [apply](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) |
-| **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, CA | 76d ago | [apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
-| **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | New York, NY | 76d ago | [apply](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) |
+| **FOX** | Internship Program - Data Analytics | NYC | today | [apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033950) |
+| **Haleon** | Data & Governance Industrial Placement | London, UK | today | [apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/London-Bankside/Data---Governance-Industrial-Placement--2027--London--UK_547610) |
+| **Atlassian** | Data Scientist Intern - Multiple Teams<br>Master's | Seattle, WA | 1d ago | [apply](https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job) |
+| **LabCorp** | Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team | Remote in USA / Milwaukee, WI | 1d ago | [apply](https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615) |
+| **Highgate** | Revenue Management Intern - Summer 2027 | NYC | 10d ago | [apply](https://externalhourly-highgate.icims.com/jobs/82508/job?hub=7&mobile=true&needsRedirect=false) |
+| **Highgate** | Revenue Management Intern - Summer 2027 | SF | 10d ago | [apply](https://externalhourly-highgate.icims.com/jobs/82510/job?hub=7&mobile=true&needsRedirect=false) |
+| **Highgate** | Revenue Management Intern - Summer 2027 | Boston, MA | 10d ago | [apply](https://externalhourly-highgate.icims.com/jobs/82512/job?hub=7&mobile=true&needsRedirect=false) |
+| **Highgate** | Revenue Management Intern - Summer 2027 | Miami, FL | 10d ago | [apply](https://externalhourly-highgate.icims.com/jobs/82513/job?hub=7&mobile=true&needsRedirect=false) |
+| **Highgate** | Revenue Management Intern | LA | 10d ago | [apply](https://externalhourly-highgate.icims.com/jobs/82509/job?hub=7&mobile=true&needsRedirect=false) |
+| **Trane Technologies** | AI & Analytics Intern | Minneapolis, MN / Davidson, NC | 24d ago | [apply](https://careers.tranetechnologies.com/global/en/job/JR-7591) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **KLA** | Applications Engineering  Intern | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Applications-Engineering--Intern_2641540) |
 
 ## Watched company portals
 
