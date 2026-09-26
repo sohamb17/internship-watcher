@@ -1,24 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-09-26 16:42 UTC · 8 new listings_
+_Updated 2026-09-26 19:43 UTC · 0 new listings_
 
-## New from SimplifyJobs (7)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Centene** | Analytics Intern | Florida | 8d ago | [apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 42d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 42d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 42d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 42d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 42d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 42d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-
-## New from Company portals (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Analog Devices** | FY27 Engineering Internship United Kingdom | United Kingdom Edinburgh SC Freer | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/FY27-Engineering-Internship-United-Kingdom_R266707) |
+Nothing new this run.
 
 ## Watched company portals
 
