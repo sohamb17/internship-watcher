@@ -1,20 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-09-26 01:54 UTC · 9 new listings_
+_Updated 2026-09-26 07:31 UTC · 4 new listings_
 
-## New from SimplifyJobs (9)
+## New from SimplifyJobs (4)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Moment Energy** | Data Scientist Co-op | Surrey, BC, Canada | today | [apply](https://job-boards.greenhouse.io/momentenergy/jobs/4421775009) |
-| **Waymo** | Perception Intern - Multiple Teams<br>Master's/PhD | Mountain View, CA | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8227411) |
-| **Tesla** | Mobile Application Software Engineer Intern - Energy Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284776) |
-| **Atlassian** | Research Intern | Seattle, WA | today | [apply](https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job) |
-| **The Aerospace Corporation** | Software Systems Engineer Intern - Acquisition | Chantilly, VA / El Segundo, CA | 1d ago | [apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431) |
-| **Charles Schwab** | Software Engineering Intern - Technology | Austin, TX / Westlake, TX / Ann Arbor, MI / Southlake, TX /  | 28d ago | [apply](https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 41d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 41d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 41d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **Flint** | Engineering Intern - Summer 2027 | SF | today | [apply](https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 42d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 42d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 42d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
 
 ## Watched company portals
 
