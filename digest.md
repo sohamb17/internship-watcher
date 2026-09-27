@@ -1,19 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-09-27 16:33 UTC · 8 new listings_
+_Updated 2026-09-27 17:40 UTC · 0 new listings_
 
-## New from SimplifyJobs (8)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 5d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
-| **RTX** | Aerospace Engineering Intern - APU Programs Support | Longueuil, QC, Canada | 26d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 43d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 43d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 43d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 43d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 43d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 43d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+Nothing new this run.
 
 ## Watched company portals
 
