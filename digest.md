@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-09-27 07:02 UTC · 0 new listings_
+_Updated 2026-09-27 12:56 UTC · 1 new listing_
 
-Nothing new this run.
+## New from SimplifyJobs (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Walmart** | Software Engineer 2 Intern | Bentonville, AR / Bellevue, WA / Sunnyvale, CA | 17d ago | [apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1) |
 
 ## Watched company portals
 
