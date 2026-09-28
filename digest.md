@@ -1,30 +1,33 @@
 # Internship watcher — latest
 
-_Updated 2026-09-28 19:36 UTC · 14 new listings_
+_Updated 2026-09-28 23:55 UTC · 17 new listings_
 
-## New from SimplifyJobs (6)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Cencora** | Software Intern | Remote in USA | 3d ago | [apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763) |
-| **Boston Scientific** | Data Science Co-op | Maple Grove, MN | 10d ago | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813600487) |
-| **General Motors** | Summer Intern - Performance Analysis | Concord, NC | 14d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985) |
-| **General Motors** | Race Strategy & Analytics Intern - IndyCar | Concord, NC | 14d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990) |
-| **General Motors** | Motorsports Strategy Intern - Sportscar Motorsports Strategy | Concord, NC | 14d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Sportscar-Motorsports-Strategy_JR-202619859) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 44d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-
-## New from Company portals (8)
+## New from SimplifyJobs (12)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **GlobalFoundries** | Process Integration Intern, ULP CMOS Technology Development (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Process-Integration-Intern--ULP-CMOS-Technology-Development--Summer-2027-_JR-2604358) |
-| **GlobalFoundries** | Technology Architecture Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Technology-Architecture-Engineering-Intern--Summer-2027-_JR-2604362) |
-| **GlobalFoundries** | CMOS FEOL Reliability Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/CMOS-FEOL-Reliability-Engineering-Intern--Summer-2027-_JR-2604360) |
-| **GlobalFoundries** | Silicon Photonics Reliability Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Reliability-Engineering-Intern--Summer-2027-_JR-2604258) |
-| **GlobalFoundries** | CMOS BEOL Reliability Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/CMOS-BEOL-Reliability-Engineering-Intern--Summer-2027-_JR-2604357) |
-| **Micron Technology** | Intern – Memory Systems Architecture & AI | San Jose, CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524) |
-| **Motorola Solutions** | Presales Systems Engineer - 2027 Internship | Linthicum, MD, More... | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R69140) |
-| **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Chicago, IL | 20d ago | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388) |
+| **CIBC** | Software/Application Developer Co-op | Toronto, ON, Canada | 6d ago | [apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461) |
+| **Wellington Management** | Investment Platform Technology Co-op | Boston, MA | 7d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902) |
+| **Wellington Management** | Corporate Access & Research Services Co-op | Boston, MA | 12d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Corporate-Access---Research-Services-Co-Op_R94844) |
+| **Wellington Management** | People Analytics Co-op - HR | Boston, MA | 12d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/HR--People-Analytics-Co-Op_R94815) |
+| **Wellington Management** | Portfolio Reference Data Analyst Co-op | Boston, MA | 12d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829-1) |
+| **Barr** | GIS Specialist Intern | Salt Lake City, UT | 18d ago | [apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 44d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 44d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 44d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 44d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 44d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **T. Rowe Price** | Technology and Data Intern | Owings Mills, MD / Baltimore, MD | 67d ago | [apply](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) |
+
+## New from Company portals (5)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Western Digital** | Winter 2027 Intern/Co-op Development Engineer | Rochester, MN, United States | today | [apply](https://jobs.smartrecruiters.com/WesternDigital/744000152261929) |
+| **GlobalFoundries** | Environmental Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Environmental-Engineering-Intern--Summer-2027-_JR-2604239) |
+| **GlobalFoundries** | Technology Development Intern, RF GaN (Summer 2027) | USA - Vermont - Essex Junction | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Technology-Development-Intern--RF-GaN--Summer-2027-_JR-2604282) |
+| **Micron Technology** | Intern -  HBM Design Development Technical Leadership (DDTL) | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern----HBM-Design-Development-Technical-Leadership--DDTL-_JR112565) |
+| **Lyft** | Applied Scientist Intern (Summer 2027) | San Francisco, CA | — | [apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
 
 ## Watched company portals
 
