@@ -1,18 +1,30 @@
 # Internship watcher — latest
 
-_Updated 2026-09-28 11:57 UTC · 2 new listings_
+_Updated 2026-09-28 19:36 UTC · 14 new listings_
 
-## New from SimplifyJobs (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Boston Scientific** | Data Engineer Intern | Maple Grove, MN | 6d ago | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813501949) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (6)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **GlobalFoundries** | Reliability Test Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Reliability-Test-Engineering-Intern--Summer-2027-_JR-2604361) |
+| **Cencora** | Software Intern | Remote in USA | 3d ago | [apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763) |
+| **Boston Scientific** | Data Science Co-op | Maple Grove, MN | 10d ago | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813600487) |
+| **General Motors** | Summer Intern - Performance Analysis | Concord, NC | 14d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985) |
+| **General Motors** | Race Strategy & Analytics Intern - IndyCar | Concord, NC | 14d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990) |
+| **General Motors** | Motorsports Strategy Intern - Sportscar Motorsports Strategy | Concord, NC | 14d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Sportscar-Motorsports-Strategy_JR-202619859) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 44d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+
+## New from Company portals (8)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **GlobalFoundries** | Process Integration Intern, ULP CMOS Technology Development (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Process-Integration-Intern--ULP-CMOS-Technology-Development--Summer-2027-_JR-2604358) |
+| **GlobalFoundries** | Technology Architecture Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Technology-Architecture-Engineering-Intern--Summer-2027-_JR-2604362) |
+| **GlobalFoundries** | CMOS FEOL Reliability Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/CMOS-FEOL-Reliability-Engineering-Intern--Summer-2027-_JR-2604360) |
+| **GlobalFoundries** | Silicon Photonics Reliability Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Reliability-Engineering-Intern--Summer-2027-_JR-2604258) |
+| **GlobalFoundries** | CMOS BEOL Reliability Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/CMOS-BEOL-Reliability-Engineering-Intern--Summer-2027-_JR-2604357) |
+| **Micron Technology** | Intern – Memory Systems Architecture & AI | San Jose, CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524) |
+| **Motorola Solutions** | Presales Systems Engineer - 2027 Internship | Linthicum, MD, More... | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R69140) |
+| **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Chicago, IL | 20d ago | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388) |
 
 ## Watched company portals
 
