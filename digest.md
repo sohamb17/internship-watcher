@@ -1,17 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-09-28 05:12 UTC · 6 new listings_
+_Updated 2026-09-28 11:57 UTC · 2 new listings_
 
-## New from SimplifyJobs (6)
+## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 44d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 44d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 44d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 44d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 44d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 44d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **Boston Scientific** | Data Engineer Intern | Maple Grove, MN | 6d ago | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813501949) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **GlobalFoundries** | Reliability Test Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Reliability-Test-Engineering-Intern--Summer-2027-_JR-2604361) |
 
 ## Watched company portals
 
