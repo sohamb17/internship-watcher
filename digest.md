@@ -1,33 +1,27 @@
 # Internship watcher — latest
 
-_Updated 2026-09-28 23:55 UTC · 17 new listings_
+_Updated 2026-09-29 05:34 UTC · 11 new listings_
 
-## New from SimplifyJobs (12)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **CIBC** | Software/Application Developer Co-op | Toronto, ON, Canada | 6d ago | [apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461) |
-| **Wellington Management** | Investment Platform Technology Co-op | Boston, MA | 7d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902) |
-| **Wellington Management** | Corporate Access & Research Services Co-op | Boston, MA | 12d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Corporate-Access---Research-Services-Co-Op_R94844) |
-| **Wellington Management** | People Analytics Co-op - HR | Boston, MA | 12d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/HR--People-Analytics-Co-Op_R94815) |
-| **Wellington Management** | Portfolio Reference Data Analyst Co-op | Boston, MA | 12d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829-1) |
-| **Barr** | GIS Specialist Intern | Salt Lake City, UT | 18d ago | [apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | NYC | 44d ago | [apply](https://higher.gs.com/roles/171564?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 44d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 44d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Birmingham, UK | 44d ago | [apply](https://higher.gs.com/roles/170637?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 44d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
-| **T. Rowe Price** | Technology and Data Intern | Owings Mills, MD / Baltimore, MD | 67d ago | [apply](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) |
-
-## New from Company portals (5)
+## New from SimplifyJobs (9)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Western Digital** | Winter 2027 Intern/Co-op Development Engineer | Rochester, MN, United States | today | [apply](https://jobs.smartrecruiters.com/WesternDigital/744000152261929) |
-| **GlobalFoundries** | Environmental Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Environmental-Engineering-Intern--Summer-2027-_JR-2604239) |
-| **GlobalFoundries** | Technology Development Intern, RF GaN (Summer 2027) | USA - Vermont - Essex Junction | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Technology-Development-Intern--RF-GaN--Summer-2027-_JR-2604282) |
-| **Micron Technology** | Intern -  HBM Design Development Technical Leadership (DDTL) | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern----HBM-Design-Development-Technical-Leadership--DDTL-_JR112565) |
-| **Lyft** | Applied Scientist Intern (Summer 2027) | San Francisco, CA | — | [apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
+| **H&R Block** | Machine Learning Intern | Kansas City, MO | today | [apply](https://careers-hrblock.icims.com/jobs/76992/job?mobile=true&needsRedirect=false) |
+| **Boston Scientific** | Software Engineer Intern - Interns/Graduates | Maple Grove, MN | today | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813584985) |
+| **Cloudflare** | Software Engineer Intern | Austin, TX | today | [apply](https://boards.greenhouse.io/cloudflare/jobs/8199958) |
+| **TC Energy** | Measurement Services Intern | Charleston, WV | 1d ago | [apply](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Intern--Measurement-Services_JR-10976) |
+| **The Aerospace Corporation** | Software Engineering Intern - Software Tools and Assurance<br>Master's | El Segundo, CA | 1d ago | [apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753) |
+| **Wellington Management** | Investment Strategy Technology Co-op | Boston, MA | 13d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Investment-Strategy-Technology-Co-Op_R94831) |
+| **AArete** | Data Architecture & Engineering Intern | Chicago, IL | 20d ago | [apply](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 45d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Epic Games** | Machine Learning Intern - Special Projects - Epic Research Group<br>Master's/PhD | Montreal, QC, Canada | 52d ago | [apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
+
+## New from Company portals (2)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **GlobalFoundries** | Field Application Engineering Intern (Summer 2027) | USA   Texas   Austin | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Field-Application-Engineering-Intern--Summer-2027-_JR-2604220) |
+| **Micron Technology** | Intern - ATE Process Engineer ID1 | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ATE-Process-Engineer-ID1_JR113196) |
 
 ## Watched company portals
 
