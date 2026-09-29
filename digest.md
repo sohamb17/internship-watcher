@@ -1,27 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-09-29 05:34 UTC · 11 new listings_
+_Updated 2026-09-29 11:32 UTC · 10 new listings_
 
-## New from SimplifyJobs (9)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **H&R Block** | Machine Learning Intern | Kansas City, MO | today | [apply](https://careers-hrblock.icims.com/jobs/76992/job?mobile=true&needsRedirect=false) |
-| **Boston Scientific** | Software Engineer Intern - Interns/Graduates | Maple Grove, MN | today | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813584985) |
-| **Cloudflare** | Software Engineer Intern | Austin, TX | today | [apply](https://boards.greenhouse.io/cloudflare/jobs/8199958) |
-| **TC Energy** | Measurement Services Intern | Charleston, WV | 1d ago | [apply](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Intern--Measurement-Services_JR-10976) |
-| **The Aerospace Corporation** | Software Engineering Intern - Software Tools and Assurance<br>Master's | El Segundo, CA | 1d ago | [apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753) |
-| **Wellington Management** | Investment Strategy Technology Co-op | Boston, MA | 13d ago | [apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Investment-Strategy-Technology-Co-Op_R94831) |
-| **AArete** | Data Architecture & Engineering Intern | Chicago, IL | 20d ago | [apply](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 45d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Epic Games** | Machine Learning Intern - Special Projects - Epic Research Group<br>Master's/PhD | Montreal, QC, Canada | 52d ago | [apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
-
-## New from Company portals (2)
+## New from SimplifyJobs (10)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **GlobalFoundries** | Field Application Engineering Intern (Summer 2027) | USA   Texas   Austin | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Field-Application-Engineering-Intern--Summer-2027-_JR-2604220) |
-| **Micron Technology** | Intern - ATE Process Engineer ID1 | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ATE-Process-Engineer-ID1_JR113196) |
+| **Boston Scientific** | Software Development Engineer Co-op | Waltham, MA | today | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813674232) |
+| **W.W. Grainger** | Business Analyst Intern | Green Bay, WI | today | [apply](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors) |
+| **The Walt Disney Company** | Marketplace & Portfolio Insights Intern - Spring 2027 | NYC | today | [apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Marketplace---Portfolio-Insights-Intern--Spring-2027_10158498-1) |
+| **Thrivent** | Application Engineer Intern - Investments | Minneapolis, MN | today | [apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2) |
+| **The Walt Disney Company** | Marketplace & Portfolio Insights Intern - Spring 2027 | NYC | today | [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Marketplace---Portfolio-Insights-Intern--Spring-2027_10158498) |
+| **Verizon Communications** | Data Scientist Intern - Fiber Engineering & Operations | Irving, TX | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386) |
+| **Verizon Communications** | Data Science Intern - Network and Technology | Irving, TX | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384) |
+| **Verizon Communications** | Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement | Irving, TX | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387) |
+| **Rodan Energy Solutions** | Data Science Co-op | Mississauga, ON, Canada | 7d ago | [apply](https://rodanenergysolutionsinc.applytojob.com/apply/Bn4sqYBZPe/Data-Science-Coop-Student-Winter-2027) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 45d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
 
 ## Watched company portals
 
