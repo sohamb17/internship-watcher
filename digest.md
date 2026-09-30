@@ -1,35 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-09-30 06:36 UTC · 19 new listings_
+_Updated 2026-09-30 12:58 UTC · 3 new listings_
 
-## New from SimplifyJobs (14)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Robinhood** | Data Science Intern | Menlo Park, CA | today | [apply](https://boards.greenhouse.io/robinhood/jobs/8241738) |
-| **Tesla** | Software Developer Intern - Integration Tools | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284924) |
-| **Apple** | Data Scientist Co-op - Sales Business Analytics | Toronto, ON, Canada | today | [apply](https://jobs.apple.com/en-us/details/200686205) |
-| **AMCA** | Software Engineer Intern | El Segundo, CA | today | [apply](https://job-boards.greenhouse.io/amca/jobs/4425120009) |
-| **Invesco** | Early Career Intern - Technology | Atlanta, GA | 1d ago | [apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1) |
-| **RTX** | Software Engineer Co-op - Spring/Summer 2027 | Cedar Rapids, IA | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384) |
-| **RTX** | Software Engineer Intern | Cedar Rapids, IA | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388) |
-| **RTX** | Software Engineer Intern | Richardson, TX | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411) |
-| **TD Bank** | Data Analytics & Insights Intern Co-op | Montreal, QC, Canada / Toronto, ON, Canada | 1d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914) |
-| **Itron** | Data Science Intern - Distributed Intelligence | Liberty Lake, WA | 2d ago | [apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) |
-| **Itron** | Data Science Intern - Distributed Intelligence | Liberty Lake, WA | 2d ago | [apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2) |
-| **Mastercard** | Software Engineer Intern | O'Fallon, MO / Arlington County, Arlington, VA / NYC / Atlan | 37d ago | [apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1) |
-| **Block** | Applied Research Intern PhD / Graduate Co-op<br>Master's/PhD | Oakland, CA | 112d ago | [apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| **Block** | Applied Research Intern Co-op<br>Master's/PhD | Toronto, ON, Canada | 112d ago | [apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
-
-## New from Company portals (5)
+## New from SimplifyJobs (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Marvell** | Machine Learning Engineer Intern, BS/MS - Summer 2027 | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1) |
-| **Amazon** | 2027 Applied Science Internship - United States, PhD Student Science Recruiting Frontier AI & Robotics, Frontier AI & Robotics | San Francisco, California, USA | today | [apply](https://www.amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics) |
-| **Amazon** | 2027 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics | San Francisco, California, USA | today | [apply](https://www.amazon.jobs/en/jobs/10564599/2027-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics) |
-| **Amazon** | 2027 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting | Seattle, Washington, USA | today | [apply](https://www.amazon.jobs/en/jobs/10564598/2027-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) |
-| **Amazon** | 2027 Summer Applied Science Internship - Information & Knowledge Management (Machine Learning)- United States, PhD Student Science Recruiting | Seattle, Washington, USA | today | [apply](https://www.amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
+| **H&R Block** | Financial Services Data Analytics Intern | Kansas City, MO | 1d ago | [apply](https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false) |
+| **POET** | Data Engineer Intern | Sioux Falls, SD | 2d ago | [apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) |
+| **POET** | Software Developer Intern | Sioux Falls, SD | 2d ago | [apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1) |
 
 ## Watched company portals
 
