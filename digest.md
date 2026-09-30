@@ -1,36 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-09-30 18:23 UTC · 20 new listings_
+_Updated 2026-09-30 22:32 UTC · 7 new listings_
 
-## New from SimplifyJobs (9)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Wellmark** | Software Engineer Intern - Metadata Enablement Team | Des Moines, IA | today | [apply](https://jobs.smartrecruiters.com/WellmarkInc/744000152679699) |
-| **MFS** | Junior Software Engineer Co-op | Boston, MA | today | [apply](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Jr-Software-Engineer-Co-op--January---June-_MFS-231979) |
-| **CACI** | Software/Network Engineering Intern | Florham Park, NJ | today | [apply](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895) |
-| **MFS** | Investment Data Engineer Co-op | Boston, MA | today | [apply](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Investment-Data-Engineer-Co-op--January---June-_MFS-231978) |
-| **First Citizens BancShares** | IT Intern - Software Developer | Raleigh, NC | 5d ago | [apply](https://firstcitizens.jibeapply.com/jobs/35709?icims=1) |
-| **Athene** | Software Developer Intern | West Des Moines, IA | 12d ago | [apply](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125) |
-| **Live Oak Bank** | Architecture/Engineering Intern | Wilmington, NC | 14d ago | [apply](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630) |
-| **American Express** | Software Engineering Apprentice - Technology | London, UK | 29d ago | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25022281) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 46d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-
-## New from Company portals (11)
+## New from Company portals (7)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Intel** | AI SOC Power Delivery Pathfinding PhD Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538) |
-| **KLA** | Product Development Engineer Intern | Milpitas CA | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521) |
-| **KLA** | Product Development Engineer Intern | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Product-Development-Engineer-Intern_2641772-1) |
-| **KLA** | Software Engineering Intern | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern_2641581) |
-| **KLA** | Software Engineering Intern | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572) |
-| **KLA** | Product Development Engineering Intern | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562) |
-| **KLA** | Optical Engineer Intern | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Optical-Engineer-Intern_2641712) |
-| **Marvell** | Test Engineering Intern, MS - Summer 2027 | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002) |
-| **Marvell** | Firmware Engineer Intern, BS - Summer 2027 | Santa Clara CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1) |
-| **Marvell** | Product Engineer Intern, BS - Summer 2027 | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839) |
-| **Amazon** | Software Development Engineer Intern, AWS Database - 2027 (US) | Seattle, Washington, USA | today | [apply](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) |
+| **Abridge** | Member of Technical Staff, Intern (Spring 2027) | SF Office | today | [apply](https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e) |
+| **Intel** | GPU Physical Design Engineer Intern | Costa Rica, San Jose | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532) |
+| **KLA** | Mechatronics/Systems Engineering Internship | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532) |
+| **KLA** | Mechatronics Engineering Internship | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518) |
+| **NVIDIA** | PhD Research Intern, Programming Systems - 2027 | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379) |
+| **Ramp** | Applied Scientist Intern | New York, NY (HQ) | 15d ago | [apply](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) |
+| **Stripe** | High School Internship, Software Engineering (Summer 2027) | Seattle, San Francisco | — | [apply](https://stripe.com/jobs/search?gh_jid=8241260) |
 
 ## Watched company portals
 
