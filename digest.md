@@ -1,34 +1,39 @@
 # Internship watcher — latest
 
-_Updated 2026-10-01 15:23 UTC · 18 new listings_
+_Updated 2026-10-01 20:28 UTC · 23 new listings_
 
-## New from SimplifyJobs (10)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Microsoft** | Software Engineer Intern - Azure Databases | Redmond, WA | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393557002476) |
-| **Cummins** | Data Analyst Placement Student | Sandwich, UK | today | [apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437236) |
-| **Cummins** | Service Engineer Intern - Service Engineering - Digital and Data Analytics | Huddersfield, UK | today | [apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2438342) |
-| **Howmet Aerospace** | Artificial Intelligence Intern - AI | Pittsburgh, PA | 14d ago | [apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494) |
-| **AfterQuery** | Research Fellow<br>Master's/PhD/JD/MD | SF | 15d ago | [apply](https://jobs.ashbyhq.com/AfterQuery/b1794d2c-fdbf-4165-a244-9e3ccc9cc800/application?embed=true) |
-| **Cone Health** | Healthcare Innovation Intern - AI | Greensboro, NC | 19d ago | [apply](https://careers.conehealth.com/us/en/job/JR155166) |
-| **Travelers** | Engineering Development Intern | Hunt Valley, Cockeysville, MD / Hartford, CT / Atlanta, GA / | 30d ago | [apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270) |
-| **Tesla** | Backend Engineer Intern - Infrastructure Engineering | Fremont, CA | 34d ago | [apply](https://www.tesla.com/careers/search/job/281467) |
-| **Ema** | AI Application Engineer | SF | 43d ago | [apply](https://jobs.ashbyhq.com/ema/ab094389-25ec-417b-b646-06969d166d06/application?embed=true) |
-| **Microsoft** | Software Engineer Intern - CoreAI | Redmond, WA | 59d ago | [apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
-
-## New from Company portals (8)
+## New from SimplifyJobs (5)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Cisco** | Mechanical Engineer I (Intern) - United States | San Jose, California, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Mechanical-Engineer-I--Intern----United-States_2026028) |
-| **Cisco** | Hardware Engineer II (Co-op) - United States | San Jose, California, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375) |
-| **Cisco** | Hardware Engineer I (Co-op) - United States | San Jose, California, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-I--Co-op----United-States_2025369) |
-| **Cisco** | Software Engineer II (Co-op) - United States | Maynard, Massachusetts, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923) |
-| **Cisco** | Software Engineer I (Co-op) - United States | Maynard, Massachusetts, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920) |
-| **Micron Technology** | Intern - ATE Process Engineer ID1 | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer-ID1_JR113953) |
-| **Stripe** | Data Analyst, Intern | New York, Seattle, South San Francisco HQ | — | [apply](https://stripe.com/jobs/search?gh_jid=8194291) |
-| **Stripe** | PhD Data Scientist, Intern | New York, Seattle, South San Francisco HQ | — | [apply](https://stripe.com/jobs/search?gh_jid=8194283) |
+| **RTX** | Software Engineer 1 | Annapolis, MD | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineer-I--Onsite-_01873236) |
+| **RTX** | Software Engineer Intern | Annapolis, MD | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235) |
+| **Royal Bank of Canada** | AI Engineer Co-op - Global Equities | Toronto, ON, Canada | 17d ago | [apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1) |
+| **Lowe's** | Software Engineer Intern | Charlotte, NC | 17d ago | [apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576) |
+| **Cone Health** | Healthcare Innovation Intern - AI | Salt Lake City, UT | 20d ago | [apply](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/White-Box/Healthcare-Innovation--AI--Intern_JR155166) |
+
+## New from Company portals (18)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Abridge** | Member of Technical Staff, Intern (Fall 2026) | SF Office | today | [apply](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883) |
+| **Cisco** | Software Consulting Engineer I (Intern) United States | USA-RESEARCH TRIANGLE PARK | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180) |
+| **GlobalFoundries** | Field Application Engineering Intern (Summer 2027) | USA   California   Santa Clara | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---California---Santa-Clara/Field-Application-Engineering-Intern--Summer-2027-_JR-2604222) |
+| **Intel** | AI Software Technical Intern | US, California, Santa Clara | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544) |
+| **Intel** | Software Engineering PhD Intern New 2027 | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) |
+| **Marvell** | Firmware Engineer Intern, MS - Summer 2027 | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) |
+| **Micron Technology** | Intern - Compute System Compatibility Engineer | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627) |
+| **Micron Technology** | Intern - Semiconductor Research & Technology Development | Albany, NY | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876) |
+| **Micron Technology** | Intern - ATE Process Engineer ID1 | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ATE-Process-Engineer-ID1_JR113196) |
+| **Pinterest** | Machine Learning Intern 2027 (Toronto) | Toronto, ON, CA | — | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) |
+| **Pinterest** | Master's Data Science Internship 2027 (USA) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; N | — | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) |
+| **Pinterest** | Master's Machine Learning Internship 2027 (USA) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; N | — | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) |
+| **Pinterest** | PhD Data Science Internship 2027 (USA) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; N | — | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) |
+| **Pinterest** | PhD Machine Learning Internship 2027 (USA) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; N | — | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) |
+| **Pinterest** | Software Engineering Intern 2027 (Toronto) | Toronto, ON, CA | — | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) |
+| **Pinterest** | Software Engineer Intern 2027 (USA) | San Francisco, CA, US; Remote, US | — | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
+| **Pinterest** | UX Engineering Intern (San Francisco) | San Francisco, CA, US | — | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140210) |
+| **Point72** | Micro-Intern: Research Technology Developer (IAP) | New York | — | [apply](https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002) |
 
 ## Watched company portals
 
