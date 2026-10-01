@@ -1,30 +1,34 @@
 # Internship watcher — latest
 
-_Updated 2026-10-01 07:42 UTC · 14 new listings_
+_Updated 2026-10-01 15:23 UTC · 18 new listings_
 
-## New from SimplifyJobs (13)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Tesla** | Commercial UI Software Engineer Intern | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285202) |
-| **Tesla** | Data Engineer Intern - Data Engineer - Applications Engineering | Fremont, CA | today | [apply](https://www.tesla.com/careers/search/job/285179) |
-| **Rivian** | Software Engineer Intern Co-op - Applied AI<br>Master's/PhD | Palo Alto, CA | today | [apply](https://careers.rivian.com/jobs/33984?icims=1) |
-| **Tesla** | Data Engineer Intern - Data Engineering & Business Intelligence | Fremont, CA | today | [apply](https://www.tesla.com/careers/search/job/285291) |
-| **Rivian** | Engineer Intern Co-op - ML Compilers<br>Master's/PhD | Palo Alto, CA | today | [apply](https://careers.rivian.com/jobs/33829?icims=1) |
-| **Stripe** | Software Engineer Intern | Seattle, WA / SF | today | [apply](https://stripe.com/jobs/search?gh_jid=8241260) |
-| **Southwest Airlines** | Digital Testing & Optimization Intern | Dallas, TX | today | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Testing---Optimization-Internship_R-2026-73012) |
-| **Southwest Airlines** | Customer Experience and Analytics Data Science Intern | Dallas, TX | today | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Customer-Experience---Analytics-Data-Science-Internship_R-2026-73023) |
-| **Southwest Airlines** | Safety Analytics Intern | Dallas, TX | today | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Safety-Analytics-Summer-2027-Intern_R-2026-73047) |
-| **Southwest Airlines** | Sales Analytics Intern | Dallas, TX | today | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Sales-Analytics-Internship_R-2026-73022) |
-| **Southwest Airlines** | Software Engineer Intern | Dallas, TX | today | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270) |
-| **Southwest Airlines** | Data Engineer Intern | Dallas, TX | today | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271) |
-| **Assurant** | Product Analyst Intern - Housing | Remote in USA | 1d ago | [apply](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (10)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Marvell** | Intern, Software QA Engineer | IN - Pune | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/IN---Pune/Intern--Software-QA-Engineer_2603892) |
+| **Microsoft** | Software Engineer Intern - Azure Databases | Redmond, WA | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393557002476) |
+| **Cummins** | Data Analyst Placement Student | Sandwich, UK | today | [apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437236) |
+| **Cummins** | Service Engineer Intern - Service Engineering - Digital and Data Analytics | Huddersfield, UK | today | [apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2438342) |
+| **Howmet Aerospace** | Artificial Intelligence Intern - AI | Pittsburgh, PA | 14d ago | [apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494) |
+| **AfterQuery** | Research Fellow<br>Master's/PhD/JD/MD | SF | 15d ago | [apply](https://jobs.ashbyhq.com/AfterQuery/b1794d2c-fdbf-4165-a244-9e3ccc9cc800/application?embed=true) |
+| **Cone Health** | Healthcare Innovation Intern - AI | Greensboro, NC | 19d ago | [apply](https://careers.conehealth.com/us/en/job/JR155166) |
+| **Travelers** | Engineering Development Intern | Hunt Valley, Cockeysville, MD / Hartford, CT / Atlanta, GA / | 30d ago | [apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-52270) |
+| **Tesla** | Backend Engineer Intern - Infrastructure Engineering | Fremont, CA | 34d ago | [apply](https://www.tesla.com/careers/search/job/281467) |
+| **Ema** | AI Application Engineer | SF | 43d ago | [apply](https://jobs.ashbyhq.com/ema/ab094389-25ec-417b-b646-06969d166d06/application?embed=true) |
+| **Microsoft** | Software Engineer Intern - CoreAI | Redmond, WA | 59d ago | [apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
+
+## New from Company portals (8)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Cisco** | Mechanical Engineer I (Intern) - United States | San Jose, California, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Mechanical-Engineer-I--Intern----United-States_2026028) |
+| **Cisco** | Hardware Engineer II (Co-op) - United States | San Jose, California, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375) |
+| **Cisco** | Hardware Engineer I (Co-op) - United States | San Jose, California, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-I--Co-op----United-States_2025369) |
+| **Cisco** | Software Engineer II (Co-op) - United States | Maynard, Massachusetts, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923) |
+| **Cisco** | Software Engineer I (Co-op) - United States | Maynard, Massachusetts, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920) |
+| **Micron Technology** | Intern - ATE Process Engineer ID1 | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer-ID1_JR113953) |
+| **Stripe** | Data Analyst, Intern | New York, Seattle, South San Francisco HQ | — | [apply](https://stripe.com/jobs/search?gh_jid=8194291) |
+| **Stripe** | PhD Data Scientist, Intern | New York, Seattle, South San Francisco HQ | — | [apply](https://stripe.com/jobs/search?gh_jid=8194283) |
 
 ## Watched company portals
 
