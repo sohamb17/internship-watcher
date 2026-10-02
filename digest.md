@@ -1,18 +1,30 @@
 # Internship watcher — latest
 
-_Updated 2026-10-02 12:24 UTC · 7 new listings_
+_Updated 2026-10-02 18:00 UTC · 14 new listings_
 
-## New from SimplifyJobs (7)
+## New from SimplifyJobs (9)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Google** | Forward Deployed Engineer Intern | London, UK | today | [apply](https://www.google.com/about/careers/applications/jobs/results/135156989620560582) |
-| **Symphony** | Software Developer Intern | Belfast, UK | today | [apply](https://symphony.com/company/apply?gh_jid=8121113) |
-| **Mindex** | Software Engineer Co-op | Rochester, NY | today | [apply](https://apply.workable.com/mindex/j/84B10DB922/apply) |
-| **General Motors** | AI/ML Engineer Intern - Autonomous Vehicle: Simulation | Sunnyvale, CA | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508) |
-| **General Motors** | Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation | Sunnyvale, CA | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503) |
-| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 10d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
-| **Intropic** | Quantrepreneur - Quantitative Development | London, UK | 192d ago | [apply](https://jobs.lever.co/intropic/c31c65cc-178d-4a50-bc6a-4f4b057f4381/apply) |
+| **Definity Financial** | Operations Analyst Co-op Intern | Toronto, ON, Canada / Waterloo, ON, Canada / Ottawa, ON, Can | today | [apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410) |
+| **Gas South** | Analyst Intern | Atlanta, GA | today | [apply](https://job-boards.greenhouse.io/gassouth/jobs/8247586) |
+| **Vanguard** | College to Corporate IT Intern - Application Development | Malvern, PA | today | [apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757) |
+| **Regeneron Pharmaceuticals** | Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT | Tarrytown, NY | today | [apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1) |
+| **MFS** | Enterprise Data Management Intern | Boston, MA | today | [apply](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Enterprise-Data-Management-Intern--June---August-_MFS-231987) |
+| **Great American Insurance Company** | Enterprise Analytics Intern | Cincinnati, OH | today | [apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650) |
+| **Regeneron Pharmaceuticals** | Precision Medicine Operations Co-op | Armonk, NY | today | [apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) |
+| **Northrop Grumman** | College Technical Intern | McLean, VA | today | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146) |
+| **GE Healthcare** | Engineering Development Program Intern - Software | Waukesha, WI | 74d ago | [apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) |
+
+## New from Company portals (5)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Harvey** | Software Engineering Intern (Summer 2027) | New York | today | [apply](https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d) |
+| **Harvey** | Software Engineering Intern (Summer 2027) | San Francisco | today | [apply](https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7) |
+| **NVIDIA** | PhD Research Intern, Embodied and Agentic AI - 2027 | US CA Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792) |
+| **Amazon** | Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA) | Seattle, Washington, USA | today | [apply](https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) |
+| **Anduril** | 2027 Industrial Engineer Intern | Ashville, Ohio, United States; Costa Mesa, California, Unite | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007) |
 
 ## Watched company portals
 
