@@ -1,19 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-10-02 06:05 UTC · 3 new listings_
+_Updated 2026-10-02 12:24 UTC · 7 new listings_
 
-## New from SimplifyJobs (2)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Waymo** | AI-driven ML Performance Engineering Intern - MS/PhD<br>Master's/PhD | Mountain View, CA | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8248060) |
-| **Walleye Capital** | Special Projects Developer Intern | NYC | today | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (7)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Squarepoint Capital** | Equities Analyst Summer Internship Program | New York, London | — | [apply](https://www.squarepoint-capital.com/open-opportunities?id=8174630&gh_jid=8174630) |
+| **Google** | Forward Deployed Engineer Intern | London, UK | today | [apply](https://www.google.com/about/careers/applications/jobs/results/135156989620560582) |
+| **Symphony** | Software Developer Intern | Belfast, UK | today | [apply](https://symphony.com/company/apply?gh_jid=8121113) |
+| **Mindex** | Software Engineer Co-op | Rochester, NY | today | [apply](https://apply.workable.com/mindex/j/84B10DB922/apply) |
+| **General Motors** | AI/ML Engineer Intern - Autonomous Vehicle: Simulation | Sunnyvale, CA | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508) |
+| **General Motors** | Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation | Sunnyvale, CA | 1d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503) |
+| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 10d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
+| **Intropic** | Quantrepreneur - Quantitative Development | London, UK | 192d ago | [apply](https://jobs.lever.co/intropic/c31c65cc-178d-4a50-bc6a-4f4b057f4381/apply) |
 
 ## Watched company portals
 
