@@ -1,8 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-10-03 19:46 UTC · 0 new listings_
+_Updated 2026-10-03 22:49 UTC · 7 new listings_
 
-Nothing new this run.
+## New from SimplifyJobs (2)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Northern Trust** | Data & Analytics Office Intern | Chicago, IL | today | [apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 49d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+
+## New from Company portals (5)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Coinbase** | Analytics Engineer Intern | Hybrid - New York, NY | — | [apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
+| **Coinbase** | Data Engineer Intern | Hybrid - San Francisco, CA | — | [apply](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
+| **Coinbase** | People Analytics Intern | Hybrid - New York, NY | — | [apply](https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517) |
+| **Coinbase** | Software Engineer Intern | Hybrid - San Francisco, CA | — | [apply](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
+| **Robinhood** | Data Science Intern (Summer 2027) | Menlo Park, CA | — | [apply](https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738) |
 
 ## Watched company portals
 
