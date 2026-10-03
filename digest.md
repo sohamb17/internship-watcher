@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-10-03 16:38 UTC · 1 new listing_
+_Updated 2026-10-03 19:46 UTC · 0 new listings_
 
-## New from SimplifyJobs (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **First Citizens BancShares** | Summer Intern - Sales Performance & Analytics Strategy | Raleigh, NC | today | [apply](https://firstcitizens.jibeapply.com/jobs/35826?icims=1) |
+Nothing new this run.
 
 ## Watched company portals
 
