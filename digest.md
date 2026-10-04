@@ -1,60 +1,53 @@
 # Internship watcher — latest
 
-_Updated 2026-10-04 14:45 UTC · 49 new listings_
+_Updated 2026-10-04 16:34 UTC · 42 new listings_
 
-## New from SimplifyJobs (49)
+## New from SimplifyJobs (42)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **CoStar Group** | Associate Software Engineer Intern | Sunnyvale, CA | 3d ago | [apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942) |
-| **John Deere** | Software Engineer Part-Time Student | Champaign, IL | 4d ago | [apply](https://johndeere.eightfold.ai/careers/job/137483583981) |
-| **CACI** | Software Engineer Intern | Omaha, NE | 5d ago | [apply](https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776) |
-| **First Citizens BancShares** | IT Intern - Software Developer | Raleigh, NC | 9d ago | [apply](https://firstcitizens.jibeapply.com/jobs/35709?icims=1) |
-| **State Farm** | Software Developer Intern - HR&D | Tempe, AZ / Dunwoody, GA / Richardson, TX / Bloomington, IL | 10d ago | [apply](https://jobs.statefarm.com/jobs/45689?icims=1) |
-| **Rippling** | Full Stack Software Engineer Intern | Seattle, WA / SF / NYC | 11d ago | [apply](https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262) |
-| **General Dynamics Information Technology** | Generative AI Software Development Intern | Bossier City, LA | 11d ago | [apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1) |
-| **Zimmer Biomet Holdings** | Summer Intern - Data Mesh Platform | Remote in USA | 12d ago | [apply](https://careers.zimmerbiomet.com/us/en/job/12688) |
-| **EMC Insurance** | Claims Intern - Data | Iowa | 13d ago | [apply](https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552) |
-| **EMC Insurance** | Claims Intern - Workers' Compensation | Iowa | 13d ago | [apply](https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548) |
-| **EMC Insurance** | Claims Intern - Property | Iowa | 13d ago | [apply](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Property-_R6553-1) |
-| **APEX Analytix** | Data Analyst Intern - Summer 2027 | Greensboro, NC | 18d ago | [apply](https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef) |
-| **CoStar Group** | Associate Software Engineer Intern | San Diego, CA | 18d ago | [apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674) |
-| **TikTok** | Client Solutions Intern | NYC | 18d ago | [apply](https://lifeattiktok.com/search/7684622182248548661) |
-| **McKesson** | Business Analyst Intern - Product Performance | Irving, TX | 18d ago | [apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Business-Analyst-Intern--Product-Performance---Summer-2027_JR0153111) |
-| **Dell Technologies** | AI Solutions Intern - Product & Content Management | Round Rock, TX | 19d ago | [apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299057) |
-| **Rolls-Royce** | Junior Machine Learning Engineer Intern | Indianapolis, IN | 20d ago | [apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142) |
-| **Lyft** | Software Engineer Intern - Fullstack | Toronto, ON, Canada | 22d ago | [apply](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002) |
-| **Lyft** | Data Analyst Intern | NYC | 22d ago | [apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
-| **VaynerMedia** | Data Analytics Resident | NYC | 23d ago | [apply](https://vaynermedia.com/careers?gh_jid=8126062) |
-| **VaynerMedia** | Data Analytics Resident | LA | 23d ago | [apply](https://vaynermedia.com/careers?gh_jid=8097753) |
-| **Barr** | GIS Specialist Intern | Salt Lake City, UT | 24d ago | [apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Internship---GIS-Specialist--Hybrid-_R-102305-1) |
-| **Graco** | Data Analytics Intern - Health and Safety - Environmental Health and Safety | Dayton, MN | 24d ago | [apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Environment--Health-and-Safety--EHS--Data-Analytics-Intern_R0023530) |
-| **AArete** | Data Architecture & Engineering Intern | Chicago, IL | 25d ago | [apply](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false) |
-| **Navy Federal** | Associate Intern - Lending Automation Technology & Solutions | Pensacola, FL / Vienna, VA | 25d ago | [apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32359) |
-| **incident.io** | Product Engineer Placement Intern | London, UK | 27d ago | [apply](https://jobs.ashbyhq.com/incident/2f692a4d-91b4-4d0f-ae39-b38b68a24a27/application?embed=true) |
-| **Shure** | Automated Test Software Engineering Intern | Niles, IL | 31d ago | [apply](https://careersus-shure.icims.com/jobs/4964/job?mobile=true&needsRedirect=false) |
-| **Momentive** | Software Development Intern | Niskayuna, NY | 31d ago | [apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756) |
-| **Walmart** | Economist Manager Intern | Hoboken, NJ | 31d ago | [apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-121-HOBOKEN-NJ-HOBOKEN-Home-Office/XMLNAME-2027-FT-Manager--Economist_R-2630120) |
-| **Benjamin Moore** | Business Insights Intern | Montvale, NJ | 31d ago | [apply](https://careers-benjaminmoore.icims.com/jobs/2488/job?mobile=true&needsRedirect=false) |
-| **L3Harris Technologies** | Associate Multimedia Web Developer/Programmer Intern - Technical Training | Rochester, NY | 32d ago | [apply](https://jobs.l3harris.com/job/Rochester-Associate,-Multimedia-Web-DeveloperProgrammer-(Technical-Training)-NY-14609/1425480300/?ats=successfactors) |
-| **Saab** | Systems Engineer Co-op | East Syracuse, NY | 33d ago | [apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Systems-Engineering-Co-Op--Summer-2027-_R-03231-1) |
-| **TikTok** | Client Solutions Intern - Global Business Solutions | NYC | 40d ago | [apply](https://lifeattiktok.com/search/7677467375486765317) |
-| **TikTok** | Client Solutions Intern - Global Business Solutions | LA | 40d ago | [apply](https://lifeattiktok.com/search/7677467375487486213) |
-| **TikTok** | Client Solutions Intern | San Jose, CA | 40d ago | [apply](https://lifeattiktok.com/search/7677467052537776437) |
-| **Fannie Mae** | Technology Program Intern | Plano, TX / Reston, VA | 41d ago | [apply](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810) |
-| **Northrop Grumman** | Principal Configuration Analyst Intern - Data Analysis | Edwards AFB, CA | 41d ago | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME--SkillBridge--Principal-Configuration-Analyst---Data-Analysis_R10247420) |
-| **Nationwide** | State Product Analyst Intern - Personal Lines | Des Moines, IA / Columbus, OH | 44d ago | [apply](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-State-Product-Analyst-Intern---Personal-Lines_099794) |
-| **TikTok** | Machine Learning MLOps Intern - Global Site Reliability Engineering | San Jose, CA | 45d ago | [apply](https://lifeattiktok.com/search/7670875283026053381) |
-| **Ameren** | Digital Co-op | St. Louis, MO | 58d ago | [apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1) |
-| **TikTok** | Backend Software Engineer Intern | San Jose, CA | 62d ago | [apply](https://lifeattiktok.com/search/7667935739300317493) |
-| **Systems Planning and Analysis** | Data Scientist Fellow | Alexandria, VA | 64d ago | [apply](https://spa.jibeapply.com/jobs/19553?icims=1) |
-| **Thea Energy** | Integrated Modeling Intern | Kearny, NJ | 73d ago | [apply](https://jobs.lever.co/thea.energy/6ae6e9bb-ed46-440b-83ca-4152fa8ec0bd/apply) |
-| **Nebius** | ML Solution Architect Intern | Remote in USA | 80d ago | [apply](https://careers.nebius.com/?gh_jid=4883829101) |
-| **TikTok** | Leave of Absence Analyst Project Intern | San Jose, CA | 81d ago | [apply](https://lifeattiktok.com/search/7662343067223263541) |
-| **GE Appliances** | Software Engineer Co-op | Louisville, KY | 85d ago | [apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) |
-| **TikTok** | Business Analyst Project Intern | NYC | 111d ago | [apply](https://lifeattiktok.com/search/7600202821496998197) |
-| **ByteDance** | Student Researcher - AI Foundation Model Infrastructure | Seattle, WA | 186d ago | [apply](https://jobs.bytedance.com/en/position/7623552947364317445/detail) |
-| **Northrop Grumman** | Software Engineer - Cloudworks - Skillbridge | Wright-Patterson AFB, OH | 228d ago | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395) |
+| **Diversified Energy** | Information Technology Intern | Birmingham, AL | today | [apply](https://careers.div.energy/jobs/2734?icims=1) |
+| **Keysight Technologies** | Data Scientist Intern | Santa Rosa, CA | today | [apply](https://jobs.keysight.com/jobs/54570?icims=1) |
+| **DreamWorks Animation** | Audience Insights & Analytics Intern | London, UK | today | [apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373639) |
+| **NBCUniversal** | Data Analytics Intern | London, UK | today | [apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371465) |
+| **Kinaxis** | AI/ML Researcher Intern<br>Master's/PhD | Remote in Canada | 1d ago | [apply](https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false) |
+| **Waymo** | Perception Intern - Evaluation<br>Master's/PhD | Mountain View, CA | 1d ago | [apply](https://careers.withwaymo.com/jobs?gh_jid=8248327) |
+| **Palomar Holdings** | Technical Intern | Edina, MN / Chicago, IL / La Jolla, San Diego, CA | 1d ago | [apply](https://ats.rippling.com/plmrcareers/jobs/d49be92b-8999-4f38-a39c-81500baadec7) |
+| **Intuit** | Marketing Intern - AI Tooling for Marketing Efficiency | SF / Mountain View, CA | 1d ago | [apply](https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552) |
+| **Intuit** | Finance Transformation & Analytics Intern | Mountain View, CA | 1d ago | [apply](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184) |
+| **RTX** | AI DSP Applied Research Co-op | Cedar Rapids, IA | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) |
+| **Veeam Software** | Competitive Intelligence AI Engineer Intern | Georgia | 2d ago | [apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101) |
+| **Waymo** | AI-driven ML Performance Engineering Intern - MS/PhD<br>Master's/PhD | Mountain View, CA | 2d ago | [apply](https://careers.withwaymo.com/jobs?gh_jid=8248060) |
+| **Great American Insurance Company** | Enterprise Analytics Intern | Cincinnati, OH | 2d ago | [apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650) |
+| **Regeneron Pharmaceuticals** | Precision Medicine Operations Co-op | Armonk, NY | 2d ago | [apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/Armonk/XMLNAME-2027-Co-op-Precision-Medicine-Operations_R51082-1) |
+| **Northrop Grumman** | College Technical Intern | McLean, VA | 2d ago | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146) |
+| **Bose** | Data Science Co-op - NLP & GenAI | Framingham, MA / Atlanta, GA | 2d ago | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251) |
+| **The Walt Disney Company** | Graduate Associate - Data Analytics<br>Master's | Lake Buena Vista, FL | 2d ago | [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000-1) |
+| **General Motors** | Software Engineer Intern - AV/AI Platform | Sunnyvale, CA / Warren, MI | 2d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696) |
+| **General Motors** | Machine Learning Engineer Intern - AV/AI Platform | Sunnyvale, CA | 2d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) |
+| **The Walt Disney Company** | Graduate Associate - Data Analytics<br>Master's | Lake Buena Vista, FL | 2d ago | [apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000) |
+| **American Family Insurance Group** | GenAI/ML Intern | Madison, WI / Boston, MA | 2d ago | [apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514) |
+| **CACI** | Software Development Intern | Ashburn, VA | 2d ago | [apply](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051) |
+| **Leidos** | Technical Intern<br>Master's | Remote in USA | 2d ago | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193820) |
+| **Leidos** | Software Developer Intern | Annapolis Junction, MD | 2d ago | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804) |
+| **Southwest Airlines** | Digital Testing & Optimization Intern | Dallas, TX | 3d ago | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Testing---Optimization-Internship_R-2026-73012) |
+| **RTX** | Software Engineer Intern | Cedar Rapids, IA | 3d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343) |
+| **The Home Depot** | AI Machine Learning Developer Intern | Toronto, ON, Canada | 3d ago | [apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010) |
+| **General Motors** | AI/ML Engineer Intern - Autonomous Vehicle: Simulation | Sunnyvale, CA | 3d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508) |
+| **General Motors** | Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation | Sunnyvale, CA | 3d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503) |
+| **Radiance Technologies** | Software Engineer Intern | Dayton, OH | 10d ago | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102443) |
+| **Procter & Gamble** | R&D Intern - AI Research Engineer | Mason, OH | 12d ago | [apply](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371) |
+| **EMC Insurance** | Claims Intern - Property | Iowa | 13d ago | [apply](https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Property-_R6553) |
+| **EMC Insurance** | Claims Intern - Workers' Compensation | Iowa | 13d ago | [apply](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548-1) |
+| **RTX** | Software Engineer Intern | Cambridge, MA | 15d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017) |
+| **The Toro Company** | Robotics Engineer Intern | Bloomington, MN | 23d ago | [apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194) |
+| **National Laboratory of the Rockies** | Graduate Geospatial Data Science Modeling and Analysis Intern | Golden, CO | 23d ago | [apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14510) |
+| **Humana** | Analytics Intern<br>Master's | Louisville, KY / Nashville, TN / Chicago, IL / Fort Lauderda | 24d ago | [apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Graduate-Analytics-Internship---Summer-2027_R-429772) |
+| **Merck** | Business Intelligence Intern - Research Lab | North Wales, PA / Rahway, NJ | 26d ago | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Business-Intelligence---Intern_R412411) |
+| **ABB** | Market Research & Analysis Intern | Cary, NC | 30d ago | [apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Market-Research---Analysis-Intern---Summer-2027_JR00045583) |
+| **Travelers** | Business Insights & Analytics Intern - BI&A LDP | Hartford, CT / St Paul, MN | 33d ago | [apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304) |
+| **General Motors** | Data Engineering Software Developer Co-op | Markham, ON, Canada / Oshawa, ON, Canada | 34d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353) |
+| **Jane Street** | Linux Engineer | NYC | 80d ago | [apply](https://job-boards.greenhouse.io/janestreet/jobs/8626260002) |
 
 ## Watched company portals
 
