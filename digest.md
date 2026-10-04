@@ -1,23 +1,30 @@
 # Internship watcher — latest
 
-_Updated 2026-10-03 22:49 UTC · 7 new listings_
+_Updated 2026-10-04 02:31 UTC · 19 new listings_
 
-## New from SimplifyJobs (2)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Northern Trust** | Data & Analytics Office Intern | Chicago, IL | today | [apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 49d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-
-## New from Company portals (5)
+## New from SimplifyJobs (19)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Coinbase** | Analytics Engineer Intern | Hybrid - New York, NY | — | [apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
-| **Coinbase** | Data Engineer Intern | Hybrid - San Francisco, CA | — | [apply](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
-| **Coinbase** | People Analytics Intern | Hybrid - New York, NY | — | [apply](https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517) |
-| **Coinbase** | Software Engineer Intern | Hybrid - San Francisco, CA | — | [apply](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
-| **Robinhood** | Data Science Intern (Summer 2027) | Menlo Park, CA | — | [apply](https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738) |
+| **RTX** | AI DSP Applied Research Co-op | Cedar Rapids, IA | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) |
+| **Robinhood** | Data Science Intern | Menlo Park, CA | 4d ago | [apply](https://boards.greenhouse.io/robinhood/jobs/8241738) |
+| **Bluestaq** | Software Engineering Resident - Multiple Teams | Colorado Springs, CO | 8d ago | [apply](https://job-boards.greenhouse.io/bluestaq/jobs/4420189009) |
+| **DoorDash** | Machine Learning Engineer Intern - Masters<br>Master's | Seattle, WA / SF / NYC / Sunnyvale, CA | 8d ago | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |
+| **Flagship Pioneering** | Digital CMC TechOps Co-op | Cambridge, MA | 16d ago | [apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8814364002) |
+| **Flagship Pioneering** | AI Automation Engineering Co-op<br>Master's | Cambridge, MA | 19d ago | [apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002) |
+| **DoorDash** | Software Engineer Intern - Summer 2027 | Seattle, WA / SF / LA / NYC / Sunnyvale, CA | 19d ago | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
+| **DoorDash** | Software Engineer Intern | Toronto, ON, Canada | 19d ago | [apply](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) |
+| **National Life** | Market Research Intern | Montpelier, VT / Addison, TX | 19d ago | [apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009) |
+| **Coinbase** | Software Engineer Intern | SF | 25d ago | [apply](https://boards.greenhouse.io/embed/job_app?token=8168315) |
+| **Coinbase** | People Analytics Intern | NYC | 25d ago | [apply](https://boards.greenhouse.io/embed/job_app?token=8175517) |
+| **Coinbase** | Data Science Intern - Strategy, Execution, & Analytics - Platform | SF | 25d ago | [apply](https://boards.greenhouse.io/embed/job_app?token=8175462) |
+| **Coinbase** | Data Engineer Intern | SF | 25d ago | [apply](https://boards.greenhouse.io/embed/job_app?token=8175459) |
+| **Coinbase** | Analytics Engineer Intern | SF | 25d ago | [apply](https://boards.greenhouse.io/embed/job_app?token=8175471) |
+| **Dev Technology Group** | React/Node Developer Intern - Summer 2027 | Reston, VA | 32d ago | [apply](https://job-boards.greenhouse.io/devtechnology/jobs/8726212002) |
+| **Dev Technology Group** | Microsoft Power Platform & AI Intern - Summer 2027 | Reston, VA | 32d ago | [apply](https://job-boards.greenhouse.io/devtechnology/jobs/8726259002) |
+| **Dev Technology Group** | AI/ML Intern - Summer 2027 | Reston, VA | 32d ago | [apply](https://job-boards.greenhouse.io/devtechnology/jobs/8726074002) |
+| **Eulerity** | Backend Developer Intern | NYC | 32d ago | [apply](https://job-boards.greenhouse.io/eulerity/jobs/4709040006) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 49d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
 
 ## Watched company portals
 
