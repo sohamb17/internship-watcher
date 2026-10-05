@@ -1,8 +1,24 @@
 # Internship watcher — latest
 
-_Updated 2026-10-04 21:54 UTC · 0 new listings_
+_Updated 2026-10-05 00:46 UTC · 8 new listings_
 
-Nothing new this run.
+## New from SimplifyJobs (6)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Pangram Labs** | AI Research Intern<br>Master's/PhD | NYC / Brooklyn, NY | today | [apply](https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true) |
+| **NVIDIA** | Data Processing Developer Technology Intern<br>Master's/PhD | Courbevoie, France / Bristol, UK / Würselen, Germany / Berli | today | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708) |
+| **Primient** | AI Analyst Intern | Schaumburg, IL | 1d ago | [apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056) |
+| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 13d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 50d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 50d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+
+## New from Company portals (2)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Micron Technology** | Intern - Memory Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528) |
+| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821) |
 
 ## Watched company portals
 
