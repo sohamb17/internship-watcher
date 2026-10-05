@@ -1,30 +1,28 @@
 # Internship watcher — latest
 
-_Updated 2026-10-05 15:53 UTC · 14 new listings_
+_Updated 2026-10-05 22:33 UTC · 17 new listings_
 
-## New from SimplifyJobs (9)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **NVIDIA** | Software Engineer Intern | Santa Clara, CA | today | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
-| **Quantum Signal AI** | Software Engineer Intern - Tools and Prototypes | Saline, MI | today | [apply](https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes) |
-| **Google** | Student Researcher Intern | Grenoble, France / London, UK / Paris, France / Berlin, Germ | today | [apply](https://www.google.com/about/careers/applications/jobs/results/86733690079453894) |
-| **Ernst & Young** | Tax Intern - Other Tax - Americas Tax Technology Group | Nashville, TN / Dallas, TX / Chicago, IL / Atlanta, GA | today | [apply](https://eyglobal.yello.co/jobs/yUI0hOKgEZ86mkIsV-EUdw?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
-| **CACI** | Software Development Intern | Oklahoma City, OK | today | [apply](https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085) |
-| **Motorola** | Android Applications Developer Intern | Chicago, IL | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313) |
-| **Sikich** | Intelligence Transformation Intern | Remote in USA | today | [apply](https://jobs.jobvite.com/sikichcareers/job/oGOPAfwD?nl=1&nl=1&fr=false) |
-| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 13d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
-| **Medpace** | Clinical Informatics Intern | Cincinnati, OH | 123d ago | [apply](https://careers.medpace.com/jobs/12801?icims=1) |
-
-## New from Company portals (5)
+## New from Company portals (17)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **GlobalFoundries** | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604587) |
-| **GlobalFoundries** | Silicon Photonics Advanced Packaging Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604270) |
-| **Marvell** | Hardware Engineer Intern, BS - Summer 2027 | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975) |
-| **NVIDIA** | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
-| **NVIDIA** | NVIDIA 2027 Ignite Internships: Hardware Engineering | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047) |
+| **Mercor** | Research Intern | San Francisco | today | [apply](https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518) |
+| **Adobe** | 2027 Intern - Applied and Research Scientist/Engineer | San Jose | today | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064) |
+| **Applied Materials** | 2027 Spring Structural Dynamics Analyst Co-op - BS or MS (Gloucester, MA) | Gloucester,MA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Spring-Structural-Dynamics-Analyst-Co-op---BS-or-MS--Gloucester--MA-_R2629885) |
+| **GlobalFoundries** | Finance Project Management & Financial Systems Analyst Intern (Summer 2027) | USA   Texas   Austin | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Finance-Project-Management-Analyst-Intern--Summer-2027-_JR-2604486) |
+| **Intel** | Module Engineering (PhD Intern) | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering--PhD-Intern-_JR0287683) |
+| **Intel** | AI Solution Architect - Graduate Intern | US, California, Santa Clara | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524) |
+| **Intel** | AI Solution Architect - Undergraduate Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531) |
+| **Intel** | AI Solution Architect Graduate Intern | US, California, Santa Clara | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530) |
+| **Intel** | CPU Core Physical Design Technical Graduate Intern, Spring | US, California, Folsom | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613) |
+| **Micron Technology** | Intern - ID1 Manufacturing Engineer | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) |
+| **Micron Technology** | Intern - Engineer, HIG HBM DTPCO | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Engineer--HIG-HBM-DTPCO_JR113618) |
+| **Micron Technology** | Intern - Process Integration Engineer | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---Process-Integration-Engineer_JR114192) |
+| **Micron Technology** | Intern - DRAM Device Engineer | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---DRAM-Device-Engineer_JR114109) |
+| **Micron Technology** | Intern - Next Gen HBM Platform Arch | Folsom, CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---Next-Gen-HBM-Platform-Arch_JR112993) |
+| **Micron Technology** | Intern - SMAI TD AI Engineering Team | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991) |
+| **DRW** | Software Developer Intern | Chicago | — | [apply](https://job-boards.greenhouse.io/drweng/jobs/7992936) |
+| **Figma** | PhD Intern, AI Applied Scientist (2027) | San Francisco, CA • New York, NY | — | [apply](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) |
 
 ## Watched company portals
 
