@@ -1,23 +1,30 @@
 # Internship watcher — latest
 
-_Updated 2026-10-05 06:52 UTC · 12 new listings_
+_Updated 2026-10-05 15:53 UTC · 14 new listings_
 
-## New from SimplifyJobs (12)
+## New from SimplifyJobs (9)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Airbus** | Digital and Technology Solutions Degree Engineer Apprentice | Bristol, UK | today | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Digital-and-Technology-Solutions-Degree-Engineering-Apprenticeship_JR10430012) |
-| **Thales** | Software Engineer Apprentice | Templecombe, UK | today | [apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337865) |
-| **Thales** | Software Engineering Apprentice | Cheadle, UK | today | [apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863) |
-| **Thales** | AI Engineer Apprentice | Glasgow, UK | today | [apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/XMLNAME-2027-AI-Engineer-Apprentice---AI-and-Data-Science-Graduate-Level-Apprenticeship_R0337760) |
-| **Airbus** | Digital & Technology Solutions Plant Apprentice | Broughton, Chester, UK | today | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Digital---Technology-Solutions-Plant-Degree-Apprenticeship_JR10427966) |
-| **Merck** | IT Developer Analyst Intern | London, UK | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/GBR---London---London-Moorgate-WeWork/Student-Placement---IT-Developer-Analyst_R418573) |
-| **State of North Carolina** | Data Science Intern | Raleigh, NC | today | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225) |
-| **State of North Carolina** | Data Analytics Intern | Wake County, NC | today | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220) |
-| **State of North Carolina** | Data Engineer Intern | Raleigh, NC | today | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224) |
-| **TD Bank** | Software Engineer Intern - Global Technology & Solutions | Mt Laurel Township, NJ | 22d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1) |
-| **TD Bank** | Data Engineer Intern - Global Technology & Solutions | Mt Laurel Township, NJ | 22d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797) |
-| **Etched** | Chip Simulation Software Intern | San Jose, CA | 138d ago | [apply](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application?embed=true) |
+| **NVIDIA** | Software Engineer Intern | Santa Clara, CA | today | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
+| **Quantum Signal AI** | Software Engineer Intern - Tools and Prototypes | Saline, MI | today | [apply](https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes) |
+| **Google** | Student Researcher Intern | Grenoble, France / London, UK / Paris, France / Berlin, Germ | today | [apply](https://www.google.com/about/careers/applications/jobs/results/86733690079453894) |
+| **Ernst & Young** | Tax Intern - Other Tax - Americas Tax Technology Group | Nashville, TN / Dallas, TX / Chicago, IL / Atlanta, GA | today | [apply](https://eyglobal.yello.co/jobs/yUI0hOKgEZ86mkIsV-EUdw?job_board_id=c1riT--B2O-KySgYWsZO1Q) |
+| **CACI** | Software Development Intern | Oklahoma City, OK | today | [apply](https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085) |
+| **Motorola** | Android Applications Developer Intern | Chicago, IL | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313) |
+| **Sikich** | Intelligence Transformation Intern | Remote in USA | today | [apply](https://jobs.jobvite.com/sikichcareers/job/oGOPAfwD?nl=1&nl=1&fr=false) |
+| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 13d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
+| **Medpace** | Clinical Informatics Intern | Cincinnati, OH | 123d ago | [apply](https://careers.medpace.com/jobs/12801?icims=1) |
+
+## New from Company portals (5)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **GlobalFoundries** | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604587) |
+| **GlobalFoundries** | Silicon Photonics Advanced Packaging Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604270) |
+| **Marvell** | Hardware Engineer Intern, BS - Summer 2027 | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975) |
+| **NVIDIA** | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
+| **NVIDIA** | NVIDIA 2027 Ignite Internships: Hardware Engineering | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047) |
 
 ## Watched company portals
 
