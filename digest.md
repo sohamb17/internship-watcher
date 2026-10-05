@@ -1,24 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-10-05 00:46 UTC · 8 new listings_
+_Updated 2026-10-05 06:52 UTC · 12 new listings_
 
-## New from SimplifyJobs (6)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Pangram Labs** | AI Research Intern<br>Master's/PhD | NYC / Brooklyn, NY | today | [apply](https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true) |
-| **NVIDIA** | Data Processing Developer Technology Intern<br>Master's/PhD | Courbevoie, France / Bristol, UK / Würselen, Germany / Berli | today | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708) |
-| **Primient** | AI Analyst Intern | Schaumburg, IL | 1d ago | [apply](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056) |
-| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 13d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 50d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 50d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-
-## New from Company portals (2)
+## New from SimplifyJobs (12)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Micron Technology** | Intern - Memory Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528) |
-| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821) |
+| **Airbus** | Digital and Technology Solutions Degree Engineer Apprentice | Bristol, UK | today | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Digital-and-Technology-Solutions-Degree-Engineering-Apprenticeship_JR10430012) |
+| **Thales** | Software Engineer Apprentice | Templecombe, UK | today | [apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337865) |
+| **Thales** | Software Engineering Apprentice | Cheadle, UK | today | [apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863) |
+| **Thales** | AI Engineer Apprentice | Glasgow, UK | today | [apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/XMLNAME-2027-AI-Engineer-Apprentice---AI-and-Data-Science-Graduate-Level-Apprenticeship_R0337760) |
+| **Airbus** | Digital & Technology Solutions Plant Apprentice | Broughton, Chester, UK | today | [apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Digital---Technology-Solutions-Plant-Degree-Apprenticeship_JR10427966) |
+| **Merck** | IT Developer Analyst Intern | London, UK | today | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/GBR---London---London-Moorgate-WeWork/Student-Placement---IT-Developer-Analyst_R418573) |
+| **State of North Carolina** | Data Science Intern | Raleigh, NC | today | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225) |
+| **State of North Carolina** | Data Analytics Intern | Wake County, NC | today | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220) |
+| **State of North Carolina** | Data Engineer Intern | Raleigh, NC | today | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224) |
+| **TD Bank** | Software Engineer Intern - Global Technology & Solutions | Mt Laurel Township, NJ | 22d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1) |
+| **TD Bank** | Data Engineer Intern - Global Technology & Solutions | Mt Laurel Township, NJ | 22d ago | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797) |
+| **Etched** | Chip Simulation Software Intern | San Jose, CA | 138d ago | [apply](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application?embed=true) |
 
 ## Watched company portals
 
