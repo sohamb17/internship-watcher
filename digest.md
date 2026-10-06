@@ -1,62 +1,42 @@
 # Internship watcher — latest
 
-_Updated 2026-10-06 09:20 UTC · 51 new listings_
+_Updated 2026-10-06 16:13 UTC · 26 new listings_
 
-## New from SimplifyJobs (51)
+## New from SimplifyJobs (23)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Astera Labs** | Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software | Vancouver, BC, Canada | today | [apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005) |
-| **Astera Labs** | Packaging Automation & Data Engineering Intern | San Jose, CA | today | [apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005) |
-| **Atoms** | Machine Learning Engineer Intern | SF | today | [apply](https://job-boards.greenhouse.io/atoms/jobs/8869105002) |
-| **Astera Labs** | Data Analytics Intern | San Jose, CA | today | [apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731995005) |
-| **Astera Labs** | Data Analyst Intern | San Jose, CA | today | [apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731996005) |
-| **Astera Labs** | Applied AI Engineer Intern - Silicon Engineering | San Jose, CA | today | [apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727602005) |
-| **Astera Labs** | Applied AI Intern - Non-Silicon | San Jose, CA | today | [apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005) |
-| **Mayo Clinic** | AI/ML Intern - Radiation Oncology | Rochester, MN | today | [apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/385703) |
-| **IEX** | Marketing Analytics Intern | NYC | today | [apply](https://job-boards.greenhouse.io/iex-interns/jobs/8173636) |
-| **IEX** | Software Engineer Intern | NYC | today | [apply](https://job-boards.greenhouse.io/iex-interns/jobs/8171239) |
-| **IEX** | Data Engineer Intern | NYC | today | [apply](https://job-boards.greenhouse.io/iex-interns/jobs/8210998) |
-| **Liberty Mutual** | Data Science Co-op | Boston, MA | today | [apply](https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false) |
-| **Liberty Mutual** | Data Science Intern<br>Master's | Boston, MA | today | [apply](https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false) |
-| **Liberty Mutual** | Software Development Co-op | Boston, MA | today | [apply](https://campus-libertymutual.icims.com/jobs/261797/job?mobile=true&needsRedirect=false) |
-| **Judi Health** | Implementation Analytics Intern - Claims Monitoring & Automation | NYC / Denver, CO | today | [apply](https://job-boards.greenhouse.io/judihealth/jobs/5429077008) |
-| **Judi Health** | Data Engineer Intern | NYC / Denver, CO | today | [apply](https://job-boards.greenhouse.io/judihealth/jobs/5418671008) |
-| **West Monroe** | Data & Analytics Consulting Intern - Data & Analytics team - Technology & Experience (TechEx) Practice | SF | today | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167569004) |
-| **West Monroe** | Data & Analytics Consulting Intern | Seattle, WA | today | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167581004) |
-| **West Monroe** | Data & Analytics Consulting Intern | Chicago, IL | today | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167540004) |
-| **West Monroe** | Software Engineer Consulting Intern - AI Concentration | NYC | today | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6172721004) |
-| **West Monroe** | Labs Asset Foundry Consulting Intern | Chicago, IL | today | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6169873004) |
-| **West Monroe** | Software Engineer Consulting Intern - AI Concentration | Chicago, IL | today | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6170231004) |
-| **West Monroe** | Software Engineering Consulting Intern - AI Concentration | SF | today | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6172998004) |
-| **West Monroe** | Software Engineer Consulting Intern - AI Concentration | Seattle, WA | today | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6173003004) |
-| **West Monroe** | Data & Analytics Consulting Intern | LA | today | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6167557004) |
-| **Cloudflare** | Software Engineer Intern | London, UK | today | [apply](https://boards.greenhouse.io/cloudflare/jobs/8245211) |
-| **Cadence Solutions** | Software Engineer Intern | Remote in USA | today | [apply](https://job-boards.greenhouse.io/solutions/jobs/4711210006) |
-| **StackAdapt** | Software Engineer Backend Intern | Remote in Canada | today | [apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) |
-| **StackAdapt** | Machine Learning Engineer Intern | Remote in Canada | today | [apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009) |
-| **StackAdapt** | Software Engineer Intern | Remote in Canada | today | [apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009) |
-| **Innovative Defense Technologies** | Software Systems Engineer Intern | Arlington County, Arlington, VA | today | [apply](https://idtus.pinpointhq.com/en/postings/4f5ae5de-0eca-4427-8c17-85e949540be5?ats=pinpointhq) |
-| **Innovative Defense Technologies** | Software Systems Engineer Intern | Mt Laurel Township, NJ / Arlington County, Arlington, VA / S | today | [apply](https://idtus.pinpointhq.com/en/postings/77292978-8fb0-4bdd-8c2e-b8e37eacdf46?ats=pinpointhq) |
-| **Innovative Defense Technologies** | Software Engineer Intern | Mt Laurel Township, NJ / Arlington County, Arlington, VA / S | today | [apply](https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq) |
-| **Innovative Defense Technologies** | Software Engineer Intern | Arlington County, Arlington, VA | today | [apply](https://idtus.pinpointhq.com/en/postings/79744981-0812-4999-8af2-ce7399f521d3?ats=pinpointhq) |
-| **Innovative Defense Technologies** | Software Engineer Intern | Mt Laurel Township, NJ / Arlington County, Arlington, VA / S | today | [apply](https://idtus.pinpointhq.com/en/postings/0900a5f2-65d5-4cfa-8b14-b2a58d156d53?ats=pinpointhq) |
-| **Innovative Defense Technologies** | Software Engineer Intern | Mt Laurel Township, NJ | today | [apply](https://idtus.pinpointhq.com/en/postings/20817d1b-bd0e-4aa8-a3d5-78e4614b52a3?ats=pinpointhq) |
-| **Innovative Defense Technologies** | Software Systems Engineer Intern | Mt Laurel Township, NJ | today | [apply](https://idtus.pinpointhq.com/en/postings/58417813-ec8f-4d3b-9728-40b13c6b358d?ats=pinpointhq) |
-| **Innovative Defense Technologies** | Software Systems Engineer Intern | Mt Laurel Township, NJ / Arlington County, Arlington, VA / S | today | [apply](https://idtus.pinpointhq.com/en/postings/0be468fd-19df-4455-b4a2-5c4392574805?ats=pinpointhq) |
-| **Boston Scientific** | Equipment Engineering Software Engineer Intern | Maple Grove, MN | today | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813584306) |
-| **Magnite** | Software Engineer Intern | Belfast, UK | today | [apply](https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Software-Engineer---Student-Placement--Queens-University-Only-_R-01418) |
-| **Magnite** | Software Engineer Intern | Belfast, UK | today | [apply](https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Software-Engineer---Student-Placement_R-01417-1) |
-| **Genentech** | Applied GenAI Scientist Intern - GenAI Applications<br>Master's/PhD | South SF | 1d ago | [apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---GenAI-Applications_202610-125229) |
-| **Hewlett Packard Enterprise** | Cloud Developer Intern | San Jose, CA | 1d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-Intern_1214950) |
-| **Hewlett Packard Enterprise** | Systems Software Engineer Intern | Bloomington, MN | 1d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401) |
-| **Hewlett Packard Enterprise** | Customer Success Intern | River Avon, United Kingdom | 1d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Customer-Success-Intern_1211002) |
-| **Hewlett Packard Enterprise** | Software Engineer Intern | Bristol, UK | 13d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804) |
-| **Visa** | Software Engineer Intern | Belfast, UK | 25d ago | [apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Belfast-United-Kingdom/Software-Engineer-Placement-Year_REF088379W) |
-| **Hewlett Packard Enterprise** | Data Science Intern | Andover, MA / Bloomington, MN / San Jose, CA / Spring, TX /  | 37d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632) |
-| **Hewlett Packard Enterprise** | Software Engineer Intern | Andover, MA / Bloomington, MN / San Jose, CA / Spring, TX /  | 39d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 52d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Medtronic** | Software Engineer Intern | Boston, MA / Santa Ana, CA / Fridley, MN / Santa Rosa, CA /  | 66d ago | [apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) |
+| **Boston Scientific** | Equipment Engineering AI Vision Engineer Intern | Maple Grove, MN | today | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813584308) |
+| **Blue Cross Blue Shield of Michigan** | Epidemiology / Biostatistics Intern | Detroit, MI | today | [apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949) |
+| **IDEMIA** | Engineering Intern | Reston, VA | today | [apply](https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false) |
+| **Tradeweb** | Data Management Intern | NYC | today | [apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301946) |
+| **Sentinel Technologies** | AI Intern | Downers Grove, IL | today | [apply](https://careers-sentinel.icims.com/jobs/5122/job?mobile=true&needsRedirect=false) |
+| **KKR** | Summer Analyst Intern - Insurance Risk - Data Science<br>Master's | NYC | today | [apply](https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004) |
+| **Macy's** | Summer Intern - Consumer Insights: Customer & Digital Intelligence and Analytics | NYC | today | [apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380) |
+| **Macy's** | Analytics Intern - Multiple Teams | NYC | today | [apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389) |
+| **American Family Insurance Group** | Data Analytics Intern | Madison, WI | today | [apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631) |
+| **Alston & Bird Law Firm** | Developer Intern | Atlanta, GA | today | [apply](https://alston.wd1.myworkdayjobs.com/ExternalCareer/job/Atlanta/Developer-Intern_JR100986) |
+| **Biogen** | Machine Learning Engineering Co-op | Remote in USA | today | [apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310) |
+| **CIBC** | Business Intelligence Enterprise Anti-Money Laundering Co-op | Toronto, ON, Canada | today | [apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595) |
+| **CIBC** | Business Intelligence Enterprise Anti-Money Laundering Co-op | Toronto, ON, Canada | today | [apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595-1) |
+| **Kyndryl** | Marketing Intern - Marketing Analytics | NYC | today | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404) |
+| **Kyndryl** | Marketing Intern - Marketing Analytics | NYC | today | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403) |
+| **Procter & Gamble** | IT Technical Specialist Intern | Newcastle upon Tyne, UK | today | [apply](https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302) |
+| **State Employees' Credit Union** | Server Engineering and Operations Intern | North Carolina | today | [apply](https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Server-Engineering-and-Operations-Part-time-Spring-2027_JR-16564) |
+| **Space Dynamics Laboratory** | Software Engineer Intern - Software, AI, & Machine Learning | North Logan, UT | today | [apply](https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning) |
+| **Space Dynamics Laboratory** | Software Engineer Intern - AI Enabled Software Development | North Logan, UT | today | [apply](https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development) |
+| **SAS** | Software Development and Testing Intern | Cary, NC | 4d ago | [apply](https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false) |
+| **RTX** | Software Engineering Co-op | Cedar Rapids, IA | 8d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232) |
+| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 14d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
+| **Susquehanna International Group** | Technology Co-op - Northeastern University | Bala Cynwyd, PA | 31d ago | [apply](https://careers-sig.icims.com/jobs/11377/job?mobile=true&needsRedirect=false) |
+
+## New from Company portals (3)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **GlobalFoundries** | Production Control Engineering Intern | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Technology-Development-Engineering-Intern--ULP-CMOS_JR-2503682) |
+| **Marvell** | Machine Learning Engineer Intern, BS/MS - Summer 2027 | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989) |
+| **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Chicago, IL | 28d ago | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388) |
 
 ## Watched company portals
 
