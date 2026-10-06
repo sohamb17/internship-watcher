@@ -1,42 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-10-06 16:13 UTC · 26 new listings_
+_Updated 2026-10-06 21:11 UTC · 9 new listings_
 
-## New from SimplifyJobs (23)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Boston Scientific** | Equipment Engineering AI Vision Engineer Intern | Maple Grove, MN | today | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813584308) |
-| **Blue Cross Blue Shield of Michigan** | Epidemiology / Biostatistics Intern | Detroit, MI | today | [apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949) |
-| **IDEMIA** | Engineering Intern | Reston, VA | today | [apply](https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false) |
-| **Tradeweb** | Data Management Intern | NYC | today | [apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301946) |
-| **Sentinel Technologies** | AI Intern | Downers Grove, IL | today | [apply](https://careers-sentinel.icims.com/jobs/5122/job?mobile=true&needsRedirect=false) |
-| **KKR** | Summer Analyst Intern - Insurance Risk - Data Science<br>Master's | NYC | today | [apply](https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004) |
-| **Macy's** | Summer Intern - Consumer Insights: Customer & Digital Intelligence and Analytics | NYC | today | [apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380) |
-| **Macy's** | Analytics Intern - Multiple Teams | NYC | today | [apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389) |
-| **American Family Insurance Group** | Data Analytics Intern | Madison, WI | today | [apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631) |
-| **Alston & Bird Law Firm** | Developer Intern | Atlanta, GA | today | [apply](https://alston.wd1.myworkdayjobs.com/ExternalCareer/job/Atlanta/Developer-Intern_JR100986) |
-| **Biogen** | Machine Learning Engineering Co-op | Remote in USA | today | [apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310) |
-| **CIBC** | Business Intelligence Enterprise Anti-Money Laundering Co-op | Toronto, ON, Canada | today | [apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595) |
-| **CIBC** | Business Intelligence Enterprise Anti-Money Laundering Co-op | Toronto, ON, Canada | today | [apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595-1) |
-| **Kyndryl** | Marketing Intern - Marketing Analytics | NYC | today | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404) |
-| **Kyndryl** | Marketing Intern - Marketing Analytics | NYC | today | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403) |
-| **Procter & Gamble** | IT Technical Specialist Intern | Newcastle upon Tyne, UK | today | [apply](https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302) |
-| **State Employees' Credit Union** | Server Engineering and Operations Intern | North Carolina | today | [apply](https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Server-Engineering-and-Operations-Part-time-Spring-2027_JR-16564) |
-| **Space Dynamics Laboratory** | Software Engineer Intern - Software, AI, & Machine Learning | North Logan, UT | today | [apply](https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning) |
-| **Space Dynamics Laboratory** | Software Engineer Intern - AI Enabled Software Development | North Logan, UT | today | [apply](https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development) |
-| **SAS** | Software Development and Testing Intern | Cary, NC | 4d ago | [apply](https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false) |
-| **RTX** | Software Engineering Co-op | Cedar Rapids, IA | 8d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232) |
-| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 14d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
-| **Susquehanna International Group** | Technology Co-op - Northeastern University | Bala Cynwyd, PA | 31d ago | [apply](https://careers-sig.icims.com/jobs/11377/job?mobile=true&needsRedirect=false) |
-
-## New from Company portals (3)
+## New from Company portals (9)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **GlobalFoundries** | Production Control Engineering Intern | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Technology-Development-Engineering-Intern--ULP-CMOS_JR-2503682) |
-| **Marvell** | Machine Learning Engineer Intern, BS/MS - Summer 2027 | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989) |
-| **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Chicago, IL | 28d ago | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388) |
+| **Cadence Design Systems** | CST Application Engineer Intern - Silicon | SAN JOSE | today | [apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655-1) |
+| **Intel** | (Epi) - Module Development Engineer - (PhD Intern) | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820) |
+| **KLA** | PLM BI & Analytics Intern | Ann Arbor, MI | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568) |
+| **KLA** | Electrical Design Engineering Intern | Ann Arbor, MI | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641708) |
+| **NXP Semiconductors** | Equipment Engineer Intern - Summer 2027 | Chandler (Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Equipment-Engineer-Intern---Summer-2027_R-10064584) |
+| **NXP Semiconductors** | Field Applications Engineer (FAE) Intern - Summer 2027 | Austin Oakhill Office | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Field-Applications-Engineer--FAE--Intern---Summer-2027_R-10067221) |
+| **NXP Semiconductors** | Project Engineer / Project Management Intern - Summer 2027 | Chandler (Office) | today | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Project-Engineer---Project-Management-Intern---Summer-2027_R-10064585) |
+| **Amazon** | Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA) | Seattle, Washington, USA | today | [apply](https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa) |
+| **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) | San Francisco, CA | — | [apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 
 ## Watched company portals
 
