@@ -1,75 +1,28 @@
 # Internship watcher — latest
 
-_Updated 2026-10-07 00:59 UTC · 59 new listings_
+_Updated 2026-10-07 07:07 UTC · 17 new listings_
 
-## New from SimplifyJobs (57)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Waymo** | Intern<br>Master's/PhD | Mountain View, CA | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8250220) |
-| **Waymo** | ML Ops & Automation Intern | Mountain View, CA | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8257237) |
-| **KQED** | Audience Intelligence Intern | SF | today | [apply](https://kqed.applytojob.com/apply/5Gz2ElMQfy/Audience-Intelligence-Analytics-Intern) |
-| **Niantic Spatial** | Software Engineer Intern | SF | today | [apply](https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application?embed=true) |
-| **Space Dynamics Laboratory** | Computer Vision Engineer Intern | North Logan, UT | today | [apply](https://spacedynamicslaboratory.applytojob.com/apply/x1yVybua0f/Computer-Vision-Engineer-Intern) |
-| **Dryft** | Member of Technical Staff Intern | SF / Munich, Germany | today | [apply](https://jobs.ashbyhq.com/dryft/d4c7d1cd-a4e3-440e-ad53-4dab3391d883/application?embed=true) |
-| **Arcfield** | Software Engineer-On Call Intern | Middletown, RI | today | [apply](https://careers.arcfield.com/jobs/8759?icims=1) |
-| **Pure Storage** | Software Engineer Intern | Santa Clara, CA | today | [apply](https://job-boards.greenhouse.io/purestorage/jobs/8249749) |
-| **Meta** | Software Engineer Intern | Seattle, WA / Menlo Park, CA / NYC / Bellevue, WA | today | [apply](https://www.metacareers.com/jobs/1952991802037374) |
-| **Meta** | Data Scientist Intern - Product Analytics | Menlo Park, CA / NYC | today | [apply](https://www.metacareers.com/jobs/1633096478817942) |
-| **Dell Technologies** | Supplier Process Engineer Co-op | Texas | today | [apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298595) |
-| **Electronic Arts** | Software Engineer Intern | Austin, TX | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216240) |
-| **Nokia** | AI Engineer Co-op<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566) |
-| **Nokia** | AI Engineer Co-op<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40810) |
-| **Nokia** | AI Engineer Co-op<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40809) |
-| **Nokia** | AI Engineering Co-op<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40808) |
-| **Nokia** | AI Engineering Co-op<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40806) |
-| **Nokia** | AI Engineering Co-op<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40812) |
-| **Nokia** | AI Engineering Co-op<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40807) |
-| **KnowBe4** | Software Engineer Intern | Tampa, FL | today | [apply](https://job-boards.greenhouse.io/knowbe4/jobs/8870749002) |
-| **DocuSign** | Software Engineer Intern | Seattle, WA | today | [apply](https://careers.docusign.com/jobs/30480?icims=1) |
-| **Chenega** | Software Developer Intern | Virginia | today | [apply](https://careers.chenega.com/jobs/42444?icims=1) |
-| **Courier Health** | Software Engineer Intern | NYC | today | [apply](https://job-boards.greenhouse.io/courierhealth/jobs/5258913007) |
-| **The Semios Group** | Software Developer Co-op | Vancouver, BC, Canada | today | [apply](https://apply.workable.com/semios/j/4B5D1FB613/apply) |
-| **RTX** | Software Engineer Co-op | Marlborough, MA / Tewksbury, MA | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01878330) |
-| **AltaGas** | Data Analytics & Process Automation Co-op | Calgary, AB, Canada | 1d ago | [apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/XMLNAME-2027-Data-Analytics---AltaGas---2027-Process-Automation-Co-op-Student_R7321-1) |
-| **Northrop Grumman** | Software Engineer Intern | Wright-Patterson AFB, OH | 1d ago | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-Conversion-_R10254680) |
-| **Leidos** | Systems Engineer Intern | Arlington County, Arlington, VA | 1d ago | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940) |
-| **Leidos** | Data Science Intern | Arlington County, Arlington, VA | 1d ago | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00193937) |
-| **Leidos** | Software Engineer Intern | Arlington County, Arlington, VA | 1d ago | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933) |
-| **CAE** | Data Specialist Intern | Montreal, QC, Canada | 1d ago | [apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901) |
-| **CAE** | Artificial Intelligence Intern | Montreal, QC, Canada | 1d ago | [apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902) |
-| **F5** | Software Development Engineer Intern | Seattle, WA | 1d ago | [apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073) |
-| **CAE** | Full Stack Developer Intern - Training Center Operations Experience | Montreal, QC, Canada | 1d ago | [apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1) |
-| **KLA** | PLM Business Intelligence & Analytics Intern | Ann Arbor, MI | 1d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2) |
-| **KLA** | PLM Business Intelligence & Analytics Intern | Ann Arbor, MI | 1d ago | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568) |
-| **RTX** | Software Engineer Intern | Cedar Rapids, IA | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01871884) |
-| **Royal Bank of Canada** | Capital Markets Intern - Quantitative Technology Services | Raleigh, NC | 1d ago | [apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675) |
-| **G-Research** | Machine Learning Engineer Intern | London, UK | 1d ago | [apply](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773) |
-| **ABB** | AI Engineering ERP Intern | Cary, NC | 1d ago | [apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) |
-| **Capital One** | Full Stack Software Engineer Intern | Toronto, ON, Canada | 1d ago | [apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143) |
-| **Jabil** | AI Transformation Intern | Austin, TX | 1d ago | [apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/AI-Transformation-Intern_J2466044) |
-| **American Family Insurance Group** | Backend Digital Sales Intern | Boston, MA | 1d ago | [apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern--Backend-Digital-Sales_R39517) |
-| **Northwestern Mutual** | Enterprise Sustainability & Impact Intern - Modeling & Analytics<br>Master's/PhD | Milwaukee, WI | 1d ago | [apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171) |
-| **McKesson** | Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution | Montreal, QC, Canada | 1d ago | [apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903) |
-| **GE Vernova** | Systems Architecture Intern | Greenville, SC / Schenectady, NY | 1d ago | [apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5054433-2) |
-| **ABB** | AI Engineering Intern - Business Systems | Cary, NC | 1d ago | [apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714) |
-| **McKesson** | Java Full Stack Developer Intern | Montreal, QC, Canada | 1d ago | [apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-Dveloppeur-se--Full-Stack-Java---Java-Developer-Intern----Hiver-Winter-2027_JR0155176) |
-| **Entrust** | Software Engineer Co-op | Shakopee, MN | 1d ago | [apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416) |
-| **Marathon Petroleum** | Geographic Information Systems Intern/Co-op | Tulsa, OK | 13d ago | [apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411) |
-| **Revel** | Full Stack Software Engineer Intern | SF / LA | 28d ago | [apply](https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?embed=true) |
-| **Revel** | Forward Deployed Engineer Intern - Software | SF / LA | 28d ago | [apply](https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true) |
-| **Philips** | Software Engineer Co-op - R&D<br>Master's | Cambridge, MA | 36d ago | [apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891) |
-| **Microsoft** | Applied Scientist PhD Intern | Redmond, WA / Mountain View, CA | 41d ago | [apply](https://apply.careers.microsoft.com/careers/job/1970393556868271) |
-| **Philips** | Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application | Plymouth, MN | 44d ago | [apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 52d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **TechInsights** | Software Developer Co-op | Ottawa, ON, Canada | 74d ago | [apply](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) |
-
-## New from Company portals (2)
+## New from SimplifyJobs (17)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **NVIDIA** | PhD Research Intern, Cross-Disciplinary Vision Science - Summer 2027 | US CA Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---Summer-2027_JR2026499) |
-| **Amazon** | Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA) | Redmond, Washington, USA | today | [apply](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
+| **Clēnera** | Data Engineer Intern | Boise, ID | today | [apply](https://job-boards.greenhouse.io/clenera/jobs/5259423007) |
+| **DocuSign** | Software Engineer Intern | Seattle, WA / SF | today | [apply](https://careers.docusign.com/jobs/30465?icims=1) |
+| **Keysight Technologies** | Enterprise Software Development Intern - EDA Tools<br>Master's/PhD | Santa Rosa, CA | today | [apply](https://jobs.keysight.com/jobs/54578?icims=1) |
+| **Keysight Technologies** | Software Development Engineer Intern - 6G Digital Twin and Visualization Platform | Santa Rosa, CA | today | [apply](https://jobs.keysight.com/jobs/54319?icims=1) |
+| **Waymo** | Intern - Multiple Teams | Mountain View, CA | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8257660) |
+| **Akuna Capital** | Entry-Level C++ Software Engineer Intern | Chicago, IL | today | [apply](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) |
+| **Figure** | Middleware Software Intern | San Jose, CA | today | [apply](https://job-boards.greenhouse.io/figureai/jobs/4605724006) |
+| **Sigma Computing** | Software Engineer Intern - Summer 2027 | SF / NYC | today | [apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003) |
+| **Sigma Computing** | Software Engineer Intern | NYC | today | [apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003) |
+| **Waymo** | Research Intern - Perception Foundation Models<br>Master's/PhD | Mountain View, CA | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8257801) |
+| **F5** | Software Developer Intern | San Jose, CA | 1d ago | [apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076) |
+| **CAE** | Software Developer Co-op | Montreal, QC, Canada | 1d ago | [apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904) |
+| **Applied Materials** | Global Product Support Intern Master's<br>Master's | Santa Clara, CA | 1d ago | [apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Global-Product-Support-Intern--Master-s--Santa-Clara--CA-_R2628947) |
+| **Highmark Health** | Market Analytics Graduate Intern | Pittsburgh, PA | 1d ago | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906) |
+| **Dandy** | Software Engineering Intern<br>Master's | NYC | 6d ago | [apply](https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true) |
+| **Marsh** | Summer Analyst Intern - Data and Analytics | Toronto, ON, Canada | 41d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 53d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
 
 ## Watched company portals
 
