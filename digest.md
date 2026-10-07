@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-10-07 07:07 UTC · 17 new listings_
+_Updated 2026-10-07 14:42 UTC · 39 new listings_
 
-## New from SimplifyJobs (17)
+## New from SimplifyJobs (38)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -16,13 +16,40 @@ _Updated 2026-10-07 07:07 UTC · 17 new listings_
 | **Sigma Computing** | Software Engineer Intern - Summer 2027 | SF / NYC | today | [apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003) |
 | **Sigma Computing** | Software Engineer Intern | NYC | today | [apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003) |
 | **Waymo** | Research Intern - Perception Foundation Models<br>Master's/PhD | Mountain View, CA | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8257801) |
+| **Meta** | Data Scientist Intern - Product Analytics | Menlo Park, CA | today | [apply](https://www.metacareers.com/jobs/929757023499411) |
+| **Tenstorrent** | AI Software Intern | Austin, TX / Santa Clara, CA | today | [apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007) |
+| **GuideWell Mutual** | IT Graduate Internship - Multiple Teams | Jacksonville, FL | today | [apply](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182) |
+| **Microsoft** | Software Engineer Intern | London, UK | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393557025004) |
 | **F5** | Software Developer Intern | San Jose, CA | 1d ago | [apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076) |
 | **CAE** | Software Developer Co-op | Montreal, QC, Canada | 1d ago | [apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904) |
 | **Applied Materials** | Global Product Support Intern Master's<br>Master's | Santa Clara, CA | 1d ago | [apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Global-Product-Support-Intern--Master-s--Santa-Clara--CA-_R2628947) |
 | **Highmark Health** | Market Analytics Graduate Intern | Pittsburgh, PA | 1d ago | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906) |
+| **Ema** | AI Resident | London, UK | 5d ago | [apply](https://jobs.ashbyhq.com/ema/c6ec72b0-dce1-422c-895f-9f22c4762a76/application?embed=true) |
+| **Northrop Grumman** | Senior Principal Intelligence Analyst Intern - SkillBridge | Newport News, VA | 5d ago | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Newport-News/Sr-Principal-Intel-Analyst--SkillBridge-_R10254116) |
 | **Dandy** | Software Engineering Intern<br>Master's | NYC | 6d ago | [apply](https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true) |
+| **Iridium Communications** | Software Engineering Intern | Tempe, AZ / McLean, VA | 7d ago | [apply](https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false) |
+| **Medpace** | Junior Business Intelligence Engineer Intern | Cincinnati, OH | 8d ago | [apply](https://careers.medpace.com/jobs/13026?icims=1) |
+| **RTX** | Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing | Longueuil, QC, Canada | 9d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Administration-des-contrats--analyse-des-ventes-et-marketing---Internship---Winter-2027---Contract-Administration--Sales-Analysis---Marketing_01878336) |
+| **Boston Scientific** | R&D Research Data Science Intern<br>Master's/PhD | United States | 9d ago | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813667382) |
+| **Mondelez International** | Promotions Analyst Intern | Santa Fe, NM | 14d ago | [apply](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Santa-F-Mexico/Becario-Analista-de-promociones--RGM-_R-176656) |
+| **Mondelez International** | Promotions Analyst Intern - Revenue Growth Management | Santa Fe, NM | 14d ago | [apply](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Santa-F-Mexico/Becario-Analista-de-promociones--RGM-_R-176645) |
+| **NewYork-Presbyterian** | Finance Intern | NYC | 15d ago | [apply](https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Summer-2027-Finance-Internship-Program--Patient-Access-Westchester_00888341) |
+| **Roche** | Data Science Intern - Multiple Teams | Welwyn Garden City, UK | 19d ago | [apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536) |
+| **Planview** | Software Engineer Intern | Austin, TX | 27d ago | [apply](https://careers.planview.com/jobs/5128?icims=1) |
+| **COUNTRY Financial** | Automation Developer Intern | Bloomington, IL | 29d ago | [apply](https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Automation-Developer-Intern_R26_0000001000) |
+| **Johns Hopkins Applied Physics Laboratory** | Acoustic Algorithm Development Engineer Intern | Laurel, MD | 34d ago | [apply](https://careers.jhuapl.edu/jobs/59784?icims=1) |
+| **Johns Hopkins Applied Physics Laboratory** | Cyber Software Engineer Intern - Capabilities Development | Laurel, MD | 35d ago | [apply](https://careers.jhuapl.edu/jobs/59779?icims=1) |
+| **Intel** | Software Engineer Intern | Austin, TX / Santa Clara, CA / Hillsboro, OR / Folsom, CA /  | 35d ago | [apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) |
+| **RTX** | Aerospace Engineering Intern - APU Programs Support | Longueuil, QC, Canada | 36d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035) |
+| **Omnicom Group** | Technology Solutions Intern | Addison, TX | 36d ago | [apply](https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Technology-Solutions-Intern-Consultant_R13282) |
 | **Marsh** | Summer Analyst Intern - Data and Analytics | Toronto, ON, Canada | 41d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 53d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Epic Games** | Machine Learning Intern - Special Projects - Epic Research Group<br>Master's/PhD | London, UK | 60d ago | [apply](https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Cisco** | Splunk Solutions Engineer (Intern) - United States | RTP North Carolina US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Splunk-Solutions-Engineer--Intern----United-States_2028084) |
 
 ## Watched company portals
 
