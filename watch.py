@@ -767,12 +767,16 @@ def notify(title, body, click, priority="high"):
         print(f"\n--- NTFY_TOPIC unset, printing instead ---\n{title}\n\n"
               f"{body}\n")
         return
+    # JSON publishing keeps everything in the UTF-8 body. The old header-based
+    # form crashed on any non-Latin-1 character in a title ("—", "é", "ē"),
+    # because HTTP headers are Latin-1 only.
+    levels = {"min": 1, "low": 2, "default": 3, "high": 4, "max": 5}
+    payload = {"topic": TOPIC, "title": title, "message": body,
+               "priority": levels.get(priority, 4),
+               "tags": ["briefcase"], "click": click}
     req = urllib.request.Request(
-        f"https://ntfy.sh/{TOPIC}",
-        data=body.encode("utf-8"),
-        headers={"Title": title, "Priority": priority,
-                 "Tags": "briefcase", "Click": click},
-    )
+        "https://ntfy.sh/", data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"})
     urllib.request.urlopen(req, timeout=20).read()
 
 
@@ -935,12 +939,20 @@ def main():
     write_digest(new_by_source, boards)
     link = digest_url()
     for name in active:
-        if new_by_source.get(name):
+        if not new_by_source.get(name):
+            continue
+        try:
             announce(name, new_by_source[name], link)
+        except Exception as e:                       # noqa: BLE001
+            # Don't record these as seen, so they retry next run, but still
+            # save every other source's state.
+            print(f"[{name}] notify FAILED, will retry next run: "
+                  f"{type(e).__name__}: {e}", file=sys.stderr)
+            seen_up.pop(name, None)
+            ded_up.pop(name, None)
+            failures.append(f"{name}-notify")
 
     save_state(prev_seen, prev_ded, seen_up, ded_up)
-    if failures:
-        sys.exit(f"source(s) failed: {', '.join(failures)}")
 
 
 if __name__ == "__main__":
