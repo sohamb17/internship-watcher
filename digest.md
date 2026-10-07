@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-10-07 14:42 UTC · 39 new listings_
+_Updated 2026-10-07 18:36 UTC · 47 new listings_
 
-## New from SimplifyJobs (38)
+## New from SimplifyJobs (44)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -20,12 +20,17 @@ _Updated 2026-10-07 14:42 UTC · 39 new listings_
 | **Tenstorrent** | AI Software Intern | Austin, TX / Santa Clara, CA | today | [apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007) |
 | **GuideWell Mutual** | IT Graduate Internship - Multiple Teams | Jacksonville, FL | today | [apply](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42182) |
 | **Microsoft** | Software Engineer Intern | London, UK | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393557025004) |
+| **Booz Allen** | Junior AI Software Developer Intern | San Diego, CA | today | [apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196) |
+| **S&C Electric Company** | Software Engineer Intern | Chicago, IL | today | [apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374) |
+| **Northrop Grumman** | Software Developer Intern | Chantilly, VA | today | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1) |
+| **Auto-Owners Insurance** | Business Intelligence Engineer Intern | Lansing, MI | today | [apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662) |
 | **F5** | Software Developer Intern | San Jose, CA | 1d ago | [apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076) |
 | **CAE** | Software Developer Co-op | Montreal, QC, Canada | 1d ago | [apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904) |
 | **Applied Materials** | Global Product Support Intern Master's<br>Master's | Santa Clara, CA | 1d ago | [apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Global-Product-Support-Intern--Master-s--Santa-Clara--CA-_R2628947) |
 | **Highmark Health** | Market Analytics Graduate Intern | Pittsburgh, PA | 1d ago | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906) |
 | **Ema** | AI Resident | London, UK | 5d ago | [apply](https://jobs.ashbyhq.com/ema/c6ec72b0-dce1-422c-895f-9f22c4762a76/application?embed=true) |
 | **Northrop Grumman** | Senior Principal Intelligence Analyst Intern - SkillBridge | Newport News, VA | 5d ago | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Newport-News/Sr-Principal-Intel-Analyst--SkillBridge-_R10254116) |
+| **Leidos** | Business Systems AI Intern | Remote in USA | 5d ago | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770) |
 | **Dandy** | Software Engineering Intern<br>Master's | NYC | 6d ago | [apply](https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true) |
 | **Iridium Communications** | Software Engineering Intern | Tempe, AZ / McLean, VA | 7d ago | [apply](https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false) |
 | **Medpace** | Junior Business Intelligence Engineer Intern | Cincinnati, OH | 8d ago | [apply](https://careers.medpace.com/jobs/13026?icims=1) |
@@ -44,12 +49,15 @@ _Updated 2026-10-07 14:42 UTC · 39 new listings_
 | **Omnicom Group** | Technology Solutions Intern | Addison, TX | 36d ago | [apply](https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Technology-Solutions-Intern-Consultant_R13282) |
 | **Marsh** | Summer Analyst Intern - Data and Analytics | Toronto, ON, Canada | 41d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1) |
 | **Epic Games** | Machine Learning Intern - Special Projects - Epic Research Group<br>Master's/PhD | London, UK | 60d ago | [apply](https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004) |
+| **Clio** | Software Developer Co-op | Toronto, ON, Canada / Calgary, AB, Canada / Vancouver, BC, C | 112d ago | [apply](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577) |
 
-## New from Company portals (1)
+## New from Company portals (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
 | **Cisco** | Splunk Solutions Engineer (Intern) - United States | RTP North Carolina US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Splunk-Solutions-Engineer--Intern----United-States_2028084) |
+| **Intel** | Data Science and Analytics - PhD Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859) |
+| **Marvell** | Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027 | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Business-Process-Mining---Intelligence-Analyst-Intern--BS---Summer-2027_2603844) |
 
 ## Watched company portals
 
