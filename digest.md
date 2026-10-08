@@ -1,31 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-10-08 06:34 UTC · 15 new listings_
+_Updated 2026-10-08 13:58 UTC · 7 new listings_
 
-## New from SimplifyJobs (13)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Amazon** | Business Intelligence Engineer Intern | Seattle, WA | today | [apply](https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) |
-| **Amazon** | Data Engineer Intern | Seattle, WA | today | [apply](https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) |
-| **Microsoft** | Applied Scientist Intern | Redmond, WA | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393556986141) |
-| **Tesla** | Data Analyst Intern - People Products | Palo Alto, CA / Austin, TX | today | [apply](https://www.tesla.com/careers/search/job/286085) |
-| **Meta** | Manufacturing Test Engineer Intern | Sunnyvale, CA | today | [apply](https://www.metacareers.com/jobs/1866862250969693) |
-| **Dell Technologies** | Undergraduate Data Science Intern | Round Rock, TX / Hopkinton, MA | today | [apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299978) |
-| **KLA** | Applications Development Engineer Intern | Milpitas, CA | 1d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1) |
-| **KLA** | Applications Development Engineer Intern | Milpitas, CA | 1d ago | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507) |
-| **Motorola** | Software Engineer Intern | Westminster, CO | 1d ago | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997) |
-| **Motorola** | Software Development Intern | St. Petersburg, FL | 1d ago | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/St-Petersburg-Business-Center/Software-Development-Intern---Summer-2027-Internship_R68576) |
-| **Boston Scientific** | Software Development Engineer Intern | Waltham, MA | 13d ago | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813567960) |
-| **Boston Scientific** | Software Development Engineer Co-op | Waltham, MA | 13d ago | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813567963) |
-| **Fifth Third Bank** | Software Engineer Co-op - Enterprise Finance Applications - Summer 2027 | Cincinnati, OH | 49d ago | [apply](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588) |
-
-## New from Company portals (2)
+## New from SimplifyJobs (6)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Motorola Solutions** | Software Engineer - Summer 2027 Internship | Westminster, CO | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997) |
-| **Salesforce** | Summer 2027 Intern - Tableau Research | California   Palo Alto | today | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1) |
+| **Tenstorrent** | AI Software Intern | Toronto, ON, Canada | today | [apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) |
+| **TikTok** | Machine Learning Engineer Intern - Monetization Technology - Ads Core Global | San Jose, CA | today | [apply](https://lifeattiktok.com/search/7687630614472149301) |
+| **DoorDash** | Software Engineer Intern | SF / Sunnyvale, CA | today | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
+| **Aprio** | Technology Advisory Intern | Atlanta, GA | 20d ago | [apply](https://jobs.lever.co/Aprio/85d3d741-99dc-4a73-8837-951c9ddf646c/apply) |
+| **Entegris** | Innovation Application Co-op | Danbury, CT | 28d ago | [apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Danbury-CT/Innovation-Application-Co-Op_REQ-14507) |
+| **Exa** | Software Engineer Intern | SF | 56d ago | [apply](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application?embed=true) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **DoorDash** | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | — | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 
 ## Watched company portals
 
