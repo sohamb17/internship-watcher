@@ -1,23 +1,36 @@
 # Internship watcher — latest
 
-_Updated 2026-10-08 13:58 UTC · 7 new listings_
+_Updated 2026-10-08 19:50 UTC · 20 new listings_
 
-## New from SimplifyJobs (6)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Tenstorrent** | AI Software Intern | Toronto, ON, Canada | today | [apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) |
-| **TikTok** | Machine Learning Engineer Intern - Monetization Technology - Ads Core Global | San Jose, CA | today | [apply](https://lifeattiktok.com/search/7687630614472149301) |
-| **DoorDash** | Software Engineer Intern | SF / Sunnyvale, CA | today | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
-| **Aprio** | Technology Advisory Intern | Atlanta, GA | 20d ago | [apply](https://jobs.lever.co/Aprio/85d3d741-99dc-4a73-8837-951c9ddf646c/apply) |
-| **Entegris** | Innovation Application Co-op | Danbury, CT | 28d ago | [apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Danbury-CT/Innovation-Application-Co-Op_REQ-14507) |
-| **Exa** | Software Engineer Intern | SF | 56d ago | [apply](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application?embed=true) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (9)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **DoorDash** | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | — | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
+| **Koch Industries** | Data Science Intern | Atlanta, GA | today | [apply](https://koch.avature.net/en_US/careers/JobDetail/195341) |
+| **Rugged Robotics** | Robotics Software Intern Co-op | Houston, TX | today | [apply](https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005) |
+| **Lowe's** | PRO Services Reporting Intern | Mooresville, NC | today | [apply](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/PRO-Services-Reporting-Intern---Undergrad-Internship---Summer-2027-_JR-02672698) |
+| **NVIDIA** | AI Developer Technology Intern | Bristol, UK / Munich, Germany | today | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497) |
+| **Gordon Food Service** | Software Engineer Intern - Transportation Routing | Wyoming, MI | today | [apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374) |
+| **Cox** | Data Scientist Co-op | Atlanta, GA | today | [apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033) |
+| **Leidos** | Systems Integration and Software Engineer Intern | Atlantic City, NJ | today | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152) |
+| **Badger Meter** | Software Engineering Intern | Escondido, CA | today | [apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645) |
+| **Intel** | Software Engineer Intern | Austin, TX / Santa Clara, CA / Hillsboro, OR / Folsom, CA /  | 36d ago | [apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) |
+
+## New from Company portals (11)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Replit** | Software Engineering Intern – Winter 2027 (U.S. Based) | Foster City, CA | today | [apply](https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea) |
+| **Cadence Design Systems** | CST Application Engineer Intern - Physical Systems | SAN JOSE | today | [apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Physical-Systems_R56702-2) |
+| **GlobalFoundries** | Yield and Characterization Engineer Intern (Summer 2027) | USA - Vermont - Essex Junction | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Yield-and-Characterization-Engineer-Intern--Summer-2027-_JR-2604638) |
+| **Intel** | Module Engineering PhD Intern 2027 | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876) |
+| **Intel** | Software Research Engineering - (PhD Intern) | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) |
+| **Amazon** | Embedded Firmware Co-op, Amazon Robotics - Spring 2027 | North Reading, Massachusetts, USA | today | [apply](https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027) |
+| **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Chicago, IL | 30d ago | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388) |
+| **IMC Trading** | Machine Learning Engineer Intern - Summer 2027 | New York, United States | — | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) |
+| **Roblox** | [2027] Applied Scientist - PhD Intern | San Mateo, CA, United States | — | [apply](https://careers.roblox.com/jobs/8242621?gh_jid=8242621) |
+| **Roblox** | [2027] Data Scientist - PhD Intern | San Mateo, CA, United States | — | [apply](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) |
+| **Schonfeld** | 2027 Business Analytics Intern | New York, New York, United States | — | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) |
 
 ## Watched company portals
 
