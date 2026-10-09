@@ -1,42 +1,66 @@
 # Internship watcher — latest
 
-_Updated 2026-10-09 19:27 UTC · 26 new listings_
+_Updated 2026-10-09 23:26 UTC · 50 new listings_
 
-## New from SimplifyJobs (13)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **John Deere** | Product Engineering Student Intern - Robotics | Champaign, IL | today | [apply](https://johndeere.eightfold.ai/careers/job/137483758357) |
-| **WTW** | Software Developer Intern | Reigate, UK | today | [apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435) |
-| **Meta** | Research Scientist Intern - Audio - Machine Learning and Computer Vision | Burlingame, CA / Redmond, WA | today | [apply](https://www.metacareers.com/jobs/2211974449401350) |
-| **Radiance Technologies** | Modeling & Simulation Engineer Intern | Huntsville, AL | today | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Modeling---Simulation-Engineer-Intern_HR102472) |
-| **Barry-Wehmiller** | Software Engineer Intern | Dallas, TX | today | [apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133) |
-| **Johnson & Johnson** | Strategic Insight and Analytics Co-op | Horsham, PA | today | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640) |
-| **Papa John's** | Data Science Intern | Atlanta, GA | today | [apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) |
-| **Papa John's** | Digital Development Intern | Atlanta, GA | today | [apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155) |
-| **Parsons** | Software Engineer Co-op | Centreville, VA | today | [apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147) |
-| **Varian** | Performance Engineering Assistant Co-op | Ottawa, ON, Canada | today | [apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160) |
-| **CoStar Group** | Associate Software Engineer Intern | Sunnyvale, CA | 8d ago | [apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942) |
-| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 17d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
-| **RTX** | Software Engineer Co-op - Spring/Summer 2027 | Cedar Rapids, IA | 28d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01873682) |
-
-## New from Company portals (13)
+## New from SimplifyJobs (43)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Applied Materials** | Summer 2027 Industrial Engineer Intern- Master's (Santa Clara, CA) | Santa Clara,CA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineer-Intern--Master-s--Santa-Clara--CA-_R2630072) |
-| **Applied Materials** | 2027 Summer Intern - Physicist/Scientist - PhD, (Santa Clara) | Santa Clara,CA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Physicist-Scientist---PhD---Santa-Clara-_R2629429) |
-| **Applied Materials** | 2027 Summer Electrical Engineer  Intern (Controls/PCB) - BS or MS (Gloucester, MA) | Gloucester,MA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658) |
-| **Applied Materials** | 2027 Summer Intern - Process Engineer - BS/MS Degree (Santa Clara, CA) | Santa Clara,CA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Process-Engineer---BS-MS-Degree--Santa-Clara--CA-_R2629424) |
-| **Applied Materials** | 2027 Summer Mechanical Engineer Intern - BS or MS (Gloucester, MA) | Gloucester,MA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2630657) |
-| **Applied Materials** | 2027 Summer Intern - Mechanical Engineer - BS/MS Degree, (Santa Clara) | Santa Clara,CA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---BS-MS-Degree---Santa-Clara-_R2629426) |
-| **Applied Materials** | 2027 Summer Intern - Mechanical Engineer - PhD, (Santa Clara) | Santa Clara,CA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---PhD---Santa-Clara-_R2629427) |
-| **Applied Materials** | 2027 Summer Intern - Process Engineer - PhD, (Santa Clara) | Santa Clara,CA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Process-Engineer---PhD---Santa-Clara-_R2629425) |
-| **Applied Materials** | 2027 Summer Intern - Electrical Engineer - BS/MS Degree, (Santa Clara) | Santa Clara,CA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428) |
-| **KLA** | Mechanical Engineering Intern | Ann Arbor, MI | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653) |
-| **Coinbase** | Forward Deployed Engineer Intern (HR Technology) | Hybrid - New York, NY | — | [apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
-| **Schonfeld** | 2027 Quantitative Developer Intern | Austin, Texas, United States | — | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8267092) |
-| **Schonfeld** | 2027 Quantitative Research Intern | Austin, Texas, United States | — | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8267120) |
+| **Faire** | Applied AI/ML Scientist Intern<br>Master's/PhD | SF | today | [apply](https://boards.greenhouse.io/faire/jobs/8870975002) |
+| **DocuSign** | Software Engineer Intern | Seattle, WA | today | [apply](https://careers.docusign.com/jobs/30513?icims=1) |
+| **DocuSign** | Software Engineer Intern | Chicago, IL | today | [apply](https://careers.docusign.com/jobs/30497?icims=1) |
+| **AMD** | AI Agentic Flow for GPU ASIC Design Co-op Intern | Orlando, FL | today | [apply](https://careers.amd.com/jobs/91341?icims=1) |
+| **Wawa** | Information Technology Development Intern | Media, PA | today | [apply](https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392) |
+| **Meta** | Research Scientist Intern - Spatial Audio Capture and Reproduction | Redmond, WA | today | [apply](https://www.metacareers.com/jobs/1674394627579563) |
+| **Lennox International** | Business Compliance Intern | Richardson, TX | today | [apply](https://uscareers-lennox.icims.com/jobs/55590/job?mobile=true&needsRedirect=false) |
+| **Bosch Home Comfort** | Artificial Intelligence / Machine Learning: Foundation Models Intern<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000154759734) |
+| **Elk Valley Resources** | Business Administration Co-op - Maintenance Excellence | Sparwood, BC, Canada | today | [apply](https://jobs.lever.co/evr/f99e042d-7629-4822-b82f-521b6bdc1db3/apply) |
+| **SageSure** | Data Scientist Intern | Jersey City, NJ / Cheshire, CT | today | [apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719514006) |
+| **SageSure** | Data Operations Engineer Intern | Jersey City, NJ / Cheshire, CT | today | [apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719517006) |
+| **Panasonic Holdings** | Panasonic Transformation Group Intern | Sparks, NV | today | [apply](https://careers.na.panasonic.com/jobs/51646?icims=1) |
+| **Panasonic Holdings** | Panasonic Transformation Group Intern | Sparks, NV | today | [apply](https://careers.na.panasonic.com/jobs/51652?icims=1) |
+| **Later** | Data & Analytics Co-op | Boston, MA | today | [apply](https://job-boards.greenhouse.io/later/jobs/8880737002) |
+| **NVIDIA** | Research Intern - World Models and Synthetic Data for Autonomous Driving<br>Master's/PhD | Santa Clara, CA | today | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) |
+| **Coinbase** | Forward Deployed Engineer Intern - HR Technology | NYC | today | [apply](https://boards.greenhouse.io/embed/job_app?token=8175510) |
+| **Capstone Investment Advisors** | Tech Execution Intern | NYC | today | [apply](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002) |
+| **Loram** | Machine Learning / Artificial Intelligence Intern - AI | Hamel, Medina, MN | today | [apply](https://jobs.smartrecruiters.com/Loram1/3743990016031492) |
+| **Elanco** | Pet Health Sales Excellence Intern - AI Innovation & Enablement | Indianapolis, IN | today | [apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467) |
+| **CHS** | Enterprise Content Analytics & Solutions Intern | Inver Grove Heights, MN | today | [apply](https://careers.chsinc.com/job/Inver-Grove-Heights-Enterprise-Content-Analytics-&-Solutions-Intern-MN-55077-1721/1438778100/?ats=successfactors) |
+| **Johnson & Johnson** | Digital Automation Co-op | Malvern, PA | today | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Digital-Automation-Co-Op_R-098537) |
+| **Johnson & Johnson** | Proteins Cell Engineering, Analytics & Screening Automation Co-op | Spring House, PA | today | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580) |
+| **American Family Insurance Group** | Data Analyst Intern | Madison, WI | today | [apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404) |
+| **FNBO** | Banking Automation Engineer Intern | Omaha, NE | today | [apply](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Banking-Automation-Engineer-Intern_R-20261800) |
+| **Tenet3** | Software Developer Intern - Full Stack | Dayton, OH | today | [apply](https://job-boards.greenhouse.io/tenet3/jobs/8878874002) |
+| **Electronic Arts** | Software Engineer Co-op | Vancouver, BC, Canada | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231) |
+| **Electronic Arts** | Software Engineer Intern | Vancouver, BC, Canada | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225) |
+| **SageSure** | Data Science Intern | Jersey City, NJ | today | [apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719539006) |
+| **Electronic Arts** | C++ Software Engineer Intern | Vancouver, BC, Canada | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226) |
+| **Electronic Arts** | Gameplay Software Engineer Co-op | Vancouver, BC, Canada | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230) |
+| **General Motors** | Summer Intern - Onboard Autonomy - Embodied AI<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) |
+| **General Motors** | Data Scaling Intern - Data Scaling - Embodied AI<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132) |
+| **Nissan Global** | EA & Cloud Intern | Franklin, TN | today | [apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214) |
+| **General Motors** | Seam Intern - Embodied AI<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143) |
+| **GCM Grosvenor** | Software Engineer Intern | Chicago, IL | today | [apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003) |
+| **Affirm** | IT Engineer Intern - Early Careers | SF | today | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
+| **SageSure** | Software Engineer Intern | Chicago, IL / Jersey City, NJ / Mountain View, CA | today | [apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719536006) |
+| **Panasonic Holdings** | Panasonic Transformation Group Intern | Sparks, NV | today | [apply](https://careers.na.panasonic.com/jobs/51629?icims=1) |
+| **GlobalFoundries** | Software Engineer Intern | Austin, TX / Santa Clara, CA | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039) |
+| **Kyndryl** | Marketing Intern - Marketing Analysis | NYC | today | [apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1) |
+| **DoorDash** | Software Engineer Intern | SF / Sunnyvale, CA | 1d ago | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
+| **CAE** | Software Engineering Intern - AI, Automation and Business Intelligence | Montreal, QC, Canada | 37d ago | [apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 55d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+
+## New from Company portals (7)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Applied Materials** | Software Engineering Summer Intern (Masters - Santa Clara, CA) | Santa Clara,CA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705) |
+| **GlobalFoundries** | Software Engineering Intern (Summer 2027) | USA   Texas   Austin | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039) |
+| **Intel** | AI-Driven Physical Design Engineering (PhD Intern) | US California Santa Clara | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/AI-Driven-Physical-Design-Engineering--PhD-Intern-_JR0287661) |
+| **Micron Technology** | Intern - IT Software Engineer | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941) |
+| **Micron Technology** | Intern - SSD Firmware - CICD | Longmont-MAX- Office, CO | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542) |
+| **Amazon** | Business Analyst Intern – Summer 2027 | Bellevue, Washington, USA | today | [apply](https://www.amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027) |
+| **DoorDash** | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | — | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 
 ## Watched company portals
 
