@@ -1,16 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-10-09 06:36 UTC · 5 new listings_
+_Updated 2026-10-09 13:43 UTC · 8 new listings_
 
-## New from SimplifyJobs (5)
+## New from SimplifyJobs (8)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Standard Aero** | IT Analyst Co-op | Cincinnati, OH | today | [apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255) |
-| **Denver** | Data Analytics College Intern - Analytics and Innovation | Denver, CO | today | [apply](https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Denver-International-Airport/Data-Analytics-and-Innovation-College-Internship---Analytics-and-Innovation---Denver-International-Airport--4-months-_R0083221-1) |
-| **Manulife Financial** | Grit Intern | Toronto, ON, Canada | 1d ago | [apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GRIT_JR26080516) |
-| **RTX** | Software Engineer Intern | Annapolis Junction, MD | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895) |
-| **Centific** | AI Research Intern - Physical AI<br>Master's/PhD | Remote in USA | 1d ago | [apply](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1) |
+| **Aptiv** | Compiler Intern - Compiler Team | Walnut Creek, CA | today | [apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385) |
+| **Aptiv** | Embedded Software Engineer Intern | Walnut Creek, CA | today | [apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386) |
+| **Aptiv** | Software Engineer Intern | Walnut Creek, CA | today | [apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388) |
+| **Aptiv** | Software Engineer Intern | Walnut Creek, CA | today | [apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704387) |
+| **NVIDIA** | CPU Compiler Intern | Cambridge, UK | today | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251) |
+| **Macy's** | Data Systems Intern - Multiple Teams | NYC | 2d ago | [apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93388) |
+| **Edison International** | Computer Science Intern | Alhambra, CA / Pomona, CA / Rosemead, CA | 38d ago | [apply](https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors) |
+| **Rippling** | Machine Learning Software Engineer Intern<br>Master's/PhD | SF | 125d ago | [apply](https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781) |
 
 ## Watched company portals
 
