@@ -1,23 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-10-10 02:39 UTC · 12 new listings_
+_Updated 2026-10-10 09:42 UTC · 5 new listings_
 
-## New from SimplifyJobs (12)
+## New from SimplifyJobs (5)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Magnet Forensics** | Software Developer Co-op | Ontario, Canada / Waterloo, ON, Canada / Ottawa, ON, Canada | today | [apply](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply) |
-| **DocuSign** | Software Engineer Intern | Seattle, WA | today | [apply](https://careers.docusign.com/jobs/30499?icims=1) |
-| **Itron** | People Analytics Intern | Liberty Lake, WA | 1d ago | [apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033) |
-| **Itron** | HR AI Data Science Intern | Austin, TX | 1d ago | [apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1) |
-| **Itron** | People Analytics Intern | Liberty Lake, WA | 1d ago | [apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033-1) |
-| **Itron** | HR AI Data Science Intern | Austin, TX | 1d ago | [apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034) |
-| **Workday** | Software Development Engineer Intern | Vancouver, BC, Canada | 1d ago | [apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807) |
-| **Micron Technology** | IT Software Engineer Intern | Boise, ID | 1d ago | [apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941) |
-| **Workday** | Machine Learning Engineer Intern | Toronto, ON, Canada / Vancouver, BC, Canada | 1d ago | [apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) |
-| **Workday** | Machine Learning Engineer Intern | Pleasanton, CA | 1d ago | [apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812) |
-| **Workday** | Software Application Development Engineer Intern | Pleasanton, CA | 1d ago | [apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811) |
-| **Workday** | Software Engineer Intern | Pleasanton, CA | 1d ago | [apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810) |
+| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 18d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
+| **Ragle Inc** | Software Engineer Intern | North Richland Hills, TX | 23d ago | [apply](https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern) |
+| **Ragle Inc** | Data Analytics Intern | North Richland Hills, TX | 35d ago | [apply](https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027) |
+| **Ragle Inc** | Data Engineering Intern | North Richland Hills, TX | 38d ago | [apply](https://ragleinc.applytojob.com/apply/bOx8uiciOs/Data-Engineering-Intern-Summer-2027) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 56d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
 
 ## Watched company portals
 
