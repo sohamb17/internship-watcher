@@ -1,20 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-10-10 15:50 UTC · 9 new listings_
+_Updated 2026-10-10 19:59 UTC · 1 new listing_
 
-## New from SimplifyJobs (9)
+## New from Company portals (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **RTX** | Software Engineer Intern | Melbourne, FL | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918) |
-| **KLA** | Applications Development Engineer Intern | Milpitas, CA | 3d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1) |
-| **AMD** | PhD Agentic/ML System Co-op<br>Master's/PhD | San Jose, CA | 4d ago | [apply](https://careers.amd.com/jobs/91767?icims=1) |
-| **Marvell** | SRAM Software Engineer Intern | Burlington, VT | 23d ago | [apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760) |
-| **CoStar Group** | Associate Software Engineer Intern | San Diego, CA | 24d ago | [apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674) |
-| **AMD** | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | 39d ago | [apply](https://careers.amd.com/jobs/90305?icims=1) |
-| **AMD** | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | 39d ago | [apply](https://careers.amd.com/jobs/91359?icims=1) |
-| **AMD** | Software Engineer Intern/Co-op | Vancouver, BC, Canada | 39d ago | [apply](https://careers.amd.com/jobs/91367?icims=1) |
-| **Tesla** | Cell Engineering Intern - Cell Qualification | Palo Alto, CA / San Diego, CA | 67d ago | [apply](https://www.tesla.com/careers/search/job/278620) |
+| **Marvell** | Test Solutions Engineering Intern, BS - Summer 2027 | Burlington, VT | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1) |
 
 ## Watched company portals
 
