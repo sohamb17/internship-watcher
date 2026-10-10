@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-10-10 19:59 UTC · 1 new listing_
+_Updated 2026-10-10 23:27 UTC · 1 new listing_
 
-## New from Company portals (1)
+## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Marvell** | Test Solutions Engineering Intern, BS - Summer 2027 | Burlington, VT | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1) |
+| **Johns Hopkins Applied Physics Laboratory** | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, MD | today | [apply](https://careers.jhuapl.edu/jobs/60432?icims=1) |
 
 ## Watched company portals
 
