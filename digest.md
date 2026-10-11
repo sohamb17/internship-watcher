@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-10-10 23:27 UTC · 1 new listing_
+_Updated 2026-10-11 02:07 UTC · 0 new listings_
 
-## New from SimplifyJobs (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Johns Hopkins Applied Physics Laboratory** | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, MD | today | [apply](https://careers.jhuapl.edu/jobs/60432?icims=1) |
+Nothing new this run.
 
 ## Watched company portals
 
