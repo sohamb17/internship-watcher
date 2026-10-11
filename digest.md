@@ -1,14 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-10-11 15:55 UTC · 3 new listings_
+_Updated 2026-10-11 17:26 UTC · 0 new listings_
 
-## New from SimplifyJobs (3)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Amgen** | Software Engineer Intern - Technology & Medical Organizations | Remote in USA | 30d ago | [apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 57d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 57d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+Nothing new this run.
 
 ## Watched company portals
 
