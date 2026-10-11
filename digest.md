@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-10-11 09:15 UTC · 1 new listing_
+_Updated 2026-10-11 15:55 UTC · 3 new listings_
 
-## New from SimplifyJobs (1)
+## New from SimplifyJobs (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Marsh** | Summer Analyst - Data and Analytics | Raleigh, NC | 45d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696) |
+| **Amgen** | Software Engineer Intern - Technology & Medical Organizations | Remote in USA | 30d ago | [apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 57d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 57d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
 
 ## Watched company portals
 
