@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-10-11 02:07 UTC · 0 new listings_
+_Updated 2026-10-11 09:15 UTC · 1 new listing_
 
-Nothing new this run.
+## New from SimplifyJobs (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Marsh** | Summer Analyst - Data and Analytics | Raleigh, NC | 45d ago | [apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---1-Glenwood/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Raleigh--NC_R_363696) |
 
 ## Watched company portals
 
