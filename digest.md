@@ -1,15 +1,33 @@
 # Internship watcher — latest
 
-_Updated 2026-10-12 05:45 UTC · 4 new listings_
+_Updated 2026-10-12 15:11 UTC · 17 new listings_
 
-## New from SimplifyJobs (4)
+## New from SimplifyJobs (14)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Kainos** | Placement Technologist Intern | Londonderry, UK | today | [apply](https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Placement-Technologist--L-Derry----June-2027-Start-Date_JR_18557-1) |
-| **Kainos** | Technologist Intern | Belfast, UK | today | [apply](https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Placement-Technologist--Belfast----June-2027-Start-Date_JR_18556) |
-| **Kainos** | Technologist Intern | Birmingham, UK | today | [apply](https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Placement-Technologist--Birmingham----July-2027-Start-Date_JR_18558) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 58d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Bosch Home Comfort** | Robotics Research Intern<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000154911489) |
+| **Crown Innovations** | Intern | Mountain View, CA | today | [apply](https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144112445) |
+| **LSEG** | Engineering Intern | Nottingham, UK | today | [apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221) |
+| **Tencent** | LLM & Agent Research Intern<br>Master's/PhD | London, UK | today | [apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/LLM---Agent-Research-Intern_R108173) |
+| **Google** | Forward Deployed Engineer Intern | NYC / Sunnyvale, CA | today | [apply](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) |
+| **Capula** | Technology Intern | London, UK | today | [apply](https://apply.workable.com/capula-investment-management-ltd/j/96EBCF5617/apply) |
+| **Tower Research Capital** | Venture Capital Intern | NYC | today | [apply](https://www.tower-research.com/open-positions/?gh_jid=7368106) |
+| **Bosch Home Comfort** | AI Business Solutions Intern | Coventry, UK | today | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000154992819) |
+| **CapTech Consulting** | Data Analysis/Data Engineering Intern | Richmond, VA | today | [apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169) |
+| **CapTech Consulting** | Consulting Software Engineer Intern | Richmond, VA | today | [apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115) |
+| **Tencent** | Data Science Intern<br>Master's/PhD | Palo Alto, CA | 1d ago | [apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213) |
+| **NJ Department of Environmental Protection** | Environmental Services Intern | Trenton, NJ | 4d ago | [apply](https://njdepartmentofenvironmentalprotection.applytojob.com/apply/k6SokzCoje/WRM20262i-Environmental-Services-Intern) |
+| **Thales** | Data Scientist Apprentice - Level 6 Data Scientist | Crawley, UK | 7d ago | [apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Data-Science-Apprentice_R0337752) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 58d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+
+## New from Company portals (3)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Intel** | AI Solution Architect - Undergraduate Intern | US, Oregon, Hillsboro | 5d ago | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931) |
+| **Intel** | AI Solution Architect - Graduate Intern | US, California, Santa Clara | 7d ago | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524) |
+| **Intel** | AI Solution Architect Graduate Intern | US, California, Santa Clara | 7d ago | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530) |
 
 ## Watched company portals
 
