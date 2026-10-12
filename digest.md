@@ -1,33 +1,28 @@
 # Internship watcher — latest
 
-_Updated 2026-10-12 15:11 UTC · 17 new listings_
+_Updated 2026-10-12 22:34 UTC · 12 new listings_
 
-## New from SimplifyJobs (14)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Bosch Home Comfort** | Robotics Research Intern<br>Master's/PhD | Sunnyvale, CA | today | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000154911489) |
-| **Crown Innovations** | Intern | Mountain View, CA | today | [apply](https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144112445) |
-| **LSEG** | Engineering Intern | Nottingham, UK | today | [apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221) |
-| **Tencent** | LLM & Agent Research Intern<br>Master's/PhD | London, UK | today | [apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/LLM---Agent-Research-Intern_R108173) |
-| **Google** | Forward Deployed Engineer Intern | NYC / Sunnyvale, CA | today | [apply](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) |
-| **Capula** | Technology Intern | London, UK | today | [apply](https://apply.workable.com/capula-investment-management-ltd/j/96EBCF5617/apply) |
-| **Tower Research Capital** | Venture Capital Intern | NYC | today | [apply](https://www.tower-research.com/open-positions/?gh_jid=7368106) |
-| **Bosch Home Comfort** | AI Business Solutions Intern | Coventry, UK | today | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000154992819) |
-| **CapTech Consulting** | Data Analysis/Data Engineering Intern | Richmond, VA | today | [apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169) |
-| **CapTech Consulting** | Consulting Software Engineer Intern | Richmond, VA | today | [apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115) |
-| **Tencent** | Data Science Intern<br>Master's/PhD | Palo Alto, CA | 1d ago | [apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213) |
-| **NJ Department of Environmental Protection** | Environmental Services Intern | Trenton, NJ | 4d ago | [apply](https://njdepartmentofenvironmentalprotection.applytojob.com/apply/k6SokzCoje/WRM20262i-Environmental-Services-Intern) |
-| **Thales** | Data Scientist Apprentice - Level 6 Data Scientist | Crawley, UK | 7d ago | [apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Data-Science-Apprentice_R0337752) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 58d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-
-## New from Company portals (3)
+## New from SimplifyJobs (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Intel** | AI Solution Architect - Undergraduate Intern | US, Oregon, Hillsboro | 5d ago | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931) |
-| **Intel** | AI Solution Architect - Graduate Intern | US, California, Santa Clara | 7d ago | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524) |
-| **Intel** | AI Solution Architect Graduate Intern | US, California, Santa Clara | 7d ago | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530) |
+| **RTX** | Software Engineer Intern | Tucson, AZ | today | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282-1) |
+| **Intel** | AI Solution Architect Graduate Intern<br>Master's | Santa Clara, CA | 7d ago | [apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530) |
+
+## New from Company portals (10)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Western Digital** | Spring Co-op - Recording Electronics Data Analytics & Optimization | Rochester, MN, United States | today | [apply](https://jobs.smartrecruiters.com/WesternDigital/744000155109379) |
+| **Intel** | Student Intern, Collaboration Services System Programmer | Costa Rica, San Jose | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833) |
+| **Intel** | Process Integration Development Engineer PhD Intern New 2027 | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977) |
+| **Intel** | Module Engineering - PhD Intern (Advanced Wet Etch and Cleans) | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering---PhD-Intern_JR0287975) |
+| **KLA** | AI/ML Software Engineer - Intern | Ann Arbor, MI | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701) |
+| **KLA** | Algorithm Engineering Intern (GPU/CUDA) | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044-2) |
+| **Micron Technology** | Intern - ID1 ATE PI Engineer | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-ATE-PI-Engineer_JR114304) |
+| **Micron Technology** | Intern - Yield Enhancement  Engineer | Boise, ID - ID1 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471) |
+| **Micron Technology** | Intern - SSD Hardware Engineering | Longmont-MAX- Office, CO | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Intern---SSD-Hardware-Engineering_JR114232) |
+| **Databricks** | Software Engineering Intern (2027) | Bellevue, Washington; Mountain View, California; San Francis | — | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
 
 ## Watched company portals
 
