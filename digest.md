@@ -1,22 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-10-11 23:54 UTC · 6 new listings_
+_Updated 2026-10-12 05:45 UTC · 4 new listings_
 
-## New from SimplifyJobs (5)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Resource Innovations** | Energy Engineering Intern | Toronto, ON, Canada | today | [apply](https://apply.workable.com/resource-innovations/j/4CAAA40639/apply) |
-| **General Motors** | Summer Intern - Onboard Autonomy - Embodied AI<br>Master's/PhD | Sunnyvale, CA | 2d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) |
-| **General Motors** | Data Scaling Intern - Data Scaling - Embodied AI<br>Master's/PhD | Sunnyvale, CA | 2d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132) |
-| **General Motors** | Autonomous Driving Software Engineer Intern | Sunnyvale, CA | 3d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064) |
-| **General Motors** | Summer Intern - AI & Hardware Analytics - Adpt | Milford, MI / Warren, MI | 6d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (4)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **GlobalFoundries** | Strategic Pricing & AI Analytics Intern (Summer 2027) | USA - Texas - Austin | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139) |
+| **Kainos** | Placement Technologist Intern | Londonderry, UK | today | [apply](https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Placement-Technologist--L-Derry----June-2027-Start-Date_JR_18557-1) |
+| **Kainos** | Technologist Intern | Belfast, UK | today | [apply](https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Placement-Technologist--Belfast----June-2027-Start-Date_JR_18556) |
+| **Kainos** | Technologist Intern | Birmingham, UK | today | [apply](https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Placement-Technologist--Birmingham----July-2027-Start-Date_JR_18558) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 58d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
 
 ## Watched company portals
 
