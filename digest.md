@@ -1,31 +1,36 @@
 # Internship watcher — latest
 
-_Updated 2026-10-14 01:49 UTC · 15 new listings_
+_Updated 2026-10-14 07:28 UTC · 25 new listings_
 
-## New from SimplifyJobs (13)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Metropolitan Transportation Authority** | Data Analyst Intern - Power Control Center | NYC | today | [apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/omtWAfw5?nl=1&nl=1&fr=false) |
-| **Metropolitan Transportation Authority** | Data Analyst Emerging Talent Intern - Supplier Relations | NYC | today | [apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oOvWAfwz?nl=1&nl=1&fr=false) |
-| **Eurostar International** | Software Developer Intern | London, UK | today | [apply](https://apply.workable.com/eurostar/j/D69651A000/apply) |
-| **Walgreens** | Data Science Intern | Deerfield, IL | today | [apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1946191) |
-| **Boston Consulting Group** | Forward Deployed AI Scientist Intern<br>Master's/PhD | Boston, MA / LA / Chicago, IL / NYC | today | [apply](https://careers.bcg.com/global/en/job/59703) |
-| **Armadin** | Frontend Engineer Intern - Member of Technical Staff | Palo Alto, CA | today | [apply](https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true) |
-| **Electronic Arts** | Software Engineer Intern | Vancouver, BC, Canada | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287) |
-| **Phillips 66** | University Intern - ERI Analytical Solutions | Bartlesville, OK | today | [apply](https://careers.phillips66.com/job/Bartlesville-West-2027-University-Intern-ERI-Analytical-Solutions-OK-74004/1439555700/?ats=successfactors) |
-| **Groma** | Finance Systems Co-op | Boston, MA | today | [apply](https://job-boards.greenhouse.io/groma/jobs/4743496005) |
-| **Field AI** | Research Scientist Intern - Robot Learning & Manipulation<br>Master's/PhD | Irvine, CA | today | [apply](https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply) |
-| **Schweitzer Engineering Laboratories** | Software Engineer Intern | Spokane Valley, WA | 1d ago | [apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231) |
-| **DriveTime** | Data Analytics Intern | Dallas, TX / Tempe, AZ | 1d ago | [apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst-Intern--Summer-2027-_R16502) |
-| **KLA** | Computer Vision/Machine Learning Intern<br>Master's/PhD | Milpitas, CA | 1d ago | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921) |
-
-## New from Company portals (2)
+## New from SimplifyJobs (25)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Amazon** | Hardware Development Engineer Intern,  Summer 2027 | Sunnyvale, California, USA | 1d ago | [apply](https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
-| **Motorola Solutions** | Software Engineering Intern - Summer 2027 | Chicago, IL | 30d ago | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388) |
+| **TikTok** | Machine Learning Engineer Intern - E-Commerce User Growth | Seattle, WA | today | [apply](https://lifeattiktok.com/search/7694357619162532149) |
+| **Brain Co.** | Machine Learning Engineer – Applied AI Co-op Intern | SF | today | [apply](https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application?embed=true) |
+| **Brain Co.** | AI Product Engineer Co-op Intern | SF | today | [apply](https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?embed=true) |
+| **BP** | Subsurface Technology Geologist Intern - Subsurface Technology - Geology | Sunbury-on-Thames, UK | today | [apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Geology_RQ117085) |
+| **BP** | Digital, Data, AI & Engineering Intern | London, UK | today | [apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081) |
+| **Assurant** | Data Support Analyst Intern | Chicago, IL | today | [apply](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717) |
+| **Profound Medical** | Software Development Co-op | Mississauga, ON, Canada | today | [apply](https://profoundmedical.bamboohr.com/careers/353/) |
+| **Aptiv** | ADAS Engineer Intern - Camera Perception | Troy, MI | 1d ago | [apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/ADAS-Engineering-Intern---Camera-Perception_J000705551) |
+| **KLA** | Computer Vision/Machine Learning Intern<br>Master's/PhD | Milpitas, CA | 1d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1) |
+| **General Motors** | Research and Development Intern - Smart Manufacturing Systems<br>Master's/PhD | Warren, MI | 2d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657) |
+| **General Motors** | Summer Intern - Research and Development - Machine Learning for Automation<br>Master's/PhD | Warren, MI | 2d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724) |
+| **General Motors** | Summer Intern - Onboard Autonomy - Embodied AI<br>Master's/PhD | Sunnyvale, CA | 5d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) |
+| **General Motors** | Data Scaling Intern - Data Scaling - Embodied AI<br>Master's/PhD | Sunnyvale, CA | 5d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132) |
+| **General Motors** | Seam Intern - Embodied AI<br>Master's/PhD | Sunnyvale, CA | 5d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143) |
+| **General Motors** | Autonomous Driving Software Engineer Intern | Sunnyvale, CA | 6d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064) |
+| **General Motors** | Summer Intern - AI & Hardware Analytics - Adpt | Milford, MI / Warren, MI | 9d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) |
+| **General Motors** | AI/ML Engineer Intern - Mapping | Warren, MI | 9d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778) |
+| **General Motors** | Software Engineer Intern - AV/AI Platform | Sunnyvale, CA / Warren, MI | 12d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696) |
+| **General Motors** | Machine Learning Engineer Intern - AV/AI Platform | Sunnyvale, CA | 12d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) |
+| **General Motors** | AI/ML Engineer Intern - Autonomous Vehicle: Simulation | Sunnyvale, CA | 13d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508) |
+| **General Motors** | Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation | Sunnyvale, CA | 13d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503) |
+| **General Motors** | Software Engineer Intern - Digital Product: Software Engineering | Austin, TX / Milford, MI / Mountain View, CA / Warren, MI | 23d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546) |
+| **Centene** | Analytics Intern | Florida | 26d ago | [apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
+| **General Motors** | Race Strategy & Analytics Intern - IndyCar | Concord, NC | 30d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990) |
+| **General Motors** | Data Engineering Software Developer Co-op | Markham, ON, Canada / Oshawa, ON, Canada | 44d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353) |
 
 ## Watched company portals
 
