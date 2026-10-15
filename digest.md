@@ -1,31 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-10-15 18:35 UTC · 15 new listings_
+_Updated 2026-10-15 21:44 UTC · 0 new listings_
 
-## New from SimplifyJobs (12)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Symbotic** | Robot Manipulation Co-op | Wilmington, MA | today | [apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Robot-Manipulation_R8257) |
-| **Boeing** | Data Science Intern | Vancouver, BC, Canada / Richmond, BC, Canada | today | [apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159) |
-| **Tencent** | Game Development Tools Intern - AI Focus | London, UK | today | [apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Game-Development-Tools-Intern--AI-Focus-_R108251) |
-| **Boeing** | Data Science Intern | Vancouver, BC, Canada / Richmond, BC, Canada | today | [apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1) |
-| **Deloitte** | Audit & Assurance Intern - AI and Data Science | LA | today | [apply](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857) |
-| **Expedia Group** | Applied Science Intern<br>Master's | London, UK | today | [apply](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540) |
-| **Expedia Group** | Software Development Engineer Intern | London, UK | today | [apply](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551) |
-| **Expedia Group** | Mobile Engineer Intern | London, UK | today | [apply](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545) |
-| **Palantir** | Meritocracy Fellow | NYC | today | [apply](https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply) |
-| **NVIDIA** | Developer Technology Engineer Intern - Compute Performance<br>Master's/PhD | Bristol, UK / Zürich, Switzerland | today | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949) |
-| **Lake Michigan Credit Union** | Business Intelligence Intern | Grand Rapids, MI | 2d ago | [apply](https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Grand-Rapids-MI/Business-Intelligence-Intern_REQ-2026-6972) |
-| **Biogen** | Data Science & AI Co-op - Portfolio Data & Digital Innovation<br>Master's | Remote in USA | 21d ago | [apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209) |
-
-## New from Company portals (3)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Intel** | Module Engineering PhD Intern New 2027 | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0288076) |
-| **Motorola Solutions** | Presales Systems Engineer - 2027 Internship | Georgia, US Offsite, More... | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Georgia-US-Offsite/Presales-Systems-Engineer---2027-Internship_R69503) |
-| **Airbnb** | Strategic Finance & Analytics Intern | United States | — | [apply](https://careers.airbnb.com/positions/8285171?gh_jid=8285171) |
+Nothing new this run.
 
 ## Watched company portals
 
