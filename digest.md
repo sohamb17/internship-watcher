@@ -1,44 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-10-15 09:21 UTC · 28 new listings_
+_Updated 2026-10-15 14:22 UTC · 7 new listings_
 
-## New from SimplifyJobs (7)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Johnson & Johnson** | External Manufacturing Center of Excellence Intern | New Brunswick, NJ / Hopewell Township, NJ | today | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/EM-Center-of-Excellence-Intern_R-103760) |
-| **Tessera Labs** | Full Stack Software Engineer Intern - Full Stack | San Jose, CA / Remote in USA / NYC | today | [apply](https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true) |
-| **Manulife Financial** | Software Engineer Intern - Software Engineering | Waterloo, ON, Canada | 1d ago | [apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1) |
-| **Interac** | Business Systems & AI Intern | Toronto, ON, Canada | 1d ago | [apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393) |
-| **Interac** | Technical Analyst Intern | Toronto, ON, Canada | 1d ago | [apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Technical-Analyst-Intern_REQ-2394) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 61d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 61d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-
-## New from Company portals (21)
+## New from SimplifyJobs (6)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Anduril** | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
-| **Anduril** | 2027 Firmware Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) |
-| **Anduril** | 2027 Flight Software Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) |
-| **Anduril** | 2027 Flight Test Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) |
-| **Anduril** | 2027 Industrial Engineer Intern | Ashville, Ohio, United States; Costa Mesa, California, Unite | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007) |
-| **Anduril** | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
-| **Anduril** | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
-| **Anduril** | 2027 Quality & Test Engineer Intern | Ashville, Ohio, United States; Costa Mesa, California, Unite | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) |
-| **Anduril** | 2027 Reliability Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) |
-| **Anduril** | 2027 Systems Engineer Intern | Boston, Massachusetts, United States; Costa Mesa, California | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) |
-| **Anduril** | Winter 2027 Electrical Engineer Co-op | Costa Mesa, California, United States; Quincy, Massachusetts | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) |
-| **Anduril** | Winter 2027 EWIS Harness Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) |
-| **Anduril** | Winter 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States; Lexington, Massachusetts, Uni | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) |
-| **Anduril** | Winter 2027 Mechanical Engineer Co-op | Ashville, Ohio, United States; Quincy, Massachusetts, United | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007) |
-| **Anduril** | Winter 2027 Propulsion Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) |
-| **Anduril** | Winter 2027 Quality & Test Engineer Co-op | Ashville, Ohio, United States; Santa Ana, California, United | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) |
-| **Anduril** | Winter 2027 Reliability Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007) |
-| **Anduril** | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
-| **Anduril** | Winter 2027 Technical Program Management Co-op | Washington, District of Columbia, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007) |
-| **Anduril** | Winter 2027 Test & Evaluation Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007) |
-| **Anduril** | Winter 2027 Warhead Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007) |
+| **Microsoft** | Applied Sciences Intern | London, UK | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393557040084) |
+| **Rippling** | Machine Learning Software Engineer Intern - Summer 2027<br>Master's/PhD | SF | 22d ago | [apply](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) |
+| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 23d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
+| **Schonfeld** | Systematic COO Intern | NYC | 40d ago | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172059) |
+| **Brunswick** | G3 Software Engineer Intern | Oshkosh, WI | 51d ago | [apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160) |
+| **Salesforce** | Software Engineer Intern | Palo Alto, CA / Seattle, WA / Indianapolis, IN / SF / NYC /  | 160d ago | [apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **GlobalFoundries** | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604628) |
 
 ## Watched company portals
 
