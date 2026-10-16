@@ -1,24 +1,28 @@
 # Internship watcher — latest
 
-_Updated 2026-10-16 09:39 UTC · 8 new listings_
+_Updated 2026-10-16 14:44 UTC · 17 new listings_
 
-## New from SimplifyJobs (7)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Hewlett Packard Enterprise** | AI & HPC Performance Engineering Intern | Spring, TX | 1d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397) |
-| **Ascension** | Master Data Management Intern | St. Louis, MO | 3d ago | [apply](https://jobs.ascension.org/us/en/job/2026-465180) |
-| **NJ Department of Environmental Protection** | Environmental Services Intern | Trenton, NJ | 8d ago | [apply](https://njdepartmentofenvironmentalprotection.applytojob.com/apply/k6SokzCoje/WRM20262i-Environmental-Services-Intern) |
-| **Tesla** | Software Engineer Intern - SI Data Infrastructure | Palo Alto, CA | 43d ago | [apply](https://www.tesla.com/careers/search/job/282292) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 62d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 62d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Clio** | Software Developer Co-op | Toronto, ON, Canada / Calgary, AB, Canada / Vancouver, BC, C | 121d ago | [apply](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (17)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Anduril** | Winter 2027 Research Engineer Co-op | Santa Ana, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007) |
+| **J.M. Smucker** | Finance Technology Intern | Orrville, OH | today | [apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016) |
+| **Amazon** | Software Developer Intern | London, UK / Edinburgh, UK / Bristol, UK / Cambridge, UK | today | [apply](https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) |
+| **American Bankers Association** | Banking Policy and Economic Research Intern | Washington, DC | today | [apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) |
+| **Electronic Arts** | Software Engineer Tools Intern | Birmingham, UK | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Tools/216192) |
+| **Electronic Arts** | Software Engineer Intern - Gameplay UI | Birmingham, UK | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190) |
+| **Electronic Arts** | UI Scripter Intern | Guildford, UK | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359) |
+| **Electronic Arts** | Client AI Software Engineer Intern | Manchester, UK | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364) |
+| **Hilb Group** | Benefits Analytics Intern | Hunt Valley, Cockeysville, MD | today | [apply](https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866) |
+| **Nutanix** | Support Analytics & Operations Intern | Durham, NC | today | [apply](https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false) |
+| **Leonardo** | Software Engineer Intern | Basildon, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283) |
+| **Leonardo** | Software Engineering Apprentice | Basildon, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Software-Engineering-Degree-Apprentice_R0034281) |
+| **Anduril** | Research Engineer Co-op | Santa Ana, CA | 1d ago | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007) |
+| **Invesco** | Early Career Intern - Technology | Atlanta, GA | 17d ago | [apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619) |
+| **Field AI** | Simulation – Sim to Real Intern | Irvine, CA | 22d ago | [apply](https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8/apply) |
+| **William Blair** | Application Development Intern - Multiple Teams | Chicago, IL | 23d ago | [apply](https://www.williamblair.com/Careers/job-description?gh_jid=5242285007) |
+| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 24d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
+| **Medtronic** | Software Engineer Intern | Boston, MA / Santa Ana, CA / Fridley, MN / Santa Rosa, CA /  | 76d ago | [apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) |
 
 ## Watched company portals
 
