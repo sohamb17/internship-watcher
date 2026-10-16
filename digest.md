@@ -1,28 +1,33 @@
 # Internship watcher — latest
 
-_Updated 2026-10-16 14:44 UTC · 17 new listings_
+_Updated 2026-10-16 18:45 UTC · 17 new listings_
 
-## New from SimplifyJobs (17)
+## New from SimplifyJobs (12)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **J.M. Smucker** | Finance Technology Intern | Orrville, OH | today | [apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016) |
-| **Amazon** | Software Developer Intern | London, UK / Edinburgh, UK / Bristol, UK / Cambridge, UK | today | [apply](https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) |
-| **American Bankers Association** | Banking Policy and Economic Research Intern | Washington, DC | today | [apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) |
-| **Electronic Arts** | Software Engineer Tools Intern | Birmingham, UK | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Tools/216192) |
-| **Electronic Arts** | Software Engineer Intern - Gameplay UI | Birmingham, UK | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190) |
-| **Electronic Arts** | UI Scripter Intern | Guildford, UK | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359) |
-| **Electronic Arts** | Client AI Software Engineer Intern | Manchester, UK | today | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364) |
-| **Hilb Group** | Benefits Analytics Intern | Hunt Valley, Cockeysville, MD | today | [apply](https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866) |
-| **Nutanix** | Support Analytics & Operations Intern | Durham, NC | today | [apply](https://jobs.jobvite.com/nutanix/job/oqjOAfwR?nl=1&nl=1&fr=false) |
-| **Leonardo** | Software Engineer Intern | Basildon, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283) |
-| **Leonardo** | Software Engineering Apprentice | Basildon, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Software-Engineering-Degree-Apprentice_R0034281) |
-| **Anduril** | Research Engineer Co-op | Santa Ana, CA | 1d ago | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007) |
-| **Invesco** | Early Career Intern - Technology | Atlanta, GA | 17d ago | [apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619) |
-| **Field AI** | Simulation – Sim to Real Intern | Irvine, CA | 22d ago | [apply](https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8/apply) |
-| **William Blair** | Application Development Intern - Multiple Teams | Chicago, IL | 23d ago | [apply](https://www.williamblair.com/Careers/job-description?gh_jid=5242285007) |
-| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 24d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
-| **Medtronic** | Software Engineer Intern | Boston, MA / Santa Ana, CA / Fridley, MN / Santa Rosa, CA /  | 76d ago | [apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) |
+| **Cummins** | IT Systems Intern - Engine Plant IT Systems | Darlington, UK | today | [apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436714) |
+| **TikTok** | Data Analysis & Insights Project Intern | London, UK | today | [apply](https://lifeattiktok.com/search/7696491615578589493) |
+| **KLA** | Software Engineer Intern - AI | Ann Arbor, MI | 3d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817) |
+| **KLA** | AI Engineer Intern<br>Master's/PhD | Ann Arbor, MI | 3d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821) |
+| **KLA** | Computer Vision/Machine Learning Intern<br>Master's/PhD | Milpitas, CA | 3d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1) |
+| **KLA** | AI/ML Software Engineer Intern<br>Master's | Ann Arbor, MI | 4d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1) |
+| **KLA** | Algorithm Engineer Intern - GPU/CUDA<br>Master's/PhD | Milpitas, CA | 4d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044) |
+| **KLA** | Applications Development Engineer Intern | Milpitas, CA | 9d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1) |
+| **KLA** | PLM Business Intelligence & Analytics Intern | Ann Arbor, MI | 10d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 62d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 62d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Medtronic** | Software Engineer Intern | Boston, MA / Santa Ana, CA / Fridley, MN / Santa Rosa, CA /  | 76d ago | [apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630) |
+
+## New from Company portals (5)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **GlobalFoundries** | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592) |
+| **GlobalFoundries** | GF Labs Research AM & FAE Support Intern (Summer 2027) | USA - Vermont - Essex Junction | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431) |
+| **KLA** | Optical Engineering Intern | Ann Arbor, MI | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Ann-Arbor-MI/Optical-Engineering-Intern_2641705) |
+| **Micron Technology** | Intern - Memory Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112529) |
+| **Micron Technology** | Intern - DRAM Customer Enablement Engineering | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521) |
 
 ## Watched company portals
 
