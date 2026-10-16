@@ -1,33 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-10-16 18:45 UTC · 17 new listings_
+_Updated 2026-10-16 22:01 UTC · 3 new listings_
 
-## New from SimplifyJobs (12)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Cummins** | IT Systems Intern - Engine Plant IT Systems | Darlington, UK | today | [apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436714) |
-| **TikTok** | Data Analysis & Insights Project Intern | London, UK | today | [apply](https://lifeattiktok.com/search/7696491615578589493) |
-| **KLA** | Software Engineer Intern - AI | Ann Arbor, MI | 3d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817) |
-| **KLA** | AI Engineer Intern<br>Master's/PhD | Ann Arbor, MI | 3d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821) |
-| **KLA** | Computer Vision/Machine Learning Intern<br>Master's/PhD | Milpitas, CA | 3d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1) |
-| **KLA** | AI/ML Software Engineer Intern<br>Master's | Ann Arbor, MI | 4d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1) |
-| **KLA** | Algorithm Engineer Intern - GPU/CUDA<br>Master's/PhD | Milpitas, CA | 4d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044) |
-| **KLA** | Applications Development Engineer Intern | Milpitas, CA | 9d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1) |
-| **KLA** | PLM Business Intelligence & Analytics Intern | Ann Arbor, MI | 10d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 62d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 62d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-| **Medtronic** | Software Engineer Intern | Boston, MA / Santa Ana, CA / Fridley, MN / Santa Rosa, CA /  | 76d ago | [apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630) |
-
-## New from Company portals (5)
+## New from Company portals (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **GlobalFoundries** | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592) |
-| **GlobalFoundries** | GF Labs Research AM & FAE Support Intern (Summer 2027) | USA - Vermont - Essex Junction | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431) |
-| **KLA** | Optical Engineering Intern | Ann Arbor, MI | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Ann-Arbor-MI/Optical-Engineering-Intern_2641705) |
-| **Micron Technology** | Intern - Memory Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112529) |
-| **Micron Technology** | Intern - DRAM Customer Enablement Engineering | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521) |
+| **Cisco** | Software Engineer Data & AI PhD (Intern) - United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611) |
+| **GlobalFoundries** | Industrial Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575) |
+| **DoorDash** | Electrical Engineer, Intern - Labs (Summer 2027) | Oakland, CA | — | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) |
 
 ## Watched company portals
 
