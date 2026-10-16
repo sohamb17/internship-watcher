@@ -1,19 +1,24 @@
 # Internship watcher — latest
 
-_Updated 2026-10-16 04:54 UTC · 8 new listings_
+_Updated 2026-10-16 09:39 UTC · 8 new listings_
 
-## New from SimplifyJobs (8)
+## New from SimplifyJobs (7)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Abridge** | Member of Technical Staff Intern | SF | today | [apply](https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true) |
-| **Healthpeak Properties** | Forward Deployed Software Engineer Intern | NYC | today | [apply](https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship) |
-| **Healthpeak Properties** | Forward Deployed Software Engineer Intern | Irvine, CA | today | [apply](https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship) |
-| **TikTok** | Software Engineer Intern - Recommendation Performance Efficiency | San Jose, CA | today | [apply](https://lifeattiktok.com/search/7673636206961641781) |
-| **BC Pensions** | Application Developer Co-op | Victoria, BC, Canada | today | [apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227) |
-| **Apple** | SoC Machine Learning Software Engineer Intern | Sunnyvale, CA | today | [apply](https://jobs.apple.com/en-us/details/200689488) |
-| **Axiom Space** | Software Engineer Intern | Houston, TX | 1d ago | [apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767) |
-| **T-Mobile** | Software Engineer Intern | Bellevue, WA | 1d ago | [apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322) |
+| **Hewlett Packard Enterprise** | AI & HPC Performance Engineering Intern | Spring, TX | 1d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397) |
+| **Ascension** | Master Data Management Intern | St. Louis, MO | 3d ago | [apply](https://jobs.ascension.org/us/en/job/2026-465180) |
+| **NJ Department of Environmental Protection** | Environmental Services Intern | Trenton, NJ | 8d ago | [apply](https://njdepartmentofenvironmentalprotection.applytojob.com/apply/k6SokzCoje/WRM20262i-Environmental-Services-Intern) |
+| **Tesla** | Software Engineer Intern - SI Data Infrastructure | Palo Alto, CA | 43d ago | [apply](https://www.tesla.com/careers/search/job/282292) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 62d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 62d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Clio** | Software Developer Co-op | Toronto, ON, Canada / Calgary, AB, Canada / Vancouver, BC, C | 121d ago | [apply](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Anduril** | Winter 2027 Research Engineer Co-op | Santa Ana, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007) |
 
 ## Watched company portals
 
