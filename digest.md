@@ -1,16 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-10-17 04:55 UTC · 5 new listings_
+_Updated 2026-10-17 09:12 UTC · 1 new listing_
 
-## New from SimplifyJobs (5)
+## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Together AI** | Research Intern - Frontier Speculative Decoding<br>Master's/PhD | SF | today | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5267197007) |
-| **Together AI** | Research Intern<br>Master's/PhD | SF | today | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) |
-| **Ryan** | Software Engineer Intern | Plano, TX | 1d ago | [apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1) |
-| **Ryan** | Software Engineer Intern | Plano, TX | 1d ago | [apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843) |
-| **Ascension** | Master Data Management Intern | St. Louis, MO | 4d ago | [apply](https://jobs.ascension.org/us/en/job/2026-465180) |
+| **Siemens** | Digital Degree Apprentice | Chippenham, UK | 3d ago | [apply](https://siemens.avature.net/en_US/externaljobs/JobDetail/518834) |
 
 ## Watched company portals
 
