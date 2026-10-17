@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-10-17 21:41 UTC · 0 new listings_
+_Updated 2026-10-17 23:57 UTC · 2 new listings_
 
-Nothing new this run.
+## New from SimplifyJobs (2)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **HCSC** | Finance Data & Analytics Developer Intern | Chicago, IL / Richardson, TX | today | [apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478) |
+| **HCSC** | Finance Application Developer Intern | Chicago, IL / Richardson, TX | today | [apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477) |
 
 ## Watched company portals
 
