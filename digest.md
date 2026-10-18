@@ -1,16 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-10-18 04:18 UTC · 5 new listings_
+_Updated 2026-10-18 09:01 UTC · 2 new listings_
 
-## New from SimplifyJobs (5)
+## New from SimplifyJobs (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Leonardo** | Test Software Engineer Intern | Edinburgh, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Software-Engineer_R0034205) |
-| **Leonardo** | Software Engineer Apprentice | Luton, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Software-Engineering-Degree-Apprentice_R0034102) |
-| **Leonardo** | Software Engineer Intern | Edinburgh, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1) |
-| **Leonardo** | Software Engineer Placement Intern | Basildon, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282) |
-| **Leonardo** | Software Engineer Intern | Edinburgh, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Software-Engineer_R0033875) |
+| **Axos Bank** | Data Analyst 1 Intern | Omaha, NE | 45d ago | [apply](https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/BSA-Analyst-I_JR5329) |
+| **Chainlink Labs** | Research Intern | Boston, MA / Seattle, WA / Remote in USA / NYC / Remote in C | 115d ago | [apply](https://jobs.ashbyhq.com/chainlink-labs/c71ed144-8eb4-4acf-9bf3-137b1b067ed8/application?embed=true) |
 
 ## Watched company portals
 
