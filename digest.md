@@ -1,13 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-10-18 09:01 UTC · 2 new listings_
+_Updated 2026-10-18 13:10 UTC · 7 new listings_
 
-## New from SimplifyJobs (2)
+## New from SimplifyJobs (7)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Axos Bank** | Data Analyst 1 Intern | Omaha, NE | 45d ago | [apply](https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/BSA-Analyst-I_JR5329) |
-| **Chainlink Labs** | Research Intern | Boston, MA / Seattle, WA / Remote in USA / NYC / Remote in C | 115d ago | [apply](https://jobs.ashbyhq.com/chainlink-labs/c71ed144-8eb4-4acf-9bf3-137b1b067ed8/application?embed=true) |
+| **Leonardo** | Software Engineer Intern | Newcastle upon Tyne, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Industrial-Placement-Software-Engineer_R0033876) |
+| **Leonardo** | Software Engineer Intern | Newcastle upon Tyne, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874) |
+| **Tesla** | Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027 | Fremont, CA | today | [apply](https://www.tesla.com/careers/search/job/286986) |
+| **Moderna** | Biometrics Intern | Cambridge, MA | 19d ago | [apply](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Intern--Biometrics_R19865) |
+| **Collier Aerospace** | Software Engineer Intern | Newport News, VA | 38d ago | [apply](https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 64d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 64d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
 
 ## Watched company portals
 
