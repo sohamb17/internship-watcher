@@ -1,13 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-10-17 23:57 UTC · 2 new listings_
+_Updated 2026-10-18 04:18 UTC · 5 new listings_
 
-## New from SimplifyJobs (2)
+## New from SimplifyJobs (5)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **HCSC** | Finance Data & Analytics Developer Intern | Chicago, IL / Richardson, TX | today | [apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478) |
-| **HCSC** | Finance Application Developer Intern | Chicago, IL / Richardson, TX | today | [apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477) |
+| **Leonardo** | Test Software Engineer Intern | Edinburgh, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Software-Engineer_R0034205) |
+| **Leonardo** | Software Engineer Apprentice | Luton, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Software-Engineering-Degree-Apprentice_R0034102) |
+| **Leonardo** | Software Engineer Intern | Edinburgh, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1) |
+| **Leonardo** | Software Engineer Placement Intern | Basildon, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282) |
+| **Leonardo** | Software Engineer Intern | Edinburgh, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Software-Engineer_R0033875) |
 
 ## Watched company portals
 
