@@ -1,22 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-10-18 15:29 UTC · 6 new listings_
+_Updated 2026-10-18 16:48 UTC · 0 new listings_
 
-## New from SimplifyJobs (5)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **KLA** | Software Engineer Intern - AI | Ann Arbor, MI | 5d ago | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817-2) |
-| **KLA** | PLM Business Intelligence & Analytics Intern | Ann Arbor, MI | 12d ago | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2) |
-| **Tyler Technologies** | Software Development Intern | Lubbock, TX | 26d ago | [apply](https://jobs.jobvite.com/tylertech/job/oKQJAfwD?nl=1&nl=1&fr=false) |
-| **Altar'd State** | Store Operations Data Analyst Intern | Knoxville, TN | 33d ago | [apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-Store-Operations-Intern_SOSJ12464) |
-| **Amgen** | Software Engineer Intern - Amgen’s Technology & Medical Organizations | Remote in USA | 37d ago | [apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745) |
-
-## New from Company portals (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **NVIDIA** | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
+Nothing new this run.
 
 ## Watched company portals
 
