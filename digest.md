@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-10-18 16:48 UTC · 0 new listings_
+_Updated 2026-10-18 19:22 UTC · 1 new listing_
 
-Nothing new this run.
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **NVIDIA** | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
 
 ## Watched company portals
 
