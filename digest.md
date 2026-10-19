@@ -1,14 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-10-19 05:12 UTC · 3 new listings_
+_Updated 2026-10-19 11:10 UTC · 5 new listings_
 
-## New from SimplifyJobs (3)
+## New from SimplifyJobs (5)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **HeyGen** | Software Engineer Intern | Toronto, ON, Canada / SF / LA / Singapore | today | [apply](https://job-boards.greenhouse.io/heygen/jobs/4540716007) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 65d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 65d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Johnson & Johnson** | Quality Data Science Co-op | Cincinnati, OH | today | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629) |
+| **PA Consulting** | Digital Intern - Digital - Digital & Data | Manchester, UK | today | [apply](https://jobs.smartrecruiters.com/PAConsulting/744000156260214) |
+| **ZS** | Decision Analytics Associate Intern | London, UK | today | [apply](https://jobs.zs.com/jobs/68243?icims=1) |
+| **Bosch Home Comfort** | Data Analyst & Marketing/Sales Intern | Denham, UK | today | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000156251739) |
+| **Lendable** | Intern | London, UK | 51d ago | [apply](https://jobs.ashbyhq.com/lendable/e001dc0b-6e0f-46a7-95ba-38a3733db2f4/application?embed=true) |
 
 ## Watched company portals
 
