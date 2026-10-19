@@ -1,44 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-10-19 17:43 UTC · 28 new listings_
+_Updated 2026-10-19 22:16 UTC · 10 new listings_
 
-## New from SimplifyJobs (21)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Wise** | Software Engineer Intern | London, UK | today | [apply](https://jobs.smartrecruiters.com/Wise/744000156266767) |
-| **Wise** | Analytics Intern | London, UK | today | [apply](https://jobs.smartrecruiters.com/Wise/744000156269320) |
-| **Wise** | Data Science Intern | London, UK | today | [apply](https://jobs.smartrecruiters.com/Wise/744000156265544) |
-| **Marvell** | AI Data Science Intern<br>Master's | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846) |
-| **BorgWarner** | EPMO Support Intern | Auburn Hills, MI | today | [apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/EPM-Support-Intern--Year-Round-_R2026-4129) |
-| **GM financial** | Portfolio Analytics Intern | Fort Worth, TX | today | [apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260773) |
-| **Royal Bank of Canada** | Data Scientist Intern | Toronto, ON, Canada | today | [apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186-3) |
-| **Autodesk** | Software Engineer Intern | Cambridge, UK | today | [apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105) |
-| **Autodesk** | Software Engineer Intern | Birmingham, UK | today | [apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472-1) |
-| **Marvell** | AI Data Science Intern<br>Master's | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1) |
-| **Robert Bosch Venture Capital** | AI Research Intern: Wireless Foundation Models | Pittsburgh, PA | today | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000156323136) |
-| **Leonardo** | Software Engineer Intern | Luton, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Software-Engineer_R0032981) |
-| **Bracebridge Capital** | Software Engineer: Business Intelligence Co-op<br>Master's | Boston, MA | today | [apply](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005) |
-| **Bracebridge Capital** | Software Engineer Co-op - Application Development<br>Master's | Boston, MA | today | [apply](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005) |
-| **Autodesk** | Software Engineer Intern | Birmingham, UK | today | [apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472) |
-| **Rothesay** | Software Engineer Intern | London, UK | today | [apply](https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002) |
-| **RTX** | Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing | Longueuil, QC, Canada | 21d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Administration-des-contrats--analyse-des-ventes-et-marketing---Internship---Winter-2027---Contract-Administration--Sales-Analysis---Marketing_01878336) |
-| **Excellus BCBS** | College Operations Analyst Intern | Rochester, NY / De Witt, NY / Utica, NY / Albany, NY / Bingh | 26d ago | [apply](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Operations-Analyst_JR104058-2) |
-| **MBDA** | Software Engineer | Stevenage, UK | 35d ago | [apply](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Engineer---Summer-Placement-2027_R37759) |
-| **Nationwide** | Technology Intern | Des Moines, IA / Scottsdale, AZ / Columbus, OH | 48d ago | [apply](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Summer-2027-Technology-Internship_100105) |
-| **Corpay** | Software Developer Co-op | Vancouver, BC, Canada | 156d ago | [apply](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866) |
-
-## New from Company portals (7)
+## New from Company portals (10)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Adobe** | 2027 Intern - AI & Architecture | San Jose | today | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) |
-| **Adobe** | 2027 Intern - Security Engineer | Lehi | today | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000) |
-| **Adobe** | 2027 Intern - Data, AI & Innovation | San Jose | today | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997) |
-| **Marvell** | AI Data Science Intern, MS - Summer 2027 | Santa Clara, CA | today | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846) |
-| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552) |
-| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545) |
-| **Point72** | 2028 Point72 Academy Investment Analyst Summer Internship Program - US | United States | — | [apply](https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002) |
+| **GlobalFoundries** | AI/ML Systems Engineering Intern (Summer 2027) | USA - Texas - Richardson | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051) |
+| **Intel** | Cloud Analytics - Application PhD Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Cloud-Analytics---Application-PhD-Intern_JR0288170) |
+| **Intel** | Module Engineering - PhD Intern (Wet Etch) | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Module-Engineering---PhD-Intern--Wet-Etch-_JR0288073) |
+| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452) |
+| **Anduril** | 2027 Field Test Engineer Intern | Costa Mesa, California, United States; Quincy, Massachusetts | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) |
+| **Anduril** | 2027 Guidance, Navigation, & Control Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007) |
+| **Anduril** | 2027 Low Observables Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) |
+| **Anduril** | 2027 Technical Program Manager Intern | Costa Mesa, California, United States; Honolulu, Hawaii, Uni | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) |
+| **Point72** | Quantitative Developer Intern | New York | — | [apply](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) |
+| **Scale AI** | Machine Learning Research Intern (Summer 2027) | New York, NY; San Francisco, CA | — | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
 
 ## Watched company portals
 
