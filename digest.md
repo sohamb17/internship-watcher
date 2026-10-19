@@ -1,15 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-10-19 00:07 UTC · 4 new listings_
+_Updated 2026-10-19 05:12 UTC · 3 new listings_
 
-## New from SimplifyJobs (4)
+## New from SimplifyJobs (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **DiDi Global** | Research Intern - Scene Understanding and Planning<br>Master's/PhD | San Jose, CA | today | [apply](https://job-boards.greenhouse.io/didi/jobs/8299748) |
-| **CMS Energy** | Learning & Development Intern/Co-op - Data Visualization | Michigan | today | [apply](https://careers.consumersenergy.com/job/MULTIPLE-LOCATIONS-InternCo-Op-Learning-&-Development-(Data-Visualization)-MI/1441130200/?ats=successfactors) |
-| **NVIDIA** | Software Engineer Intern | Santa Clara, CA | 14d ago | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
-| **Tyler Technologies** | Software Development Intern - Summer 2027 | Yarmouth, ME / Orono, ME / Falmouth, ME | 27d ago | [apply](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) |
+| **HeyGen** | Software Engineer Intern | Toronto, ON, Canada / SF / LA / Singapore | today | [apply](https://job-boards.greenhouse.io/heygen/jobs/4540716007) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 65d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 65d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
 
 ## Watched company portals
 
