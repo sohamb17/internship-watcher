@@ -1,19 +1,42 @@
 # Internship watcher — latest
 
-_Updated 2026-10-20 12:01 UTC · 8 new listings_
+_Updated 2026-10-20 16:49 UTC · 26 new listings_
 
-## New from SimplifyJobs (8)
+## New from SimplifyJobs (22)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Parallel Wireless** | PHY Software Engineer Intern | Bristol, UK | today | [apply](https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply) |
-| **JP Morgan Chase** | Machine Learning Summer Associate Intern - NLP<br>Master's/PhD | Palo Alto, CA / Seattle, WA / NYC | today | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790) |
-| **SpAItial** | Research Intern - 3D World Models | London, UK / Munich, Germany | today | [apply](https://jobs.ashbyhq.com/spaitial/39ab566f-8626-4633-a0ab-504e082032d6/application?embed=true) |
-| **The New York Times** | AI Initiatives Fellow | NYC | today | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005) |
-| **Tencent** | Generative AI Research Intern<br>Master's/PhD | London, UK | today | [apply](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261) |
-| **Verizon Communications** | Call Routing Optimization Engineer Intern | Basking Ridge, Bernards, NJ | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398) |
-| **TD Bank** | Wealth Operations Automation Intern Co-op | Toronto, ON, Canada | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131) |
-| **Salesforce** | Software Engineer Intern | SF / Bellevue, WA | 1d ago | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) |
+| **Tencent** | Generative AI Research Intern<br>Master's/PhD | London, UK | today | [apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1) |
+| **Verizon Communications** | Data Science Intern | Basking Ridge, Bernards, NJ | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419) |
+| **Verizon Communications** | Data Science Intern | Basking Ridge, Bernards, NJ | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417) |
+| **Verizon Communications** | Call Routing Optimization Engineering Intern | Basking Ridge, Bernards, NJ | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394) |
+| **Constellation Brands** | AI Enablement Intern | Rochester, NY | today | [apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526) |
+| **RTX** | Software Engineer Co-op | Richardson, TX | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545) |
+| **RTX** | Software Engineer Co-op | Aurora, CO | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452) |
+| **Steel** | Software Engineer Intern | Toronto, ON, Canada | today | [apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) |
+| **Leonardo** | Software Engineer Intern | London, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Industrial-Placement-Sofware-Engineer_R0033508) |
+| **Leonardo** | Analytics Engineer Industrial Placement Intern | London, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Industrial-Placement-Analytics-Engineer_R0033595) |
+| **GeoSpectrum Technologies** | Software Developer Co-op | Dartmouth, NS, Canada | today | [apply](https://geospectrum.bamboohr.com/careers/286/) |
+| **Redgate** | Software Engineer Intern | Cambridge, UK | today | [apply](https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df/application?embed=true) |
+| **Texas Instruments** | Software Engineer Intern - Compiler | Sugar Land, TX / United States | today | [apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103) |
+| **Space Dynamics Laboratory** | AI-Enabled Requirements Engineering Intern | North Logan, UT | today | [apply](https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern) |
+| **Vertex Pharmaceuticals** | Commercial Analytics Co-op - Commercial Analytics | Boston, MA | today | [apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1) |
+| **Allstate** | Software Engineer Intern | North Carolina | today | [apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266) |
+| **Cigna Group** | Business Analytics Intern | Bloomfield, CT | today | [apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472) |
+| **Graphcore** | Software Engineer Intern - Drivers and Utilities | Bristol, UK | today | [apply](https://job-boards.greenhouse.io/graphcore/jobs/8894376002) |
+| **Graphcore** | Software Engineer Intern - AI Compute Libraries & Performance | Bristol, UK | today | [apply](https://job-boards.greenhouse.io/graphcore/jobs/8894868002) |
+| **Hewlett Packard Enterprise** | Customer Success Intern | River Avon, United Kingdom | 15d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Customer-Success-Intern_1211002) |
+| **The Hartford** | Data Science Intern - Summer 2027<br>Master's/PhD | Chicago, IL / Charlotte, NC / Hartford, CT | 33d ago | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) |
+| **RTX** | Performance Indicator Development and Process and Project Management Internship | Longueuil, QC, Canada | 47d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-d-indicateurs-de-performance-et-gestion-des-processus-et-projets---Internship---Winter-2027--Development-of-Performance-Indicators-and-Process-and-Project-Management_01867284) |
+
+## New from Company portals (4)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Analog Devices** | Analog Design Engineering Intern (Audio) | United Kingdom, Edinburgh, SC, Freer | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Audio-_R267095) |
+| **Intel** | Thin Films Module Engineering - PhD Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Thin-Films-Module-Engineering---PhD-Intern_JR0288074) |
+| **Micron Technology** | Intern - DRAM Customer Enablement Engineering | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521) |
+| **Amazon** | Hardware Development Engineer Intern , Winter 2027 | Bellevue, Washington, USA | today | [apply](https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) |
 
 ## Watched company portals
 
