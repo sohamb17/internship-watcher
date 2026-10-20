@@ -1,33 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-10-20 06:30 UTC · 17 new listings_
+_Updated 2026-10-20 12:01 UTC · 8 new listings_
 
-## New from SimplifyJobs (12)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Paccar** | Dealer Development Marketing Data Analytics Intern | Kirkland, WA | today | [apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors) |
-| **Boston Scientific** | R&D Software Engineer Intern | Arden Hills, MN | today | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813563514) |
-| **Palantir** | Software Engineer Intern - Query Engines | London, UK | today | [apply](https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963/apply) |
-| **Palantir** | Software Engineer Intern - Query Engines | NYC | today | [apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13/apply) |
-| **CIBC** | Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | 1d ago | [apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524) |
-| **CIBC** | Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | 1d ago | [apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1) |
-| **Associated Bank** | Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking | Minneapolis, MN | 1d ago | [apply](https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Minneapolis-80-8th-43rd-Floor/XMLNAME-2027-Corporate-Internship---Artificial-Intelligence--Corp---Commercial-Banking-_JR106672) |
-| **CIBC** | Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | 1d ago | [apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523) |
-| **CIBC** | Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | 1d ago | [apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2) |
-| **Trimble** | Software Engineer Intern | Dayton, OH / Knoxville, TN / Portsmouth, NH / Princeton, NJ  | 42d ago | [apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 66d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 66d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
-
-## New from Company portals (5)
+## New from SimplifyJobs (8)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Micron Technology** | Intern - ASIC Digital Design | Minneapolis, MN | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163) |
-| **Micron Technology** | Intern - Equipment Engineer | Manassas, VA -  Fab 6 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Intern---Equipment-Engineer_JR114818) |
-| **Micron Technology** | Intern - ASIC Validation | Minneapolis, MN | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823) |
-| **Salesforce** | Summer 2027 Intern - Software Engineer (Security/Government) | California   San Francisco | today | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) |
-| **Salesforce** | Summer 2027 Intern - Solution Engineer | New York - New York | 5d ago | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1) |
+| **Parallel Wireless** | PHY Software Engineer Intern | Bristol, UK | today | [apply](https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply) |
+| **JP Morgan Chase** | Machine Learning Summer Associate Intern - NLP<br>Master's/PhD | Palo Alto, CA / Seattle, WA / NYC | today | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790) |
+| **SpAItial** | Research Intern - 3D World Models | London, UK / Munich, Germany | today | [apply](https://jobs.ashbyhq.com/spaitial/39ab566f-8626-4633-a0ab-504e082032d6/application?embed=true) |
+| **The New York Times** | AI Initiatives Fellow | NYC | today | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005) |
+| **Tencent** | Generative AI Research Intern<br>Master's/PhD | London, UK | today | [apply](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261) |
+| **Verizon Communications** | Call Routing Optimization Engineer Intern | Basking Ridge, Bernards, NJ | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398) |
+| **TD Bank** | Wealth Operations Automation Intern Co-op | Toronto, ON, Canada | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131) |
+| **Salesforce** | Software Engineer Intern | SF / Bellevue, WA | 1d ago | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) |
 
 ## Watched company portals
 
