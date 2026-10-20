@@ -1,42 +1,44 @@
 # Internship watcher — latest
 
-_Updated 2026-10-20 16:49 UTC · 26 new listings_
+_Updated 2026-10-20 20:27 UTC · 33 new listings_
 
-## New from SimplifyJobs (22)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Tencent** | Generative AI Research Intern<br>Master's/PhD | London, UK | today | [apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1) |
-| **Verizon Communications** | Data Science Intern | Basking Ridge, Bernards, NJ | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419) |
-| **Verizon Communications** | Data Science Intern | Basking Ridge, Bernards, NJ | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417) |
-| **Verizon Communications** | Call Routing Optimization Engineering Intern | Basking Ridge, Bernards, NJ | today | [apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394) |
-| **Constellation Brands** | AI Enablement Intern | Rochester, NY | today | [apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526) |
-| **RTX** | Software Engineer Co-op | Richardson, TX | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545) |
-| **RTX** | Software Engineer Co-op | Aurora, CO | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452) |
-| **Steel** | Software Engineer Intern | Toronto, ON, Canada | today | [apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) |
-| **Leonardo** | Software Engineer Intern | London, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Industrial-Placement-Sofware-Engineer_R0033508) |
-| **Leonardo** | Analytics Engineer Industrial Placement Intern | London, UK | today | [apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Industrial-Placement-Analytics-Engineer_R0033595) |
-| **GeoSpectrum Technologies** | Software Developer Co-op | Dartmouth, NS, Canada | today | [apply](https://geospectrum.bamboohr.com/careers/286/) |
-| **Redgate** | Software Engineer Intern | Cambridge, UK | today | [apply](https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df/application?embed=true) |
-| **Texas Instruments** | Software Engineer Intern - Compiler | Sugar Land, TX / United States | today | [apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103) |
-| **Space Dynamics Laboratory** | AI-Enabled Requirements Engineering Intern | North Logan, UT | today | [apply](https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern) |
-| **Vertex Pharmaceuticals** | Commercial Analytics Co-op - Commercial Analytics | Boston, MA | today | [apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1) |
-| **Allstate** | Software Engineer Intern | North Carolina | today | [apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266) |
-| **Cigna Group** | Business Analytics Intern | Bloomfield, CT | today | [apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472) |
-| **Graphcore** | Software Engineer Intern - Drivers and Utilities | Bristol, UK | today | [apply](https://job-boards.greenhouse.io/graphcore/jobs/8894376002) |
-| **Graphcore** | Software Engineer Intern - AI Compute Libraries & Performance | Bristol, UK | today | [apply](https://job-boards.greenhouse.io/graphcore/jobs/8894868002) |
-| **Hewlett Packard Enterprise** | Customer Success Intern | River Avon, United Kingdom | 15d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Customer-Success-Intern_1211002) |
-| **The Hartford** | Data Science Intern - Summer 2027<br>Master's/PhD | Chicago, IL / Charlotte, NC / Hartford, CT | 33d ago | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114) |
-| **RTX** | Performance Indicator Development and Process and Project Management Internship | Longueuil, QC, Canada | 47d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-d-indicateurs-de-performance-et-gestion-des-processus-et-projets---Internship---Winter-2027--Development-of-Performance-Indicators-and-Process-and-Project-Management_01867284) |
-
-## New from Company portals (4)
+## New from Company portals (33)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Analog Devices** | Analog Design Engineering Intern (Audio) | United Kingdom, Edinburgh, SC, Freer | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Audio-_R267095) |
-| **Intel** | Thin Films Module Engineering - PhD Intern | US, Oregon, Hillsboro | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Thin-Films-Module-Engineering---PhD-Intern_JR0288074) |
-| **Micron Technology** | Intern - DRAM Customer Enablement Engineering | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521) |
-| **Amazon** | Hardware Development Engineer Intern , Winter 2027 | Bellevue, Washington, USA | today | [apply](https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) |
+| **Adobe** | 2027 Intern - Security Engineer | San Jose | today | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) |
+| **Analog Devices** | Software Tools Engineering Intern | United Kingdom, Edinburgh, SC, Freer | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128) |
+| **Analog Devices** | Analog Design Engineering Intern (Power Management) | United Kingdom, Edinburgh, SC, Freer | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1) |
+| **Micron Technology** | Intern - SMAI Probe AI Engineer | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) |
+| **Micron Technology** | Intern - SSD Firmware | San Jose CA | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209) |
+| **Micron Technology** | Intern - SSD Firmware | Boise ID   Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210) |
+| **Motorola Solutions** | Presale Systems Engineer - Summer 2027 Internship | Massachusetts Remote Work, More... | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Massachusetts-Remote-Work/Presale-Systems-Engineer---Summer-2027-Internship_R69640) |
+| **Sony** | Research Engineer Intern (Ethical Creative and Protective AI Lab) | Remote   New York | today | [apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784) |
+| **Anduril** | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
+| **Anduril** | 2027 Field Test Engineer Intern | Costa Mesa, California, United States; Quincy, Massachusetts | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) |
+| **Anduril** | 2027 Firmware Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) |
+| **Anduril** | 2027 Flight Software Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) |
+| **Anduril** | 2027 Flight Test Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) |
+| **Anduril** | 2027 Guidance, Navigation, & Control Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007) |
+| **Anduril** | 2027 Industrial Engineer Intern | Ashville, Ohio, United States; Costa Mesa, California, Unite | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007) |
+| **Anduril** | 2027 Low Observables Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) |
+| **Anduril** | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
+| **Anduril** | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
+| **Anduril** | 2027 Quality & Test Engineer Intern | Ashville, Ohio, United States; Costa Mesa, California, Unite | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) |
+| **Anduril** | 2027 Reliability Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) |
+| **Anduril** | 2027 Systems Engineer Intern | Boston, Massachusetts, United States; Costa Mesa, California | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) |
+| **Anduril** | 2027 Technical Program Manager Intern | Costa Mesa, California, United States; Honolulu, Hawaii, Uni | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) |
+| **Anduril** | Winter 2027 Electrical Engineer Co-op | Costa Mesa, California, United States; Quincy, Massachusetts | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) |
+| **Anduril** | Winter 2027 EWIS Harness Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) |
+| **Anduril** | Winter 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States; Lexington, Massachusetts, Uni | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) |
+| **Anduril** | Winter 2027 Mechanical Engineer Co-op | Ashville, Ohio, United States; Quincy, Massachusetts, United | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007) |
+| **Anduril** | Winter 2027 Propulsion Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) |
+| **Anduril** | Winter 2027 Quality & Test Engineer Co-op | Ashville, Ohio, United States; Santa Ana, California, United | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) |
+| **Anduril** | Winter 2027 Reliability Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007) |
+| **Anduril** | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
+| **Anduril** | Winter 2027 Technical Program Management Co-op | Washington, District of Columbia, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007) |
+| **Anduril** | Winter 2027 Test & Evaluation Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007) |
+| **Anduril** | Winter 2027 Warhead Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007) |
 
 ## Watched company portals
 
