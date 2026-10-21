@@ -1,25 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-10-21 07:28 UTC · 9 new listings_
+_Updated 2026-10-21 13:09 UTC · 7 new listings_
 
-## New from SimplifyJobs (8)
+## New from SimplifyJobs (6)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Shield AI** | Data Science Intern | San Diego, CA | today | [apply](https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply) |
-| **Robert Bosch Venture Capital** | Calibration Process Optimization Intern | Farmington Hills, MI | today | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000156585075) |
-| **Rhoda AI** | Software Engineer Intern - Inference | Mountain View, CA | today | [apply](https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4/application?embed=true) |
-| **Toyota** | Data Science Intern<br>Master's/PhD | Plano, TX | 1d ago | [apply](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) |
-| **Micron Technology** | Machine Learning Engineering Intern | Richardson, TX | 1d ago | [apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) |
-| **Hewlett Packard Enterprise** | Embedded Software Engineer Intern | Roseville, CA | 1d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088) |
-| **NVIDIA** | Systems Software Intern - Aerial PHY<br>Master's/PhD | Santa Clara, CA | 1d ago | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530) |
-| **NVIDIA** | Applied Research Intern - Integrated Sensing and Communications<br>Master's/PhD | Santa Clara, CA | 1d ago | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027) |
+| **Meta** | Research Scientist Intern - Audio - Machine Learning and Computer Vision | Cambridge, UK | today | [apply](https://www.metacareers.com/jobs/2288012098648243) |
+| **Capula** | Technology Intern | London, UK | 8d ago | [apply](https://apply.workable.com/capula-investment-management-ltd/j/96EBCF5617/apply) |
+| **Aptiv** | Linux Software Development Intern | San Antonio, TX | 12d ago | [apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399) |
+| **TruStage** | Information Technology Development and Infrastructure Intern | Madison, WI | 42d ago | [apply](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 67d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 67d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
 
 ## New from Company portals (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **T-Mobile** | Summer 2027 Software Engineer – Cloud Security Summer Internship | Atlanta Georgia | 1d ago | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190) |
+| **Analog Devices** | Analog Design Engineering Intern | United Kingdom, Edinburgh, SC, Freer | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern_R267421) |
 
 ## Watched company portals
 
