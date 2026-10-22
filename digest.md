@@ -1,54 +1,79 @@
 # Internship watcher — latest
 
-_Updated 2026-10-21 21:56 UTC · 43 new listings_
+_Updated 2026-10-22 00:36 UTC · 63 new listings_
 
-## New from Company portals (43)
+## New from SimplifyJobs (62)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Analog Devices** | Analog Design Engineering Intern | United Kingdom, Edinburgh, SC, Freer | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern_R267421) |
-| **Cisco** | Software Engineer Embedded Systems II (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805) |
-| **Cisco** | Software Engineer Full Stack / Backend I (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924) |
-| **Cisco** | Software Engineer Full Stack / Backend II (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800) |
-| **Cisco** | Software Engineer Embedded Systems I (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926) |
-| **Cisco** | Software Engineer Data & AI I (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306) |
-| **Cisco** | Machine Learning Engineer I (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803) |
-| **Cisco** | Machine Learning Engineer II (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802) |
-| **Cisco** | Engineering Product Management Specialist I (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308) |
-| **Cisco** | Engineering Product Management Specialist II (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801) |
-| **Cisco** | AI Operations Engineer I (Intern) – United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804) |
-| **GlobalFoundries** | Industrial Engineering Intern (Summer 2027) | USA - Vermont - Essex Junction | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Industrial-Engineering-Intern--Summer-2027-_JR-2604569) |
-| **GlobalFoundries** | AI Software Intern (Summer 2027) | USA   California   Santa Clara | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029) |
-| **GlobalFoundries** | Failure Analysis Engineering Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Failure-Analysis-Engineering-Intern--Summer-2027-_JR-2604574) |
-| **GlobalFoundries** | Software Engineering Intern, Cloud Platform (Summer 2027) | USA - California - Santa Clara | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034) |
-| **Analog Devices** | Software Tools Engineering Intern | United Kingdom, Edinburgh, SC, Freer | 1d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128) |
-| **Analog Devices** | Analog Design Engineering Intern (Audio) | United Kingdom, Edinburgh, SC, Freer | 1d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Audio-_R267095) |
-| **Analog Devices** | Analog Design Engineering Intern (Power Management) | United Kingdom, Edinburgh, SC, Freer | 1d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1) |
-| **Cadence Design Systems** | CST Application Engineer Intern - Systems ATX | SAN JOSE | 7d ago | [apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Systems-ATX_R56800-3) |
-| **Cadence Design Systems** | CST Application Engineer Intern - Physical Systems | SAN JOSE | 13d ago | [apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Physical-Systems_R56702-2) |
-| **Analog Devices** | Process Sustaining Engineering Intern | US WA Camas | 14d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-WA-Camas/Process-Sustaining-Engineering-Intern_R267011) |
-| **Cadence Design Systems** | CST Application Engineer Intern - Silicon | SAN JOSE | 15d ago | [apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655-1) |
-| **Analog Devices** | FY27 Engineering Internship United Kingdom | United Kingdom Edinburgh SC Freer | 25d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/FY27-Engineering-Internship-United-Kingdom_R266707) |
-| **Analog Devices** | Healthcare Mechanical Engineering Co-op (Spring) | US, MA, Wilmington | 26d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691) |
-| **Analog Devices** | Manufacturing Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301) |
-| **Analog Devices** | Biomedical Engineering Intern | US, MA, Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577) |
-| **Analog Devices** | Equipment Engineering Intern | US OR Beaverton | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Intern_R266095) |
-| **Analog Devices** | Test Engineering Intern | US NC Durham | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Test-Engineering-Intern_R266146) |
-| **Analog Devices** | Mixed Signal Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299) |
-| **Analog Devices** | Process Sustaining Engineering Intern | US MA Chelmsford Alpha | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Process-Sustaining-Engineering-Intern_R265319-1) |
-| **Analog Devices** | System Integration Engineer Intern | US NC Durham | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305) |
-| **Analog Devices** | Analog Design Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) |
-| **Analog Devices** | Algorithm Development Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1) |
-| **Analog Devices** | Digital Design Engineer Intern | US NC Durham | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) |
-| **Analog Devices** | AI/ML Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579) |
-| **Analog Devices** | Embedded Software Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132) |
-| **Analog Devices** | Design Evaluation Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R266128) |
-| **Analog Devices** | Product Engineer (Product Development) Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302) |
-| **Cadence Design Systems** | Software Intern | SAN JOSE | 30d ago | [apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1) |
-| **Cadence Design Systems** | Graduate Student Intern - Software Engineering | AUSTIN | 30d ago | [apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-2) |
-| **Anduril** | 2027 Business Operations Engineer Intern | Ashville, Ohio, United States; Costa Mesa, California, Unite | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) |
-| **Anduril** | Winter 2027 Business Operations Engineer Co-op | Ashville, Ohio, United States; Costa Mesa, California, Unite | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007) |
-| **Anduril** | Winter 2027 Robotics Engineer Co-op | Quincy, Massachusetts, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007) |
+| **Trace3** | Data and Analytics Engineer Intern | Irvine, CA | today | [apply](https://job-boards.greenhouse.io/trace3/jobs/8274818) |
+| **John Deere** | Software Engineer Student Intern - Product Engineering<br>Incomplete | Cary, NC | today | [apply](https://johndeere.eightfold.ai/careers/job/137483990019) |
+| **Verisk** | Software Engineer Intern | Manchester, UK | today | [apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997) |
+| **Aon** | IT / AI Engineer Intern | Chicago, IL | today | [apply](https://jobs.aon.com/jobs/110099?icims=1) |
+| **Brunswick Group** | BI Data Analyst Apprentice | London, UK | today | [apply](https://job-boards.greenhouse.io/brunswickgroup/jobs/8905242002) |
+| **X Development** | PhD Resident - AI for Science - Lab Automation | Mountain View, CA | today | [apply](https://x.company/careers/8907040002?gh_jid=8907040002) |
+| **Kentro** | Performance and Marketing Communications Analyst Intern | Remote in USA | today | [apply](https://careers.kentro.us/jobs/4562?icims=1) |
+| **Metalenz** | Camera Software Intern | Boston, MA | today | [apply](https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6/application?embed=true) |
+| **Analytic Partners** | Data Science Co-op | Miami, FL | today | [apply](https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302/apply) |
+| **Meta** | Research Scientist Intern - Foundational Models for Robotics Research | Menlo Park, CA | today | [apply](https://www.metacareers.com/jobs/1078644001656413) |
+| **Meta** | Research Scientist Intern - Multimodal Learning for Robotics - PhD | Burlingame, CA | today | [apply](https://www.metacareers.com/jobs/1656954472496223) |
+| **Meta** | Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR | Burlingame, CA / Redmond, WA | today | [apply](https://www.metacareers.com/jobs/1075160338670575) |
+| **Meta** | Research Scientist Intern - Robot Foundation Models | Redmond, WA | today | [apply](https://www.metacareers.com/jobs/27730225806654441) |
+| **Anduril** | Business Operations Engineer Co-op | Ashville, OH / Costa Mesa, CA | today | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271686007) |
+| **Anduril** | Business Operations Engineer Intern | Ashville, OH / Costa Mesa, CA | today | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007) |
+| **Anduril** | Robotics Engineer Co-op | Quincy, MA | today | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271842007) |
+| **EDF Energy** | Chemistry Industrial Placement Intern | Gloucester, UK | today | [apply](https://jobs.smartrecruiters.com/EDF-UK/744000156829540) |
+| **ManTech** | AI Workflow Intern | Remote in USA / Stafford, VA | today | [apply](https://mantech.avature.net/en_US/careers/JobDetail/66705) |
+| **Walrus** | Full Stack Developer Intern | NYC | today | [apply](https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application?embed=true) |
+| **NOX METALS** | Factory Deployed Intern | Detroit, MI | today | [apply](https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true) |
+| **GeoSpectrum Technologies** | Software Developer Co-op | Dartmouth, NS, Canada | 1d ago | [apply](https://geospectrum.bamboohr.com/careers/286/) |
+| **Picton Mahoney Asset Management** | Data Engineer Intern | Toronto, ON, Canada | 1d ago | [apply](https://pictonmahoney.bamboohr.com/careers/387/) |
+| **Expedia Group** | Software Development Engineer Intern | London, UK | 1d ago | [apply](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---2027---London_R-110551) |
+| **Expedia Group** | Applied Science Intern<br>Master's | London, UK | 1d ago | [apply](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540-1) |
+| **Expedia Group** | Mobile Engineer Intern | London, UK | 1d ago | [apply](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545-1) |
+| **Parsons** | Computer Vision/Robotics Intern | Westminster, CO | 1d ago | [apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402) |
+| **Bank of Montreal** | Data & AI Analyst Co-op Intern | Toronto, ON, Canada | 1d ago | [apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) |
+| **American Family Insurance Group** | Data Engineer Intern | Madison, WI | 1d ago | [apply](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675) |
+| **Zebra Technologies** | Business Analyst Intern | Lincolnshire, IL | 1d ago | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Business-Analyst_JR103646) |
+| **KeyBank** | Marketing Analytics Intern | Brooklyn, OH | 1d ago | [apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Analytics-Internship---Cleveland_R-42822) |
+| **Hitachi** | Software Engineering Co-op | Greenville, SC | 1d ago | [apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733) |
+| **Rochester Regional Health** | Data Engineer Co-op | Rochester, NY | 1d ago | [apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data-Engineer_REQ_244425) |
+| **CIBC** | AI and Quantum Scientist Co-op | Toronto, ON, Canada | 1d ago | [apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) |
+| **CIBC** | Analyst Co-op - Enterprise Data and Records | Toronto, ON, Canada | 1d ago | [apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668) |
+| **ICF International** | Seasonal Associate Intern - Full Stack Developer | Remote in USA | 1d ago | [apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571) |
+| **ICF International** | Full-Stack Developer Intern | Remote in USA | 1d ago | [apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570) |
+| **ABB** | Power BI Intern | Cary, NC | 1d ago | [apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Power-BI-Intern--Summer-2027_JR00047437) |
+| **General Dynamics Information Technology** | AI and Estimation Intern | Falls Church, VA | 1d ago | [apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646) |
+| **Baker Hughes** | Software Engineer Intern | Cramlington, UK | 1d ago | [apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R170942) |
+| **Centific** | Technical Intern | Remote in USA | 1d ago | [apply](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR108551-1) |
+| **GlobalFoundries** | Systems/Process Engineering Intern - Tapeout Operations | Malta, NY | 1d ago | [apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924) |
+| **GlobalFoundries** | AI Software Intern | Santa Clara, CA / Richardson, TX | 1d ago | [apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029) |
+| **GlobalFoundries** | Software Engineer Intern - Cloud Platform<br>Master's | Santa Clara, CA | 1d ago | [apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034) |
+| **Zillow** | Software Development Engineer Intern | Seattle, WA / Remote in USA | 1d ago | [apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630) |
+| **CIBC** | Analyst Co-op - Enterprise Data and Records | Toronto, ON, Canada | 1d ago | [apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668-1) |
+| **CIBC** | AI and Quantum Scientist Co-op | Toronto, ON, Canada | 1d ago | [apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1) |
+| **Athene** | Operations Reporting & Analytics Intern | West Des Moines, IA | 1d ago | [apply](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255268) |
+| **Philips** | Insights and Analytics Intern - Health Systems Marketing | Cambridge, MA | 8d ago | [apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454) |
+| **Whataburger** | Data Scientist Intern | San Antonio, TX | 8d ago | [apply](https://whataburger.wd5.myworkdayjobs.com/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Data-Scientist-Intern_JR10014201) |
+| **HCSC** | Systems Analyst Intern | Chicago, IL / Richardson, TX | 15d ago | [apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498) |
+| **Waymo** | Software Engineering Intern - Maneuvering Tech | SF | 34d ago | [apply](https://careers.withwaymo.com/jobs?gh_jid=8203200) |
+| **Newell Brands** | Sales AI & Analytics Developer Intern | Huntersville, NC | 34d ago | [apply](https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors) |
+| **Lunar Outpost** | Ground Software Engineer Intern - Summer 2027 | Golden, CO | 36d ago | [apply](https://lunaroutpost.bamboohr.com/careers/398/) |
+| **Lunar Outpost** | Robotics Engineer Intern | Golden, CO | 36d ago | [apply](https://lunaroutpost.bamboohr.com/careers/391/) |
+| **Lunar Outpost** | Simulation Engineering Intern | Golden, CO | 36d ago | [apply](https://lunaroutpost.bamboohr.com/careers/390/) |
+| **Loblaw Companies** | Analyst Co-op Student - Product Information Management | Toronto, ON, Canada | 44d ago | [apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Analyst--Product-Information-Management---Co-op-Student_R2000697260-1) |
+| **Berkshire Grey** | Robot Learning R&D Co-op<br>Master's/PhD | Bedford, MA | 50d ago | [apply](https://berkshiregrey.bamboohr.com/careers/768/) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 67d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 67d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
+| **Specter Aerospace** | Image Processing Co-op | Boston, MA | 69d ago | [apply](https://specteraerospace.bamboohr.com/careers/121/) |
+| **Specter Aerospace** | Full Stack Developer Co-op | Boston, MA / Peabody, MA | 69d ago | [apply](https://specteraerospace.bamboohr.com/careers/122/) |
+| **Specter Aerospace** | Front-End Software Developer Co-op | Boston, MA / Peabody, MA | 69d ago | [apply](https://specteraerospace.bamboohr.com/careers/120/) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Intel** | Information Security Engineer Undergraduate Intern | US, California, Folsom | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588) |
 
 ## Watched company portals
 
