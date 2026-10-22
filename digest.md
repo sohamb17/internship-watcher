@@ -1,43 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-10-22 05:19 UTC · 27 new listings_
+_Updated 2026-10-22 10:33 UTC · 9 new listings_
 
-## New from SimplifyJobs (4)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Qualcomm** | Applied AI Engineer Intern | Markham, ON, Canada | today | [apply](https://qualcomm.eightfold.ai/careers/job/446721664194) |
-| **Keysight Technologies** | Software Engineer Intern | Calabasas, CA | today | [apply](https://jobs.keysight.com/jobs/55115?icims=1) |
-| **Crusoe** | Software Engineer Intern | SF | today | [apply](https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true) |
-| **Abundant** | Research Intern Fellow | SF | 35d ago | [apply](https://jobs.ashbyhq.com/abundant/4da99916-c29b-49a2-8e2d-1964b1838e11/application?embed=true) |
-
-## New from Company portals (23)
+## New from SimplifyJobs (9)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Analog Devices** | Analog Design Engineering Intern | United Kingdom, Edinburgh, SC, Freer | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern_R267421) |
-| **NVIDIA** | PhD Research Intern, AI for Climate and Weather Simulation - 2027 | US, CA, Santa Clara | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) |
-| **NVIDIA** | PhD Research Intern, Robotic Perception and Learning - 2027 | US WA Redmond | today | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) |
-| **Analog Devices** | Software Tools Engineering Intern | United Kingdom, Edinburgh, SC, Freer | 1d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128) |
-| **Analog Devices** | Analog Design Engineering Intern (Audio) | United Kingdom, Edinburgh, SC, Freer | 1d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Audio-_R267095) |
-| **Analog Devices** | Analog Design Engineering Intern (Power Management) | United Kingdom, Edinburgh, SC, Freer | 1d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1) |
-| **Analog Devices** | Process Sustaining Engineering Intern | US WA Camas | 14d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-WA-Camas/Process-Sustaining-Engineering-Intern_R267011) |
-| **Analog Devices** | FY27 Engineering Internship United Kingdom | United Kingdom Edinburgh SC Freer | 25d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/FY27-Engineering-Internship-United-Kingdom_R266707) |
-| **Analog Devices** | Healthcare Mechanical Engineering Co-op (Spring) | US, MA, Wilmington | 26d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691) |
-| **Analog Devices** | Manufacturing Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301) |
-| **Analog Devices** | Biomedical Engineering Intern | US, MA, Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577) |
-| **Analog Devices** | Equipment Engineering Intern | US OR Beaverton | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Intern_R266095) |
-| **Analog Devices** | Test Engineering Intern | US NC Durham | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Test-Engineering-Intern_R266146) |
-| **Analog Devices** | Mixed Signal Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299) |
-| **Analog Devices** | Process Sustaining Engineering Intern | US MA Chelmsford Alpha | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Process-Sustaining-Engineering-Intern_R265319-1) |
-| **Analog Devices** | System Integration Engineer Intern | US NC Durham | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305) |
-| **Analog Devices** | Analog Design Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) |
-| **Analog Devices** | Algorithm Development Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1) |
-| **Analog Devices** | Digital Design Engineer Intern | US NC Durham | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) |
-| **Analog Devices** | AI/ML Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579) |
-| **Analog Devices** | Embedded Software Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132) |
-| **Analog Devices** | Design Evaluation Engineer Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R266128) |
-| **Analog Devices** | Product Engineer (Product Development) Intern | US MA Wilmington | 30d ago | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302) |
+| **TD Bank** | Technology Intern | London, UK | today | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239) |
+| **Apple** | Compiler Engineering Intern | London, UK | today | [apply](https://jobs.apple.com/en-us/details/200690664) |
+| **Hewlett Packard Enterprise** | Software Development Intern - AI-Assisted Development | Saint-Laurent, Montreal, QC, Canada | 1d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1) |
+| **Hewlett Packard Enterprise** | Software Development Intern - AI-Assisted Development | Saint-Laurent, Montreal, QC, Canada | 1d ago | [apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294) |
+| **Astera Labs** | Data Analyst New Grad | San Jose, CA | 16d ago | [apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005) |
+| **CoStar Group** | Associate Embedded Software Engineer Intern | Sunnyvale, CA | 21d ago | [apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949) |
+| **Textron** | Autonomy Engineer Intern - Air Systems | Hunt Valley, Cockeysville, MD | 51d ago | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 68d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Seattle, WA | 68d ago | [apply](https://higher.gs.com/roles/177808?type=students) |
 
 ## Watched company portals
 
