@@ -1,39 +1,35 @@
 # Internship watcher — latest
 
-_Updated 2026-10-23 06:26 UTC · 23 new listings_
+_Updated 2026-10-23 11:59 UTC · 19 new listings_
 
-## New from SimplifyJobs (22)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Meta** | Research Scientist Intern - Video Recommendations - PhD | Menlo Park, CA / Bellevue, WA | today | [apply](https://www.metacareers.com/jobs/932919123033502) |
-| **Paccar** | Aftersales Data Analyst Intern | Kirkland, WA | today | [apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors) |
-| **TikTok** | Seller Content Project Intern | LA | today | [apply](https://lifeattiktok.com/search/7699387964317600053) |
-| **TikTok** | Seller Content Project Intern | NYC | today | [apply](https://lifeattiktok.com/search/7699388672743950645) |
-| **Amazon** | Business Intelligence Engineer Intern - Supply Chain EU SCOT | London, UK | today | [apply](https://amazon.jobs/en/jobs/10468207/business-intel-eng-1year-ftc-supply-chain-eu-scot) |
-| **Amazon** | Business Intelligence Engineer Intern - Supply Chain EU SCOT | London, UK | today | [apply](https://amazon.jobs/en/jobs/10511799/business-intel-eng-1year-ftc-supply-chain-eu-scot) |
-| **Amazon** | Applied Science Intern - Master's Student Science<br>Master's | Seattle, WA | today | [apply](https://amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting) |
-| **Amazon** | Data Science Intern | Seattle, WA | today | [apply](https://amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student) |
-| **Amazon** | Frontier AI & Robotics Intern - Undergraduate | SF | today | [apply](https://amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics) |
-| **Amazon** | Software Engineer Intern | Redmond, WA | today | [apply](https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) |
-| **Amazon** | Systems Development Engineer Intern | Bellevue, WA | today | [apply](https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027) |
-| **Amazon** | Associate Delivery Consultant Intern - AWS Professional Services | Arlington County, Arlington, VA / NYC | today | [apply](https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services) |
-| **Amazon** | Software Engineer Intern - AWS Database | United States | today | [apply](https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) |
-| **Amazon** | Junior Software Development Engineer Intern - Jr. Developer Program | Detroit, MI | today | [apply](https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program) |
-| **Amazon** | Business Analyst Intern | London, UK / Manchester, UK | today | [apply](https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027) |
-| **Amazon** | Systems Development Engineer Intern | Vancouver, BC, Canada | today | [apply](https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027) |
-| **ABB** | R&D Software Engineer Intern | Greenville, SC | 1d ago | [apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/R-D-Software-Engineer_JR00050035) |
-| **RTX** | Business Intelligence and Governance Analyst Intern | Longueuil, QC, Canada | 1d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337-1) |
-| **Altera** | Software Intern | Toronto, ON, Canada | 1d ago | [apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373) |
-| **Circle K** | Real Estate Strategy & Reporting Intern | Charlotte, NC | 1d ago | [apply](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Real-Estate-Strategy---Reporting-Intern_R630515-1) |
-| **General Motors** | Data Governance Engineer Intern | Warren, MI | 25d ago | [apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Governance-Engineer--Early-Careers_JR-202620794) |
-| **Marsh & McLennan** | Data & Analytics Intern - Data & Analytics | Newcastle upon Tyne, UK | 46d ago | [apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Summer-Internship-2027---Newcastle_R_364984-1) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (10)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Micron Technology** | Intern - Design Engineer, HBM | Richardson, TX | 3d ago | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452) |
+| **Itron** | Data Science Intern - Distributed Intelligence | Liberty Lake, WA | 25d ago | [apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) |
+| **Itron** | Data Science Intern - Distributed Intelligence | Liberty Lake, WA | 25d ago | [apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2) |
+| **Auto-Owners Insurance** | Predictive Modeler Intern - Summer 2027 | Lansing, MI | 63d ago | [apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833) |
+| **American Express** | AI Engineer Intern - Enterprise Technology Services | Sunrise, FL | 66d ago | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745) |
+| **JP Morgan Chase** | Data & AI Intern - Analyst | Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jerse | 81d ago | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) |
+| **Rainmaker** | Machine Learning Fellow | El Segundo, CA | 90d ago | [apply](https://jobs.lever.co/make-rain/12553367-54eb-4fb8-8268-d52b3f05d86b/apply) |
+| **Appian** | Software Engineer Intern | McLean, VA | 91d ago | [apply](https://job-boards.greenhouse.io/appian/jobs/8041237) |
+| **SPHERIX GLOBAL INSIGHTS US INC** | Market Research Insights Intern | Exton, PA | 92d ago | [apply](https://spherixglobalinsights.applytojob.com/apply/tXLqnpK9I3/Market-Research-Insights-Internship) |
+| **Gritt** | ML & Cloud Infrastructure Engineer Intern | South SF | 94d ago | [apply](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523/application?embed=true) |
+| **AMEND Consulting** | Quality Assurance Analyst Co-op Intern | Cincinnati, OH | 106d ago | [apply](https://job-boards.greenhouse.io/amendconsulting/jobs/4113831009) |
+
+## New from Company portals (9)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Analog Devices** | Design Verification Engineering Intern | United Kingdom, Edinburgh, SC, Freer | today | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Design-Verification-Engineering-Intern_R267097) |
+| **Adobe** | 2027 Intern - Software Engineer | San Jose | 30d ago | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) |
+| **Figma** | Software Engineer Intern (Summer 2027) | San Francisco, CA • New York, NY | — | [apply](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) |
+| **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | San Francisco, CA | — | [apply](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) |
+| **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | New York, NY | — | [apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
+| **Scale AI** | Machine Learning Research Intern (Summer 2027) | New York, NY; San Francisco, CA | — | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
+| **Schonfeld** | 2027 Business Analytics Intern | New York, New York, United States | — | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) |
+| **Stripe** | Data Analyst, Intern | New York, Seattle, South San Francisco HQ | — | [apply](https://stripe.com/jobs/search?gh_jid=8194291) |
+| **Stripe** | Software Engineer, Intern (Summer or Winter) | San Francisco, Seattle, New York City | — | [apply](https://stripe.com/jobs/search?gh_jid=8128745) |
 
 ## Watched company portals
 
