@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-10-24 16:12 UTC · 1 new listing_
+_Updated 2026-10-24 18:57 UTC · 0 new listings_
 
-## New from SimplifyJobs (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **HCSC** | Security Data Classification Intern | Richardson, TX | 16d ago | [apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513) |
+Nothing new this run.
 
 ## Watched company portals
 
