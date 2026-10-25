@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-10-25 12:30 UTC · 1 new listing_
+_Updated 2026-10-25 15:40 UTC · 3 new listings_
 
-## New from SimplifyJobs (1)
+## New from SimplifyJobs (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Edison International** | Summer Internship - Data Analytics/Science/Applied Math | Santa Ana, CA / Fullerton, CA / Irvine, CA / Westminster, CA | 54d ago | [apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 71d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 71d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 71d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
