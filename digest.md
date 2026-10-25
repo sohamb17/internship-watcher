@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-10-25 06:48 UTC · 2 new listings_
+_Updated 2026-10-25 12:30 UTC · 1 new listing_
 
-## New from SimplifyJobs (2)
+## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Dell Technologies** | Graduate Analytics Intern | Texas | today | [apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301412) |
-| **Dell Technologies** | Data Science Intern<br>Master's/PhD | Round Rock, TX | today | [apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413) |
+| **Edison International** | Summer Internship - Data Analytics/Science/Applied Math | Santa Ana, CA / Fullerton, CA / Irvine, CA / Westminster, CA | 54d ago | [apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors) |
 
 ## Watched company portals
 
