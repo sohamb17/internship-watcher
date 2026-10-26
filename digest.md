@@ -1,18 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-10-26 05:12 UTC · 7 new listings_
+_Updated 2026-10-26 11:29 UTC · 2 new listings_
 
-## New from SimplifyJobs (7)
+## New from SimplifyJobs (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **FTI Consulting** | Data & Analytics Intern | London, UK | today | [apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771) |
-| **Skydio** | PhD Autonomy Engineer Intern | San Mateo, CA | 1d ago | [apply](https://jobs.ashbyhq.com/skydio/fe26fdf8-15b2-44e6-8e43-ace13431453c/application?embed=true) |
-| **Skydio** | Autonomy Engineer Intern | San Mateo, CA | 1d ago | [apply](https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application?embed=true) |
-| **Skydio** | Autonomy Engineer Intern - Deep Learning / Computer Vision | San Mateo, CA | 1d ago | [apply](https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true) |
-| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 72d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 72d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 72d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
+| **Vigil Labs** | Software Engineer Intern | Palo Alto, CA | today | [apply](https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2) |
+| **Hewlett Packard Enterprise** | AI/ML Developer Intern | San Jose, CA | 1d ago | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413) |
 
 ## Watched company portals
 
