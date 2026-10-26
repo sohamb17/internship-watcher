@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-10-25 22:00 UTC · 0 new listings_
+_Updated 2026-10-26 00:07 UTC · 2 new listings_
 
-Nothing new this run.
+## New from SimplifyJobs (2)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Intuit** | Software Developer Co-op - Front End | Toronto, ON, Canada | today | [apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) |
+| **ConnectPrep** | Data Analyst Intern | Remote in USA | today | [apply](https://apply.workable.com/connectprep/j/1AF4F8C65F/apply) |
 
 ## Watched company portals
 
