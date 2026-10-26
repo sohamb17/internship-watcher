@@ -1,13 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-10-26 00:07 UTC · 2 new listings_
+_Updated 2026-10-26 05:12 UTC · 7 new listings_
 
-## New from SimplifyJobs (2)
+## New from SimplifyJobs (7)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Intuit** | Software Developer Co-op - Front End | Toronto, ON, Canada | today | [apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) |
-| **ConnectPrep** | Data Analyst Intern | Remote in USA | today | [apply](https://apply.workable.com/connectprep/j/1AF4F8C65F/apply) |
+| **FTI Consulting** | Data & Analytics Intern | London, UK | today | [apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771) |
+| **Skydio** | PhD Autonomy Engineer Intern | San Mateo, CA | 1d ago | [apply](https://jobs.ashbyhq.com/skydio/fe26fdf8-15b2-44e6-8e43-ace13431453c/application?embed=true) |
+| **Skydio** | Autonomy Engineer Intern | San Mateo, CA | 1d ago | [apply](https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application?embed=true) |
+| **Skydio** | Autonomy Engineer Intern - Deep Learning / Computer Vision | San Mateo, CA | 1d ago | [apply](https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 72d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 72d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 72d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
