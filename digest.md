@@ -1,49 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-10-27 06:46 UTC · 33 new listings_
+_Updated 2026-10-27 13:07 UTC · 8 new listings_
 
-## New from SimplifyJobs (30)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Meta** | Research Scientist Intern - Search | Menlo Park, CA | today | [apply](https://www.metacareers.com/jobs/2171476533578976) |
-| **Meta** | Research Scientist Intern - Efficient World Foundation Models - PhD | Burlingame, CA | today | [apply](https://www.metacareers.com/jobs/1423049949381658) |
-| **Meta** | Research Scientist Intern - Foundation Model Optimization | Burlingame, CA / Menlo Park, CA | today | [apply](https://www.metacareers.com/jobs/1435245618154892) |
-| **Sherwin-Williams** | R&D Product Systems Intern | Cleveland, OH | today | [apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627417) |
-| **Highmark Health** | Predictive Modeling & Data Science Graduate Intern | New Mexico / Washington / Kansas / Pennsylvania / North Dako | 1d ago | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333) |
-| **Highmark Health** | Enterprise Master Data Management Analyst Graduate Intern | New Mexico / Washington / Kansas / Pennsylvania / North Dako | 1d ago | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856) |
-| **Generac** | AI Engineering Intern<br>Master's | Waukesha, WI | 1d ago | [apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736) |
-| **JM Family** | Automation & Analytics Intern | Deerfield Beach, FL | 1d ago | [apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Automation---Analytics-Intern_JR105132) |
-| **Niantic Spatial** | Software Engineer Intern - Native SDK & Mobile Platforms | SF | 1d ago | [apply](https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43/application?embed=true) |
-| **Altera** | Software Engineer Intern | Toronto, ON, Canada | 1d ago | [apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382) |
-| **Zillow** | Data Science Intern | Seattle, WA | 1d ago | [apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1) |
-| **Aurora Innovation** | AI Engineer Intern | Seattle, WA / Pittsburgh, PA / Mountain View, CA | 19d ago | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c/application?embed=true) |
-| **Lawrence Livermore National Laboratory (LLNL)** | Defense Science and Technology Intern | Livermore, CA | 28d ago | [apply](https://jobs.smartrecruiters.com/LLNL/3743990015740565) |
-| **Aurora Innovation** | Core Autonomy Software Intern - C++ | Pittsburgh, PA / Mountain View, CA | 32d ago | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true) |
-| **Aurora Innovation** | Perception & Mapping Intern<br>Master's/PhD | SF / Pittsburgh, PA / Mountain View, CA | 33d ago | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/688f13a4-2cc4-4f3f-a5b4-0056bc580224/application?embed=true) |
-| **Aurora Innovation** | Full Stack Engineer Intern | Pittsburgh, PA / Mountain View, CA | 33d ago | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true) |
-| **Aurora Innovation** | Behavior and Planning Intern - ML Research | SF / Pittsburgh, PA / Mountain View, CA | 33d ago | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true) |
-| **Aurora Innovation** | Simulation Engineering Intern | SF / Mountain View, CA | 33d ago | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true) |
-| **Aurora Innovation** | Data & ML Platform Engineer Intern | SF / Pittsburgh, PA / Mountain View, CA | 33d ago | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true) |
-| **GSK** | Data & Analytics - Multiple Roles | Ware, UK / Worthing, UK | 35d ago | [apply](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---West-Sussex---Worthing/Data---Analytics--Multiple-Roles-and-Locations--Industrial-Placement--UK-2027_446647) |
-| **Klaviyo** | Software Engineer Co-op | Boston, MA | 44d ago | [apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003) |
-| **Klaviyo** | Software Engineer Intern - Summer 2027 | Boston, MA | 44d ago | [apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003) |
-| **Loblaw Companies** | Technology Transformation Co-op - Technology Transformation | Brampton, ON, Canada | 49d ago | [apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Loblaw-Brands--Technology-Transformation---Co-op-Student_R2000695051) |
-| **AArete** | Business Analytics Intern - Summer 2027 | Chicago, IL | 52d ago | [apply](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false) |
-| **GE Vernova** | Project Engineer Intern - Summer 2027<br>Master's/PhD | Bellevue, WA | 67d ago | [apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1) |
-| **GE Vernova** | Project Engineer Intern - Summer 2027<br>Master's/PhD | Bellevue, WA | 67d ago | [apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-2) |
-| **Marshall Wace** | AI Placement - Imperial 6 month placement | London, UK | 77d ago | [apply](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8620541002) |
-| **LPL Financial Holdings** | Software Engineer Intern | Austin, TX / Fort Mill, SC / Charlotte, NC | 78d ago | [apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) |
-| **LPL Financial Holdings** | Data Engineer Intern - Data | Austin, TX / Fort Mill, SC / Charlotte, NC | 78d ago | [apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914) |
-| **Phaidra** | PhD Studentship: Causal Reinforcement Learning | Cambridge, UK | 101d ago | [apply](https://job-boards.greenhouse.io/phaidra/jobs/4716285005) |
-
-## New from Company portals (3)
+## New from SimplifyJobs (8)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Applied Materials** | 2027 Computational Beamline / Plasma Scientist Summer Intern - MS or PhD (Gloucester, MA) | Gloucester,MA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Computational-Beamline---Plasma-Scientist-Summer-Intern---MS-or-PhD--Gloucester--MA-_R2630818) |
-| **Applied Materials** | 2027 Summer Ion Source Development Intern (Gloucester, MA) | Gloucester,MA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Summer-Ion-Source-Development-Intern--Gloucester--MA-_R2630795) |
-| **Applied Materials** | 2027 Summer Electrical Engineering Intern - BS or MS (Gloucester, MA) | Gloucester,MA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812) |
+| **Normal Computing** | AI Research Resident - Algorithms Codesign<br>Master's/PhD | NYC | today | [apply](https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true) |
+| **Visa** | Data Science Intern - Data and AI Team | Foster City, CA | today | [apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1) |
+| **Visa** | Data Science Intern - Data and AI Team | Foster City, CA | today | [apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W) |
+| **Astranis** | Software Developer Associate - Network Software | SF | 32d ago | [apply](https://job-boards.greenhouse.io/astranis/jobs/4705615006) |
+| **Normal Computing** | AI Research Resident<br>Master's/PhD | London, UK / Copenhagen, Denmark / NYC / Mountain View, CA | 69d ago | [apply](https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 73d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 73d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 73d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
