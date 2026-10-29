@@ -1,30 +1,48 @@
 # Internship watcher — latest
 
-_Updated 2026-10-29 13:38 UTC · 19 new listings_
+_Updated 2026-10-29 19:31 UTC · 32 new listings_
 
-## New from SimplifyJobs (19)
+## New from SimplifyJobs (27)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Boston Scientific** | AI Solutions Engineering Intern | Arden Hills, MN | today | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813547675) |
-| **Uline** | Sales Analyst Intern | Waukegan, IL / Milwaukee, WI / Glenview, IL / Pleasant Prair | today | [apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R268774) |
-| **KLA** | Software Engineer Intern | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721) |
-| **Tesla** | Data Engineer Intern - Energy | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/287982) |
-| **KLA Corporation** | Software Engineer Intern | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1) |
-| **Adobe** | Technical Support Consultant Intern | San Jose, CA | today | [apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785) |
-| **Adobe** | Technical Support Consultant Intern | San Jose, CA | today | [apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172786) |
-| **HP Inc.** | Software Engineer Intern | SF | 1d ago | [apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806) |
-| **Philips** | AI & Analytics Analyst Intern | Nashville, TN | 7d ago | [apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012) |
-| **WGU** | Data Governance Intern | Salt Lake City, UT | 13d ago | [apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Intern---Technical-Writing_JR-026370) |
-| **Capital de Recherche Tower** | Machine Learning Intern | Montreal, QC, Canada | 13d ago | [apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8286965) |
-| **Tesla** | Software Engineer Intern - Software Engineer - Infotainment Platforms Validation | Palo Alto, CA | 19d ago | [apply](https://www.tesla.com/careers/search/job/286261) |
-| **West Monroe** | Software Engineering Consultant Intern - AI Concentration | NYC | 23d ago | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6181199004) |
-| **Tesla** | Distributed Systems Software Engineer Intern - Energy Engineering | Palo Alto, CA | 26d ago | [apply](https://www.tesla.com/careers/search/job/285508) |
-| **Qualcomm** | Design Automation & Quality Assurance Engineer Intern | Toronto, ON, Canada | 28d ago | [apply](https://qualcomm.eightfold.ai/careers/job/446721349404) |
-| **Capital de Recherche Tower** | Software Developer Intern | Montreal, QC, Canada | 41d ago | [apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8212194) |
-| **Applied Materials** | Industrial Engineering Intern | Santa Clara, CA | 55d ago | [apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710) |
-| **Booz Allen** | Data Scientist Intern - University - Summer Games | Fort Walton Beach, FL | 58d ago | [apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) |
-| **Booz Allen** | Software Developer Intern - University | Atlanta, GA | 62d ago | [apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138) |
+| **Microsoft** | Research Intern - Machine Intelligence | Cambridge, UK | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393557050083) |
+| **CIBC** | AI Developer Co-op - Bilingual | Montreal, QC, Canada | today | [apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390) |
+| **Sallie Mae** | Data Science and Engineering Intern | Newark, DE / Arlington County, Arlington, VA | today | [apply](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659) |
+| **JM Family** | Customer Experience Data Analyst Intern | Deerfield Beach, FL | today | [apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125) |
+| **JM Family** | Software Engineer Intern | Deerfield Beach, FL | today | [apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158) |
+| **Pernod Ricard, créateurs de convivialité** | Data & Business Transformation Placement Intern | London, UK | today | [apply](https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/London/Data---Business-Transformation-Placement---June-2027_JR-055452-1) |
+| **Charles River Analytics** | AI Scientist Intern<br>Master's/PhD | Cambridge, MA | today | [apply](https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8333895) |
+| **Two Six Technologies** | Systems Software Engineer Intern | Arlington County, Arlington, VA | today | [apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004) |
+| **OLIX** | Software Engineer Intern | London, UK | today | [apply](https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e/application?embed=true) |
+| **Qube Research & Technologies** | Technology Intern | Chicago, IL / NYC | 3d ago | [apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) |
+| **Burns Engineering** | Software Engineer Intern | Pittsburgh, PA | 3d ago | [apply](https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009) |
+| **Crystal Dynamics** | Gameplay Engineer Intern | Remote in USA | 6d ago | [apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005) |
+| **Crystal Dynamics** | Technical Artist Intern | Remote in USA | 6d ago | [apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746826005) |
+| **Apple** | Machine Learning Research Intern - Speech-to-Speech Translation<br>Master's/PhD | Cambridge, UK | 8d ago | [apply](https://jobs.apple.com/en-us/details/200690125) |
+| **OneEthos** | Research and Development Intern | Remote in USA | 9d ago | [apply](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) |
+| **Riverlane** | Software Engineering Intern | Cambridge, UK | 20d ago | [apply](https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies) |
+| **Riverlane** | Research Intern | Cambridge, UK | 20d ago | [apply](https://www.riverlane.com/jobs?gh_jid=5001380101#vacancies) |
+| **ProCogia** | LLM Research Intern | Vancouver, BC, Canada | 20d ago | [apply](https://procogia.com/about-us/careers/?gh_jid=5448685008) |
+| **TobogganLabs** | Data Science Intern | Québec City, QC, Canada | 25d ago | [apply](https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003) |
+| **Netcraft** | Software Engineer Intern | London, UK / Bath, UK / Manchester, UK | 38d ago | [apply](https://job-boards.eu.greenhouse.io/netcraft/jobs/4975674101) |
+| **Wave Life Sciences USA** | Microsoft Copilot AI Co-op | Lexington, MA | 41d ago | [apply](https://wavelifesciences.com/jobs?gh_jid=4409054009) |
+| **Wave Life Sciences USA** | Intellectual Property/Data Science Co-op | United States | 41d ago | [apply](https://wavelifesciences.com/jobs?gh_jid=4403998009) |
+| **Qube Research & Technologies** | Data Engineering Intern | London, UK / Paris, France | 50d ago | [apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002) |
+| **Advanced Space** | Software Engineer Intern | Westminster, CO | 65d ago | [apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009) |
+| **Advanced Space** | Machine Learning Intern | Westminster, CO | 65d ago | [apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009) |
+| **Quantiq** | Software Developer Intern | Austin, TX | 134d ago | [apply](https://job-boards.greenhouse.io/quantiq/jobs/4287936009) |
+| **DivcoWest** | AI Intern | SF | 174d ago | [apply](https://job-boards.greenhouse.io/divcowest/jobs/4244219009) |
+
+## New from Company portals (5)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Cisco** | Security Consulting Engineer I (Intern) - United States | RTP, North Carolina, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817) |
+| **GlobalFoundries** | Design Application Engineering Intern (Summer 2027) | USA - Texas - Austin | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/Design-Application-Engineering-Intern--Summer-2027-_JR-2604225) |
+| **KLA** | Software Intern | Milpitas, CA | today | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Intern_2642700) |
+| **Micron Technology** | Intern - ASIC Digital Design | Minneapolis, MN | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163) |
+| **Micron Technology** | Intern - Equipment Engineer | Manassas, VA -  Fab 6 | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Intern---Equipment-Engineer_JR114818) |
 
 ## Watched company portals
 
