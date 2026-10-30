@@ -1,31 +1,34 @@
 # Internship watcher — latest
 
-_Updated 2026-10-30 09:52 UTC · 15 new listings_
+_Updated 2026-10-30 16:39 UTC · 18 new listings_
 
-## New from SimplifyJobs (14)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Stratolaunch** | Manufacturing Systems & Data Intern - Systems | Mojave, CA | today | [apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008) |
-| **Waymo** | MS/PhD Intern - Weather Perception<br>Master's/PhD | SF | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8335511) |
-| **SageSure** | Data Science Product Analyst Intern | Fairfield, CA | 2d ago | [apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006) |
-| **Ncino** | Software Engineer Intern | Lehi, UT | 29d ago | [apply](https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009) |
-| **F&G** | IT Software Engineer Intern - Summer | Des Moines, IA | 44d ago | [apply](https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003) |
-| **Vestmark** | Software Engineer Co-op | Boston, MA | 44d ago | [apply](https://job-boards.greenhouse.io/internrecruiting/jobs/8204511) |
-| **F&G** | Business Intelligence Intern | Des Moines, IA | 48d ago | [apply](https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003) |
-| **BitGo** | Software Engineer Intern - Custody | Toronto, ON, Canada | 55d ago | [apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002) |
-| **BitGo** | Software Engineer Intern - Settlement Systems/Go Network | Toronto, ON, Canada | 56d ago | [apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002) |
-| **BitGo** | Software Engineer Intern - Prime Trade | Toronto, ON, Canada | 56d ago | [apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002) |
-| **C3.ai** | Software Engineer Intern | Redwood City, CA | 59d ago | [apply](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) |
-| **C3.ai** | Data Scientist Intern<br>Master's/PhD | Redwood City, CA | 69d ago | [apply](https://job-boards.greenhouse.io/c3ascend/jobs/8738917002) |
-| **RTX** | Software Engineer Intern - Summer 2027 | Cedar Rapids, IA | 77d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) |
-| **DRW** | AI/ML Research Intern<br>Master's/PhD | Montreal, QC, Canada | 108d ago | [apply](https://job-boards.greenhouse.io/drwfr/jobs/7991172) |
-
-## New from Company portals (1)
+## New from SimplifyJobs (11)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Applied Materials** | 2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA) | Gloucester,MA | 1d ago | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2632516) |
+| **PTC** | Software Engineering Intern | Cambridge, UK | today | [apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998) |
+| **Lila Sciences** | Bayesian Methods Co-op<br>Master's/PhD | Cambridge, MA / SF | today | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469148009) |
+| **Johns Hopkins Applied Physics Laboratory** | Robotics Engineer Intern - Maritime Systems | Laurel, MD | today | [apply](https://careers.jhuapl.edu/jobs/60742?icims=1) |
+| **Nissan** | Purchasing Transformation Intern | Franklin, TN | today | [apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Transformation-Intern---Summer-2027---Franklin--TN_R00214282) |
+| **Nissan** | Procurement Transformation Intern<br>Master's | Franklin, TN | today | [apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Procurement-Transformation---Summer-2027---Franklin--TN_R00214279) |
+| **AtriCure** | IT ERP Data Migration Co-op | Mason, OH | today | [apply](https://job-boards.greenhouse.io/co-op_intern/jobs/4473614009) |
+| **Fussball Club Cincinnati LLC (“FC Cincinnati”)** | Data Analyst Intern<br>Incomplete | Cincinnati, OH | today | [apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003) |
+| **Meta** | Research Scientist Intern - Photorealistic Telepresence | Redmond, WA / Pittsburgh, PA | today | [apply](https://www.metacareers.com/jobs/1358944629494375) |
+| **Gearset** | Software Engineer Intern | Cambridge, UK | 1d ago | [apply](https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f/application?embed=true) |
+| **General Dynamics Information Technology** | Software Developer Intern | Egg Harbor Township, NJ | 11d ago | [apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643) |
+| **Voyager Technologies** | Software Engineer Intern | Long Beach, CA | 31d ago | [apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009) |
+
+## New from Company portals (7)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Cisco** | Business Analyst I (Intern) United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Business-Analyst-I--Intern--United-States_2024552-1) |
+| **Cisco** | Data Analyst I (Intern) - United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Data-Analyst-I--Intern----United-States_2024561-1) |
+| **GlobalFoundries** | Device Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) |
+| **Salesforce** | Summer 2027 Intern - Software Engineer (Security/Government) | California   San Francisco | today | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) |
+| **Amazon** | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 | Seattle, Washington, USA | today | [apply](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) |
+| **Stripe** | Master's Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | — | [apply](https://stripe.com/jobs/search?gh_jid=8333074) |
+| **Stripe** | PhD Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | — | [apply](https://stripe.com/jobs/search?gh_jid=8328662) |
 
 ## Watched company portals
 
