@@ -1,34 +1,44 @@
 # Internship watcher — latest
 
-_Updated 2026-10-30 16:39 UTC · 18 new listings_
+_Updated 2026-10-30 21:25 UTC · 28 new listings_
 
-## New from SimplifyJobs (11)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **PTC** | Software Engineering Intern | Cambridge, UK | today | [apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998) |
-| **Lila Sciences** | Bayesian Methods Co-op<br>Master's/PhD | Cambridge, MA / SF | today | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4469148009) |
-| **Johns Hopkins Applied Physics Laboratory** | Robotics Engineer Intern - Maritime Systems | Laurel, MD | today | [apply](https://careers.jhuapl.edu/jobs/60742?icims=1) |
-| **Nissan** | Purchasing Transformation Intern | Franklin, TN | today | [apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Transformation-Intern---Summer-2027---Franklin--TN_R00214282) |
-| **Nissan** | Procurement Transformation Intern<br>Master's | Franklin, TN | today | [apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Procurement-Transformation---Summer-2027---Franklin--TN_R00214279) |
-| **AtriCure** | IT ERP Data Migration Co-op | Mason, OH | today | [apply](https://job-boards.greenhouse.io/co-op_intern/jobs/4473614009) |
-| **Fussball Club Cincinnati LLC (“FC Cincinnati”)** | Data Analyst Intern<br>Incomplete | Cincinnati, OH | today | [apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003) |
-| **Meta** | Research Scientist Intern - Photorealistic Telepresence | Redmond, WA / Pittsburgh, PA | today | [apply](https://www.metacareers.com/jobs/1358944629494375) |
-| **Gearset** | Software Engineer Intern | Cambridge, UK | 1d ago | [apply](https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f/application?embed=true) |
-| **General Dynamics Information Technology** | Software Developer Intern | Egg Harbor Township, NJ | 11d ago | [apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643) |
-| **Voyager Technologies** | Software Engineer Intern | Long Beach, CA | 31d ago | [apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009) |
-
-## New from Company portals (7)
+## New from SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Cisco** | Business Analyst I (Intern) United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Business-Analyst-I--Intern--United-States_2024552-1) |
-| **Cisco** | Data Analyst I (Intern) - United States | San Jose California US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Data-Analyst-I--Intern----United-States_2024561-1) |
-| **GlobalFoundries** | Device Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) |
-| **Salesforce** | Summer 2027 Intern - Software Engineer (Security/Government) | California   San Francisco | today | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) |
-| **Amazon** | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 | Seattle, Washington, USA | today | [apply](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) |
-| **Stripe** | Master's Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | — | [apply](https://stripe.com/jobs/search?gh_jid=8333074) |
-| **Stripe** | PhD Machine Learning Engineer, Intern | San Francisco, New York City, Seattle | — | [apply](https://stripe.com/jobs/search?gh_jid=8328662) |
+| **WhatNot** | Software Engineer Intern | Seattle, WA / SF / LA / NYC | 59d ago | [apply](https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true) |
+
+## New from Company portals (27)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Applied Materials** | 2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara) | Santa Clara,CA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672) |
+| **Applied Materials** | Summer 2027 Mechanical Engineer Intern- Bachelor's/Master's (Santa Clara, CA) | Santa Clara,CA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627737) |
+| **Applied Materials** | Summer 2027 Electrical Radio Frequency Engineer Intern- Master's/PhD (Santa Clara, CA) | Santa Clara,CA | today | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2027-Electrical-Radio-Frequency-Engineer-Intern--Master-s-PhD--Santa-Clara--CA-_R2629753) |
+| **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | Washington, D.C. | 111d ago | [apply](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) |
+| **Palantir** | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, CA | 111d ago | [apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
+| **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | 128d ago | [apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
+| **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | Washington, D.C. | 190d ago | [apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
+| **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | New York, NY | 224d ago | [apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) |
+| **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | New York, NY | 224d ago | [apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) |
+| **Palantir** | Year at Palantir - Software Engineer, Internship | New York, NY | 224d ago | [apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) |
+| **Palantir** | Forward Deployed Software Engineer, Internship - France | New York, NY | 234d ago | [apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) |
+| **Palantir** | Forward Deployed Software Engineer, Internship - US Government | Honolulu, HI | 322d ago | [apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) |
+| **Palantir** | Software Engineer, Internship - Infrastructure | Palo Alto, CA | 437d ago | [apply](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) |
+| **Palantir** | Software Engineer, Internship - Production Infrastructure | Washington, D.C. | 437d ago | [apply](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86) |
+| **Palantir** | Software Engineer, Internship - Infrastructure | New York, NY | 491d ago | [apply](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) |
+| **Palantir** | Software Engineer, Internship - Production Infrastructure | Seattle, WA | 491d ago | [apply](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) |
+| **Palantir** | Software Engineer, Internship - Production Infrastructure | New York, NY | 491d ago | [apply](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) |
+| **Palantir** | Software Engineer, Internship | Denver, CO | 792d ago | [apply](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) |
+| **Palantir** | Software Engineer, Internship - Defense Tech | New York, NY | 815d ago | [apply](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) |
+| **Palantir** | Software Engineer, Internship - Defense Tech | Palo Alto, CA | 815d ago | [apply](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) |
+| **Palantir** | Software Engineer, Internship - Defense Tech | Washington, D.C. | 815d ago | [apply](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) |
+| **Palantir** | Information Security Engineer, Internship | New York, NY | 1549d ago | [apply](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) |
+| **Palantir** | Forward Deployed Software Engineer, Internship - US Government | New York, NY | 1583d ago | [apply](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) |
+| **Palantir** | Software Engineer, Internship | New York, NY | 1583d ago | [apply](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) |
+| **Palantir** | Forward Deployed Software Engineer, Internship - US Government | Washington, D.C. | 1946d ago | [apply](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) |
+| **Palantir** | Software Engineer, Internship | Washington, D.C. | 1946d ago | [apply](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) |
+| **Palantir** | Software Engineer, Internship | Palo Alto, CA | 1946d ago | [apply](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) |
 
 ## Watched company portals
 
