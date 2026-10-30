@@ -1,45 +1,31 @@
 # Internship watcher — latest
 
-_Updated 2026-10-30 02:52 UTC · 29 new listings_
+_Updated 2026-10-30 09:52 UTC · 15 new listings_
 
-## New from SimplifyJobs (3)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Apple** | Swift Runtime Engineer Intern - Swift Runtimes | London, UK | today | [apply](https://jobs.apple.com/en-us/details/200692438) |
-| **Axon** | Software Engineer Intern | Seattle, WA / Arlington County, Arlington, VA | today | [apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003) |
-| **Dee Zee** | Software Development Intern | Des Moines, IA | 1d ago | [apply](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471) |
-
-## New from Company portals (26)
+## New from SimplifyJobs (14)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Cisco** | Sustainability Analyst I (Intern) - United States GSC/GSM ETR | San Jose, California, US | today | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Sustainability-Analyst-I--Intern----United-States-GSC-GSM-ETR_2027214-1) |
-| **Anduril** | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
-| **Anduril** | 2027 Field Test Engineer Intern | Costa Mesa, California, United States; Quincy, Massachusetts | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) |
-| **Anduril** | 2027 Finance Data Analyst Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007) |
-| **Anduril** | 2027 Firmware Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) |
-| **Anduril** | 2027 Flight Software Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) |
-| **Anduril** | 2027 Flight Test Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) |
-| **Anduril** | 2027 Guidance, Navigation, & Control Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007) |
-| **Anduril** | 2027 Industrial Engineer Intern | Ashville, Ohio, United States; Costa Mesa, California, Unite | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007) |
-| **Anduril** | 2027 Low Observables Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) |
-| **Anduril** | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
-| **Anduril** | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, Unit | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
-| **Anduril** | 2027 Product Sourcing Engineer Intern | Costa Mesa, California, United States; Irvine, California, U | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) |
-| **Anduril** | 2027 Quality & Test Engineer Intern | Ashville, Ohio, United States; Costa Mesa, California, Unite | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) |
-| **Anduril** | 2027 Reliability Engineer Intern | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) |
-| **Anduril** | 2027 Systems Engineer Intern | Boston, Massachusetts, United States; Costa Mesa, California | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) |
-| **Anduril** | 2027 Technical Program Manager Intern | Costa Mesa, California, United States; Honolulu, Hawaii, Uni | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) |
-| **Anduril** | Winter 2027 Electrical Engineer Co-op | Costa Mesa, California, United States; Quincy, Massachusetts | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) |
-| **Anduril** | Winter 2027 EWIS Harness Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) |
-| **Anduril** | Winter 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States; Lexington, Massachusetts, Uni | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) |
-| **Anduril** | Winter 2027 Mechanical Engineer Co-op | Ashville, Ohio, United States; Quincy, Massachusetts, United | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007) |
-| **Anduril** | Winter 2027 Propulsion Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) |
-| **Anduril** | Winter 2027 Quality & Test Engineer Co-op | Ashville, Ohio, United States; Santa Ana, California, United | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) |
-| **Anduril** | Winter 2027 Reliability Engineer Co-op | Costa Mesa, California, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007) |
-| **Anduril** | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
-| **Anduril** | Winter 2027 Technical Program Management Co-op | Washington, District of Columbia, United States | — | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007) |
+| **Stratolaunch** | Manufacturing Systems & Data Intern - Systems | Mojave, CA | today | [apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008) |
+| **Waymo** | MS/PhD Intern - Weather Perception<br>Master's/PhD | SF | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8335511) |
+| **SageSure** | Data Science Product Analyst Intern | Fairfield, CA | 2d ago | [apply](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006) |
+| **Ncino** | Software Engineer Intern | Lehi, UT | 29d ago | [apply](https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009) |
+| **F&G** | IT Software Engineer Intern - Summer | Des Moines, IA | 44d ago | [apply](https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003) |
+| **Vestmark** | Software Engineer Co-op | Boston, MA | 44d ago | [apply](https://job-boards.greenhouse.io/internrecruiting/jobs/8204511) |
+| **F&G** | Business Intelligence Intern | Des Moines, IA | 48d ago | [apply](https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003) |
+| **BitGo** | Software Engineer Intern - Custody | Toronto, ON, Canada | 55d ago | [apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002) |
+| **BitGo** | Software Engineer Intern - Settlement Systems/Go Network | Toronto, ON, Canada | 56d ago | [apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002) |
+| **BitGo** | Software Engineer Intern - Prime Trade | Toronto, ON, Canada | 56d ago | [apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002) |
+| **C3.ai** | Software Engineer Intern | Redwood City, CA | 59d ago | [apply](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) |
+| **C3.ai** | Data Scientist Intern<br>Master's/PhD | Redwood City, CA | 69d ago | [apply](https://job-boards.greenhouse.io/c3ascend/jobs/8738917002) |
+| **RTX** | Software Engineer Intern - Summer 2027 | Cedar Rapids, IA | 77d ago | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) |
+| **DRW** | AI/ML Research Intern<br>Master's/PhD | Montreal, QC, Canada | 108d ago | [apply](https://job-boards.greenhouse.io/drwfr/jobs/7991172) |
+
+## New from Company portals (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Applied Materials** | 2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA) | Gloucester,MA | 1d ago | [apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2632516) |
 
 ## Watched company portals
 
