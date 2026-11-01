@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-01 00:23 UTC · 1 new listing_
+_Updated 2026-11-01 06:44 UTC · 0 new listings_
 
-## New from SimplifyJobs (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Trane Technologies** | AI & Analytics Intern | Minneapolis, MN / Davidson, NC | 60d ago | [apply](https://careers.tranetechnologies.com/global/en/job/JR-7591) |
+Nothing new this run.
 
 ## Watched company portals
 
