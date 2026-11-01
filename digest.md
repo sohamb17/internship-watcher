@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-01 17:42 UTC · 2 new listings_
+_Updated 2026-11-01 19:07 UTC · 0 new listings_
 
-## New from SimplifyJobs (2)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **TRG** | Full Stack Application Developer Intern | Dallas, TX | today | [apply](https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US) |
-| **Goldman Sachs** | Summer Analyst Intern - Engineering | London, UK | 78d ago | [apply](https://higher.gs.com/roles/170644?type=students) |
+Nothing new this run.
 
 ## Watched company portals
 
