@@ -1,8 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-01 06:44 UTC · 0 new listings_
+_Updated 2026-11-01 14:13 UTC · 5 new listings_
 
-Nothing new this run.
+## New from SimplifyJobs (5)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Goldman Sachs** | Engineer Apprentice | Birmingham, UK | 38d ago | [apply](https://higher.gs.com/roles/174815?type=students) |
+| **Tesla** | Factory Firmware Integration Intern - Energy Engineering | Buffalo, NY | 45d ago | [apply](https://www.tesla.com/careers/search/job/283630) |
+| **Edison International** | Computer Science Intern | Alhambra, CA / Pomona, CA / Rosemead, CA | 61d ago | [apply](https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors) |
+| **Goldman Sachs** | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | 78d ago | [apply](https://higher.gs.com/roles/171565?type=students) |
+| **Goldman Sachs** | Summer Analyst Intern - Engineering | Dallas, TX | 78d ago | [apply](https://higher.gs.com/roles/171553?type=students) |
 
 ## Watched company portals
 
