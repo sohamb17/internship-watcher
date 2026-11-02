@@ -74,9 +74,9 @@ coverage: only companies in `boards.json` are seen.
 ## Filtering
 
 **`simplify`** keeps a listing when it is `active` and `is_visible`, its
-`category` is Software or AI/ML/Data, it offers sponsorship, its `terms` name a
-year in `TERM_YEARS` (or are absent / `N/A`), and its `degrees` include at
-least one at or below Master's.
+`category` is Software or AI/ML/Data, it offers sponsorship, its `terms` include
+a wanted term (or are absent / `N/A`), and its `degrees` include at least one
+at or below Master's.
 
 That last rule drops postings wanting *only* PhD/MBA/JD/MD while keeping
 Bachelor's-only ones — a Master's student is eligible for those, since a
@@ -104,6 +104,21 @@ under a case-insensitive match the codes `IN`, `OR`, `OK`, `ME`, `HI`, `LA`,
 `DE`, `CO`, `ID`, `PA` and `MA` all match ordinary English words, and
 "BangPa-in, Thailand" reads as Indiana.
 
+### Recruiting term
+
+Only `SEASONS` (default **Summer 2027 and Fall 2027**) get through. "Winter
+2027" and "Spring 2027" are January-start co-op terms — a different cycle —
+and they arrive unlabelled more often than not: vanshb03 lists 65 of Tesla's
+70 open roles as `season: Winter` while every title omits it. The term is read
+from every place a source states it: Simplify's `terms`, vanshb03's and
+zshah101's `season`, and titles in every source ("Winter 2027 Co-op",
+"Co-op - January 2027", "(Jan - Jun 2027)", "Fall/Winter 2026"). A listing that
+names no term is kept, since most Summer postings never say.
+
+Two phrasings are deliberately not read as a term: graduation dates
+("Grad Year: Spring 2027" describes the applicant, and is a Summer role), and
+the end of a dated range ("Sept 2026 - May 2027" starts in Fall 2026).
+
 ### Environment
 
 | Var | Default | Meaning |
@@ -112,7 +127,7 @@ under a case-insensitive match the codes `IN`, `OR`, `OK`, `ME`, `HI`, `LA`,
 | `STATE_FILE` | `state.json` | Seen-listing state |
 | `BOARDS_FILE` | `boards.json` | ATS board config |
 | `SOURCES` | all | Comma list to restrict, e.g. `SOURCES=ats` |
-| `TERM_YEARS` | `2027` | Season years to accept |
+| `SEASONS` | `Summer 2027,Fall 2027` | Terms to accept; listings that name no term are kept |
 | `MAX_AGE_DAYS` | unset | Drop listings posted more than N days ago |
 | `EXCLUDE_ACADEMIC` | `1` | `0` keeps university employers |
 | `WD_PAGES` | `10` | Workday pages (×20 jobs) polled per company per run |

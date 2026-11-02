@@ -32,7 +32,8 @@ Env
   SOURCES      comma-separated list to restrict active sources (default: all)
   US_ONLY      "0" to keep non-US postings from the ATS source (default: on)
   MIN_YEAR     drop ATS postings naming an earlier season year (default 2027)
-  TERM_YEARS   comma list of season years to accept (default 2027)
+  SEASONS      terms to accept (default "Summer 2027,Fall 2027"); listings
+               naming no term are kept
   MAX_AGE_DAYS drop listings posted more than N days ago (default: no limit)
   EXCLUDE_ACADEMIC  "0" to keep university/college employers (default: drop)
 
@@ -61,8 +62,13 @@ TOPIC = os.environ.get("NTFY_TOPIC")
 ONLY = {s.strip() for s in os.environ.get("SOURCES", "").split(",") if s.strip()}
 US_ONLY = os.environ.get("US_ONLY", "1") != "0"
 MIN_YEAR = int(os.environ.get("MIN_YEAR", "2027"))
-TERM_YEARS = {y.strip() for y in os.environ.get("TERM_YEARS", "2027").split(",")
-              if y.strip()}
+# Recruiting terms you want. A listing that names its term is kept only if it
+# names one of these; a listing that names no term at all is kept (most Summer
+# postings never say). "Winter 2027" / "Spring 2027" are January-start co-op
+# terms, a different cycle from Summer.
+SEASONS = [t.strip() for t in os.environ.get("SEASONS",
+                                             "Summer 2027,Fall 2027").split(",")
+           if t.strip()]
 MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "0")) or None
 EXCLUDE_ACADEMIC = os.environ.get("EXCLUDE_ACADEMIC", "1") != "0"
 
@@ -390,11 +396,101 @@ def tech(title):
     return bool(_TECH.search(title)) and not _NOT_TECH.search(title)
 
 
+_SEASON_NAMES = {"summer": "summer", "fall": "fall", "autumn": "fall",
+                 "winter": "winter", "spring": "spring"}
+# Months -> the term an internship starting then belongs to.
+_MONTH_TERM = {"jan": "spring", "feb": "spring", "mar": "spring",
+               "apr": "spring", "may": "summer", "jun": "summer",
+               "jul": "summer", "aug": "fall", "sep": "fall", "oct": "fall",
+               "nov": "fall", "dec": "winter"}
+# Year: four digits, or two after an apostrophe ("Summer '27"). A bare two
+# digits would read "Fall 12-week program" as Fall 2012.
+_TERM_RX = re.compile(
+    r"\b(summer|fall|autumn|winter|spring)\b(?:\s*[-/]?\s*(?:(20\d\d)|'(\d\d))\b)?",
+    re.I)
+# Co-op start dates: "Co-op - January 2027", "(Jan - Jun 2027)", "Jan 2027".
+# Whole month names only, so "Marketing 2027" is not March 2027.
+_MON = (r"(jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|june?|july?|"
+        r"aug(?:ust)?|sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|"
+        r"dec(?:ember)?)")
+_MONTH_RX = re.compile(
+    r"\b" + _MON + r"\b\.?(?:\s*[-–to]+\s*" + _MON + r"\b\.?)?,?\s*(20\d\d)\b",
+    re.I)
+
+
+def _allowed():
+    out = set()
+    for t in SEASONS:
+        m = _TERM_RX.search(t)
+        if m:
+            y = m.group(2) or (m.group(3) and "20" + m.group(3))
+            out.add((_SEASON_NAMES[m.group(1).lower()], y or None))
+    return out
+
+
+ALLOWED_TERMS = _allowed()
+
+
+def _term_allowed(season, year):
+    return any(season == s and (year is None or y is None or year == y)
+               for s, y in ALLOWED_TERMS)
+
+
+# "Grad Year: Spring 2027", "graduating Winter 2027", "class of Fall 2027"
+# describe the applicant, not the internship term.
+_GRAD_PHRASE = re.compile(
+    r"\b(grad(uat(e|ion|ing))?\s*(year|date|term)?|class of|expected graduation"
+    r"|graduating)\s*[:\-]?\s*(in\s+)?(summer|fall|autumn|winter|spring)?"
+    r"\s*(20\d\d)?", re.I)
+
+
+_YEAR4 = re.compile(r"\b(20\d\d)\b")
+_MONTH_YEAR_RANGE = re.compile(
+    r"(\b" + _MON + r"\b\.?,?\s*20\d\d)\s*(?:-|–|to)\s*" + _MON + r"\b\.?,?\s*20\d\d",
+    re.I)
+
+
+def terms_in(text):
+    """(season, year-or-None) pairs named in free text.
+
+    A season without its own year takes the nearest year written after it,
+    else before it: "Fall/Winter 2026" is Fall 2026 and Winter 2026, and
+    "2026 Internship, Fall" is Fall 2026. A dated range ("Sept 2026 - May
+    2027") is named by its start."""
+    text = _GRAD_PHRASE.sub(" ", text or "")
+    text = _MONTH_YEAR_RANGE.sub(lambda m: m.group(1), text)
+    years = [(m.start(), m.group(1)) for m in _YEAR4.finditer(text)]
+
+    def nearest(pos):
+        after = [y for p, y in years if p > pos]
+        before = [y for p, y in years if p < pos]
+        return after[0] if after else (before[-1] if before else None)
+
+    found = []
+    for m in _TERM_RX.finditer(text):
+        y = m.group(2) or (m.group(3) and "20" + m.group(3)) or nearest(m.start())
+        found.append((_SEASON_NAMES[m.group(1).lower()], y))
+    for m in _MONTH_RX.finditer(text):
+        # "Jan - Jun 2027" is named by its start month.
+        found.append((_MONTH_TERM[m.group(1)[:3].lower()], m.group(3)))
+    return found
+
+
+def season_ok(*texts):
+    """True unless the listing names its term(s) and none is wanted. Each
+    argument is a title or a structured season/term string; "N/A", "Not
+    stated" and the like name nothing and so never reject."""
+    found = [t for x in texts for t in terms_in(x)]
+    return not found or any(_term_allowed(s, y) for s, y in found)
+
+
 def relevant(title, loc, country=None):
     if not _INTERN.search(title) or not tech(title):
         return False
     years = [int(y) for y in _YEAR.findall(title)]
     if years and max(years) < MIN_YEAR:
+        return False
+    if not season_ok(title):
         return False
     if US_ONLY and not is_us(loc, country):
         return False
@@ -406,10 +502,8 @@ def relevant(title, loc, country=None):
 # --------------------------------------------------------------------------
 
 def term_ok(terms):
-    """No terms listed means unknown, which is kept. 'N/A' likewise."""
-    if not terms:
-        return True
-    return any(t == "N/A" or any(y in t for y in TERM_YEARS) for t in terms)
+    """Simplify's `terms` list. Empty or ['N/A'] means unstated: kept."""
+    return season_ok(*(terms or []))
 
 
 def degree_ok(degrees):
@@ -460,6 +554,13 @@ def _listings_source(name, url, min_entries, curated):
             years = [int(y) for y in _YEAR.findall(title)]
             if years and max(years) < MIN_YEAR:
                 continue
+            # vanshb03's `season` is a bare name ("Winter", "Spring/Summer")
+            # for this repo's 2027 cycle; titles usually omit it entirely.
+            season = j.get("season") or ""
+            if season and not season_ok(season, title):
+                continue
+        if not season_ok(title):                      # title, every source
+            continue
         if j.get("sponsorship") in BAD_SPONSORSHIP:
             continue
         locs = j.get("locations") or []
@@ -566,6 +667,8 @@ def _row(src, co, role, loc, url, age, sk, city_only=False):
         return None
     years = [int(y) for y in _YEAR.findall(role)]
     if years and max(years) < MIN_YEAR:
+        return None
+    if not season_ok(role):
         return None
     if EXCLUDE_ACADEMIC and _ACADEMIC.search(co):
         return None
@@ -751,7 +854,8 @@ def source_zshah(_boards):
         if j.get("sponsorship") in ZSHAH_NO_VISA:
             continue
         season = j.get("season") or ""
-        if re.search(r"20\d\d", season) and not any(y in season for y in TERM_YEARS):
+        seasons = j.get("seasons") or []
+        if not season_ok(season, *seasons, j.get("title") or ""):
             continue
         co, role, loc = j.get("company") or "", j.get("title") or "", j.get("location") or ""
         if EXCLUDE_ACADEMIC and _ACADEMIC.search(co):
@@ -1088,7 +1192,7 @@ def source_ats(boards):
             intern_type = (j.get("etype") or "").lower().startswith("intern")
             title = j["title"]
             if not (relevant(title, j["loc"], j.get("country"))
-                    or (intern_type and tech(title)
+                    or (intern_type and tech(title) and season_ok(title)
                         and (not US_ONLY
                              or is_us(j["loc"], j.get("country"))))):
                 continue
