@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-02 02:21 UTC · 1 new listing_
+_Updated 2026-11-02 09:53 UTC · 3 new listings_
 
-## New from SimplifyJobs (1)
+## New from SimplifyJobs (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **KnowBe4** | Software Engineer Intern | Clearwater, FL | today | [apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919280002) |
+| **Roku** | Software Engineer Intern - AI Engineering | San Jose, CA | today | [apply](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) |
+| **Microsoft** | Explore Program Engineering Intern | Redmond, WA | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393556925823) |
+| **APEX Analytix** | Data Analyst Intern - Summer 2027 | Greensboro, NC | 47d ago | [apply](https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef) |
 
 ## Watched company portals
 
