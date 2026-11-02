@@ -1,18 +1,64 @@
 # Internship watcher — latest
 
-_Updated 2026-11-02 23:10 UTC · 1 new listing_
+_Updated 2026-11-02 23:19 UTC · 42 new listings_
 
-## New via zapplyjobs (1)
+## New via Company portals (4)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Divergent Technologies** | Summer 2027 Production Business Intelligence Intern | Torrance, California, United States | today | [apply](https://zapply.jobs/l/d/greenhouse-divergent-5393537008?s=gh-internships-2027) |
+| **Shield AI** | Summer 2027 Intern - Embedded Firmware - 5810 | Dallas, Texas | today | [apply](https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4) |
+| **ASML** | Internship - Droplet Generation Research | San Diego, CA, USA | today | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship---Droplet-Generation-Research_J-00355379) |
+| **GlobalFoundries** | Design Verification Engineer Intern (Summer 2027) | USA - Texas - Richardson | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) |
+| **T-Mobile** | Summer 2027 Industrial Engineering Internship | Irving, Texas | today | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736) |
+
+## New via vanshb03 (38)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Tesla** | Software Integration Engineer Intern, High Voltage Systems | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282241) |
+| **Tesla** | RL Engineer Intern, Tesla SI | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/275494) |
+| **Tesla** | SI Engineer Intern, Tesla SI | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/275331) |
+| **Tesla** | SI Software Engineer Intern, Core Infrastructure | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285085) |
+| **Tesla** | SoC Firmware Engineer Intern, SI Hardware Infrastructure | Austin, TX | today | [apply](https://www.tesla.com/careers/search/job/287024) |
+| **Tesla** | Software Engineer Intern, Core SI Compiler & Runtime | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/281951) |
+| **Tesla** | Software Engineer Intern, Build & Simulation Platform | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285801) |
+| **Tesla** | Embedded Software Engineer Intern, Vehicle Suspension | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285153) |
+| **Tesla** | Software Integration Engineer Intern, SI Platforms | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/277009) |
+| **Tesla** | SI Hardware RTL Design Engineer Intern, SI Hardware | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285089) |
+| **Tesla** | SI Hardware Design Verification Engineer Intern, SI Hardware | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285088) |
+| **Tesla** | SI Hardware Silicon Validation Engineer Intern, SI Hardware | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284821) |
+| **Tesla** | Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284286) |
+| **Tesla** | Software Engineer Industrial Firmware Intern, Energy Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284448) |
+| **Tesla** | Robotics Modeling & Simulation Engineer Intern, Optimus | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284436) |
+| **Tesla** | Embedded Software Engineer Intern, Body Controls Firmware | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283994) |
+| **Tesla** | Software Engineer Opticaster Intern, Energy Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283950) |
+| **Tesla** | Software Engineer Intern, Camera & Robotics | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283274) |
+| **Tesla** | Software Engineer Intern, Maps & Navigation, Robotaxi | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/280960) |
+| **Tesla** | Fullstack Software Engineer Intern, Fleetnet | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/281099) |
+| **Tesla** | Embedded Software Engineer Intern, High Voltage Systems | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282227) |
+| **Tesla** | Software Integration Engineer Intern, Optimus | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282342) |
+| **Tesla** | Embedded Software Engineer Intern, Optimus | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282340) |
+| **Tesla** | Embedded Systems Software Engineer Intern, SI Platforms | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282331) |
+| **Tesla** | Fullstack Engineer Intern, SI Tooling | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282291) |
+| **Tesla** | Integration Engineer Intern, Access Control Systems | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282258) |
+| **Tesla** | Software Validation Engineer Intern, Steering, Chassis Systems | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282250) |
+| **Tesla** | Embedded Software Engineer Intern, Steering, Chassis Systems | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282248) |
+| **Tesla** | Software Validation Engineer Intern, Vehicle Firmware | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282246) |
+| **Tesla** | Site Reliability Engineer Intern, Infrastructure Engineering | Fremont, CA | today | [apply](https://www.tesla.com/careers/search/job/281482) |
+| **Tesla** | SI Hardware Physical Design Engineer Intern, SI Hardware | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/281233) |
+| **Tesla** | Software Engineer Intern, SI Infrastructure | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/278578) |
+| **Tesla** | Firmware Engineer Intern, New Programs Engineering | Fremont, CA | today | [apply](https://www.tesla.com/careers/search/job/279991) |
+| **Tesla** | Systems Architecture & Integration Engineer Intern, LV Architecture | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/279766) |
+| **Tesla** | Red Team Security Engineer Intern, Vehicle Software | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/277843) |
+| **Tesla** | Fullstack Engineer Intern, Infrastructure Engineering | Fremont, CA | today | [apply](https://www.tesla.com/careers/search/job/281462) |
+| **Tesla** | Software Engineer Intern, SI Hardware Infrastructure | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285076) |
+| **Tesla** | Embedded Software Engineer Intern, Silicon Development | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285084) |
 
 ## Watched company portals
 
 Every board polled each run, with the page to check by hand.
 
-_497 boards_
+_484 boards_
 
 | Company | Platform | Careers page |
 |---|---|---|
@@ -68,7 +114,6 @@ _497 boards_
 | Atoms | greenhouse | [open](https://job-boards.greenhouse.io/atoms) |
 | AtriCure | greenhouse | [open](https://job-boards.greenhouse.io/co-op_intern) |
 | Auto-Owners Insurance | workday | [open](https://aoins.wd5.myworkdayjobs.com/AutoOwners) |
-| Auto-Owners Insurance | workday | [open](https://aoins.wd5.myworkdayjobs.com/autoowners) |
 | Autodesk | workday | [open](https://autodesk.wd1.myworkdayjobs.com/uni) |
 | Axiom Math | ashby | [open](https://jobs.ashbyhq.com/axiommath) |
 | Axon | greenhouse | [open](https://job-boards.greenhouse.io/axontalentcommunity) |
@@ -194,7 +239,6 @@ _497 boards_
 | Garda Capital Partners | greenhouse | [open](https://job-boards.greenhouse.io/gardacp) |
 | Garner Health | greenhouse | [open](https://job-boards.greenhouse.io/garnerhealth) |
 | GCM Grosvenor | greenhouse | [open](https://job-boards.greenhouse.io/gcmgrosvenor) |
-| GE Vernova | workday | [open](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting) |
 | GE Vernova | workday | [open](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite) |
 | Gecko Robotics | ashby | [open](https://jobs.ashbyhq.com/gecko-robotics) |
 | Gemini | greenhouse | [open](https://job-boards.greenhouse.io/gemini) |
@@ -202,7 +246,6 @@ _497 boards_
 | General Dynamics Information Technology | workday | [open](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent) |
 | General Matter | greenhouse | [open](https://job-boards.greenhouse.io/generalmatter) |
 | General Motors | workday | [open](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM) |
-| General Motors | workday | [open](https://generalmotors.wd5.myworkdayjobs.com/careers_gm) |
 | Genesis Molecular AI | ashby | [open](https://jobs.ashbyhq.com/genesis-molecular-ai) |
 | Geneva Trading | greenhouse | [open](https://job-boards.greenhouse.io/genevatrading) |
 | Genius AI | ashby | [open](https://jobs.ashbyhq.com/geniusai) |
@@ -225,7 +268,6 @@ _497 boards_
 | Hermeus | lever | [open](https://jobs.lever.co/hermeus) |
 | Heron Power | ashby | [open](https://jobs.ashbyhq.com/heron-power) |
 | Hewlett Packard Enterprise | workday | [open](https://hpe.wd5.myworkdayjobs.com/jobsathpe) |
-| Hewlett Packard Enterprise | workday | [open](https://hpe.wd5.myworkdayjobs.com/Jobsathpe) |
 | HeyGen | greenhouse | [open](https://job-boards.greenhouse.io/heygen) |
 | Highmark Health | workday | [open](https://highmarkhealth.wd1.myworkdayjobs.com/highmark) |
 | Hive Financial Systems | greenhouse | [open](https://job-boards.greenhouse.io/hivefinancialsystems) |
@@ -253,7 +295,6 @@ _497 boards_
 | Jane Street | greenhouse | [open](https://job-boards.greenhouse.io/janestreet) |
 | JM Family | workday | [open](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external) |
 | Johnson & Johnson | workday | [open](https://jj.wd5.myworkdayjobs.com/JJ) |
-| Johnson & Johnson | workday | [open](https://jj.wd5.myworkdayjobs.com/jj) |
 | Judi Health | greenhouse | [open](https://job-boards.greenhouse.io/judihealth) |
 | Juicebox | ashby | [open](https://jobs.ashbyhq.com/juicebox) |
 | Jump Trading | greenhouse | [open](https://job-boards.greenhouse.io/jumptrading) |
@@ -261,7 +302,6 @@ _497 boards_
 | Keenfinity | smartrecruiters | [open](https://jobs.smartrecruiters.com/Keenfinity) |
 | KLA | workday | [open](https://kla.wd1.myworkdayjobs.com/UR) |
 | KLA | workday | [open](https://kla.wd1.myworkdayjobs.com/search) |
-| KLA | workday | [open](https://kla.wd1.myworkdayjobs.com/Search) |
 | Klaviyo | greenhouse | [open](https://job-boards.greenhouse.io/klaviyocampus) |
 | KnowBe4 | greenhouse | [open](https://job-boards.greenhouse.io/knowbe4) |
 | Kodiak Robotics | greenhouse | [open](https://job-boards.greenhouse.io/kodiak) |
@@ -282,13 +322,11 @@ _497 boards_
 | Mastercard | workday | [open](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers) |
 | Match Group | lever | [open](https://jobs.lever.co/matchgroup) |
 | McKesson | workday | [open](https://mckesson.wd3.myworkdayjobs.com/External_Careers) |
-| McKesson | workday | [open](https://mckesson.wd3.myworkdayjobs.com/external_careers) |
 | Megazone Cloud US | ashby | [open](https://jobs.ashbyhq.com/megazone) |
 | Mercor | ashby | [open](https://jobs.ashbyhq.com/mercor) |
 | Metalenz | ashby | [open](https://jobs.ashbyhq.com/metalenz) |
 | Metamorphic | ashby | [open](https://jobs.ashbyhq.com/metamorphic) |
 | Micron Technology | workday | [open](https://micron.wd1.myworkdayjobs.com/External) |
-| Micron Technology | workday | [open](https://micron.wd1.myworkdayjobs.com/external) |
 | Mill | greenhouse | [open](https://job-boards.greenhouse.io/mill) |
 | Modal | ashby | [open](https://jobs.ashbyhq.com/modal) |
 | MongoDB | greenhouse | [open](https://job-boards.greenhouse.io/mongodb) |
@@ -298,7 +336,6 @@ _497 boards_
 | Multiply Labs | lever | [open](https://jobs.lever.co/multiplylabs) |
 | Muon Space | greenhouse | [open](https://job-boards.greenhouse.io/muonspace) |
 | N1 | ashby | [open](https://jobs.ashbyhq.com/n1) |
-| National Information Solutions Cooperative | greenhouse | [open](https://job-boards.greenhouse.io/testnisc) |
 | National Information Solutions Cooperative | greenhouse | [open](https://job-boards.greenhouse.io/nisc) |
 | National Laboratory of the Rockies | workday | [open](https://nrel.wd5.myworkdayjobs.com/NLR) |
 | National Life | greenhouse | [open](https://job-boards.greenhouse.io/nationallifeinsurancecompany) |
@@ -313,7 +350,6 @@ _497 boards_
 | Notion | ashby | [open](https://jobs.ashbyhq.com/notion) |
 | NOX METALS | ashby | [open](https://jobs.ashbyhq.com/nox-metals) |
 | NVIDIA | workday | [open](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) |
-| NVIDIA | workday | [open](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite) |
 | NXP Semiconductors | workday | [open](https://nxp.wd3.myworkdayjobs.com/careers) |
 | Old Mission | ashby | [open](https://jobs.ashbyhq.com/old-mission-capital) |
 | Olsson | greenhouse | [open](https://job-boards.greenhouse.io/olsson) |
@@ -404,7 +440,6 @@ _497 boards_
 | Shield AI | ashby | [open](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a) |
 | ShopBack | lever | [open](https://jobs.lever.co/shopback-2) |
 | Sierra | ashby | [open](https://jobs.ashbyhq.com/Sierra) |
-| Sierra | ashby | [open](https://jobs.ashbyhq.com/sierra) |
 | Sierra Nevada Corporation | workday | [open](https://snc.wd1.myworkdayjobs.com/snc_external_career_site) |
 | Sigma Computing | greenhouse | [open](https://job-boards.greenhouse.io/sigmacomputing) |
 | Simbe Robotics | lever | [open](https://jobs.lever.co/SimbeRobotics) |
@@ -427,7 +462,6 @@ _497 boards_
 | Stratolaunch | greenhouse | [open](https://job-boards.greenhouse.io/stratolaunch) |
 | Stripe | greenhouse | [open](https://job-boards.greenhouse.io/stripe) |
 | Stryker | workday | [open](https://stryker.wd1.myworkdayjobs.com/StrykerCareers) |
-| Stryker | workday | [open](https://stryker.wd1.myworkdayjobs.com/strykercareers) |
 | Subtotal | ashby | [open](https://jobs.ashbyhq.com/subtotal) |
 | Suno | ashby | [open](https://jobs.ashbyhq.com/suno) |
 | Sycamore | ashby | [open](https://jobs.ashbyhq.com/sycamore) |
@@ -436,7 +470,6 @@ _497 boards_
 | Syska Hennessy Group | greenhouse | [open](https://job-boards.greenhouse.io/syskahennessy) |
 | T-Mobile | workday | [open](https://tmobile.wd1.myworkdayjobs.com/External) |
 | Talos | ashby | [open](https://jobs.ashbyhq.com/Talos-Trading) |
-| Talos | ashby | [open](https://jobs.ashbyhq.com/talos-trading) |
 | Tanium | greenhouse | [open](https://job-boards.greenhouse.io/tanium) |
 | TD Bank | workday | [open](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers) |
 | Teledyne | workday | [open](https://flir.wd1.myworkdayjobs.com/flircareers) |
