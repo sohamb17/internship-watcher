@@ -1,8 +1,28 @@
 # Internship watcher — latest
 
-_Updated 2026-11-02 23:31 UTC · 0 new listings_
+_Updated 2026-11-02 23:33 UTC · 17 new listings_
 
-Nothing new this run.
+## New via SimplifyJobs (17)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Spring Venture Group** | Data Integrity Specialist Intern | Kansas City, MO | today | [apply](https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159230389) |
+| **Flagship Pioneering** | Machine Learning Intern | Cambridge, MA | today | [apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002) |
+| **Cincinnati Children’s Hospital and Medical Center** | Software Engineer Intern | Remote in USA | today | [apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--A-_JR226736) |
+| **Cincinnati Children’s Hospital and Medical Center** | Student 2 Intern - Data Management Engineer | Remote in USA | today | [apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Data-Management-Engineer_JR226749) |
+| **Cincinnati Children’s Hospital and Medical Center** | Software Engineering Developer Intern | Remote in USA | today | [apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743) |
+| **Epic Games** | Tools Programmer Intern - Graphics | Cary, NC | 3d ago | [apply](https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004) |
+| **LabCorp** | Full-Stack Life Sciences Software Engineer Co-op | Durham, NC / Burlington, NC | today | [apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) |
+| **Cincinnati Children’s Hospital and Medical Center** | Student 2 Intern - BA Enterprise Business Intelligence | Remote in USA | today | [apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---BA-Enterprise-Business-Intelligence_JR226747-1) |
+| **RTX** | Program Fleet Intern | East Hartford, CT | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/PW1100G-JM-Program-Fleet-Intern--Summer-2027-_01878283) |
+| **Pacific Northwest National Laboratory** | NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference<br>Master's | Seattle, WA / Richland, WA | today | [apply](https://careers.pnnl.gov/jobs/12898?icims=1) |
+| **Pacific Northwest National Laboratory** | NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference | Seattle, WA / Richland, WA | today | [apply](https://careers.pnnl.gov/jobs/12899?icims=1) |
+| **Paccar** | Sales Administration Data Analyst Intern - Greenhouse Gas | Denton, TX | today | [apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors) |
+| **Zebra Technologies** | Data Scientist Intern<br>Master's | Holtsville, NY / Lincolnshire, IL | today | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610) |
+| **Paccar** | Materials Systems Intern | Denton, TX | today | [apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Materials-Systems-TX-76205-7864/1453566333/?ats=successfactors) |
+| **Paccar** | Warranty Business Intern | Denton, TX | today | [apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Warranty-Business-TX-76205-7864/1453566133/?ats=successfactors) |
+| **Paccar** | AI-Driven Vehicle Definition Intern | Denton, TX | today | [apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors) |
+| **Marriott Vacations Worldwide** | Corporate Information Technology Intern | Orlando, FL | today | [apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern-Information-Technology_JR95562) |
 
 ## Watched company portals
 
