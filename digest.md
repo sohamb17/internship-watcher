@@ -1,8 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-11-02 22:35 UTC · 0 new listings_
+_Updated 2026-11-02 23:00 UTC · 6 new listings_
 
-Nothing new this run.
+## New via vanshb03 (2)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Toshiba Commerce Solutions** | Software Engineering Intern | Durham, NC | today | [apply](https://go.vansh.nyc/19Y) |
+| **Apple** | Machine Learning and Artificial Intelligence Undergrad Intern | United States | 165d ago | [apply](https://go.vansh.nyc/19Z) |
+
+## New via zapplyjobs (4)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **AeroVironment** | Test Engineering Intern - Space Technologies | Albuquerque, NM | 6d ago | [apply](https://zapply.jobs/l/d/workday-avav-avav-9253?s=gh-internships-2027) |
+| **LabCorp** | Intern - Mechanical Engineer | Bloomfield CT | today | [apply](https://zapply.jobs/l/d/workday-labcorp-external-2632739?s=gh-internships-2027) |
+| **Microsoft** | Research Intern - Coding Agents & Post-Training Optimization | Redmond, Washington, United States | today | [apply](https://zapply.jobs/l/d/microsoft-200065202?s=gh-internships-2027) |
+| **Microsoft** | Research Intern - Speech Processing | Redmond, Washington, United States | today | [apply](https://zapply.jobs/l/d/microsoft-200065196?s=gh-internships-2027) |
 
 ## Watched company portals
 
