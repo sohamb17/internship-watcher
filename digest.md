@@ -1,58 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-02 23:19 UTC · 42 new listings_
+_Updated 2026-11-02 23:31 UTC · 0 new listings_
 
-## New via Company portals (4)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Shield AI** | Summer 2027 Intern - Embedded Firmware - 5810 | Dallas, Texas | today | [apply](https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4) |
-| **ASML** | Internship - Droplet Generation Research | San Diego, CA, USA | today | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship---Droplet-Generation-Research_J-00355379) |
-| **GlobalFoundries** | Design Verification Engineer Intern (Summer 2027) | USA - Texas - Richardson | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) |
-| **T-Mobile** | Summer 2027 Industrial Engineering Internship | Irving, Texas | today | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736) |
-
-## New via vanshb03 (38)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Tesla** | Software Integration Engineer Intern, High Voltage Systems | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282241) |
-| **Tesla** | RL Engineer Intern, Tesla SI | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/275494) |
-| **Tesla** | SI Engineer Intern, Tesla SI | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/275331) |
-| **Tesla** | SI Software Engineer Intern, Core Infrastructure | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285085) |
-| **Tesla** | SoC Firmware Engineer Intern, SI Hardware Infrastructure | Austin, TX | today | [apply](https://www.tesla.com/careers/search/job/287024) |
-| **Tesla** | Software Engineer Intern, Core SI Compiler & Runtime | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/281951) |
-| **Tesla** | Software Engineer Intern, Build & Simulation Platform | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285801) |
-| **Tesla** | Embedded Software Engineer Intern, Vehicle Suspension | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285153) |
-| **Tesla** | Software Integration Engineer Intern, SI Platforms | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/277009) |
-| **Tesla** | SI Hardware RTL Design Engineer Intern, SI Hardware | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285089) |
-| **Tesla** | SI Hardware Design Verification Engineer Intern, SI Hardware | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285088) |
-| **Tesla** | SI Hardware Silicon Validation Engineer Intern, SI Hardware | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284821) |
-| **Tesla** | Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284286) |
-| **Tesla** | Software Engineer Industrial Firmware Intern, Energy Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284448) |
-| **Tesla** | Robotics Modeling & Simulation Engineer Intern, Optimus | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/284436) |
-| **Tesla** | Embedded Software Engineer Intern, Body Controls Firmware | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283994) |
-| **Tesla** | Software Engineer Opticaster Intern, Energy Engineering | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283950) |
-| **Tesla** | Software Engineer Intern, Camera & Robotics | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/283274) |
-| **Tesla** | Software Engineer Intern, Maps & Navigation, Robotaxi | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/280960) |
-| **Tesla** | Fullstack Software Engineer Intern, Fleetnet | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/281099) |
-| **Tesla** | Embedded Software Engineer Intern, High Voltage Systems | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282227) |
-| **Tesla** | Software Integration Engineer Intern, Optimus | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282342) |
-| **Tesla** | Embedded Software Engineer Intern, Optimus | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282340) |
-| **Tesla** | Embedded Systems Software Engineer Intern, SI Platforms | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282331) |
-| **Tesla** | Fullstack Engineer Intern, SI Tooling | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282291) |
-| **Tesla** | Integration Engineer Intern, Access Control Systems | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282258) |
-| **Tesla** | Software Validation Engineer Intern, Steering, Chassis Systems | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282250) |
-| **Tesla** | Embedded Software Engineer Intern, Steering, Chassis Systems | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282248) |
-| **Tesla** | Software Validation Engineer Intern, Vehicle Firmware | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/282246) |
-| **Tesla** | Site Reliability Engineer Intern, Infrastructure Engineering | Fremont, CA | today | [apply](https://www.tesla.com/careers/search/job/281482) |
-| **Tesla** | SI Hardware Physical Design Engineer Intern, SI Hardware | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/281233) |
-| **Tesla** | Software Engineer Intern, SI Infrastructure | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/278578) |
-| **Tesla** | Firmware Engineer Intern, New Programs Engineering | Fremont, CA | today | [apply](https://www.tesla.com/careers/search/job/279991) |
-| **Tesla** | Systems Architecture & Integration Engineer Intern, LV Architecture | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/279766) |
-| **Tesla** | Red Team Security Engineer Intern, Vehicle Software | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/277843) |
-| **Tesla** | Fullstack Engineer Intern, Infrastructure Engineering | Fremont, CA | today | [apply](https://www.tesla.com/careers/search/job/281462) |
-| **Tesla** | Software Engineer Intern, SI Hardware Infrastructure | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285076) |
-| **Tesla** | Embedded Software Engineer Intern, Silicon Development | Palo Alto, CA | today | [apply](https://www.tesla.com/careers/search/job/285084) |
+Nothing new this run.
 
 ## Watched company portals
 
