@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-02 22:32 UTC · 1 new listing_
+_Updated 2026-11-02 22:35 UTC · 0 new listings_
 
-## New via Company portals (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Micron Technology** | Intern - HVM Area Manufacturing Engineer (AME) | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168) |
+Nothing new this run.
 
 ## Watched company portals
 
