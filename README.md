@@ -122,6 +122,44 @@ under a case-insensitive match the codes `IN`, `OR`, `OK`, `ME`, `HI`, `LA`,
 | `US_ONLY` | `1` | `0` keeps non-US ATS postings |
 | `MIN_YEAR` | `2027` | Drop ATS postings naming an earlier season year |
 
+## Watched company portals (497 boards)
+
+The original ~100 boards were hand-picked. The rest were **discovered from the
+other sources**: every aggregator row that links straight to a Greenhouse,
+Lever, Ashby, SmartRecruiters or Workday posting reveals that company's board.
+Polling the board directly reports a posting when it goes up, before any list
+picks it up.
+
+Selection: every discovered Greenhouse / Lever / Ashby / SmartRecruiters board
+with at least one relevant internship (one request each), but only Workday
+boards with **5+** (each costs up to `WD_PAGES` = 10 requests, and Workday's
+"intern" search is not reliably relevance-ordered — Micron's intern titles run
+`[2, 2, 0, 0, 1, 1, 0, 1…]` across pages — so pages cannot be cut short). All
+were verified live. Re-run the discovery when the sources grow.
+
+**A newly added board seeds silently.** Its existing listings are recorded,
+not reported, exactly as a new source's are; only postings that appear on it
+afterwards alert. Every board that answers is recorded, including ones with no
+relevant listing yet, so a quiet board's first internship *is* reported.
+
+**Workday politeness.** Tenants share a few hosts (`wd1` alone carries 45 of
+them). At most `WD_PER_HOST` (5) requests run against one host at a time, and
+HTTP 429 is retried with backoff. Unthrottled, the expansion drew 429s from
+`wd1`; at 5 per host it draws none and the whole ATS pass takes ~75 s.
+
+### Title filter
+
+Polling whole company boards exposes every engineering discipline a company
+hires, so the title filter (used by every source without a `category`) now
+also rejects civil, structural, mechanical, manufacturing, electrical,
+process, quality and similar engineering roles, titles made only of generic
+words ("Intern Engineer - Summer 2027"), and full-time roles that mention
+interns only as eligibility ("New Grad Engineer I (For Current & Recent
+Interns Only)"). A clear software signal still overrides: "Embedded Software
+Intern - Mechanical Systems" and "Electrical/Software Engineering Co-op" pass.
+Mobile, gameplay, "Member of Technical Staff" and "Technology Intern" titles
+are recognised as software.
+
 ## Configuration
 
 `boards.json` maps each company to a display name. Four platforms take a slug

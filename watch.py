@@ -49,6 +49,8 @@ import json
 import os
 import re
 import sys
+import time
+import threading
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -300,7 +302,17 @@ _NOT_TECH = re.compile(
     r"product manag(er|ement)|program manag(er|ement)|"
     r"designer|partnerships|procurement|facilities|workplace|"
     r"executive assistant|office manager|real estate|supply chain|mba|"
-    r"logistics|warehouse|driver|technician)\b", re.I)
+    r"logistics|warehouse|driver|technician|"
+    # Engineering disciplines that aren't software. Polling whole company
+    # boards (an engineering firm like HNTB lists 170+ "Intern Engineer"
+    # roles) exposed these; a software signal in the title still overrides.
+    r"civil|structural|structures|geotechnical|transportation|construction|"
+    r"mechanical|aeromechanical|aerospace engineer|manufacturing|"
+    r"process engineer|process integration|chemical|environmental|"
+    r"water resources|hvac|plumbing|mep|electrical engineer|"
+    r"electrical engineering|quality engineer|quality engineering|"
+    r"materials engineer|noise|vibration|"
+    r"packaging|sports science|motorsport|field service)\b", re.I)
 
 # An unambiguous engineering signal. It overrides _NOT_TECH, because real
 # roles carry misleading suffixes: "Software Engineer Intern - Creative
@@ -311,7 +323,8 @@ _STRONG_TECH = re.compile(
     r"research (engineer|scientist)|quantitative|quant|compiler|kernel|"
     r"embedded|firmware|silicon|robotics|perception|autonomy|"
     r"(infrastructure|security|systems|platform|ml|ai|network|reliability) "
-    r"engineer)\b", re.I)
+    r"engineer|mobile|ios|android|gameplay|game engine|"
+    r"member of technical staff|motion planning|business intelligence)\b", re.I)
 
 # University and college employers. Their "Undergraduate Research Assistant"
 # and "Student Wage" postings are categorised as Software/AI-ML upstream but
@@ -351,9 +364,29 @@ def is_us(loc, country=None):
     return False
 
 
+_VAGUE = re.compile(
+    r"\b(intern|interns|internship|internships|co-?op|coop|engineer|"
+    r"engineers|engineering|summer|fall|winter|spring|20\d\d|returning|"
+    r"student|students|program|programme|the|and|of|for|in|us|usa)\b", re.I)
+
+
+# Full-time roles that mention interns only as eligibility:
+# "New Grad Engineer I (For Current & Recent HNTB Interns Only)".
+_NOT_INTERN = re.compile(
+    r"\bnew[- ]?grad|\bnew graduate|\bentry[- ]level\b|"
+    r"\bfor (current|recent|former|returning)\b[^)]*\binterns?\b", re.I)
+
+
 def tech(title):
+    if _NOT_INTERN.search(title):
+        return False
     if _STRONG_TECH.search(title):
         return True
+    # A title made only of generic words ("Intern Engineer - Summer 2027",
+    # "Engineering Intern") can't be judged; from a whole-company board such
+    # as an engineering firm's, it is almost always not software.
+    if not re.sub(r"[^a-z]+", "", _VAGUE.sub(" ", title).lower()):
+        return False
     return bool(_TECH.search(title)) and not _NOT_TECH.search(title)
 
 
@@ -888,6 +921,28 @@ def _wd_location(j):
     return text
 
 
+# Workday tenants share a handful of hosts (wd1, wd3, wd5...), and hitting one
+# host with many tenants in parallel draws HTTP 429. Cap concurrency per host
+# and back off on 429 rather than failing the board.
+WD_PER_HOST = int(os.environ.get("WD_PER_HOST", "5"))
+_wd_gates, _wd_gates_lock = {}, threading.Lock()
+
+
+def _wd_post(host, url, body):
+    with _wd_gates_lock:
+        gate = _wd_gates.setdefault(host, threading.Semaphore(WD_PER_HOST))
+    for attempt in range(4):
+        with gate:
+            try:
+                return post_json(url, body, timeout=25)
+            except urllib.error.HTTPError as e:
+                if e.code != 429 or attempt == 3:
+                    raise
+                wait = e.headers.get("Retry-After")
+                wait = float(wait) if wait and wait.isdigit() else 2 ** attempt * 1.5
+        time.sleep(min(wait, 15))
+
+
 def board_workday(spec):
     tenant, host, site = _wd_parse(spec)
     api = (f"https://{tenant}.{host}.myworkdayjobs.com"
@@ -895,9 +950,9 @@ def board_workday(spec):
     base = f"https://{tenant}.{host}.myworkdayjobs.com/en-US/{site}"
     out, seen = [], set()
     for page in range(WD_PAGES):
-        d = post_json(api, {"appliedFacets": {}, "limit": WD_LIMIT,
-                            "offset": page * WD_LIMIT,
-                            "searchText": WD_QUERY}, timeout=25)
+        d = _wd_post(host, api, {"appliedFacets": {}, "limit": WD_LIMIT,
+                                 "offset": page * WD_LIMIT,
+                                 "searchText": WD_QUERY})
         posts = d.get("jobPostings") or []
         if not posts:
             break
@@ -968,6 +1023,9 @@ ATS = {"greenhouse": board_greenhouse,
        "amazon": board_amazon}
 
 
+ATS_OK_BOARDS = set()
+
+
 def source_ats(boards):
     targets = []
     for kind, entry in boards.items():
@@ -987,10 +1045,14 @@ def source_ats(boards):
         except Exception as e:                       # noqa: BLE001
             return kind, slug, name, [], f"{type(e).__name__}: {e}"
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=16) as ex:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=24) as ex:
         results = list(ex.map(one, targets))
 
     failed = [f"{k}/{s} ({e})" for k, s, _, _, e in results if e]
+    # Every board that answered, whether or not it has a relevant listing
+    # today, so its first internship later is recognised as news.
+    ATS_OK_BOARDS.clear()
+    ATS_OK_BOARDS.update(f"{k}:{s}" for k, s, _, _, e in results if not e)
     if failed:
         print(f"[ats] {len(failed)} board(s) unreachable: "
               f"{', '.join(failed[:6])}", file=sys.stderr)
@@ -1082,6 +1144,7 @@ class State:
         self.now = int(datetime.datetime.now(
             datetime.timezone.utc).timestamp()) // 86400
         self.seen, self.roles, self.migrated = {}, {}, False
+        self.boards = {}            # ATS board -> day last observed
 
     @classmethod
     def load(cls):
@@ -1093,6 +1156,7 @@ class State:
         if isinstance(d, dict) and d.get("version") == 4:
             st.seen = {k: dict(v) for k, v in d.get("seen", {}).items()}
             st.roles = dict(d.get("roles", {}))
+            st.boards = dict(d.get("boards", {}))
             return st
         # v1-v3: snapshot sets. Their content is incomplete by construction
         # (flapped listings are missing), so the first v4 run reseeds rather
@@ -1118,10 +1182,11 @@ class State:
             seen[src] = m if src in failed_sources else \
                 {k: t for k, t in m.items() if t >= cut}
         roles = {k: t for k, t in self.roles.items() if t >= cut}
+        boards = {k: t for k, t in self.boards.items() if t >= cut}
         with open(STATE, "w") as f:
             # One key per line keeps git's line diffs small.
-            json.dump({"version": 4, "seen": seen, "roles": roles}, f,
-                      indent=0, sort_keys=True)
+            json.dump({"version": 4, "seen": seen, "roles": roles,
+                       "boards": boards}, f, indent=0, sort_keys=True)
 
 
 def load_boards():
@@ -1284,12 +1349,23 @@ def main():
         seeding = name not in st.seen
         mem = st.seen.setdefault(name, {})
         prior_ids = set(mem)
-        fresh = dup = 0
+        prior_boards = set(st.boards)
+        fresh = dup = board_seeded = 0
         for r in rows:
             unseen = r["sk"] not in prior_ids and r["dk"] not in prior_roles
             mem[r["sk"]] = st.now                       # observed: refresh
             st.roles[r["dk"]] = st.now
+            # A board just added to boards.json seeds silently, the same way
+            # a new source does; otherwise adding a busy board would report
+            # its whole current listing as new.
+            board = r["sk"].rsplit(":", 1)[0] if name == "ats" else None
+            new_board = board is not None and board not in prior_boards
+            if board is not None:
+                st.boards[board] = st.now
             if seeding or not unseen:
+                continue
+            if new_board:
+                board_seeded += 1
                 continue
             # The first v4 run follows a v3 snapshot that is missing every
             # listing that was flapping. Alert only on genuinely fresh
@@ -1304,11 +1380,16 @@ def main():
             new_by_source.setdefault(name, []).append(r)
             added.append((name, r))
             fresh += 1
+        if name == "ats":
+            for b in ATS_OK_BOARDS:
+                st.boards[b] = st.now
         if seeding:
             print(f"[{name}] seeded baseline with {len(rows)} listings, "
                   "no notification sent")
         else:
             extra = f", {dup} merged as duplicates" if dup else ""
+            if board_seeded:
+                extra += f", {board_seeded} from newly added boards seeded silently"
             print(f"[{name}] {len(rows)} relevant, {fresh} new{extra}")
     if st.migrated:
         print("[state] migrated to v4 cumulative memory; this run alerted "
