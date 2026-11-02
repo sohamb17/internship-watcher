@@ -44,6 +44,7 @@ real internships whose titles never say "intern".
 """
 import concurrent.futures
 import datetime
+import html
 import json
 import os
 import re
@@ -97,6 +98,22 @@ UA = "internship-watcher (+github actions; contact via repo issues)"
 
 LISTINGS = ("https://raw.githubusercontent.com/SimplifyJobs/"
             "Summer2027-Internships/dev/.github/scripts/listings.json")
+VANSH_LISTINGS = ("https://raw.githubusercontent.com/vanshb03/"
+                  "Summer2027-Internships/dev/.github/scripts/listings.json")
+RAW = "https://raw.githubusercontent.com/"
+SPEEDY_README = RAW + "speedyapply/2027-SWE-College-Jobs/refs/heads/main/README.md"
+SNDSH_README = RAW + "sndsh404/summer-2027-internships/refs/heads/main/README.md"
+ZAPPLY_README = RAW + "zapplyjobs/Internships-2027/refs/heads/main/README.md"
+JOBRIGHT_README = (RAW + "jobright-ai/2026-Software-Engineer-Internship/"
+                   "refs/heads/master/README.md")   # rolling list; carries 2027 roles
+NOINTERNSHIP_URL = "https://www.nointernship.com/internships"
+ZSHAH_JSON = (RAW + "zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-"
+              "Tech-Internships/refs/heads/main/data/jobs.json")
+
+# Memory. A listing alerts only if neither its ID nor its normalised
+# company+role has been observed within this many days, so a posting that
+# drops out of one run and returns, or moves between sources, is not new.
+SEEN_TTL_DAYS = int(os.environ.get("SEEN_TTL_DAYS", "60"))
 GH_LINK = "https://github.com/SimplifyJobs/Summer2027-Internships"
 
 # listings.json `category`. Both the current names and the older long-form
@@ -266,7 +283,8 @@ _TECH = re.compile(
     r"infrastructure|platform|backend|back-end|frontend|front-end|"
     r"full.?stack|systems|distributed|cloud|devops|sre|reliability|network|"
     r"database|compiler|kernel|embedded|firmware|hardware|silicon|asic|fpga|"
-    r"robotics|autonomy|perception|graphics|simulation|technical)\b", re.I)
+    r"robotics|autonomy|perception|graphics|simulation|technical|technology|"
+    r"app dev|application develop)\b", re.I)
 
 # Titles that satisfy _TECH by accident: "Account Development Representative",
 # "Technical Recruiter", "Product Design Intern" and friends.
@@ -279,6 +297,7 @@ _NOT_TECH = re.compile(
     r"legal|counsel|paralegal|compliance|audit|tax|payroll|accounting|"
     r"customer (success|support|experience)|community|"
     r"(product|ux|ui|graphic|visual|brand|motion|industrial) design|"
+    r"product manag(er|ement)|program manag(er|ement)|"
     r"designer|partnerships|procurement|facilities|workplace|"
     r"executive assistant|office manager|real estate|supply chain|mba|"
     r"logistics|warehouse|driver|technician)\b", re.I)
@@ -368,57 +387,358 @@ def degree_ok(degrees):
     return bool(set(degrees) & DEGREES_OK)
 
 
-def source_simplify(_boards):
-    data = fetch_json(LISTINGS, timeout=60)
-    if not isinstance(data, list) or len(data) < 5000:
-        raise RuntimeError(
-            f"listings.json returned {len(data) if isinstance(data, list) else '?'}"
-            " entries - format or path probably changed")
+def _loc_ok(locs):
+    """US filter over a list of locations: keep if any one is US, or if none
+    are given. Before this, only the company-portal source was US-filtered,
+    which is how London and Birmingham Goldman roles reached you."""
+    if not US_ONLY or not locs:
+        return True
+    real = [l for l in locs if not re.fullmatch(r"\s*remote\s*", l, re.I)]
+    if real:
+        # "Remote" next to an explicit place inherits that place:
+        # ["Remote", "Canada"] is remote-in-Canada, not US.
+        return any(is_us(l) for l in real)
+    return True
 
+
+def _listings_source(name, url, min_entries, curated):
+    """Reader for the SimplifyJobs listings.json schema, shared by Simplify
+    and vanshb03. `curated` means the file has a reliable `category` (and
+    degrees/terms); vanshb03's has none, so its titles are filtered instead."""
+    data = fetch_json(url, timeout=60)
+    if not isinstance(data, list) or len(data) < min_entries:
+        raise RuntimeError(
+            f"listings.json returned "
+            f"{len(data) if isinstance(data, list) else '?'} entries - "
+            "format or path probably changed")
     out = []
     for j in data:
-        if not j.get("is_visible") or not j.get("active"):
-            continue                                   # replaces the 🔒 flag
-        if j.get("category") not in CATEGORIES:
+        if not j.get("is_visible", True) or not j.get("active"):
             continue
-        if j.get("sponsorship") in BAD_SPONSORSHIP:    # replaces 🛂 / 🇺🇸
+        title = (j.get("title") or "").strip()
+        if curated:
+            if j.get("category") not in CATEGORIES:
+                continue
+            if not term_ok(j.get("terms")) or not degree_ok(j.get("degrees")):
+                continue
+        else:
+            if not tech(title):
+                continue
+            years = [int(y) for y in _YEAR.findall(title)]
+            if years and max(years) < MIN_YEAR:
+                continue
+        if j.get("sponsorship") in BAD_SPONSORSHIP:
             continue
-        if not term_ok(j.get("terms")):
-            continue
-        if not degree_ok(j.get("degrees")):
+        locs = j.get("locations") or []
+        if not _loc_ok(locs):
             continue
         days = age_days(j.get("date_posted"))
         if MAX_AGE_DAYS is not None and days is not None and days > MAX_AGE_DAYS:
             continue
-
         company = (j.get("company_name") or "?").strip()
         if EXCLUDE_ACADEMIC and _ACADEMIC.search(company):
             continue
-        title = (j.get("title") or "").strip()
-        locs = j.get("locations") or []
-        loc = " / ".join(locs)[:60] if locs else ""
-        degrees = j.get("degrees") or []
         out.append({
-            "source": "simplify",
-            "company": company,
-            "role": title,
-            "loc": loc,
-            "url": j.get("url") or "",
-            "age": days,
-            "degrees": degrees,
-            "terms": j.get("terms") or [],
-            # Stable UUID: retitling a posting no longer re-notifies, and the
-            # same role in two cities is two listings rather than one key.
-            "sk": str(j.get("id")),
-            "dk": canon(company, title),
+            "source": name, "company": company, "role": title,
+            "loc": " / ".join(locs)[:60] if locs else "",
+            "url": j.get("url") or "", "age": days,
+            "degrees": j.get("degrees") or [], "terms": j.get("terms") or [],
+            "sk": str(j.get("id")), "dk": canon(company, title),
             "link": j.get("url") or GH_LINK,
         })
+    if len(out) < 20:
+        raise RuntimeError(f"only {len(out)} listings survived filtering - "
+                           "refusing to run")
+    print(f"[{name}] {len(data)} listings, {len(out)} relevant")
+    return out
 
-    if len(out) < 50:
-        raise RuntimeError(
-            f"only {len(out)} listings survived filtering - check CATEGORIES "
-            f"/ TERM_YEARS, refusing to run")
-    print(f"[simplify] {len(data)} listings, {len(out)} relevant")
+
+def source_simplify(_boards):
+    return _listings_source("simplify", LISTINGS, 5000, curated=True)
+
+
+def source_vansh(_boards):
+    return _listings_source("vansh", VANSH_LISTINGS, 1000, curated=False)
+
+
+_TRACKING = re.compile(r"^(utm_\w+|ref|s|source)$", re.I)
+_TAG = re.compile(r"<[^>]+>")
+_MDLINK = re.compile(r"\[([^\]]*)\]\(([^)\s]+)\)")
+_HREF = re.compile(r'href="([^"]+)"')
+_AGE = re.compile(r"(\d+)\s*(mo|m|h|d|w)\b", re.I)
+_FLAGS_CLOSED = "\U0001F512"                       # 🔒
+_FLAGS_NOVISA = ("\U0001F6C2", "\U0001F1FA\U0001F1F8")  # 🛂 🇺🇸
+
+
+def _clean_url(u):
+    """Stable key from a URL: drop tracking params (utm_*, ref, s) but keep
+    real ones such as Greenhouse's gh_jid."""
+    pr = urllib.parse.urlsplit(u)
+    q = [(k, v) for k, v in urllib.parse.parse_qsl(pr.query)
+         if not _TRACKING.match(k)]
+    return urllib.parse.urlunsplit((pr.scheme, pr.netloc.lower(),
+                                    pr.path.rstrip("/"),
+                                    urllib.parse.urlencode(q), ""))
+
+
+def _text(cell):
+    """Markdown/HTML table cell -> plain text."""
+    cell = _MDLINK.sub(lambda m: m.group(1), cell)
+    return html.unescape(_TAG.sub("", cell)).replace("**", "").strip()
+
+
+def _age_text(t):
+    """'4d', '3h', '12m' (minutes), '2w', '1mo' -> days. None if unknown."""
+    m = _AGE.search(t or "")
+    if not m:
+        return None
+    n, u = int(m.group(1)), m.group(2).lower()
+    return {"m": 0, "h": 0, "d": n, "w": 7 * n, "mo": 30 * n}[u] if u != "d" else n
+
+
+def _table_rows(txt, start=None):
+    """Data rows of the pipe tables in `txt` (optionally only after the
+    heading line `start`, up to the next '## ' heading), split into cells."""
+    lines = txt.splitlines()
+    if start is not None:
+        i = next((k for k, l in enumerate(lines) if l.startswith(start)), None)
+        if i is None:
+            return []
+        j = next((k for k in range(i + 1, len(lines))
+                  if lines[k].startswith("## ")), len(lines))
+        lines = lines[i:j]
+    out, last = [], None
+    for l in lines:
+        if not l.startswith("|"):
+            continue
+        cells = [c.strip() for c in l.strip().strip("|").split("|")]
+        if not cells or cells[0].lower() in ("company", "**company**") \
+                or set("".join(cells)) <= set("-: "):
+            continue
+        # "↳" (or a blank first cell) means "same company as the row above".
+        if last is not None and (not _text(cells[0]) or _text(cells[0]).startswith("↳")):
+            cells[0] = last
+        else:
+            last = cells[0]
+        out.append(cells)
+    return out
+
+
+def _row(src, co, role, loc, url, age, sk, city_only=False):
+    """Common post-filter for the table sources, which carry no category:
+    technical title, season year, US location, not a campus job."""
+    if not co or not role or not url:
+        return None
+    if not tech(role):
+        return None
+    years = [int(y) for y in _YEAR.findall(role)]
+    if years and max(years) < MIN_YEAR:
+        return None
+    if EXCLUDE_ACADEMIC and _ACADEMIC.search(co):
+        return None
+    if US_ONLY:
+        # A source that gives bare cities ("Radnor", "Topeka") can't supply
+        # positive US evidence, so there only a clear foreign signal rejects.
+        if (_NON_US.search(loc) and not us_signal(loc)) if city_only \
+                else not is_us(loc):
+            return None
+    if MAX_AGE_DAYS is not None and age is not None and age > MAX_AGE_DAYS:
+        return None
+    return {"source": src, "company": co, "role": role, "loc": loc[:60],
+            "url": url, "age": age, "degrees": [], "terms": [],
+            "sk": sk or _clean_url(url), "dk": canon(co, role), "link": url}
+
+
+def _finish(name, raw, rows, minimum):
+    if raw < minimum:
+        raise RuntimeError(f"only parsed {raw} rows - format probably changed")
+    rows = [r for r in rows if r]
+    print(f"[{name}] {raw} rows, {len(rows)} relevant")
+    return rows
+
+
+def source_speedy(_boards):
+    """speedyapply/2027-SWE-College-Jobs, USA internship section only (it
+    also lists international roles). Tables have Salary in some sections and
+    not others, so columns are taken from the ends of the row."""
+    txt = fetch(SPEEDY_README, timeout=60).decode("utf-8", "replace")
+    raw = _table_rows(txt, start="## 2027 USA SWE Internships")
+    out = []
+    for c in raw:
+        if len(c) < 5:
+            continue
+        m = _HREF.search(c[-2])
+        out.append(_row("speedy", _text(c[0]), _text(c[1]), _text(c[2]),
+                        m.group(1) if m else "", _age_text(c[-1]), None))
+    return _finish("speedy", len(raw), out, 100)
+
+
+def source_sndsh(_boards):
+    """sndsh404/summer-2027-internships. Small, hand-curated. Its legend marks
+    🔒 closed, 🛂 no sponsorship, 🇺🇸 citizens only — all three are dropped."""
+    txt = fetch(SNDSH_README, timeout=60).decode("utf-8", "replace")
+    raw = _table_rows(txt, start="## the list")
+    out = []
+    today = datetime.date.today()
+    for c in raw:
+        if len(c) < 5:
+            continue
+        line = " ".join(c)
+        if _FLAGS_CLOSED in line or any(f in line for f in _FLAGS_NOVISA):
+            continue
+        m = _MDLINK.search(c[3])
+        try:
+            age = (today - datetime.date.fromisoformat(c[4][:10])).days
+        except ValueError:
+            age = None
+        out.append(_row("sndsh", _text(c[0]), _text(c[1]), _text(c[2]),
+                        m.group(2) if m else "", age, None))
+    return _finish("sndsh", len(raw), out, 30)
+
+
+def source_zapply(_boards):
+    """zapplyjobs/Internships-2027. Posted is '12m' / '3h' / '2d' / '1w'."""
+    txt = fetch(ZAPPLY_README, timeout=60).decode("utf-8", "replace")
+    raw = [c for c in _table_rows(txt) if c[0].startswith("**") and len(c) >= 6]
+    out = []
+    for c in raw:
+        links = _MDLINK.findall(c[-1]) or [("", "")]
+        out.append(_row("zapply", _text(c[0]), _text(c[1]), _text(c[2]),
+                        links[-1][1], _age_text(c[3]), None))
+    return _finish("zapply", len(raw), out, 100)
+
+
+_JOBRIGHT_ID = re.compile(r"/jobs/info/([0-9a-f]+)")
+
+
+def source_jobright(_boards):
+    """jobright-ai's rolling SWE intern list (the repo is named 2026 but is
+    live and posts 2027 roles). Dates are 'Nov 02' with no year."""
+    txt = fetch(JOBRIGHT_README, timeout=60).decode("utf-8", "replace")
+    raw = [c for c in _table_rows(txt) if len(c) >= 5 and "jobright.ai" in c[1]]
+    out = []
+    today = datetime.date.today()
+    for c in raw:
+        links = _MDLINK.findall(c[1])
+        url = links[0][1] if links else ""
+        age = None
+        try:
+            d = datetime.datetime.strptime(f"{c[-1]} {today.year}", "%b %d %Y").date()
+            if d > today:                              # Dec listing read in Jan
+                d = d.replace(year=today.year - 1)
+            age = (today - d).days
+        except ValueError:
+            pass
+        m = _JOBRIGHT_ID.search(url)
+        out.append(_row("jobright", _text(c[0]), _text(c[1]), _text(c[2]), url,
+                        age, f"jobright:{m.group(1)}" if m else None))
+    return _finish("jobright", len(raw), out, 20)
+
+
+_LDJSON = re.compile(r'<script type="application/ld\+json">(.*?)</script>', re.S)
+_NI_ID = re.compile(r"/internships/(\d+)")
+_NI_CARD = re.compile(r'href="/internships/(\d+)"')
+
+
+def source_nointernship(_boards):
+    """nointernship.com. Its robots.txt allows /internships and disallows
+    /api/, so this reads only the public page, once per run.
+
+    The page publishes a schema.org ItemList (JSON-LD) of the 25 newest
+    listings: stable numeric ID, "Title at Company", sorted newest first.
+    Polling every 30 minutes, the newest 25 is the slice that matters. Each
+    listing's HTML card supplies its location and apply link; cards are
+    joined to the list by ID."""
+    page = fetch(NOINTERNSHIP_URL, timeout=30).decode("utf-8", "replace")
+    items = []
+    for blk in _LDJSON.findall(page):
+        try:
+            d = json.loads(blk)
+        except ValueError:
+            continue
+        if isinstance(d, dict) and d.get("@type") == "ItemList":
+            items = d.get("itemListElement") or []
+    if len(items) < 5:
+        raise RuntimeError(f"ItemList has {len(items)} items - page format "
+                           "probably changed")
+    # HTML segment per ID: from its first card link to the next listing's.
+    # Card links only — the JSON-LD block mentions every ID too.
+    marks = []
+    for m in _NI_CARD.finditer(page):
+        if not marks or marks[-1][0] != m.group(1):
+            if m.group(1) not in {x[0] for x in marks}:
+                marks.append((m.group(1), m.start()))
+    seg = {}
+    for k, (lid, pos) in enumerate(marks):
+        end = marks[k + 1][1] if k + 1 < len(marks) else len(page)
+        seg[lid] = page[pos:end]
+    out = []
+    for it in items:
+        url = it.get("url") or ""
+        m = _NI_ID.search(url)
+        name = it.get("name") or ""
+        if not m or " at " not in name:
+            continue
+        lid = m.group(1)
+        role, co = (x.strip() for x in name.rsplit(" at ", 1))
+        body = seg.get(lid, "")
+        apply = next((h for h in _HREF.findall(body)
+                      if h.startswith("http") and "nointernship.com" not in h),
+                     url)
+        # The 📍 pin and the city are separate text nodes, so the city is
+        # usually on the line after the pin.
+        lines = [l.strip() for l in html.unescape(_TAG.sub("\n", body)).splitlines()
+                 if l.strip()]
+        loc = ""
+        for k, l in enumerate(lines):
+            if "\U0001F4CD" in l:
+                loc = l.replace("\U0001F4CD", "").strip() or \
+                    (lines[k + 1] if k + 1 < len(lines) else "")
+                break
+        out.append(_row("nointernship", co, role, loc, html.unescape(apply),
+                        None, f"nointernship:{lid}", city_only=True))
+    return _finish("nointernship", len(items), out, 5)
+
+
+ZSHAH_CATEGORIES = {"Software", "Data & ML/AI"}
+ZSHAH_NO_VISA = {"citizens-only", "no-sponsorship"}
+
+
+def source_zshah(_boards):
+    """zshah101's automated list. Structured JSON with is_open, category and a
+    sponsorship field; citizens-only and no-sponsorship roles are dropped."""
+    data = fetch_json(ZSHAH_JSON, timeout=60)
+    if not isinstance(data, dict) or len(data) < 300:
+        raise RuntimeError("jobs.json format probably changed")
+    now = datetime.datetime.now(datetime.timezone.utc)
+    out = []
+    for j in data.values():
+        if not j.get("is_open") or j.get("category") not in ZSHAH_CATEGORIES:
+            continue
+        if j.get("sponsorship") in ZSHAH_NO_VISA:
+            continue
+        season = j.get("season") or ""
+        if re.search(r"20\d\d", season) and not any(y in season for y in TERM_YEARS):
+            continue
+        co, role, loc = j.get("company") or "", j.get("title") or "", j.get("location") or ""
+        if EXCLUDE_ACADEMIC and _ACADEMIC.search(co):
+            continue
+        if US_ONLY and not is_us(loc):
+            continue
+        age = None
+        try:
+            age = (now - datetime.datetime.fromisoformat(
+                j["posted_at"].replace("Z", "+00:00"))).days
+        except (KeyError, TypeError, ValueError, AttributeError):
+            pass
+        if MAX_AGE_DAYS is not None and age is not None and age > MAX_AGE_DAYS:
+            continue
+        out.append({"source": "zshah", "company": co, "role": role,
+                    "loc": loc[:60], "url": j.get("url") or "", "age": age,
+                    "degrees": [], "terms": [],
+                    "sk": f"zshah:{j.get('id')}", "dk": canon(co, role),
+                    "link": j.get("url") or ""})
+    print(f"[zshah] {len(data)} jobs, {len(out)} relevant")
     return out
 
 
@@ -716,39 +1036,92 @@ def source_ats(boards):
     return out
 
 
-SOURCES = {"simplify": source_simplify, "ats": source_ats}
-PRIORITY = ["simplify", "ats"]        # earlier sources win a duplicate
-RETIRED = {"github"}                  # old source names to prune from state
+SOURCES = {"simplify": source_simplify, "ats": source_ats,
+           "vansh": source_vansh, "speedy": source_speedy,
+           "zshah": source_zshah, "zapply": source_zapply,
+           "sndsh": source_sndsh, "jobright": source_jobright,
+           "nointernship": source_nointernship}
+# Order only breaks ties inside one run; across runs, whichever source sees a
+# role first is the one that reports it.
+PRIORITY = ["simplify", "ats", "vansh", "speedy", "zshah", "zapply",
+            "sndsh", "jobright", "nointernship"]
+LABELS = {"simplify": "SimplifyJobs", "ats": "Company portals",
+          "vansh": "vanshb03", "speedy": "speedyapply", "zshah": "zshah101",
+          "zapply": "zapplyjobs", "sndsh": "sndsh404", "jobright": "Jobright",
+          "nointernship": "nointernship.com"}
+# derec (DereC4) re-aggregated the sources now read directly, so it only ever
+# added lag and duplicates.
+RETIRED = {"github", "derec"}                  # old source names to prune from state
 
 
 # --------------------------------------------------------------------------
 # state
 # --------------------------------------------------------------------------
 
-def load_state():
-    """Returns (seen, dedupe): {source: set(state keys)} and
-    {source: set(canon keys)}. A source missing from `seen` never ran."""
-    if not os.path.exists(STATE):
-        return {}, {}
-    with open(STATE) as f:
-        d = json.load(f)
-    if isinstance(d, list):                       # v1: flat README-only list
-        return {"github": set(d)}, {}
-    src = d.get("sources", d)
-    seen = {k: set(v) for k, v in src.items() if isinstance(v, list)}
-    ded = {k: set(v) for k, v in (d.get("dedupe") or {}).items()
-           if isinstance(v, list)}
-    return seen, ded
+class State:
+    """v4 state: cumulative memory with a TTL, replacing v3's per-run
+    snapshot.
 
+    v3 stored only the listings that survived *this* run. Anything absent for
+    one run — a Workday page shuffle, a listing that a duplicate in another
+    source suppressed, or one of Goldman's same-titled roles losing a
+    first-come dedupe race — was forgotten, and re-alerted when it came back.
+    That produced 1,600 repeat alerts, one listing 73 times.
 
-def save_state(prev_seen, prev_ded, seen_up, ded_up):
-    seen = {k: sorted(v) for k, v in prev_seen.items() if k not in RETIRED}
-    seen.update({k: sorted(v) for k, v in seen_up.items()})
-    ded = {k: sorted(v) for k, v in prev_ded.items() if k not in RETIRED}
-    ded.update({k: sorted(v) for k, v in ded_up.items()})
-    with open(STATE, "w") as f:
-        json.dump({"version": 3, "sources": seen, "dedupe": ded}, f,
-                  indent=0, sort_keys=True)
+    Now:
+      seen[source][id]  day this source last showed this listing
+      roles[key]        day any source last showed this company+role
+    A row alerts only if both are unknown. Everything observed refreshes its
+    timestamp, kept or suppressed, and entries expire SEEN_TTL_DAYS after
+    they were last observed."""
+
+    def __init__(self):
+        # Day resolution on purpose: state is committed every run, and a
+        # timestamp that changes every run rewrites the whole file each time.
+        # Days change once a day, so a run's diff is just its new listings.
+        self.now = int(datetime.datetime.now(
+            datetime.timezone.utc).timestamp()) // 86400
+        self.seen, self.roles, self.migrated = {}, {}, False
+
+    @classmethod
+    def load(cls):
+        st = cls()
+        if not os.path.exists(STATE):
+            return st
+        with open(STATE) as f:
+            d = json.load(f)
+        if isinstance(d, dict) and d.get("version") == 4:
+            st.seen = {k: dict(v) for k, v in d.get("seen", {}).items()}
+            st.roles = dict(d.get("roles", {}))
+            return st
+        # v1-v3: snapshot sets. Their content is incomplete by construction
+        # (flapped listings are missing), so the first v4 run reseeds rather
+        # than trusting them; see main().
+        st.migrated = True
+        src = d.get("sources", {}) if isinstance(d, dict) else {"github": d}
+        for k, v in src.items():
+            if k not in RETIRED and isinstance(v, list):
+                st.seen[k] = {x: st.now for x in v}
+        for v in (d.get("dedupe") or {}).values() if isinstance(d, dict) else []:
+            for x in v:
+                st.roles[x] = st.now
+        return st
+
+    def save(self, failed_sources=()):
+        cut = self.now - SEEN_TTL_DAYS
+        seen = {}
+        for src, m in self.seen.items():
+            if src in RETIRED:
+                continue
+            # A source that failed this run was not observed, so its entries
+            # must not age out because of the outage.
+            seen[src] = m if src in failed_sources else \
+                {k: t for k, t in m.items() if t >= cut}
+        roles = {k: t for k, t in self.roles.items() if t >= cut}
+        with open(STATE, "w") as f:
+            # One key per line keeps git's line diffs small.
+            json.dump({"version": 4, "seen": seen, "roles": roles}, f,
+                      indent=0, sort_keys=True)
 
 
 def load_boards():
@@ -785,26 +1158,25 @@ def entry_lines(r):
     # Surface a degree ceiling the title does not mention.
     if r["degrees"] and "Bachelor's" not in r["degrees"]:
         meta += (" · " if meta else "") + "/".join(r["degrees"])
-    return (f"• {r['company']} — {r['role']}\n   {r['loc']}"
+    loc = r["loc"] + (f" (+{r['more']} more)" if r.get("more") else "")
+    return (f"• {r['company']} — {r['role']}\n   {loc}"
             + (f"   [{meta}]" if meta else "")
             + f"\n   {r['url']}")
 
 
-def announce(name, new, link):
-    # Newest posting first; unknown age last.
-    new.sort(key=lambda r: (r["age"] is None, r["age"] if r["age"] else 0))
-
+def announce(new, link):
+    """One push per run across all sources, newest first."""
+    new = sorted(new, key=lambda r: (r["age"] is None, r["age"] or 0))
     companies = []
     for r in new:
         if r["company"] not in companies:
             companies.append(r["company"])
-    tag = "New" if name == "simplify" else "New (ATS)"
-    title = f"{tag}: " + ", ".join(companies[:4])
+    title = f"{len(new)} new: " + ", ".join(companies[:4])
     if len(companies) > 4:
         title += f" +{len(companies) - 4} more"
 
-    # Fill up to the byte budget rather than a fixed entry count: entries vary
-    # from ~90 to ~300 bytes, so a count-based cap cannot bound the message.
+    # Fill to the byte budget rather than a fixed count: entries vary from
+    # ~90 to ~300 bytes, and ntfy turns anything over 4096 into a file.
     lines, used, shown = [], 0, 0
     for r in new:
         block = entry_lines(r)
@@ -814,14 +1186,12 @@ def announce(name, new, link):
         lines.append(block)
         used += cost
         shown += 1
-
     if shown < len(new):
         lines.append(f"…and {len(new) - shown} more — full list:\n{link}")
     else:
         lines.append(f"Full list: {link}")
-
     body = "\n\n".join(lines)
-    if len(body.encode("utf-8")) > NTFY_MAX:          # belt and braces
+    if len(body.encode("utf-8")) > NTFY_MAX:
         body = body.encode("utf-8")[:NTFY_MAX - 200].decode("utf-8", "ignore")
         body += f"\n\n…truncated — full list:\n{link}"
     notify(title, body, link)
@@ -844,8 +1214,8 @@ def write_digest(new_by_source, boards, path=DIGEST_FILE):
         rows = new_by_source.get(src) or []
         if not rows:
             continue
-        label = "SimplifyJobs" if src == "simplify" else "Company portals"
-        out += [f"## New from {label} ({len(rows)})", "",
+        label = LABELS.get(src, src)
+        out += [f"## New via {label} ({len(rows)})", "",
                 "| Company | Role | Location | Posted | Link |",
                 "|---|---|---|---|---|"]
         for r in rows:
@@ -889,7 +1259,7 @@ def write_digest(new_by_source, boards, path=DIGEST_FILE):
 # --------------------------------------------------------------------------
 
 def main():
-    prev_seen, prev_ded = load_state()
+    st = State.load()
     boards = load_boards()
     active = [n for n in PRIORITY if not ONLY or n in ONLY]
 
@@ -902,57 +1272,68 @@ def main():
                   f"{type(e).__name__}: {e}", file=sys.stderr)
             failures.append(name)
 
-    # Cross-source dedupe. A source that failed this run still contributes its
-    # last-known keys, so an outage cannot unmask duplicates it was
-    # previously suppressing.
-    claimed, seen_up, ded_up, new_by_source = set(), {}, {}, {}
+    # Keys that existed before this run started. Comparing against these
+    # (not the live maps) is what lets two sources reporting the same new
+    # role in one run be merged, rather than the second one looking known.
+    prior_roles = set(st.roles)
+    new_by_source, by_role, added = {}, {}, []
     for name in active:
         rows = rows_by_source.get(name)
         if rows is None:
-            claimed |= prev_ded.get(name, set())
             continue
-        kept, dropped = [], 0
+        seeding = name not in st.seen
+        mem = st.seen.setdefault(name, {})
+        prior_ids = set(mem)
+        fresh = dup = 0
         for r in rows:
-            if r["dk"] in claimed:
-                dropped += 1
+            unseen = r["sk"] not in prior_ids and r["dk"] not in prior_roles
+            mem[r["sk"]] = st.now                       # observed: refresh
+            st.roles[r["dk"]] = st.now
+            if seeding or not unseen:
                 continue
-            kept.append(r)
-        for r in kept:
-            claimed.add(r["dk"])
-
-        seen_up[name] = {r["sk"] for r in kept}
-        ded_up[name] = {r["dk"] for r in kept}
-        seen = prev_seen.get(name)
-
-        if seen is None:
-            print(f"[{name}] seeded baseline with {len(seen_up[name])} "
-                  f"listings, no notification sent")
-            continue
-
-        new = [r for r in kept if r["sk"] not in seen]
-        new.sort(key=lambda r: (r["age"] is None, r["age"] if r["age"] else 0))
-        new_by_source[name] = new
-        extra = f", {dropped} dup of higher-priority source" if dropped else ""
-        print(f"[{name}] {len(kept)} relevant{extra}, {len(new)} new")
+            # The first v4 run follows a v3 snapshot that is missing every
+            # listing that was flapping. Alert only on genuinely fresh
+            # postings that run, so the migration can't replay the repeats.
+            if st.migrated and (r["age"] is None or r["age"] > 1):
+                continue
+            if r["dk"] in by_role:                      # same role, this run
+                by_role[r["dk"]]["more"] = by_role[r["dk"]].get("more", 0) + 1
+                dup += 1
+                continue
+            by_role[r["dk"]] = r
+            new_by_source.setdefault(name, []).append(r)
+            added.append((name, r))
+            fresh += 1
+        if seeding:
+            print(f"[{name}] seeded baseline with {len(rows)} listings, "
+                  "no notification sent")
+        else:
+            extra = f", {dup} merged as duplicates" if dup else ""
+            print(f"[{name}] {len(rows)} relevant, {fresh} new{extra}")
+    if st.migrated:
+        print("[state] migrated to v4 cumulative memory; this run alerted "
+              "only on postings up to 1 day old")
 
     # Written before notifying so the link the push opens is already correct.
     write_digest(new_by_source, boards)
-    link = digest_url()
-    for name in active:
-        if not new_by_source.get(name):
-            continue
+    new = [r for _, r in added]
+    if new:
         try:
-            announce(name, new_by_source[name], link)
+            announce(new, digest_url())
         except Exception as e:                       # noqa: BLE001
-            # Don't record these as seen, so they retry next run, but still
-            # save every other source's state.
-            print(f"[{name}] notify FAILED, will retry next run: "
+            # Forget exactly what this run would have reported so it retries
+            # next run; everything else stays remembered.
+            print(f"notify FAILED, will retry next run: "
                   f"{type(e).__name__}: {e}", file=sys.stderr)
-            seen_up.pop(name, None)
-            ded_up.pop(name, None)
-            failures.append(f"{name}-notify")
+            for name, r in added:
+                st.seen[name].pop(r["sk"], None)
+                if r["dk"] not in prior_roles:
+                    st.roles.pop(r["dk"], None)
+            failures.append("notify")
 
-    save_state(prev_seen, prev_ded, seen_up, ded_up)
+    st.save(failed_sources=failures)
+    if failures:
+        sys.exit(f"failed: {', '.join(failures)}")
 
 
 if __name__ == "__main__":

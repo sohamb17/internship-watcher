@@ -1,10 +1,14 @@
 name: watch-internships
 
 on:
-  schedule:
-    - cron: '7,37 * * * *'      # check every 30 min
-    - cron: '0 12 * * SUN'      # weekly heartbeat
+  # The real 30-minute clock is an external scheduler calling
+  # workflow_dispatch (see README, "Reliable 30-minute runs"). GitHub's own
+  # cron is best-effort and was firing every 3-7 hours, so it is kept only as
+  # a fallback in case the external one stops.
   workflow_dispatch:
+  schedule:
+    - cron: '23 */2 * * *'      # fallback
+    - cron: '0 12 * * SUN'      # weekly heartbeat
 
 permissions:
   contents: write
@@ -38,7 +42,7 @@ jobs:
           SUMMARY=$(python3 -c "
           import json
           d = json.load(open('state.json'))
-          s = d['sources'] if isinstance(d, dict) else {'github': d}
+          s = d.get('seen') or d.get('sources') or {}
           print(', '.join(f'{k}: {len(v)}' for k, v in sorted(s.items())))
           ")
           curl -s -H "Priority: min" -H "Tags: heartbeat" \

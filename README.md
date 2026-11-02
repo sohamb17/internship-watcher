@@ -10,6 +10,34 @@ dependencies, runs free on GitHub Actions.
 |---|---|---|
 | `simplify` | [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships), read from `.github/scripts/listings.json` | none |
 | `ats` | Official company career portals — Greenhouse, Lever, Ashby, SmartRecruiters, Workday, amazon.jobs | none |
+| `vansh` | [vanshb03/Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships) — Simplify's `listings.json` schema without `category`, so titles are filtered | none |
+| `speedy` | [speedyapply/2027-SWE-College-Jobs](https://github.com/speedyapply/2027-SWE-College-Jobs) — USA internship section only | none |
+| `zshah` | [zshah101/Automated-List-…-Tech-Internships](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) `data/jobs.json` — has `is_open`, `category` and `sponsorship`; citizens-only and no-sponsorship roles dropped | none |
+| `zapply` | [zapplyjobs/Internships-2027](https://github.com/zapplyjobs/Internships-2027) | none |
+| `sndsh` | [sndsh404/summer-2027-internships](https://github.com/sndsh404/summer-2027-internships) — hand-curated; 🔒 / 🛂 / 🇺🇸 rows dropped | none |
+| `jobright` | [jobright-ai/2026-Software-Engineer-Internship](https://github.com/jobright-ai/2026-Software-Engineer-Internship) — named 2026 but a live rolling list carrying 2027 roles | none |
+| `nointernship` | [nointernship.com/internships](https://www.nointernship.com/internships) — the 25 newest listings from the page's schema.org `ItemList`, joined to each card's location and apply link | none |
+
+The five table sources were taken from the upstream list in
+[DereC4/internships-and-newgrad](https://github.com/DereC4/internships-and-newgrad)'s
+`go/main.go`. DereC4 itself was a source briefly and is now retired: it
+re-aggregates these, so it only added lag and duplicates. Its new-grad
+upstreams are deliberately not included.
+
+**nointernship.com** is read politely: one request per run to the public
+`/internships` page, which its robots.txt allows. Its `/api/` (which serves
+everything past the first 25) is disallowed there and is not used. The page
+lists newest first and the watcher polls every 30 minutes, so the newest 25 is
+the slice that matters. Its locations are bare city names ("Radnor",
+"Topeka"), so for this source only, a listing is kept unless its location is
+clearly foreign.
+
+Each run sends **one** push covering every source, newest first.
+
+Not included: Instagram (e.g. @zero2sudo stories). Stories need a logged-in
+session, expire in 24 hours, are images rather than text, and scraping them is
+against Instagram's terms and actively blocked. Those accounts largely repost
+listings from the repos above anyway.
 
 ### Why `listings.json` and not the README
 
@@ -192,19 +220,63 @@ never used to suppress unless `MAX_AGE_DAYS` is set — a listing can be old and
 still newly visible to the watcher, which is a normal and occasionally
 surprising outcome.
 
+## Reliable 30-minute runs
+
+GitHub's `schedule` trigger is best-effort. On this repo it fired every 3–7
+hours instead of every 30 minutes, and no cron expression fixes that. The
+workflow is therefore driven by an external scheduler calling the
+`workflow_dispatch` API, with GitHub's cron kept as a two-hourly fallback.
+
+1. **Token.** GitHub → Settings → Developer settings → Fine-grained tokens →
+   *Generate*. Repository access: only `internship-watcher`. Permissions:
+   **Actions: Read and write** (nothing else). Pick an expiry and set a
+   reminder to rotate it.
+2. **Scheduler.** At [cron-job.org](https://cron-job.org) (free), create a
+   job:
+   - URL: `https://api.github.com/repos/sohamb17/internship-watcher/actions/workflows/watch.yml/dispatches`
+   - Schedule: every 30 minutes
+   - Advanced → Request method: `POST`
+   - Headers: `Authorization: Bearer <token>`,
+     `Accept: application/vnd.github+json`,
+     `X-GitHub-Api-Version: 2022-11-28`
+   - Request body: `{"ref":"main"}`
+
+   A `204` response means a run was queued.
+
+The workflow's `concurrency` group keeps overlapping triggers from running at
+once. The repo is public, so Actions minutes are free and unlimited.
+
 ## State format
 
 ```json
 {
-  "version": 3,
-  "sources": { "simplify": ["<uuid>"], "ats": ["greenhouse:stripe:8031833"] },
-  "dedupe":  { "simplify": ["company|normalised role"] }
+  "version": 4,
+  "seen":  { "simplify": { "<uuid>": 20394 }, "ats": { "greenhouse:stripe:8031833": 20394 } },
+  "roles": { "stripe|engineer software": 20394 }
 }
 ```
 
-Migration is automatic. A v1 flat list or a v2 `github` source is read, then
-retired — `simplify` is a new source name, so it seeds silently and the first
-run after upgrading sends nothing.
+Values are the UTC day number on which the entry was last observed. A
+listing alerts only if **both** its ID in that source and its normalised
+company+role are absent. Every observed listing refreshes both, whether it is
+reported or suppressed as a duplicate, and entries expire `SEEN_TTL_DAYS`
+(default 60) after they were last seen.
+
+This replaced v3, which stored only the listings that survived the current
+run. Anything that dropped out for a single run — a Workday page reshuffle, a
+role suppressed as a duplicate of another source, or one of several
+same-titled roles (Goldman's London / Dallas / Salt Lake City) losing a
+first-come dedupe race when upstream reordered — was forgotten and re-alerted
+on return. Across 341 runs that produced 1,600 repeat alerts, one listing 73
+times. Same-titled roles now merge into one alert ("+2 more").
+
+Day resolution is deliberate. State is committed every run, and timestamps
+that change every run would rewrite the whole file each time; with days, a
+run's diff is just its new listings.
+
+Migration from v3 is automatic. Because v3 is missing whatever was flapping,
+the first v4 run alerts only on postings up to a day old, so it cannot replay
+the old repeats.
 
 ## Local run
 
