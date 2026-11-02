@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-01 22:59 UTC · 0 new listings_
+_Updated 2026-11-02 02:21 UTC · 1 new listing_
 
-Nothing new this run.
+## New from SimplifyJobs (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **KnowBe4** | Software Engineer Intern | Clearwater, FL | today | [apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919280002) |
 
 ## Watched company portals
 
