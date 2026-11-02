@@ -787,8 +787,13 @@ def _label(slug, given=None):
 
 
 def board_greenhouse(slug):
-    d = fetch_json(
-        f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs", timeout=25)
+    # Big boards (Anduril, SpaceX) intermittently take longer than 25 s; one
+    # retry with a longer timeout keeps them from being skipped.
+    url = f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs"
+    try:
+        d = fetch_json(url, timeout=30)
+    except (TimeoutError, OSError):
+        d = fetch_json(url, timeout=60)
     return [{"id": str(j.get("id")),
              "title": (j.get("title") or "").strip(),
              "loc": ((j.get("location") or {}).get("name") or "").strip(),
@@ -1035,6 +1040,16 @@ def source_ats(boards):
             targets += [(kind, slug, name) for slug, name in entry.items()]
         else:
             targets += [(kind, slug, None) for slug in entry]
+    # Board URLs and slugs are case-insensitive on every platform here
+    # ("NVIDIAExternalCareerSite" and "nvidiaexternalcareersite" are one
+    # board), so poll each once.
+    uniq, seen_keys = [], set()
+    for t in targets:
+        key = (t[0], t[1].lower().rstrip("/"))
+        if key not in seen_keys:
+            seen_keys.add(key)
+            uniq.append(t)
+    targets = uniq
     if not targets:
         raise RuntimeError("no ATS boards configured")
 

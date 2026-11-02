@@ -121,8 +121,13 @@ under a case-insensitive match the codes `IN`, `OR`, `OK`, `ME`, `HI`, `LA`,
 | `AMZN_MAX` | `400` | Max amazon.jobs results paged |
 | `US_ONLY` | `1` | `0` keeps non-US ATS postings |
 | `MIN_YEAR` | `2027` | Drop ATS postings naming an earlier season year |
+| `DIGEST_FILE` | `digest.md` | Where the full list is written each run |
+| `DIGEST_URL` | auto | Link the notification opens; derived from `GITHUB_REPOSITORY` |
+| `NTFY_BUDGET` | `3500` | Max notification body bytes before linking out (ntfy's hard limit is 4096) |
+| `SEEN_TTL_DAYS` | `60` | Days after last sighting before a listing is forgotten |
+| `WD_PER_HOST` | `5` | Max concurrent requests to one Workday host |
 
-## Watched company portals (497 boards)
+## Watched company portals (484 boards)
 
 The original ~100 boards were hand-picked. The rest were **discovered from the
 other sources**: every aggregator row that links straight to a Greenhouse,
@@ -135,7 +140,12 @@ with at least one relevant internship (one request each), but only Workday
 boards with **5+** (each costs up to `WD_PAGES` = 10 requests, and Workday's
 "intern" search is not reliably relevance-ordered — Micron's intern titles run
 `[2, 2, 0, 0, 1, 1, 0, 1…]` across pages — so pages cannot be cut short). All
-were verified live. Re-run the discovery when the sources grow.
+were verified live, then de-duplicated case-insensitively (Workday and
+Ashby URLs ignore case, so `NVIDIAExternalCareerSite` and
+`nvidiaexternalcareersite` are one board) and stripped of test and
+executive-search boards. `source_ats` also skips case-variant duplicates, so
+the same board is never polled twice. Re-run the discovery when the sources
+grow.
 
 **A newly added board seeds silently.** Its existing listings are recorded,
 not reported, exactly as a new source's are; only postings that appear on it
