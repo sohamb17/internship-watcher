@@ -342,7 +342,10 @@ workflow is therefore driven by an external scheduler calling the
    A `204` response means a run was queued.
 
 The workflow's `concurrency` group keeps overlapping triggers from running at
-once. The repo is public, so Actions minutes are free and unlimited.
+once: a second trigger waits, then checks out the branch tip so it starts from
+the state the first run just saved. If a push still loses a race, Save state
+merges the two `state.json` files key by key (`merge_state.py`) instead of
+rebasing, which can't merge these generated files. The repo is public, so Actions minutes are free and unlimited.
 
 ## State format
 

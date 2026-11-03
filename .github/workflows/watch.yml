@@ -21,7 +21,13 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
+      # A queued run starts after the previous one has pushed its state, but
+      # the default checkout is the commit that existed when the run was
+      # *triggered*. Check out the branch tip instead, or the run re-alerts
+      # everything the previous run just sent.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       # watch.py exits non-zero when a source fails, but any source that DID
       # succeed has already written its state. That state must be committed
@@ -56,14 +62,25 @@ jobs:
           git config user.email "watcher@users.noreply.github.com"
           git add state.json digest.md
           git diff --staged --quiet && exit 0
-          git commit -m "state $(date -u +%F_%H:%M)"
-          # Another run may have pushed while this one was working.
-          for i in 1 2 3; do
-            git push && exit 0
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          # If another run pushed first, git can't rebase these generated
+          # files (it conflicts on digest.md). Instead take the pushed state,
+          # merge ours into it key by key (merge_state.py), keep our digest,
+          # and try again.
+          T="$RUNNER_TEMP"
+          cp state.json "$T/ours.json"; cp digest.md "$T/ours.md"
+          cp merge_state.py "$T/merge_state.py"
+          for i in 1 2 3 4 5; do
+            git commit -qm "state $(date -u +%F_%H:%M)"
+            git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
             sleep $((RANDOM % 5 + 2))
+            git fetch -q origin "${GITHUB_REF_NAME}"
+            git reset -q --hard FETCH_HEAD
+            python3 "$T/merge_state.py" state.json "$T/ours.json"
+            cp "$T/ours.md" digest.md
+            git add state.json digest.md
+            git diff --staged --quiet && exit 0
           done
-          git push
+          exit 1
 
       # Surface a source failure as a red run, but only after state is safe.
       - name: Propagate source failure
