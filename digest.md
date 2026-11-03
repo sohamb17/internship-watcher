@@ -1,13 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 14:31 UTC · 2 new listings_
+_Updated 2026-11-03 15:01 UTC · 5 new listings_
 
-## New listings (2) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Maricopa Association of Governments** | Socioeconomic Data Intern | Phoenix, AZ | vanshb03 | [apply](https://go.vansh.nyc/1dx) |
-| today | **The Mosaic Company** | Artificial Intelligence Co-op | Tampa, FL | vanshb03 | [apply](https://go.vansh.nyc/1dB) |
+| today | **Eurofins** | Business Intelligence Intern | Lancaster, PA | vanshb03 | [apply](https://go.vansh.nyc/1dC) |
+| today | **Northrop Grumman** | 2027 Cyber Systems Engineer Intern - Roy UT | United States-Utah-Roy | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10249471?s=gh-internships-2027) |
+| 26d ago | **ICF International** | Energy Researcher Intern | Arlington County, Arlington, VA / Reston, VA / NYC | SimplifyJobs | [apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418) |
+| — | **Fussball Club Cincinnati LLC (“FC Cincinnati”)** | Athletic Development Intern | Cincinnati, OH | Company portals | [apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8177629003) |
+| — | **Parsons** | I&C Engineering Intern | CA, Pasadena, R187609 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-parsons-search-R187609?s=gh-internships-2027) |
 
 ## Watched company portals
 
