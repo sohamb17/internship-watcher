@@ -1,17 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 21:52 UTC · 6 new listings_
+_Updated 2026-11-03 22:01 UTC · 3 new listings_
 
-## New listings (6) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Schneider Electric** | Application Engineer Intern | Horsham, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ada58413a69033df2258003?utm_campaign=1079&utm_source=git) |
-| today | **Schneider Electric** | Digital Services Engineering Intern | Franklin, TN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad7794e54bbabbab06feb86?utm_campaign=1079&utm_source=git) |
-| today | **SS&C Technologies** | Intern - Business Systems Analyst | Boston MA - One Post | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R47368?s=gh-internships-2027) |
-| today | **Wabtec** | Firmware Engineering Co-Op | Waltham, MA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Wabtec/3743990016605126) |
-| today | **Willkie Farr & Gallagher LLP** | Application Developer Intern (Co-Op) | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea340f440b469a1c0aba91?utm_campaign=1079&utm_source=git) |
-| 285d ago | **Colonist** | Product Developer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1ek) |
+| today | **American Family Insurance Group** | Summer 2027 Intern - Collaboration and Communication Technology | WI Madison | Company portals | [apply](https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/WI-Madison/Intern---Collaboration-and-Communication-Technology_R39525) |
+| today | **ICD** | Summer 2027 Cyber Security Internship | New York, NY, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-icd-301991?s=gh-internships-2027) |
+| today | **Tradeweb** | Summer 2027 Cyber Security Internship | New York, NY, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-tradeweb-301991?s=gh-internships-2027) |
 
 ## Watched company portals
 
