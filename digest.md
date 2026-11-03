@@ -1,47 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 00:31 UTC · 26 new listings_
+_Updated 2026-11-03 01:01 UTC · 5 new listings_
 
-## New via SimplifyJobs (20)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **H&R Block** | Software Engineer Intern | Kansas City, MO | 35d ago | [apply](https://careers.hrblock.com/jobs/76987?icims=1) |
-| **The New York Times** | Backend Engineer Intern | NYC | 3d ago | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005) |
-| **Meta** | Research Scientist Intern - Robotic Control Policy | Redmond, WA | today | [apply](https://www.metacareers.com/jobs/1872420890835857) |
-| **Meta** | Research Scientist Intern - Interactive Physics Simulation for Robotics | Redmond, WA | today | [apply](https://www.metacareers.com/jobs/1143164681833409) |
-| **Meta** | Research Scientist Intern - PAR Safety Evals and Red Teaming | Menlo Park, CA / NYC | today | [apply](https://www.metacareers.com/jobs/1272664685039241) |
-| **Koch Industries** | Project Controls Analyst Co-op | Wichita, KS | today | [apply](https://koch.avature.net/en_US/careers/JobDetail/197162) |
-| **Applied Materials** | Data Intelligence/Technical Program Manager Intern<br>Master's | Santa Clara, CA | 1d ago | [apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705) |
-| **The Aerospace Corporation** | Software Engineer Intern - Software Process and Architecture Department - Information Systems and Cyber Division | El Segundo, CA | 1d ago | [apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102) |
-| **Constellation Brands** | Full Stack Engineer Intern | Rochester, NY | 1d ago | [apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600) |
-| **Costco** | CDS Intern - Innovation | Issaquah, WA | today | [apply](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10998) |
-| **Costco** | CDS Intern - Powerapps Developer - ECM Digital Workflow | Issaquah, WA | today | [apply](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11001) |
-| **Costco** | CDS Intern - ECM Platform Management | Issaquah, WA | 6d ago | [apply](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11010) |
-| **Costco** | Costco Digital Services Intern - Infosec AI/ML | Issaquah, WA | today | [apply](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994) |
-| **Costco** | Software Developer Intern - Software Engineer - Costco Travel | Issaquah, WA | 6d ago | [apply](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11021) |
-| **Northrop Grumman** | Engineering Intern - Multiple Teams | Chandler, AZ | 1d ago | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848) |
-| **Costco** | CDS Intern - Software Engineer - IT Retail Media | Issaquah, WA | today | [apply](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11013) |
-| **Costco** | Software Engineer Intern - International Depot | Issaquah, WA | today | [apply](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10993) |
-| **Merck** | Future Talent Program Co-op - Patient Data Learning<br>Master's | Cambridge, MA | 1d ago | [apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) |
-| **Tria Federal** | Growth Operations Intern | Arlington County, Arlington, VA | today | [apply](https://triafed.com/jobs/?gh_jid=5470246008) |
-| **Resideo** | Data Science Intern | Austin, TX / Golden Valley, MN | today | [apply](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19817) |
-
-## New via Company portals (1)
+## New via Company portals (3)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **RTX** | Systems Engineering Intern, St. Petersburg, FL (Onsite) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | today | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Intern--St-Petersburg--FL--Onsite-_01886197) |
+| **GlobalFoundries** | PDK Design Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/PDK-Design-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605133) |
+| **GlobalFoundries** | Silicon Photonics Advanced Packaging Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2605136) |
+| **RTX** | Systems Engineering Intern, BMC2 (Onsite) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | today | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Intern--BMC2--Onsite-_01885577) |
 
-## New via vanshb03 (5)
+## New via Jobright (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Valmont** | Embedded Systems Engineer Intern | Valley, NE | 1d ago | [apply](https://go.vansh.nyc/1br) |
-| **Resideo** | Embedded Firmware Engineer Intern | Melville, NY | today | [apply](https://go.vansh.nyc/1bv) |
-| **Resideo** | Firmware Engineer Intern | Aurora, IL | today | [apply](https://go.vansh.nyc/1bx) |
-| **Costco** | Digital Services Intern, Infosec AI/ML | Issaquah, WA | today | [apply](https://go.vansh.nyc/1bA) |
-| **Costco** | Software Engineer Intern, IT Retail Media | Issaquah, WA | today | [apply](https://go.vansh.nyc/1bB) |
+| **Skyband Systems** | Summer 2027 Internship: Software Engineering | Kirkland, WA, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6ae9119d6c51033758f45f74?utm_campaign=1079&utm_source=git) |
+| **Garmin** | Software Engineer Intern - Aviation Web Development | Middlebury, CT, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6a9b10a29c24314c35f97938?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
