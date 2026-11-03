@@ -512,6 +512,20 @@
 "sk": "c2b1b1ff-27fa-48bb-909f-52cf19e69b16",
 "src": "simplify",
 "url": "https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true"
+},
+{
+"company": "Valency Networks Private Limited",
+"degrees": [],
+"dk": "valencynetworksprivatelimited|developer remote website wordpress",
+"found": 20760,
+"loc": "United States",
+"more": null,
+"night": true,
+"posted": 20759,
+"role": "WordPress Website Developer Intern (Remote)",
+"sk": "jobright:6ae98c6b43826864b0fb9d7b",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6ae98c6b43826864b0fb9d7b?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -5223,6 +5237,7 @@
 "ursamajor|embedded flight software": 20760,
 "usafacts|ai engineering software": 20760,
 "v2x|artificial intelligence": 20760,
+"valencynetworksprivatelimited|developer remote website wordpress": 20760,
 "valmont|ai data engineering": 20759,
 "valmont|analyst data operations": 20760,
 "valmont|analyst product": 20759,
@@ -8118,6 +8133,7 @@
 "jobright:6ab161a3f9692ca98b0493dd": 20760,
 "jobright:6ab33c031e4847ddae918b26": 20760,
 "jobright:6ab42bc8ef911c35dffa3bb0": 20759,
+"jobright:6abd3ab94ac55253f5d5bf73": 20760,
 "jobright:6abd58750e027c0f3b3952ab": 20760,
 "jobright:6abd9835372c01f6cd7216ce": 20760,
 "jobright:6abda42cd9621c5b2838d48c": 20760,
@@ -8228,7 +8244,9 @@
 "jobright:6ae9500573d24ab055c56acf": 20760,
 "jobright:6ae96291a291a1db4de23b58": 20760,
 "jobright:6ae9667d14b684da08ddfa65": 20760,
-"jobright:6ae9667d32411b3e5a2e086a": 20760
+"jobright:6ae9667d32411b3e5a2e086a": 20760,
+"jobright:6ae97ccc14b684da08de0495": 20760,
+"jobright:6ae98c6b43826864b0fb9d7b": 20760
 },
 "nointernship": {
 "nointernship:50673": 20760,

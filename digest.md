@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 08:31 UTC · 1 new listing_
+_Updated 2026-11-03 09:01 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **onepot** | Machine Learning Researcher Intern - Machine Learning | South SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true) |
+| 1d ago | **Valency Networks Private Limited** | WordPress Website Developer Intern (Remote) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae98c6b43826864b0fb9d7b?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
