@@ -1,13 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 06:49 UTC · 2 new listings_
+_Updated 2026-11-03 07:00 UTC · 11 new listings_
 
-## New listings (2) — newest first
+## New listings (11) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Kenworth Truck Co.** | 2027 Summer Internship: Design Engineer- Autonomous Vehicle Platform | Denton, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9667d32411b3e5a2e086a?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Kenworth Truck Co.** | 2027 Summer Internship: Software Developer | Denton, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9667d14b684da08ddfa65?utm_campaign=1079&utm_source=git) |
+| today | **Cincinnati Children’s Hospital and Medical Center** | Student II Security Analyst Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1cq) |
+| today | **Graco** | AI Intern | Dayton, MN | vanshb03 | [apply](https://go.vansh.nyc/1cx) |
+| today | **Guardian Life** | Cloud & DevOps Intern, Digital & Technology | Bethlehem, PA / Holmdel, NJ | vanshb03 | [apply](https://go.vansh.nyc/1cY) |
+| today | **Guardian Life** | Cybersecurity Intern, Digital & Technology | New York, NY / Bethlehem, PA / Holmdel, NJ | vanshb03 | [apply](https://go.vansh.nyc/1cZ) |
+| today | **Inmar Intelligence** | Data, Analytics & AI Intern | Winston Salem, NC | vanshb03 | [apply](https://go.vansh.nyc/1d1) |
+| today | **Micron Technology** | AI Engineering Intern, SMAI TD | Boise, ID | vanshb03 | [apply](https://go.vansh.nyc/1d5) |
+| today | **Micron Technology** | Data Center SSD Firmware Intern | Longmont, CO | vanshb03 | [apply](https://go.vansh.nyc/1d3) |
+| today | **Micron Technology** | Firmware Engineer Intern | Longmont, CO | vanshb03 | [apply](https://go.vansh.nyc/1d4) |
+| today | **NJM Insurance Group** | IT Data Science Intern | Trenton, NJ | vanshb03 | [apply](https://go.vansh.nyc/1da) |
+| today | **SouthState Bank** | Quantitative Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1cH) |
+| today | **SWBC** | Application Security Intern | San Antonio, TX | vanshb03 | [apply](https://go.vansh.nyc/1cK) |
 
 ## Watched company portals
 
