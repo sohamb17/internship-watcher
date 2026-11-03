@@ -1,14 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 22:01 UTC · 3 new listings_
+_Updated 2026-11-03 22:31 UTC · 11 new listings_
 
-## New listings (3) — newest first
+## New listings (11) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **American Family Insurance Group** | Summer 2027 Intern - Collaboration and Communication Technology | WI Madison | Company portals | [apply](https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/WI-Madison/Intern---Collaboration-and-Communication-Technology_R39525) |
-| today | **ICD** | Summer 2027 Cyber Security Internship | New York, NY, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-icd-301991?s=gh-internships-2027) |
-| today | **Tradeweb** | Summer 2027 Cyber Security Internship | New York, NY, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-tradeweb-301991?s=gh-internships-2027) |
+| today | **Baird** | Quality Assurance Automation Engineer Intern | Milwaukee, WI | vanshb03 | [apply](https://go.vansh.nyc/1f0) |
+| today | **Dairyland Power Cooperative** | Energy Data Analyst Intern | La Crosse, WI | vanshb03 | [apply](https://go.vansh.nyc/1f1) |
+| today | **JM Family** | AI Center of Excellence (COE) Delivery Team Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176) |
+| today | **Moderna** | 2027 Co-Op, mRNA Design Engineering | Cambridge, Massachusetts,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-modernatx-m-tx-R20128?s=gh-internships-2027) |
+| 56d ago | **Hoffman Construction** | Data Analyst Intern | Amarillo, TX | vanshb03 | [apply](https://go.vansh.nyc/1eC) |
+| 56d ago | **M3USA** | AI Engineering Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1eD) |
+| 62d ago | **Dynamic Catholic** | Software Developer Intern, Commerce Cloud | Erlanger, KY | vanshb03 | [apply](https://go.vansh.nyc/1eB) |
+| 63d ago | **Valon** | Software Engineer Intern | New York, NY / San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1ey) |
+| 68d ago | **Charta Health** | Software Engineer Intern, FDE / Platform | San Francisco, CA / New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1ex) |
+| 69d ago | **Realm** | Software Engineer Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1ew) |
+| 222d ago | **Odys Aviation** | Robotics & Embedded Systems Intern | Long Beach, CA | vanshb03 | [apply](https://go.vansh.nyc/1ev) |
 
 ## Watched company portals
 
