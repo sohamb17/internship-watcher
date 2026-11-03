@@ -1,16 +1,31 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 19:01 UTC · 5 new listings_
+_Updated 2026-11-03 19:31 UTC · 20 new listings_
 
-## New listings (5) — newest first
+## New listings (20) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **American Express** | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ | vanshb03 | [apply](https://go.vansh.nyc/1dS) |
-| today | **Commonwealth Fusion Systems** | Intern - Software Engineer - Summer 2027 | Devens, MA | Company portals | [apply](https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d) |
-| today | **Highmark Health** | Summer 2027 Responsible AI Undergraduate Intern | PA Working at Home   Pennsylvania | Company portals | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Responsible-AI-Undergraduate-Intern_J288327) |
-| today | **JM Family** | AI & Decision Science Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/AI---Decision-Science-Intern_JR105095) |
-| today | **Marvell** | Hardware Signal Integrity Intern, MS - Summer 2027 | Santa Clara, CA | Company portals | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877) |
+| today | **Microsoft** | Software Engineer Intern, Teamwork Experiences | Redmond, WA | vanshb03 | [apply](https://go.vansh.nyc/1dY) |
+| today | **ByteDance** | Research Intern (ByteBrain-AIOps) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea0ebd913589212b1f2be9?utm_campaign=1079&utm_source=git) |
+| today | **ASML** | Internship- Business Systems AI | San Diego, CA, USA | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship--Business-Systems-AI_J-00355737) |
+| today | **Ayar Labs** | Intern, Architect - Analysis of AI Workloads & Network Communication Protocols | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea121d1ba298c77776f150?utm_campaign=1079&utm_source=git) |
+| today | **Ayar Labs** | Intern, Firmware | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea121d4f991d64376ca536?utm_campaign=1079&utm_source=git) |
+| today | **Highmark Health** | Summer 2027 AI Services and Platforms Software Engineer Graduate Intern | PA Working at Home   Pennsylvania | Company portals | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322) |
+| today | **Highmark Health** | Summer 2027 Healthcare Analytics Data Science Graduate Intern | PA Working at Home   Pennsylvania | Company portals | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345) |
+| today | **Highmark Health** | Summer 2027 Vulnerability Management Analyst Undergraduate Intern | PA Working at Home   Pennsylvania | Company portals | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Vulnerability-Management-Analyst-Undergraduate-Intern_J288015) |
+| today | **KEEN Footwear** | Junior Material Developer Intern | Keene, NH +1 | speedyapply | [apply](https://www.keenfootwear.com/careers-list.html?4749923005&gh_jid=4749923005) |
+| today | **New York Air Brake** | Intern, Software Engineer | Watertown, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea162efc85f3a39433022e?utm_campaign=1079&utm_source=git) |
+| today | **Prologis** | Development Intern | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad0e2be18608b6f36f7f90c?utm_campaign=1079&utm_source=git) |
+| today | **RTX** | Systems Engineering Co-op | US MA WOBURN WB1  235 Presidential Way  SPENCER BLDG | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039) |
+| 1d ago | **General Dynamics Mission Systems** | Intern Engineer - Systems - Software - Electrical - Mechanical - Manufacturing - Other | USA | speedyapply | [apply](https://careers-gdms.icims.com/jobs/76785/intern-engineer---%28systems%2c-software%2c-electrical%2c-mechanical%2c-manufacturing%2c-other%29/job) |
+| 1d ago | **H&R Block** | Embark Software Engineering Intern - S | Kansas City, MO | speedyapply | [apply](https://careers-hrblock.icims.com/jobs/76987/embark-software-engineering-intern---s/job) |
+| 1d ago | **Knorr-Bremse Lisieux – Systèmes pour Véhicules Utilitaires** | Intern, Software Engineer | Watertown, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea10ea897466e69e31b258?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Rockland Trust** | Business Intelligence (BI) Intern | Rockland, MA | vanshb03 | [apply](https://go.vansh.nyc/1dX) |
+| 1d ago | **SAS** | JMP 2027 Summer Internship; DevOps R&D | Cary, NC | speedyapply | [apply](https://jmp-sas.icims.com/jobs/44417/jmp-2027-summer-internship--devops-r%26d/job) |
+| 34d ago | **Raytheon** | Summer 2027 Embedded Software Engineering Intern - Onsite | EAST HARTFORD-ETC, CT | speedyapply | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014) |
+| 36d ago | **Raytheon** | 2027 Summer/Fall Co-op - AGS Software Engineering - Onsite | Cedar Rapids, IA | speedyapply | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646) |
+| 92d ago | **Lutron** | Summer 2027 - Software Engineering Intern - Austin - TX | Austin, TX | speedyapply | [apply](https://studentopportunities-lutron.icims.com/jobs/5388/summer-2027---software-engineering-intern---austin%2c-tx/job) |
 
 ## Watched company portals
 
