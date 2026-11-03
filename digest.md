@@ -1,32 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 03:31 UTC · 6 new listings_
+_Updated 2026-11-03 04:01 UTC · 0 new listings_
 
-## New via SimplifyJobs (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **GenMD** | Member of Technical Staff Intern - Applied AI | Palo Alto, CA | today | [apply](https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c/application?embed=true) |
-
-## New via vanshb03 (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Shield** | Software Engineer Intern | San Mateo, CA / Dallas, TX | 40d ago | [apply](https://go.vansh.nyc/1bL) |
-
-## New via zapplyjobs (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **NVIDIA** | AI Compiler and Kernel Intern – Summer 2027 | US, TX, Austin | today | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029220?s=gh-internships-2027) |
-
-## New via nointernship.com (3)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **NXP Semiconductors** | Hardware/Software System and Application Engineer Intern | Chandler | — | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708) |
-| **RTX** | Vision Systems Intern | Goleta | — | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems---Summer-Intern--Onsite-_01880505) |
-| **Corning** | Haptic Metrology & Stylus Tablet Development Intern | Corning | — | [apply](https://corningjobs.corning.com/job/Corning-Intern,-Haptic-Metrology-&-Stylus-Tablet-Development-Summer-2027-NY-14831/1446860600/) |
+Nothing new this run.
 
 ## Watched company portals
 
