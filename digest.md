@@ -1,8 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 16:31 UTC · 0 new listings_
+_Updated 2026-11-03 17:01 UTC · 4 new listings_
 
-Nothing new this run.
+## New listings (4) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Arrowstreet Capital** | Software Engineer Intern, Summer 2027 | Boston | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-arrowstreetcapital-campus-careers-R1561?s=gh-internships-2027) |
+| today | **Dell Technologies** | CSG Hardware Engineering Intern | TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-dell-technologies-298216?s=gh-internships-2027) |
+| today | **Dell Technologies** | CSG Software Engineering Undergraduate Intern | TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-dell-technologies-298217?s=gh-internships-2027) |
+| today | **JM Family** | Industrial Engineering Intern | Florida - Jacksonville | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Jacksonville/Industrial-Engineering-Intern_JR105189) |
 
 ## Watched company portals
 
