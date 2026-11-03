@@ -1,28 +1,24 @@
 # Internship watcher — latest
 
-_Updated 2026-11-02 23:33 UTC · 17 new listings_
+_Updated 2026-11-03 00:01 UTC · 8 new listings_
 
-## New via SimplifyJobs (17)
+## New via vanshb03 (4)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Spring Venture Group** | Data Integrity Specialist Intern | Kansas City, MO | today | [apply](https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159230389) |
-| **Flagship Pioneering** | Machine Learning Intern | Cambridge, MA | today | [apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002) |
-| **Cincinnati Children’s Hospital and Medical Center** | Software Engineer Intern | Remote in USA | today | [apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--A-_JR226736) |
-| **Cincinnati Children’s Hospital and Medical Center** | Student 2 Intern - Data Management Engineer | Remote in USA | today | [apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Data-Management-Engineer_JR226749) |
-| **Cincinnati Children’s Hospital and Medical Center** | Software Engineering Developer Intern | Remote in USA | today | [apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743) |
-| **Epic Games** | Tools Programmer Intern - Graphics | Cary, NC | 3d ago | [apply](https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004) |
-| **LabCorp** | Full-Stack Life Sciences Software Engineer Co-op | Durham, NC / Burlington, NC | today | [apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) |
-| **Cincinnati Children’s Hospital and Medical Center** | Student 2 Intern - BA Enterprise Business Intelligence | Remote in USA | today | [apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---BA-Enterprise-Business-Intelligence_JR226747-1) |
-| **RTX** | Program Fleet Intern | East Hartford, CT | today | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/PW1100G-JM-Program-Fleet-Intern--Summer-2027-_01878283) |
-| **Pacific Northwest National Laboratory** | NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference<br>Master's | Seattle, WA / Richland, WA | today | [apply](https://careers.pnnl.gov/jobs/12898?icims=1) |
-| **Pacific Northwest National Laboratory** | NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference | Seattle, WA / Richland, WA | today | [apply](https://careers.pnnl.gov/jobs/12899?icims=1) |
-| **Paccar** | Sales Administration Data Analyst Intern - Greenhouse Gas | Denton, TX | today | [apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors) |
-| **Zebra Technologies** | Data Scientist Intern<br>Master's | Holtsville, NY / Lincolnshire, IL | today | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610) |
-| **Paccar** | Materials Systems Intern | Denton, TX | today | [apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Materials-Systems-TX-76205-7864/1453566333/?ats=successfactors) |
-| **Paccar** | Warranty Business Intern | Denton, TX | today | [apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Warranty-Business-TX-76205-7864/1453566133/?ats=successfactors) |
-| **Paccar** | AI-Driven Vehicle Definition Intern | Denton, TX | today | [apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors) |
-| **Marriott Vacations Worldwide** | Corporate Information Technology Intern | Orlando, FL | today | [apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern-Information-Technology_JR95562) |
+| **Leidos** | Software Engineer Intern | Arlington, VA | 1d ago | [apply](https://go.vansh.nyc/1bc) |
+| **Cincinnati Children’s Hospital and Medical Center** | Data Management Engineer Intern | Remote / United States | 1d ago | [apply](https://go.vansh.nyc/1bd) |
+| **Astro Mechanica** | Software Engineer Intern | San Francisco, CA | 1d ago | [apply](https://go.vansh.nyc/1bg) |
+| **Shield AI** | Embedded Firmware Intern | Dallas, TX | today | [apply](https://go.vansh.nyc/1bm) |
+
+## New via Jobright (4)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Advanced Energy** | Intern - Firmware Engineer, Undergraduate Job Details / Advanced Energy Industries, Inc | Eden Prairie, MN, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6ae8fb98fb2cd420ace6afce?utm_campaign=1079&utm_source=git) |
+| **Staples Canada** | Software Engineer Intern, Marketplace Platform | Framingham, MA, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6ae8f76003f4a1104b258576?utm_campaign=1079&utm_source=git) |
+| **The Aerospace Corporation** | 2027 Software Engineering Grad Intern | El Segundo, CA, United States | 2d ago | [apply](https://jobright.ai/jobs/info/6ae9060d061d6d7ff3d7fb9d?utm_campaign=1079&utm_source=git) |
+| **Lindsay Corporation** | Quality Assurance Engineering Intern | Omaha, Nebraska, United States | 2d ago | [apply](https://jobright.ai/jobs/info/6ae8fad26c51033758f4505a?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
