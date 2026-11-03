@@ -1,14 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 21:01 UTC · 3 new listings_
+_Updated 2026-11-03 21:31 UTC · 6 new listings_
 
-## New listings (3) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Blue Bird Corporation** | Intern, Software Controls | Fort Valley, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ace3a354391691a335ab4ee?utm_campaign=1079&utm_source=git) |
-| today | **General Dynamics Electric Boat** | 2027 Quality Assurance – Engineering Summer Internship | Groton, CT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae4f2e8fb2cd420ace5b6f9?utm_campaign=1079&utm_source=git) |
-| today | **Marketeq Digital Solutions** | AI Frontend Engineering Intern (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea2d93440b469a1c0ab6f6?utm_campaign=1079&utm_source=git) |
+| today | **Allison Transmission** | Business Analyst Intern - Summer 2027 | Indianapolis, IN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008356?s=gh-internships-2027) |
+| today | **Bose** | Software/DSP Research Engineer Co-op | US, MA - Framingham | Company portals | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369) |
+| today | **Sherwin-Williams** | 2027 R&D Data Visualization Intern- Cleveland | Brecksville, OH, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-sherwin-williams-2628298?s=gh-internships-2027) |
+| today | **Sherwin-Williams** | R&D Data Visualization Intern | Brecksville, OH | vanshb03 | [apply](https://go.vansh.nyc/1eh) |
+| today | **T-Mobile** | Summer 2027 T-Ads Software Engineering Internship | Philadelphia, Pennsylvania | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234) |
+| — | **Geneva Trading** | C++ Developer (Intern) | Chicago Office | Company portals | [apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) |
 
 ## Watched company portals
 
