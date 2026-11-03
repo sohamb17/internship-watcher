@@ -35,7 +35,21 @@ def merge(theirs, ours):
                            ours.get("seen", {}).get(src, {}))
     return {"version": 4, "seen": seen,
             "roles": latest(theirs.get("roles", {}), ours.get("roles", {})),
-            "boards": latest(theirs.get("boards", {}), ours.get("boards", {}))}
+            "boards": latest(theirs.get("boards", {}), ours.get("boards", {})),
+            "held": held(theirs.get("held", []), ours.get("held", []))}
+
+
+def held(theirs, ours):
+    """Listings waiting for quiet hours to end. Union by listing, but one
+    run's held list can't tell sent from never-held, so a row the other run
+    already sent may be sent twice; that beats dropping one."""
+    out, keys = [], set()
+    for h in list(theirs) + list(ours):
+        k = (h.get("src"), h.get("sk"))
+        if k not in keys:
+            keys.add(k)
+            out.append(h)
+    return out
 
 
 def main(target, other):

@@ -88,6 +88,14 @@ NTFY_MAX = 4096
 NTFY_BUDGET = int(os.environ.get("NTFY_BUDGET", "3500"))
 
 DIGEST_FILE = os.environ.get("DIGEST_FILE", "digest.md")
+# Quiet hours, local time, "start-end" in 24h hours ("0-8" = midnight to
+# 8 am). Listings found then are held and sent as one summary on the first
+# run after quiet hours end; tier-1 companies (priority.json) still alert.
+# Empty disables.
+QUIET_HOURS = os.environ.get("QUIET_HOURS", "0-8")
+QUIET_TZ = os.environ.get("QUIET_TZ", "America/Chicago")
+QUIET_BREAKTHROUGH_TIER = int(os.environ.get("QUIET_BREAKTHROUGH_TIER", "1"))
+HELD_MAX_DAYS = 3                  # a held row that can't be sent is dropped
 
 
 def digest_url():
@@ -1353,6 +1361,7 @@ class State:
             datetime.timezone.utc).timestamp()) // 86400
         self.seen, self.roles, self.migrated = {}, {}, False
         self.boards = {}            # ATS board -> day last observed
+        self.held = []              # alerts waiting for quiet hours to end
 
     @classmethod
     def load(cls):
@@ -1365,6 +1374,7 @@ class State:
             st.seen = {k: dict(v) for k, v in d.get("seen", {}).items()}
             st.roles = dict(d.get("roles", {}))
             st.boards = dict(d.get("boards", {}))
+            st.held = [h for h in d.get("held", []) if isinstance(h, dict)]
             return st
         # v1-v3: snapshot sets. Their content is incomplete by construction
         # (flapped listings are missing), so the first v4 run reseeds rather
@@ -1394,7 +1404,8 @@ class State:
         with open(STATE, "w") as f:
             # One key per line keeps git's line diffs small.
             json.dump({"version": 4, "seen": seen, "roles": roles,
-                       "boards": boards}, f, indent=0, sort_keys=True)
+                       "boards": boards, "held": self.held},
+                      f, indent=0, sort_keys=True)
 
 
 def load_boards():
@@ -1437,14 +1448,53 @@ def entry_lines(r):
             + f"\n   {r['url']}")
 
 
-def announce(new, link):
+def in_quiet_hours(now=None):
+    """True when local time is inside QUIET_HOURS ("0-8", or "23-7" which
+    wraps past midnight)."""
+    m = re.fullmatch(r"\s*(\d{1,2})\s*-\s*(\d{1,2})\s*", QUIET_HOURS or "")
+    if not m:
+        return False
+    start, end = int(m.group(1)) % 24, int(m.group(2)) % 24
+    if start == end:
+        return False
+    try:
+        from zoneinfo import ZoneInfo
+        tz = ZoneInfo(QUIET_TZ)
+    except Exception:                               # noqa: BLE001
+        tz = datetime.timezone.utc
+    now = now or datetime.datetime.now(datetime.timezone.utc)
+    h = now.astimezone(tz).hour
+    return start <= h < end if start < end else (h >= start or h < end)
+
+
+_HELD_KEYS = ("company", "role", "loc", "url", "degrees", "more", "sk", "dk")
+
+
+def hold_record(src, r, today):
+    """Row -> what state.json keeps while it waits. The posting date is
+    stored rather than its age, so the morning summary shows the true age."""
+    h = {k: r.get(k) for k in _HELD_KEYS}
+    h.update(src=src, found=today,
+             posted=None if r.get("age") is None else today - r["age"])
+    return h
+
+
+def unhold(h, today):
+    r = {k: h.get(k) for k in _HELD_KEYS}
+    r["degrees"] = r["degrees"] or []
+    r["age"] = None if h.get("posted") is None else max(0, today - h["posted"])
+    return h.get("src") or "ats", r
+
+
+def announce(new, link, overnight=False):
     """One push per run across all sources, newest first."""
     new = sorted(new, key=by_recency)
     companies = []
     for r in new:
         if r["company"] not in companies:
             companies.append(r["company"])
-    title = f"{len(new)} new: " + ", ".join(companies[:4])
+    title = ("Overnight: " if overnight else "") + \
+        f"{len(new)} new: " + ", ".join(companies[:4])
     if len(companies) > 4:
         title += f" +{len(companies) - 4} more"
 
@@ -1658,21 +1708,39 @@ def main():
         print("[state] migrated to v4 cumulative memory; this run alerted "
               "only on postings up to 1 day old")
 
-    # Written before notifying so the link the push opens is already correct.
-    write_digest(new_by_source, boards)
-    new = [r for _, r in added]
-    if new:
+    # Everything not yet pushed: listings held from earlier runs (quiet hours,
+    # or a failed push) plus this run's. Held rows older than HELD_MAX_DAYS
+    # are dropped so a broken topic can't grow the queue forever.
+    held = [h for h in st.held
+            if st.now - (h.get("found") or st.now) <= HELD_MAX_DAYS]
+    pending = held + [hold_record(name, r, st.now) for name, r in added]
+    quiet = in_quiet_hours()
+    send = [h for h in pending
+            if not quiet or company_tier(h.get("company")) <= QUIET_BREAKTHROUGH_TIER]
+    st.held = [h for h in pending if h not in send]
+    for h in st.held:
+        h.setdefault("night", quiet)
+
+    # The digest lists everything pending, so the link opened from a
+    # morning summary (or a tier-1 alert at night) shows all of it. Written
+    # before notifying so the link the push opens is already correct.
+    pending_by_source = {}
+    for h in pending:
+        src, r = unhold(h, st.now)
+        pending_by_source.setdefault(src, []).append(r)
+    write_digest(pending_by_source, boards)
+    if quiet and st.held:
+        print(f"[quiet] holding {len(st.held)} listing(s) until "
+              f"quiet hours ({QUIET_HOURS} {QUIET_TZ}) end")
+    if send:
         try:
-            announce(new, digest_url())
+            announce([unhold(h, st.now)[1] for h in send], digest_url(),
+                     overnight=not quiet and any(h.get("night") for h in held))
         except Exception as e:                       # noqa: BLE001
-            # Forget exactly what this run would have reported so it retries
-            # next run; everything else stays remembered.
+            # Keep them queued; the next run sends them.
             print(f"notify FAILED, will retry next run: "
                   f"{type(e).__name__}: {e}", file=sys.stderr)
-            for name, r in added:
-                st.seen[name].pop(r["sk"], None)
-                if r["dk"] not in prior_roles:
-                    st.roles.pop(r["dk"], None)
+            st.held = pending
             failures.append("notify")
 
     st.save(failed_sources=failures)

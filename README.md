@@ -142,6 +142,9 @@ the end of a dated range ("Sept 2026 - May 2027" starts in Fall 2026).
 | `NTFY_BUDGET` | `3500` | Max notification body bytes before linking out (ntfy's hard limit is 4096) |
 | `SEEN_TTL_DAYS` | `60` | Days after last sighting before a listing is forgotten |
 | `WD_PER_HOST` | `5` | Max concurrent requests to one Workday host |
+| `QUIET_HOURS` | `0-8` | Local hours with no alerts (`23-7` wraps midnight; empty disables). Listings found then are held and sent as one "Overnight" summary on the first run after |
+| `QUIET_TZ` | `America/Chicago` | Time zone for `QUIET_HOURS` |
+| `QUIET_BREAKTHROUGH_TIER` | `1` | Companies at this `priority.json` tier or better still alert during quiet hours (`0` = none) |
 
 ## Watched company portals (484 boards)
 
