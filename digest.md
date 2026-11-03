@@ -1,19 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 17:31 UTC · 8 new listings_
+_Updated 2026-11-03 18:01 UTC · 7 new listings_
 
-## New listings (8) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Dell Technologies** | Dell Technologies Services Undergraduate Analytics Intern | TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-dell-technologies-299074?s=gh-internships-2027) |
-| today | **Fareway Stores, Inc.** | Corporate IT Application Development Intern | Johnston, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9f5cf2b0b1eb5805b5237?utm_campaign=1079&utm_source=git) |
-| today | **Fareway Stores, Inc.** | Corporate IT Full Stack Development Intern | Johnston, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9f5cca5966d341d02ba4b?utm_campaign=1079&utm_source=git) |
-| today | **Intel** | Student Intern, Collaboration Services System Programmer | Costa Rica, San Jose | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833) |
-| today | **Marketeq Digital Solutions** | AI Software Engineering Intern (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9ed6aa291a1db4de260f4?utm_campaign=1079&utm_source=git) |
-| today | **RGA Reinsurance Company** | Data Analyst Intern | Chesterfield, MO | vanshb03 | [apply](https://go.vansh.nyc/1dL) |
-| today | **Trimble** | AI Developer Intern | CO Westminster | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R58194?s=gh-internships-2027) |
-| 1d ago | **Allstate** | Allstate Technology Solutions Internship - Summer 2027 | Illinois, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9f3b1a291a1db4de263fc?utm_campaign=1079&utm_source=git) |
+| today | **InterDigital** | Intern, Corporate Development | Conshohocken, PA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-interdigital-interdigital-intern-REQ26-1168?s=gh-internships-2027) |
+| today | **JM Family** | Investment Analyst Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Investment-Analyst-Intern_JR105178) |
+| today | **LexisNexis Risk Solutions** | Customer Insights & Analytics Intern | Alpharetta GA Alderman | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-relx-risksolutions-R118938?s=gh-internships-2027) |
+| today | **MITRE** | Underwater Sensors Engineer Co-op | Bedford, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117955?s=gh-internships-2027) |
+| today | **Northrop Grumman** | 2027 Engineering Software Tool Development Intern - Field Engineering - Baltimore MD | United States-Maryland-Baltimore | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258965?s=gh-internships-2027) |
+| today | **Walmart** | (USA) Summer 2027 Corporate Intern:  Development and Design Project Integration Intern | (USA) Always AR Bentonville Home Office | Company portals | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Development-and-Design-Project-Integration-Intern_R-2690416) |
+| — | **Sanofi** | 2027 Summer Intern Pharmacovigilance Scientist Swiftwater PA | Swiftwater, Pennsylvania | zapplyjobs | [apply](https://zapply.jobs/l/d/radancy-sanofi-46592767808?s=gh-internships-2027) |
 
 ## Watched company portals
 
