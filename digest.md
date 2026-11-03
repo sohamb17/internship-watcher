@@ -1,17 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 21:31 UTC · 6 new listings_
+_Updated 2026-11-03 21:52 UTC · 6 new listings_
 
 ## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Allison Transmission** | Business Analyst Intern - Summer 2027 | Indianapolis, IN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008356?s=gh-internships-2027) |
-| today | **Bose** | Software/DSP Research Engineer Co-op | US, MA - Framingham | Company portals | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369) |
-| today | **Sherwin-Williams** | 2027 R&D Data Visualization Intern- Cleveland | Brecksville, OH, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-sherwin-williams-2628298?s=gh-internships-2027) |
-| today | **Sherwin-Williams** | R&D Data Visualization Intern | Brecksville, OH | vanshb03 | [apply](https://go.vansh.nyc/1eh) |
-| today | **T-Mobile** | Summer 2027 T-Ads Software Engineering Internship | Philadelphia, Pennsylvania | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234) |
-| — | **Geneva Trading** | C++ Developer (Intern) | Chicago Office | Company portals | [apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) |
+| today | **Schneider Electric** | Application Engineer Intern | Horsham, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ada58413a69033df2258003?utm_campaign=1079&utm_source=git) |
+| today | **Schneider Electric** | Digital Services Engineering Intern | Franklin, TN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad7794e54bbabbab06feb86?utm_campaign=1079&utm_source=git) |
+| today | **SS&C Technologies** | Intern - Business Systems Analyst | Boston MA - One Post | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R47368?s=gh-internships-2027) |
+| today | **Wabtec** | Firmware Engineering Co-Op | Waltham, MA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Wabtec/3743990016605126) |
+| today | **Willkie Farr & Gallagher LLP** | Application Developer Intern (Co-Op) | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea340f440b469a1c0aba91?utm_campaign=1079&utm_source=git) |
+| 285d ago | **Colonist** | Product Developer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1ek) |
 
 ## Watched company portals
 
