@@ -1,16 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 15:01 UTC · 5 new listings_
+_Updated 2026-11-03 15:31 UTC · 5 new listings_
 
 ## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Eurofins** | Business Intelligence Intern | Lancaster, PA | vanshb03 | [apply](https://go.vansh.nyc/1dC) |
-| today | **Northrop Grumman** | 2027 Cyber Systems Engineer Intern - Roy UT | United States-Utah-Roy | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10249471?s=gh-internships-2027) |
-| 26d ago | **ICF International** | Energy Researcher Intern | Arlington County, Arlington, VA / Reston, VA / NYC | SimplifyJobs | [apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418) |
-| — | **Fussball Club Cincinnati LLC (“FC Cincinnati”)** | Athletic Development Intern | Cincinnati, OH | Company portals | [apply](https://job-boards.greenhouse.io/fccincinnati/jobs/8177629003) |
-| — | **Parsons** | I&C Engineering Intern | CA, Pasadena, R187609 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-parsons-search-R187609?s=gh-internships-2027) |
+| today | **Biogen** | Intern, Information Technology | Cambridge, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-biibhr-external-REQ24162?s=gh-internships-2027) |
+| today | **Boston Scientific** | Process Development Co-op - Summer/Fall 2027 | Arden Hills US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813554206?s=gh-internships-2027) |
+| today | **Envista Holdings** | Research and Development Intern | TX | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-envista-envistacareers-R5027774?s=gh-internships-2027) |
+| today | **RTX** | Test Engineering Specialist Co-Op (Onsite) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Test-Engineering-Specialist-Co-Op--Onsite-_01874746) |
+| today | **Toyota Research Institute** | Bridging Atomistic Modeling to Real Electrochemical Systems Modeling Intern | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418) |
 
 ## Watched company portals
 
