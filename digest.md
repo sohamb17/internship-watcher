@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 01:31 UTC · 1 new listing_
+_Updated 2026-11-03 02:01 UTC · 1 new listing_
 
 ## New via Company portals (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Micron Technology** | Intern - System Engineer, HBM | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469) |
+| **Micron Technology** | Intern - Supply Management Analyst | Meridian, ID | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Meridian-ID/Intern---Supply-Management-Analyst_JR115942) |
 
 ## Watched company portals
 
