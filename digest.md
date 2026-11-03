@@ -1,16 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 15:31 UTC · 5 new listings_
+_Updated 2026-11-03 16:01 UTC · 5 new listings_
 
 ## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Biogen** | Intern, Information Technology | Cambridge, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-biibhr-external-REQ24162?s=gh-internships-2027) |
-| today | **Boston Scientific** | Process Development Co-op - Summer/Fall 2027 | Arden Hills US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813554206?s=gh-internships-2027) |
-| today | **Envista Holdings** | Research and Development Intern | TX | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-envista-envistacareers-R5027774?s=gh-internships-2027) |
-| today | **RTX** | Test Engineering Specialist Co-Op (Onsite) | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Test-Engineering-Specialist-Co-Op--Onsite-_01874746) |
-| today | **Toyota Research Institute** | Bridging Atomistic Modeling to Real Electrochemical Systems Modeling Intern | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418) |
+| today | **Meta** | Research Scientist Intern - FM Quality ML | Menlo Park, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1125383989877928) |
+| today | **AstraZeneca** | US Medical Affairs, AI & Knowledge Experience Intern | Gaithersburg - MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263260?s=gh-internships-2027) |
+| today | **KLA** | Machine Learning Engineer Intern | Milpitas, CA | Company portals | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562) |
+| today | **Trusted Concepts, Inc.** | Summer Research Intern | Arlington, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9e96332411b3e5a2e2b4e?utm_campaign=1079&utm_source=git) |
+| — | **Two Six Technologies** | Security Operations Intern | Arlington, Virginia | Company portals | [apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6142957004) |
 
 ## Watched company portals
 
