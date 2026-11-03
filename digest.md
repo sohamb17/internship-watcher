@@ -1,22 +1,32 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 03:01 UTC · 6 new listings_
+_Updated 2026-11-03 03:31 UTC · 6 new listings_
 
-## New via SimplifyJobs (3)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Waymo** | Software Engineering Intern - Commercialization | SF / Mountain View, CA | 49d ago | [apply](https://careers.withwaymo.com/jobs?gh_jid=8198218) |
-| **Signet Jewelers** | Data Analytics Intern | Akron, OH | 1d ago | [apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317) |
-| **NVIDIA** | Math Libraries Intern | Canada / Santa Clara, CA / United States | 1d ago | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) |
-
-## New via zshah101 (3)
+## New via SimplifyJobs (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **American Express** | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States | — | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375) |
-| **American Express** | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States | — | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392) |
-| **Valmont** | Embedded Systems Engineering Intern | Valley NE | 1d ago | [apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223) |
+| **GenMD** | Member of Technical Staff Intern - Applied AI | Palo Alto, CA | today | [apply](https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c/application?embed=true) |
+
+## New via vanshb03 (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Shield** | Software Engineer Intern | San Mateo, CA / Dallas, TX | 40d ago | [apply](https://go.vansh.nyc/1bL) |
+
+## New via zapplyjobs (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **NVIDIA** | AI Compiler and Kernel Intern – Summer 2027 | US, TX, Austin | today | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029220?s=gh-internships-2027) |
+
+## New via nointernship.com (3)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **NXP Semiconductors** | Hardware/Software System and Application Engineer Intern | Chandler | — | [apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/HW-SW-System-and-Application-Engineer-Intern-Summer-2027_R-10064708) |
+| **RTX** | Vision Systems Intern | Goleta | — | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems---Summer-Intern--Onsite-_01880505) |
+| **Corning** | Haptic Metrology & Stylus Tablet Development Intern | Corning | — | [apply](https://corningjobs.corning.com/job/Corning-Intern,-Haptic-Metrology-&-Stylus-Tablet-Development-Summer-2027-NY-14831/1446860600/) |
 
 ## Watched company portals
 
