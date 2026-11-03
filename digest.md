@@ -1,11 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 11:01 UTC · 7 new listings_
+_Updated 2026-11-03 11:31 UTC · 8 new listings_
 
-## New listings (7) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **CNH** | Test Engineer Intern | Baltic, SD, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6ac5bb624ac55253f5d78041?utm_campaign=1079&utm_source=git) |
 | today | **Marvell** | Hardware and Silicon validation Intern | IN - Bangalore | Company portals | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/IN---Bangalore/Hardware-and-Silicon-validation-Intern_2604087) |
 | today | **onepot** | Machine Learning Researcher Intern - Machine Learning | South SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true) |
 | today | **RTX** | Secure System Engineering Intern (Summer 2027) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185) |

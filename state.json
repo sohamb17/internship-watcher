@@ -596,6 +596,20 @@
 "sk": "jobright:6ae99520b4cb239414bd8b2e",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6ae99520b4cb239414bd8b2e?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "CNH",
+"degrees": [],
+"dk": "cnh|engineer test",
+"found": 20760,
+"loc": "Baltic, SD, United States",
+"more": 1,
+"night": true,
+"posted": 20760,
+"role": "Test Engineer Intern",
+"sk": "jobright:6ac5bb624ac55253f5d78041",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6ac5bb624ac55253f5d78041?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -1740,6 +1754,7 @@
 "cloudflare|engineer software": 20760,
 "cmsenergy|data development learning visualization": 20760,
 "cnainsurance|engineering software technology": 20760,
+"cnh|engineer test": 20760,
 "cogna|engineer software": 20759,
 "cognex|engineering software": 20760,
 "cohesity|engineer software": 20760,
@@ -8215,9 +8230,11 @@
 "jobright:6abd9835372c01f6cd7216ce": 20760,
 "jobright:6abda42cd9621c5b2838d48c": 20760,
 "jobright:6abdfa1c4ac55253f5d5f5d0": 20760,
+"jobright:6ac021ee372c01f6cd72ad37": 20760,
 "jobright:6ac29dcf372c01f6cd72fef0": 20759,
 "jobright:6ac420944ac55253f5d710e0": 20759,
 "jobright:6ac560594ac55253f5d76608": 20759,
+"jobright:6ac5bb624ac55253f5d78041": 20760,
 "jobright:6ac97d15d4a5a03707412893": 20760,
 "jobright:6acb6915a56e5406e57bc3d8": 20760,
 "jobright:6ad15fd518608b6f36f83cea": 20760,
@@ -10076,6 +10093,7 @@
 "b2f1fe9d-fc42-40d8-9d37-4d7457195c8d": 20760,
 "b3254ba9-4ac8-4f93-8a5a-67c31517f742": 20760,
 "b341bc8d-ff94-4bc4-8b4c-caf35d8f0ee7": 20759,
+"b380c306-bed2-4e4a-8c77-71a792a86621": 20760,
 "b381b011-e575-41c8-ae41-8f24bc2299d7": 20760,
 "b39e7951-0395-4c53-8303-28b2f26bd237": 20760,
 "b3b5266a-b857-4999-8c6f-daa45fa2c9e6": 20760,
