@@ -1,18 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 18:01 UTC · 7 new listings_
+_Updated 2026-11-03 18:31 UTC · 10 new listings_
 
-## New listings (7) — newest first
+## New listings (10) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **InterDigital** | Intern, Corporate Development | Conshohocken, PA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-interdigital-interdigital-intern-REQ26-1168?s=gh-internships-2027) |
-| today | **JM Family** | Investment Analyst Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Investment-Analyst-Intern_JR105178) |
-| today | **LexisNexis Risk Solutions** | Customer Insights & Analytics Intern | Alpharetta GA Alderman | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-relx-risksolutions-R118938?s=gh-internships-2027) |
-| today | **MITRE** | Underwater Sensors Engineer Co-op | Bedford, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117955?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Engineering Software Tool Development Intern - Field Engineering - Baltimore MD | United States-Maryland-Baltimore | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258965?s=gh-internships-2027) |
-| today | **Walmart** | (USA) Summer 2027 Corporate Intern:  Development and Design Project Integration Intern | (USA) Always AR Bentonville Home Office | Company portals | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Development-and-Design-Project-Integration-Intern_R-2690416) |
-| — | **Sanofi** | 2027 Summer Intern Pharmacovigilance Scientist Swiftwater PA | Swiftwater, Pennsylvania | zapplyjobs | [apply](https://zapply.jobs/l/d/radancy-sanofi-46592767808?s=gh-internships-2027) |
+| today | **CareSource** | Data Science Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1dQ) |
+| today | **Hearst** | Rebele Editorial AI Development Intern | San Francisco, CA, United States | zshah101 | [apply](https://job-boards.greenhouse.io/hearst/jobs/4473043009) |
+| today | **Infineon Technologies** | Internship – R&D Product Engineer | Leominster, MA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6acd6a21a56e5406e57c13e4?utm_campaign=1079&utm_source=git) |
+| today | **JM Family** | Financial Analyst Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Financial-Analyst-Intern_JR105141) |
+| today | **Lockheed Martin** | Software Engineer (Embedded) Intern - Summer 2027 | Highlands Ranch, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae8fbc603f4a1104b2589e7?utm_campaign=1079&utm_source=git) |
+| today | **Nex** | Summer 2027 \| Software Engineer Intern (Sports & Fitness) | San Jose, California (Hybrid) | zshah101 | [apply](https://job-boards.greenhouse.io/nex/jobs/5421056008) |
+| today | **Nexthink** | Java Software Engineer (Intern) | Madrid, MD, International (ES) (Hybrid) | zshah101 | [apply](https://jobs.smartrecruiters.com/Nexthink/744000159392102) |
+| today | **Tammina Infotech Pvt.Ltd** | Intern – Software Development | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea06631ba298c77776e0a0?utm_campaign=1079&utm_source=git) |
+| — | **American Express** | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States | zshah101 | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065) |
+| — | **American Express** | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunnyvale, CA | Sunnyvale, CA, United States | zshah101 | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722) |
 
 ## Watched company portals
 
