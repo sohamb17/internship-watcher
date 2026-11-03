@@ -1,13 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 05:01 UTC · 2 new listings_
+_Updated 2026-11-03 05:31 UTC · 7 new listings_
 
-## New via zapplyjobs (2)
+## New via Company portals (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Jabil** | Engineering Internships - Salt Lake City, UT | Salt Lake City/Grantsville, UT | 6d ago | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2468445?s=gh-internships-2027) |
-| **Jabil** | Engineering Internships - Memphis, TN | Memphis, TN | 6d ago | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2468449?s=gh-internships-2027) |
+| **ASML** | Co-op - Test and Measurement Facility Engineer (Internship) | Wilton, CT, USA | today | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Co-op---Test-and-Measurement-Facility-Engineer--Internship-_J-00356415) |
+
+## New via vanshb03 (6)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **CAI** | Cybersecurity Analyst Intern | United States | today | [apply](https://go.vansh.nyc/1cd) |
+| **CAI** | GIS Software Developer Intern | United States | today | [apply](https://go.vansh.nyc/1ce) |
+| **Cambridge Investment Research** | Data Engineering Intern | Phoenix, AZ / Fairfield, IA | today | [apply](https://go.vansh.nyc/1cj) |
+| **CWAN** | Software Development Intern | Boise, ID | today | [apply](https://go.vansh.nyc/1cl) |
+| **CWAN** | Gen AI Intern | Seattle, WA | today | [apply](https://go.vansh.nyc/1cn) |
+| **onepot** | Research Intern, Machine Learning | South San Francisco, CA | today | [apply](https://go.vansh.nyc/1cp) |
 
 ## Watched company portals
 
