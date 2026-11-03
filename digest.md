@@ -1,27 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 04:31 UTC · 6 new listings_
+_Updated 2026-11-03 05:01 UTC · 2 new listings_
 
-## New via vanshb03 (2)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **ATC** | Cyber Security Intern | Pewaukee, WI | today | [apply](https://go.vansh.nyc/1bS) |
-| **Allegion** | Firmware Engineer Intern, Advanced Development | Indianapolis, IN | today | [apply](https://go.vansh.nyc/1c1) |
-
-## New via zapplyjobs (3)
+## New via zapplyjobs (2)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Booz Allen Hamilton** | University - 2027 Summer Games Software Developer Intern - Charleston, SC | Charleston, SC | 5d ago | [apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248134?s=gh-internships-2027) |
-| **Booz Allen Hamilton** | University - 2027 Summer Games Data Scientist Intern - Huntsville, AL | Huntsville, AL | 5d ago | [apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248407?s=gh-internships-2027) |
-| **Booz Allen Hamilton** | University - 2027 Summer Games Data Scientist Intern - Charleston, SC | Charleston, SC | 5d ago | [apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248137?s=gh-internships-2027) |
-
-## New via Jobright (1)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **PACCAR** | 2027 Summer Internship: Design Engineer- Autonomous Vehicle Platform | Denton, TX, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6ae9492e43826864b0fb8921?utm_campaign=1079&utm_source=git) |
+| **Jabil** | Engineering Internships - Salt Lake City, UT | Salt Lake City/Grantsville, UT | 6d ago | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2468445?s=gh-internships-2027) |
+| **Jabil** | Engineering Internships - Memphis, TN | Memphis, TN | 6d ago | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2468449?s=gh-internships-2027) |
 
 ## Watched company portals
 
