@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 06:01 UTC · 2 new listings_
+_Updated 2026-11-03 06:31 UTC · 0 new listings_
 
-## New via Jobright (2)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **Garmin** | Software Engineer Intern - Automotive OEM | Novi, MI, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6a9b200c9c24314c35f97de2?utm_campaign=1079&utm_source=git) |
-| **PACCAR** | 2027 Summer Internship: Software Developer | Denton, TX, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6ae9500573d24ab055c56acf?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
