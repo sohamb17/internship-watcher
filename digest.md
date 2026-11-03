@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 08:01 UTC · 0 new listings_
+_Updated 2026-11-03 08:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **onepot** | Machine Learning Researcher Intern - Machine Learning | South SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true) |
 
 ## Watched company portals
 
