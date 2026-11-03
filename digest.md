@@ -1,18 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 20:01 UTC · 7 new listings_
+_Updated 2026-11-03 20:31 UTC · 4 new listings_
 
-## New listings (7) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CFS Energy** | Intern - Software Engineer - Summer 2027 | Devens, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/lever-cfsenergy-f71bb176-75b9-4a30-8b2a-e3078b45505d?s=gh-internships-2027) |
-| today | **Commonwealth Fusion Systems** | Intern - R&D Multiphysics Simulation Intern  - Spring or Summer 2027 | Somerville, MA | Company portals | [apply](https://jobs.lever.co/cfsenergy/deff5f97-d48c-45fe-800b-55cc0f359568) |
-| today | **Hewlett Packard (HP)** | Software Engineering Intern, AIML Platform | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1e0) |
-| today | **HP Inc** | Software Engineering Intern, AIML Platform - HP IQ | San Francisco, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4800?s=gh-internships-2027) |
-| today | **HP Inc** | Software Engineering Intern, Product & Developer Productivity - HP IQ | San Francisco, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4803?s=gh-internships-2027) |
-| today | **Tenet Healthcare** | Workforce Data & Analytics Intern – Summer 2027 – Onsite in Dallas, TX | Dallas, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603028284?s=gh-internships-2027) |
-| 26d ago | **Amazon** | Systems Development Engineer Intern, (US) 2027 | Bellevue, Washington, USA | Company portals | [apply](https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027) |
+| today | **Berkshire Hathaway Energy** | Intern - Gas Engineering | Davenport, IA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-berkshire-hathaway-energy-10006003?s=gh-internships-2027) |
+| today | **CFS Energy** | Intern - R&D Multiphysics Simulation Intern  - Spring or Summer 2027 | Somerville, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/lever-cfsenergy-deff5f97-d48c-45fe-800b-55cc0f359568?s=gh-internships-2027) |
+| today | **Hewlett Packard (HP)** | Software Engineering Intern, Product & Developer Productivity | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1e4) |
+| — | **USAFacts** | AI Product Intern | Bellevue, WA | Company portals | [apply](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) |
 
 ## Watched company portals
 
