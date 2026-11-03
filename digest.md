@@ -1,12 +1,27 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 02:01 UTC · 1 new listing_
+_Updated 2026-11-03 02:31 UTC · 6 new listings_
 
 ## New via Company portals (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Micron Technology** | Intern - Supply Management Analyst | Meridian, ID | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Meridian-ID/Intern---Supply-Management-Analyst_JR115942) |
+| **Sonos** | Data Engineering Intern (Seattle) | Seattle, WA | today | [apply](https://sonos.wd1.myworkdayjobs.com/en-US/sonos/job/Seattle-WA/Data-Engineering-Intern--Seattle-_R2897-1) |
+
+## New via vanshb03 (1)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Shield** | Embedded Firmware Intern | Dallas, TX | today | [apply](https://go.vansh.nyc/1bJ) |
+
+## New via Jobright (4)
+
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| **Waymo** | 2027 Summer Intern, BS/MS, Software Engineering, Commercialization | Mountain View, CA, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6ae92711777c336eb6d6a011?utm_campaign=1079&utm_source=git) |
+| **Costco Wholesale** | CDS Intern - PowerApps Developer - ECM Digital Workflow | Issaquah, WA, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6ae925c6777c336eb6d69f66?utm_campaign=1079&utm_source=git) |
+| **Costco Wholesale** | CDS Intern - Global People Systems-Enhancements & Optimization | Issaquah, WA, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6ae8d8a503f4a1104b256f88?utm_campaign=1079&utm_source=git) |
+| **Modern Technology Solutions, Inc. (MTSI)** | Software Engineering Intern or Co-Op | Chantilly, VA, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6ae8f214a2a252e21942b0f8?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
