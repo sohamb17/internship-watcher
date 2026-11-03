@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 06:39 UTC · 0 new listings_
+_Updated 2026-11-03 06:49 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Kenworth Truck Co.** | 2027 Summer Internship: Design Engineer- Autonomous Vehicle Platform | Denton, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9667d32411b3e5a2e086a?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Kenworth Truck Co.** | 2027 Summer Internship: Software Developer | Denton, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9667d14b684da08ddfa65?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
