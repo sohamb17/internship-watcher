@@ -1,16 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 10:01 UTC · 5 new listings_
+_Updated 2026-11-03 10:31 UTC · 7 new listings_
 
-## New listings (5) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Marvell** | Hardware and Silicon validation Intern | IN - Bangalore | Company portals | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/IN---Bangalore/Hardware-and-Silicon-validation-Intern_2604087) |
 | today | **onepot** | Machine Learning Researcher Intern - Machine Learning | South SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true) |
 | today | **RTX** | Secure System Engineering Intern (Summer 2027) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185) |
+| today | **Vaccine Vets** | Software Engineering Intern (Japanese Speaking Preferred) | Los Angeles, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae99520b4cb239414bd8b2e?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Valency Networks Private Limited** | WordPress Website Developer Intern (Remote) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae98c6b43826864b0fb9d7b?utm_campaign=1079&utm_source=git) |
 | 6d ago | **Jabil** | Automation Engineering Intern | Clinton, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2466618?s=gh-internships-2027) |
+| 20d ago | **LSEG** | Intern - Software Engineer | New York City, United States | zshah101 | [apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1) |
 
 ## Watched company portals
 
