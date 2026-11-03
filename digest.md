@@ -1,21 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 01:01 UTC · 5 new listings_
+_Updated 2026-11-03 01:31 UTC · 1 new listing_
 
-## New via Company portals (3)
-
-| Company | Role | Location | Posted | Link |
-|---|---|---|---|---|
-| **GlobalFoundries** | PDK Design Engineering Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/PDK-Design-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605133) |
-| **GlobalFoundries** | Silicon Photonics Advanced Packaging Intern (Summer 2027) | USA - New York - Malta | today | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2605136) |
-| **RTX** | Systems Engineering Intern, BMC2 (Onsite) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | today | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Intern--BMC2--Onsite-_01885577) |
-
-## New via Jobright (2)
+## New via Company portals (1)
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| **Skyband Systems** | Summer 2027 Internship: Software Engineering | Kirkland, WA, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6ae9119d6c51033758f45f74?utm_campaign=1079&utm_source=git) |
-| **Garmin** | Software Engineer Intern - Aviation Web Development | Middlebury, CT, United States | 1d ago | [apply](https://jobright.ai/jobs/info/6a9b10a29c24314c35f97938?utm_campaign=1079&utm_source=git) |
+| **Micron Technology** | Intern - System Engineer, HBM | Boise, ID - Main Site | today | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469) |
 
 ## Watched company portals
 
