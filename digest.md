@@ -1,16 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 16:01 UTC · 5 new listings_
+_Updated 2026-11-03 16:21 UTC · 6 new listings_
 
-## New listings (5) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Meta** | Research Scientist Intern - FM Quality ML | Menlo Park, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1125383989877928) |
-| today | **AstraZeneca** | US Medical Affairs, AI & Knowledge Experience Intern | Gaithersburg - MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263260?s=gh-internships-2027) |
-| today | **KLA** | Machine Learning Engineer Intern | Milpitas, CA | Company portals | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562) |
-| today | **Trusted Concepts, Inc.** | Summer Research Intern | Arlington, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9e96332411b3e5a2e2b4e?utm_campaign=1079&utm_source=git) |
-| — | **Two Six Technologies** | Security Operations Intern | Arlington, Virginia | Company portals | [apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6142957004) |
+| today | **American Express** | Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services | Sunnyvale, CA | SimplifyJobs | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722) |
+| today | **American Express** | Undergraduate Program Software Engineer Intern, Enterprise Technology Services | Sunnyvale, CA | vanshb03 | [apply](https://go.vansh.nyc/1dH) |
+| today | **ASML** | Internship - Material Science, SD Foundation | San Diego, CA, USA (+1 more) | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship---Material-Science--SD-Foundation_J-00351298) |
+| today | **RTX** | Industrial Engineer Co-Op (Summer/Fall 2027) | US-IA-CORALVILLE-155 ~ 2855 Heartland Dr ~ HEARTLAND BLDG 15 | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CORALVILLE-155--2855-Heartland-Dr--HEARTLAND-BLDG-155/Industrial-Engineer-Co-Op--Summer-Fall-2027-_01881171) |
+| 5d ago | **RTX** | Sustainment Data and Analytics Intern | East Hartford, CT | SimplifyJobs | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Sustainment-Data-and-Analytics-Intern--Summer-2027-_01885110) |
+| — | **The New York Times** | Advertising Business Data Analyst Intern | New York, NY | Company portals | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005) |
 
 ## Watched company portals
 
