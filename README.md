@@ -136,6 +136,7 @@ the end of a dated range ("Sept 2026 - May 2027" starts in Fall 2026).
 | `AMZN_MAX` | `400` | Max amazon.jobs results paged |
 | `US_ONLY` | `1` | `0` keeps non-US ATS postings |
 | `MIN_YEAR` | `2027` | Drop ATS postings naming an earlier season year |
+| `PRIORITY_FILE` | `priority.json` | Company tiers used to order same-age postings |
 | `DIGEST_FILE` | `digest.md` | Where the full list is written each run |
 | `DIGEST_URL` | auto | Link the notification opens; derived from `GITHUB_REPOSITORY` |
 | `NTFY_BUDGET` | `3500` | Max notification body bytes before linking out (ntfy's hard limit is 4096) |
@@ -276,11 +277,19 @@ previously suppressing.
 **One push per run, and a digest behind it.** Each run writes `digest.md`
 and the push links to it: every new posting with company, role, location,
 posting age, source and apply link, in one table sorted **newest posting
-first** (unknown dates last, same-age roles grouped by company), then an index
+first** (unknown dates last; within the same age, MAG-7 companies first, then
+FAANG+, then everyone else alphabetically — see `priority.json`), then an index
 of every watched company's careers page. The push lists postings in the same
 order, filling up to ntfy's 4 KB limit and linking to the digest for the rest.
 Older postings that a source adds or reopens late are still reported, with
 their age shown — they sort to the bottom rather than being dropped.
+
+**Company tiers (`priority.json`).** Tier 1 is the MAG-7 plus Netflix; tier
+2 is FAANG+ — speedyapply's FAANG+ list, the leading AI labs, big-tech peers
+and the top quant firms. Tiers only reorder postings of the same age; they
+never filter. Each company lists aliases, matched exactly, or as a prefix when
+the alias is 6+ letters: "Amazon.com Services LLC" is Amazon, but "Apple
+Bank" is not Apple. Edit the file to change who counts.
 
 **Reworded duplicates are caught too.** Sources word the same job
 differently and even name the company differently: Shield AI's "Summer 2027

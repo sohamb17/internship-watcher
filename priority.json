@@ -1,0 +1,191 @@
+{
+  "_comment": "Company tiers for ordering alerts. Within the same posting age, tier 1 sorts first, then tier 2, then everyone else. Each entry is a display name -> aliases; a company matches an alias exactly, or starts with it when the alias is 6+ letters (so 'Amazon' covers 'Amazon Web Services' but 'Meta' does not cover 'Metabase'). Edit freely.",
+  "tier1": {
+    "Google": [
+      "google",
+      "alphabet",
+      "google deepmind",
+      "deepmind"
+    ],
+    "Meta": [
+      "meta",
+      "meta platforms",
+      "facebook"
+    ],
+    "Apple": [
+      "apple"
+    ],
+    "Amazon": [
+      "amazon",
+      "aws",
+      "amazon web services"
+    ],
+    "Microsoft": [
+      "microsoft"
+    ],
+    "NVIDIA": [
+      "nvidia"
+    ],
+    "Tesla": [
+      "tesla"
+    ],
+    "Netflix": [
+      "netflix"
+    ]
+  },
+  "tier2": {
+    "OpenAI": [
+      "openai"
+    ],
+    "Anthropic": [
+      "anthropic"
+    ],
+    "xAI": [
+      "xai"
+    ],
+    "Scale AI": [
+      "scale ai",
+      "scaleai"
+    ],
+    "Databricks": [
+      "databricks"
+    ],
+    "Snowflake": [
+      "snowflake"
+    ],
+    "Stripe": [
+      "stripe"
+    ],
+    "Uber": [
+      "uber"
+    ],
+    "Airbnb": [
+      "airbnb"
+    ],
+    "LinkedIn": [
+      "linkedin"
+    ],
+    "Salesforce": [
+      "salesforce"
+    ],
+    "Adobe": [
+      "adobe"
+    ],
+    "Oracle": [
+      "oracle"
+    ],
+    "Bloomberg": [
+      "bloomberg"
+    ],
+    "Datadog": [
+      "datadog"
+    ],
+    "Figma": [
+      "figma"
+    ],
+    "Pinterest": [
+      "pinterest"
+    ],
+    "DoorDash": [
+      "doordash"
+    ],
+    "Lyft": [
+      "lyft"
+    ],
+    "Roblox": [
+      "roblox"
+    ],
+    "Ramp": [
+      "ramp"
+    ],
+    "Rivian": [
+      "rivian"
+    ],
+    "TikTok": [
+      "tiktok",
+      "bytedance"
+    ],
+    "Twitch": [
+      "twitch"
+    ],
+    "Waymo": [
+      "waymo"
+    ],
+    "Palantir": [
+      "palantir"
+    ],
+    "Coinbase": [
+      "coinbase"
+    ],
+    "Robinhood": [
+      "robinhood"
+    ],
+    "Cloudflare": [
+      "cloudflare"
+    ],
+    "MongoDB": [
+      "mongodb"
+    ],
+    "Confluent": [
+      "confluent"
+    ],
+    "Atlassian": [
+      "atlassian"
+    ],
+    "Spotify": [
+      "spotify"
+    ],
+    "Instacart": [
+      "instacart"
+    ],
+    "Reddit": [
+      "reddit"
+    ],
+    "Discord": [
+      "discord"
+    ],
+    "Dropbox": [
+      "dropbox"
+    ],
+    "Jane Street": [
+      "jane street"
+    ],
+    "Citadel": [
+      "citadel",
+      "citadel securities"
+    ],
+    "Hudson River Trading": [
+      "hudson river trading",
+      "hrt"
+    ],
+    "Two Sigma": [
+      "two sigma"
+    ],
+    "D. E. Shaw": [
+      "de shaw",
+      "d e shaw",
+      "the d e shaw group"
+    ],
+    "Jump Trading": [
+      "jump trading"
+    ],
+    "Five Rings": [
+      "five rings",
+      "five rings capital"
+    ],
+    "IMC Trading": [
+      "imc",
+      "imc trading"
+    ],
+    "Optiver": [
+      "optiver"
+    ],
+    "Susquehanna": [
+      "susquehanna",
+      "sig"
+    ],
+    "DRW": [
+      "drw"
+    ]
+  }
+}

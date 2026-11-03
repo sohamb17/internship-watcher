@@ -58,6 +58,7 @@ import urllib.request
 
 STATE = os.environ.get("STATE_FILE", "state.json")
 BOARDS_FILE = os.environ.get("BOARDS_FILE", "boards.json")
+PRIORITY_FILE = os.environ.get("PRIORITY_FILE", "priority.json")
 TOPIC = os.environ.get("NTFY_TOPIC")
 ONLY = {s.strip() for s in os.environ.get("SOURCES", "").split(",") if s.strip()}
 US_ONLY = os.environ.get("US_ONLY", "1") != "0"
@@ -1469,10 +1470,49 @@ def announce(new, link):
     notify(title, body, link)
 
 
+def _co_key(name):
+    """Company name -> comparison key, normalised the same way as canon()."""
+    c = _SUFFIX.sub(" ", EMOJI.sub("", name or "").lower())
+    return re.sub(r"[^a-z0-9]", "", c)
+
+
+def _load_tiers():
+    """priority.json -> [(tier, alias key)], tier 1 before tier 2."""
+    try:
+        with open(PRIORITY_FILE) as f:
+            d = json.load(f)
+    except (OSError, ValueError):
+        return []
+    out = []
+    for tier, key in ((1, "tier1"), (2, "tier2")):
+        for name, aliases in (d.get(key) or {}).items():
+            for a in [name, *aliases]:
+                k = _co_key(a)
+                if k:
+                    out.append((tier, k))
+    return out
+
+
+TIERS = _load_tiers()
+
+
+def company_tier(name):
+    """1 for the MAG-7 + Netflix, 2 for FAANG+, 3 for everyone else. An
+    alias matches exactly, or as a prefix when it is 6+ letters, so
+    "Amazon Web Services" is Amazon but "Metabase" is not Meta."""
+    k = _co_key(name)
+    best = 3
+    for tier, a in TIERS:
+        if tier < best and (k == a or (len(a) >= 6 and k.startswith(a))):
+            best = tier
+    return best
+
+
 def by_recency(item):
-    """Sort key: newest posting first, unknown age last, then company/role."""
+    """Sort key: newest posting first, unknown age last; within the same
+    age, tier 1 then tier 2 companies, then everyone else alphabetically."""
     r = item[1] if isinstance(item, tuple) else item
-    return (r["age"] is None, r["age"] or 0,
+    return (r["age"] is None, r["age"] or 0, company_tier(r["company"]),
             (r["company"] or "").lower(), (r["role"] or "").lower())
 
 
