@@ -1,15 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 17:01 UTC · 4 new listings_
+_Updated 2026-11-03 17:31 UTC · 8 new listings_
 
-## New listings (4) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Arrowstreet Capital** | Software Engineer Intern, Summer 2027 | Boston | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-arrowstreetcapital-campus-careers-R1561?s=gh-internships-2027) |
-| today | **Dell Technologies** | CSG Hardware Engineering Intern | TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-dell-technologies-298216?s=gh-internships-2027) |
-| today | **Dell Technologies** | CSG Software Engineering Undergraduate Intern | TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-dell-technologies-298217?s=gh-internships-2027) |
-| today | **JM Family** | Industrial Engineering Intern | Florida - Jacksonville | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Jacksonville/Industrial-Engineering-Intern_JR105189) |
+| today | **Dell Technologies** | Dell Technologies Services Undergraduate Analytics Intern | TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-dell-technologies-299074?s=gh-internships-2027) |
+| today | **Fareway Stores, Inc.** | Corporate IT Application Development Intern | Johnston, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9f5cf2b0b1eb5805b5237?utm_campaign=1079&utm_source=git) |
+| today | **Fareway Stores, Inc.** | Corporate IT Full Stack Development Intern | Johnston, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9f5cca5966d341d02ba4b?utm_campaign=1079&utm_source=git) |
+| today | **Intel** | Student Intern, Collaboration Services System Programmer | Costa Rica, San Jose | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833) |
+| today | **Marketeq Digital Solutions** | AI Software Engineering Intern (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9ed6aa291a1db4de260f4?utm_campaign=1079&utm_source=git) |
+| today | **RGA Reinsurance Company** | Data Analyst Intern | Chesterfield, MO | vanshb03 | [apply](https://go.vansh.nyc/1dL) |
+| today | **Trimble** | AI Developer Intern | CO Westminster | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R58194?s=gh-internships-2027) |
+| 1d ago | **Allstate** | Allstate Technology Solutions Internship - Summer 2027 | Illinois, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9f3b1a291a1db4de263fc?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
