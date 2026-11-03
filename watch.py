@@ -205,6 +205,94 @@ def canon(company, role):
     return f"{c}|{r}"
 
 
+# Second-pass duplicate check, same company only. canon() catches identical
+# wording; different sources word one role differently:
+#   "Embedded Systems Engineer Intern" / "Embedded Systems Engineering Intern"
+#   "CDS Intern - Software Engineer - IT Retail Media" /
+#       "Software Engineer Intern, IT Retail Media"
+#   "2027 Summer Intern, BS/MS, Software Engineering, Commercialization" /
+#       "Software Engineering Intern - Commercialization"
+#   "Summer 2027 Intern - Embedded Firmware - 5810" / "Embedded Firmware Intern"
+# Titles are reduced to their meaningful words (degree tags, job numbers, work
+# mode and the company's own name removed; engineering -> engineer) and are
+# the same role when the word sets match, or when one contains the other and
+# the only extra words are short codes like "CDS". Short meaningful words
+# (AI, ML, iOS, SRE...) count as a real difference, and a title needs three
+# words before containment applies, so "Software Engineer Intern" and
+# "Software Engineer Intern, Backend" stay distinct.
+_FUZZ_DROP = {"bs", "ms", "ba", "ma", "phd", "mba", "bsms", "msphd", "student",
+              "graduate", "undergraduate", "onsite", "hybrid", "remote", "in",
+              "on", "site", "level", "i", "ii", "iii"}
+_FUZZ_STEM = {"engineering": "engineer", "engineers": "engineer",
+              "developers": "developer", "analysts": "analyst",
+              "scientists": "scientist", "systems": "system",
+              "services": "service", "solutions": "solution",
+              "technologies": "technology", "operations": "operation"}
+_FUZZ_MEANINGFUL = {"ai", "ml", "ar", "vr", "xr", "ios", "qa", "ui", "ux",
+                    "sre", "gpu", "cpu", "soc", "rf", "it", "hr", "pm", "llm",
+                    "nlp", "cv", "api", "sql", "web", "app", "c", "go", "dev",
+                    "ops", "net", "mac", "fpga", "asic", "rtl", "pcb", "hw",
+                    "sw", "os", "db", "bi", "erp", "crm", "sap", "seo"}
+
+
+def role_words(dk):
+    """canon() key -> (company, frozenset of meaningful title words)."""
+    company, _, words = dk.partition("|")
+    out = set()
+    for t in words.split():
+        if t.isdigit() or t in _FUZZ_DROP:
+            continue
+        if t == company or (len(t) >= 5 and company.startswith(t)):
+            continue                      # "Costco Digital Services Intern"
+        out.add(_FUZZ_STEM.get(t, t))
+    return company, frozenset(out)
+
+
+def same_role(a, b):
+    if a == b:
+        return bool(a)
+    small, big = (a, b) if len(a) <= len(b) else (b, a)
+    return (len(small) >= 3 and small <= big
+            and all(len(t) <= 3 and t not in _FUZZ_MEANINGFUL for t in big - small))
+
+
+def same_company(a, b):
+    """Sources disagree on company names: "Shield" / "Shield AI", "Costco" /
+    "Costco Wholesale". Treat one name being the start of the other as the
+    same company, if the shorter is at least 6 letters (so "Intel" does not
+    swallow "Intelligent Systems")."""
+    if a == b:
+        return True
+    short, long_ = (a, b) if len(a) <= len(b) else (b, a)
+    return len(short) >= 6 and long_.startswith(short)
+
+
+class RoleIndex:
+    """Per-company word sets for the fuzzy check, bucketed by the first six
+    letters of the company so related names are compared cheaply."""
+
+    def __init__(self, keys=()):
+        self.by_co = {}
+        self.bucket = {}
+        for k in keys:
+            self.add(k)
+
+    def add(self, dk):
+        co, words = role_words(dk)
+        if co not in self.by_co:
+            self.by_co[co] = set()
+            self.bucket.setdefault(co[:6], set()).add(co)
+        self.by_co[co].add(words)
+
+    def match(self, dk):
+        co, words = role_words(dk)
+        for other in self.bucket.get(co[:6], ()):
+            if same_company(co, other) and any(
+                    same_role(words, w) for w in self.by_co[other]):
+                return True
+        return False
+
+
 # --------------------------------------------------------------------------
 # location + relevance filters (ATS only; listings.json is pre-categorised)
 # --------------------------------------------------------------------------
@@ -1460,6 +1548,8 @@ def main():
     # (not the live maps) is what lets two sources reporting the same new
     # role in one run be merged, rather than the second one looking known.
     prior_roles = set(st.roles)
+    prior_index = RoleIndex(prior_roles)     # fuzzy: earlier runs
+    run_index = RoleIndex()                  # fuzzy: alerts this run
     new_by_source, by_role, added = {}, {}, []
     for name in active:
         rows = rows_by_source.get(name)
@@ -1471,7 +1561,8 @@ def main():
         prior_boards = set(st.boards)
         fresh = dup = board_seeded = 0
         for r in rows:
-            unseen = r["sk"] not in prior_ids and r["dk"] not in prior_roles
+            unseen = (r["sk"] not in prior_ids and r["dk"] not in prior_roles
+                      and not prior_index.match(r["dk"]))
             mem[r["sk"]] = st.now                       # observed: refresh
             st.roles[r["dk"]] = st.now
             # A board just added to boards.json seeds silently, the same way
@@ -1495,7 +1586,11 @@ def main():
                 by_role[r["dk"]]["more"] = by_role[r["dk"]].get("more", 0) + 1
                 dup += 1
                 continue
+            if run_index.match(r["dk"]):                # reworded, this run
+                dup += 1
+                continue
             by_role[r["dk"]] = r
+            run_index.add(r["dk"])
             new_by_source.setdefault(name, []).append(r)
             added.append((name, r))
             fresh += 1

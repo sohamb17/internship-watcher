@@ -273,6 +273,23 @@ key with season, year, punctuation and word order stripped; `simplify` wins.
 Dedupe keys are persisted, so an outage cannot unmask duplicates a source was
 previously suppressing.
 
+**Reworded duplicates are caught too.** Sources word the same job
+differently and even name the company differently: Shield AI's "Summer 2027
+Intern - Embedded Firmware - 5810" came back as "Embedded Firmware Intern" from
+"Shield", and Costco's "CDS Intern - Software Engineer - IT Retail Media" as
+"Software Engineer Intern, IT Retail Media". Within the same company — one name
+being the start of the other, 6+ letters, so "Costco" matches "Costco
+Wholesale" but "Intel" does not match "Intelligent Systems" — titles are
+reduced to their meaningful words (degree tags, job numbers and the company's
+own name dropped; engineering → engineer) and count as one role when the word
+sets match, or when one contains the other with only short codes like "CDS"
+left over. Short words that carry meaning (AI, ML, iOS, SRE…) still separate
+roles, and titles under three words must match exactly, so "Software Engineer
+Intern" and "…, Backend" stay distinct. Replayed over the first 143 alerts of
+the v4 history, this would have removed 8, all genuine duplicates, and kept
+every lookalike-but-distinct pair (RTX's two teams, Booz Allen's two cities,
+AmEx's undergraduate vs Masters programs).
+
 **Partial ATS failure is tolerated; majority failure is not.** If more than
 half the boards are unreachable the source refuses to run rather than
 concluding every posting vanished.
