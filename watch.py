@@ -1438,7 +1438,7 @@ def entry_lines(r):
 
 def announce(new, link):
     """One push per run across all sources, newest first."""
-    new = sorted(new, key=lambda r: (r["age"] is None, r["age"] or 0))
+    new = sorted(new, key=by_recency)
     companies = []
     for r in new:
         if r["company"] not in companies:
@@ -1469,6 +1469,13 @@ def announce(new, link):
     notify(title, body, link)
 
 
+def by_recency(item):
+    """Sort key: newest posting first, unknown age last, then company/role."""
+    r = item[1] if isinstance(item, tuple) else item
+    return (r["age"] is None, r["age"] or 0,
+            (r["company"] or "").lower(), (r["role"] or "").lower())
+
+
 def write_digest(new_by_source, boards, path=DIGEST_FILE):
     """The page the notification's Click opens: every new posting in full,
     then the complete watched-company index with portal links."""
@@ -1482,22 +1489,24 @@ def write_digest(new_by_source, boards, path=DIGEST_FILE):
 
     if not total:
         out += ["Nothing new this run.", ""]
-    for src in PRIORITY:
-        rows = new_by_source.get(src) or []
-        if not rows:
-            continue
-        label = LABELS.get(src, src)
-        out += [f"## New via {label} ({len(rows)})", "",
-                "| Company | Role | Location | Posted | Link |",
-                "|---|---|---|---|---|"]
-        for r in rows:
+    else:
+        # One list, newest posting first; unknown dates last; same-age
+        # listings grouped by company. Source is a column, not a section.
+        rows = [(src, r) for src in PRIORITY for r in new_by_source.get(src) or []]
+        rows.sort(key=by_recency)
+        out += [f"## New listings ({total}) — newest first", "",
+                "| Posted | Company | Role | Location | Source | Link |",
+                "|---|---|---|---|---|---|"]
+        for src, r in rows:
             role = (r["role"] or "").replace("|", "\\|")
             comp = (r["company"] or "").replace("|", "\\|")
             loc = (r["loc"] or "—").replace("|", "\\|")
             deg = ("<br>" + "/".join(r["degrees"])
                    if r["degrees"] and "Bachelor's" not in r["degrees"] else "")
-            out.append(f"| **{comp}** | {role}{deg} | {loc} | "
-                       f"{ago(r['age']) or '—'} | [apply]({r['url']}) |")
+            more = f" (+{r['more']} more)" if r.get("more") else ""
+            out.append(f"| {ago(r['age']) or '—'} | **{comp}** | {role}{deg} | "
+                       f"{loc}{more} | {LABELS.get(src, src)} | "
+                       f"[apply]({r['url']}) |")
         out.append("")
 
     out += ["## Watched company portals", "",

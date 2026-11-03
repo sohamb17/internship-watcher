@@ -273,6 +273,15 @@ key with season, year, punctuation and word order stripped; `simplify` wins.
 Dedupe keys are persisted, so an outage cannot unmask duplicates a source was
 previously suppressing.
 
+**One push per run, and a digest behind it.** Each run writes `digest.md`
+and the push links to it: every new posting with company, role, location,
+posting age, source and apply link, in one table sorted **newest posting
+first** (unknown dates last, same-age roles grouped by company), then an index
+of every watched company's careers page. The push lists postings in the same
+order, filling up to ntfy's 4 KB limit and linking to the digest for the rest.
+Older postings that a source adds or reopens late are still reported, with
+their age shown — they sort to the bottom rather than being dropped.
+
 **Reworded duplicates are caught too.** Sources word the same job
 differently and even name the company differently: Shield AI's "Summer 2027
 Intern - Embedded Firmware - 5810" came back as "Embedded Firmware Intern" from
