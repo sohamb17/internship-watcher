@@ -1,15 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 20:31 UTC · 4 new listings_
+_Updated 2026-11-03 21:01 UTC · 3 new listings_
 
-## New listings (4) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Berkshire Hathaway Energy** | Intern - Gas Engineering | Davenport, IA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-berkshire-hathaway-energy-10006003?s=gh-internships-2027) |
-| today | **CFS Energy** | Intern - R&D Multiphysics Simulation Intern  - Spring or Summer 2027 | Somerville, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/lever-cfsenergy-deff5f97-d48c-45fe-800b-55cc0f359568?s=gh-internships-2027) |
-| today | **Hewlett Packard (HP)** | Software Engineering Intern, Product & Developer Productivity | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1e4) |
-| — | **USAFacts** | AI Product Intern | Bellevue, WA | Company portals | [apply](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) |
+| today | **Blue Bird Corporation** | Intern, Software Controls | Fort Valley, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ace3a354391691a335ab4ee?utm_campaign=1079&utm_source=git) |
+| today | **General Dynamics Electric Boat** | 2027 Quality Assurance – Engineering Summer Internship | Groton, CT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae4f2e8fb2cd420ace5b6f9?utm_campaign=1079&utm_source=git) |
+| today | **Marketeq Digital Solutions** | AI Frontend Engineering Intern (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea2d93440b469a1c0ab6f6?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
