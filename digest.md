@@ -1,22 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 22:31 UTC · 11 new listings_
+_Updated 2026-11-03 23:01 UTC · 9 new listings_
 
-## New listings (11) — newest first
+## New listings (9) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Baird** | Quality Assurance Automation Engineer Intern | Milwaukee, WI | vanshb03 | [apply](https://go.vansh.nyc/1f0) |
-| today | **Dairyland Power Cooperative** | Energy Data Analyst Intern | La Crosse, WI | vanshb03 | [apply](https://go.vansh.nyc/1f1) |
-| today | **JM Family** | AI Center of Excellence (COE) Delivery Team Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176) |
-| today | **Moderna** | 2027 Co-Op, mRNA Design Engineering | Cambridge, Massachusetts,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-modernatx-m-tx-R20128?s=gh-internships-2027) |
-| 56d ago | **Hoffman Construction** | Data Analyst Intern | Amarillo, TX | vanshb03 | [apply](https://go.vansh.nyc/1eC) |
-| 56d ago | **M3USA** | AI Engineering Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1eD) |
-| 62d ago | **Dynamic Catholic** | Software Developer Intern, Commerce Cloud | Erlanger, KY | vanshb03 | [apply](https://go.vansh.nyc/1eB) |
-| 63d ago | **Valon** | Software Engineer Intern | New York, NY / San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1ey) |
-| 68d ago | **Charta Health** | Software Engineer Intern, FDE / Platform | San Francisco, CA / New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1ex) |
-| 69d ago | **Realm** | Software Engineer Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1ew) |
-| 222d ago | **Odys Aviation** | Robotics & Embedded Systems Intern | Long Beach, CA | vanshb03 | [apply](https://go.vansh.nyc/1ev) |
+| today | **Microsoft** | Software Engineer, Teamwork Experiences Internship Opportunities | Redmond, Washington, United States (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200061280?s=gh-internships-2027) |
+| today | **BlueCross BlueShield of Nebraska** | Data Intern, Healthcare | Omaha, NE | vanshb03 | [apply](https://go.vansh.nyc/1fk) |
+| today | **EJ** | Software Developer Intern | East Jordan, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea4df84f991d64376ccd4e?utm_campaign=1079&utm_source=git) |
+| today | **GreatAmerica Financial Services** | Platform Engineering Intern | Cedar Rapids, IA | vanshb03 | [apply](https://go.vansh.nyc/1fj) |
+| today | **GreatAmerica Financial Services** | Quality Assurance Analyst Intern | Cedar Rapids, IA / Des Moines, IA | vanshb03 | [apply](https://go.vansh.nyc/1fi) |
+| today | **Louisiana Economic Development** | 2027 Intern - Software Engineer (Crewed Land) - Slidell, LA | Slidell, LA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea4d881ba298c777771aa6?utm_campaign=1079&utm_source=git) |
+| today | **Marketeq Digital Solutions** | AI Developer Engineering Intern (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea5151913589212b1f5d1c?utm_campaign=1079&utm_source=git) |
+| today | **Starkey México** | Software Engineering Internship | Eden Prairie, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea48684f991d64376cc8fc?utm_campaign=1079&utm_source=git) |
+| today | **TruStage** | IT Intern, Innovation & AI Technology | Madison, WI | vanshb03 | [apply](https://go.vansh.nyc/1fm) |
 
 ## Watched company portals
 
