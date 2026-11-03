@@ -1,32 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 14:01 UTC · 21 new listings_
+_Updated 2026-11-03 14:31 UTC · 2 new listings_
 
-## New listings (21) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CACI International Inc** | Cleared Software Engineer Intern - Summer 2027 | Denver, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adb6d479e3e874dbfb9fc5e?utm_campaign=1079&utm_source=git) |
-| today | **CNH** | Test Engineer Intern | Baltic, SD, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6ac5bb624ac55253f5d78041?utm_campaign=1079&utm_source=git) |
-| today | **Johnson & Johnson** | Oncology Clinical Scientist Intern | Spring House, Pennsylvania, United States of America | Company portals | [apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Clinical-Scientist-Intern_R-099892) |
-| today | **Johnson & Johnson** | Oncology Discovery Scientist Intern | Spring House, Pennsylvania, United States of America | Company portals | [apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-Discovery-Scientist-Intern_R-099898) |
-| today | **KB Signaling** | Intern, Software Engineering (Summer 2027) | Melbourne, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9c74db387e4d91fac5cdd?utm_campaign=1079&utm_source=git) |
-| today | **Marvell** | Hardware and Silicon validation Intern | IN - Bangalore | Company portals | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/IN---Bangalore/Hardware-and-Silicon-validation-Intern_2604087) |
-| today | **New York Air Brake** | Intern, Test Engineering | Irving, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9c422b387e4d91fac5b90?utm_campaign=1079&utm_source=git) |
-| today | **onepot** | Machine Learning Researcher Intern - Machine Learning | South SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true) |
-| today | **Oshkosh** | Electrification Engineering Intern | Greencastle, Pennsylvania, United States | Company portals | [apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Greencastle-Pennsylvania-United-States/Electrification-Engineering-Intern_R49492) |
-| today | **RTX** | Secure System Engineering Intern (Summer 2027) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185) |
-| today | **Vaccine Vets** | Software Engineering Intern (Japanese Speaking Preferred) | Los Angeles, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae99520b4cb239414bd8b2e?utm_campaign=1079&utm_source=git) |
-| 1d ago | **LSEG** | Intern - Finance Engineer | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9c4cd32411b3e5a2e20de?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Valency Networks Private Limited** | WordPress Website Developer Intern (Remote) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae98c6b43826864b0fb9d7b?utm_campaign=1079&utm_source=git) |
-| 5d ago | **Booz Allen Hamilton** | University - 2027 Summer Games Data Scientist Intern - McLean, VA | McLean, VA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248037?s=gh-internships-2027) |
-| 5d ago | **Booz Allen Hamilton** | University - 2027 Summer Games Systems Engineer Intern - Annapolis Junction, MD | Annapolis Junction, MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248384?s=gh-internships-2027) |
-| 5d ago | **Booz Allen Hamilton** | University - 2027 Summer Games Systems Engineer Intern - El Segundo, CA | El Segundo, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248366?s=gh-internships-2027) |
-| 5d ago | **Booz Allen Hamilton** | University - 2027 Summer Games Systems Engineer Intern - Rome, NY | Rome, NY | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248386?s=gh-internships-2027) |
-| 5d ago | **Booz Allen Hamilton** | University, 2027 Summer Games Data Scientist Intern - El Segundo, CA | El Segundo, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248050?s=gh-internships-2027) |
-| 6d ago | **CFS Energy** | Intern - I&C and Network Engineer - Spring or Summer 2027 | Devens, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/lever-cfsenergy-cbf90690-2518-4c81-ace4-530e3b158545?s=gh-internships-2027) |
-| 6d ago | **Jabil** | Automation Engineering Intern | Clinton, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2466618?s=gh-internships-2027) |
-| 20d ago | **LSEG** | Intern - Software Engineer | New York City, United States | zshah101 | [apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1) |
+| today | **Maricopa Association of Governments** | Socioeconomic Data Intern | Phoenix, AZ | vanshb03 | [apply](https://go.vansh.nyc/1dx) |
+| today | **The Mosaic Company** | Artificial Intelligence Co-op | Tampa, FL | vanshb03 | [apply](https://go.vansh.nyc/1dB) |
 
 ## Watched company portals
 
