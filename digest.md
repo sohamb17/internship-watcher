@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 04:31 UTC · 0 new listings_
+_Updated 2026-11-04 05:01 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Hakkōda, an IBM Company** | Firmware and Systems Developer Intern 2027 -Poughkeepsie, NY | Poughkeepsie, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea9a7b440b469a1c0af346?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Millennial Software** | Engineering Intern - Forge Automated Code Assessment (Summer 2027) | Chantilly, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea959bd22d4c08ec605278?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
