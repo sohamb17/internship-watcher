@@ -1,15 +1,27 @@
 # Internship watcher — latest
 
-_Updated 2026-11-03 23:31 UTC · 4 new listings_
+_Updated 2026-11-04 00:01 UTC · 16 new listings_
 
-## New listings (4) — newest first
+## New listings (16) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Boston Scientific** | Industrial Engineer Intern | Maple Grove US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813519130?s=gh-internships-2027) |
-| today | **McKesson** | CMM Technology Intern | Columbus, OH | vanshb03 | [apply](https://go.vansh.nyc/1fp) |
-| today | **Simon Property Group** | Data Engineering Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1ft) |
-| today | **Simon Property Group** | Front End Developer Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1fs) |
+| today | **Meta** | Research Scientist Intern - Ads Quality - PhD | Menlo Park, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1838454487574865) |
+| today | **Meta** | Research Scientist Intern - GenAI Safety | SF / Menlo Park, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/993713283787464) |
+| today | **Boston Scientific** | Equipment Engineering Controls Engineer Intern | Maple Grove US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813768759?s=gh-internships-2027) |
+| today | **Eulerity** | Finance Data Analyst Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/eulerity/jobs/4726901006) |
+| today | **First Citizens BancShares** | Applied AI Intern | Raleigh, NC (+1 more) | SimplifyJobs | [apply](https://firstcitizens.jibeapply.com/jobs/36413?icims=1) |
+| today | **Intuitive Surgical** | Product Development Engineering Intern | Durham, NC, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Intuitive/744000159519489) |
+| today | **Jomboy Media** | Business Intelligence Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/jomboymedia/jobs/4478036009) |
+| today | **Samsung Research America** | Agentic AI Solutions Intern | Mountain View, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002) |
+| today | **Staples** | Software Engineer Intern - SDS e-Commerce Team | Framingham, MA (+1 more) | SimplifyJobs | [apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133) |
+| today | **Vatic Investments** | AI Research Intern<br>Master's/PhD | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) |
+| 1d ago | **Apache Industrial** | AI Implementation Intern | Houston, TX | vanshb03 | [apply](https://go.vansh.nyc/1fA) |
+| 1d ago | **Arch Capital Group** | Originations Portal IT Intern | Greensboro, NC | SimplifyJobs | [apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135) |
+| 1d ago | **REGENT** | Commercial Business Development Data Intern | North Kingstown, RI | SimplifyJobs | [apply](https://jobs.ashbyhq.com/regent/c32af35c-d7bc-4124-834b-7d35cf51dc7b/application?embed=true) |
+| 1d ago | **Vizient** | Summer Intern - Digital Collaboration & Data Insights | Chicago, IL | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Digital-Collaboration---Data-Insights_35969R) |
+| 1d ago | **Zebra Technologies** | Software Engineer Intern | Holtsville, NY | SimplifyJobs | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638) |
+| 20d ago | **Johnson & Johnson** | External Manufacturing Center of Excellence Intern | New Brunswick, NJ / Hopewell Township, NJ | SimplifyJobs | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/EM-Center-of-Excellence-Intern_R-103760) |
 
 ## Watched company portals
 
