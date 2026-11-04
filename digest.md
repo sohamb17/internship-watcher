@@ -1,22 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 17:01 UTC · 11 new listings_
+_Updated 2026-11-04 17:31 UTC · 0 new listings_
 
-## New listings (11) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **AstraZeneca** | Analytical Science Intern | Gaithersburg - MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263548?s=gh-internships-2027) |
-| today | **Berkshire Hathaway Energy** | Intern - Renewable Generation Engineering | Des Moines, IA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-berkshire-hathaway-energy-10006009?s=gh-internships-2027) |
-| today | **BorgWarner** | Software Engineering Intern | Auburn Hills, MI | vanshb03 | [apply](https://go.vansh.nyc/1gH) |
-| today | **BorgWarner** | Software Engineering Intern (Year-Round) | Auburn Hills - Michigan - USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-borgwarner-borgwarner-careers-R2026-2448?s=gh-internships-2027) |
-| today | **Boston Scientific** | Urology R&D Software Engineering Co-op | Maple Grove US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813743813?s=gh-internships-2027) |
-| today | **Daimler Truck** | Mechatronics Engineering Intern – Powertrain Integration | Gaffney, SC US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20546?s=gh-internships-2027) |
-| today | **Greystone** | Salesforce Developer Intern - Summer 2027 | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ace8babba99f15ef41259ae?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Power Firmware Developer Intern - Rochester, MN & Austin, TX - 2027 | Rochester, Minnesota, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9e309e68f82b4036738d34?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Quantum Cloud Services Software Development Intern - 2027 | Yorktown Heights, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9f640a291a1db4de26516?utm_campaign=1079&utm_source=git) |
-| today | **Marathon Petroleum Corporation** | Intern/Co-op - Digital/Information Technology (Summer 2027) | Findlay, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a835812b5a0ac0e84a252c1?utm_campaign=1079&utm_source=git) |
-| — | **Figma** | PhD Intern, Software Engineer - Interaction Design (2027) | San Francisco, CA • New York, NY | Company portals | [apply](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) |
+Nothing new this run.
 
 ## Watched company portals
 
