@@ -1,13 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 01:01 UTC · 2 new listings_
+_Updated 2026-11-04 01:31 UTC · 4 new listings_
 
-## New listings (2) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Cboe** | Technical Business Analyst Intern | Chicago, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4710?s=gh-internships-2027) |
-| today | **Federal Reserve System** | Summer 2027 Intern - Information and Library Science | Chicago, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000033639?s=gh-internships-2027) |
+| 1d ago | **IBM** | Firmware and Systems Developer Intern 2027 -Poughkeepsie, NY | Poughkeepsie, AR, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea62121ba298c7777725ab?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Lockheed Martin** | Java Software Developer-INTERN | Colorado Springs, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea67de913589212b1f6abe?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Sentient Digital, Inc.** | Software Engineer Intern (Summer 2027) | Brunswick, ME, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea674a913589212b1f6a33?utm_campaign=1079&utm_source=git) |
+| 1d ago | **StudyArena** | Research Intern, Agent Experience · Student Jobs | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea60814f991d64376cd779?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
