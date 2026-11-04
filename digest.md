@@ -1,28 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 14:01 UTC · 17 new listings_
+_Updated 2026-11-04 14:31 UTC · 4 new listings_
 
-## New listings (17) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Great American Insurance Company** | Business Intelligence (Power BI) Intern - Summer 2027 | Cincinnati, OH (USA) | Company portals | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843) |
-| today | **Itron** | Intern - Data Analytics and Automation, Finance | WA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-itron-itron-JR103020?s=gh-internships-2027) |
-| today | **Johnson & Johnson** | Oncology TR Scientist Intern | Spring House, Pennsylvania, United States of America (+1 more) | Company portals | [apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-TR-Scientist-Intern_R-099901) |
-| today | **National Interstate Insurance** | Business Intelligence (Power BI) Intern - Summer 2027 | Cincinnati, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9843?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Cybersecurity Software Engineering Intern - Roy UT | United States-Utah-Clearfield | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259177?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 DevOps Software Engineering Intern - Roy UT | United States-Utah-Roy | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259178?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Software Engineering Intern - Roy UT | United States-Utah-Roy | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259181?s=gh-internships-2027) |
-| today | **RTX** | Intern: Summer 2027 - Control/Diagnostic Software (Onsite) | US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840) |
-| today | **RTX** | Platform Intern (Summer 2027) | TX-RICHARDSON-C27 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874068?s=gh-internships-2027) |
-| today | **SK hynix memory solutions America Inc.** | Quality Assurance Test Engineer Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aceceb070e50ec1b37f1dd5?utm_campaign=1079&utm_source=git) |
-| today | **Spectrum** | 2027 Summer Intern: Software Engineer | Englewood, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea7a8b4f991d64376ce48b?utm_campaign=1079&utm_source=git) |
-| today | **Westinghouse Electric Company** | Summer Intern -Computer Engineering / Software Engineering Job Details / Westinghouse Electric Company, LLC | Rock Hill, SC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa2003a3272060a8e3f32fe?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Realty Income Corporation** | Technology Intern - Multiple Opportunities | Del Mar, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6acd8acfa56e5406e57c1afa?utm_campaign=1079&utm_source=git) |
-| 42d ago | **William Blair** | Agentic AI Development Intern | Chicago, IL | SimplifyJobs | [apply](https://www.williamblair.com/Careers/job-description?gh_jid=5242282007) |
-| 52d ago | **SESCO** | Quantitative Research and Trading Intern | Pittsburgh, PA | vanshb03 | [apply](https://go.vansh.nyc/1gg) |
-| 53d ago | **Baidu USA** | Forward Deployed Engineer Intern | Mountain View, CA | vanshb03 | [apply](https://go.vansh.nyc/1fZ) |
-| 832d ago | **Rackner** | Computer Science Intern | College Park, MD | vanshb03 | [apply](https://go.vansh.nyc/1fX) |
+| today | **Oshkosh** | Engineer Intern - Controls (Summer 2027) | Orlando, Florida, United States | Company portals | [apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Engineer-Intern---Controls--Summer-2027-_R51717) |
+| today | **State Street** | State Street Investment Management - Credit Research - 2027 Summer Internship | Boston, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-statestreet-global-R-800754?s=gh-internships-2027) |
+| — | **Parsons** | AI/ML Engineering Intern Summer 2027 | VA, Centreville, R188194 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-parsons-search-R188194?s=gh-internships-2027) |
+| — | **Parsons** | Digital Engineering Intern Summer 2027 | VA, Centreville, R188195 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-parsons-search-R188195?s=gh-internships-2027) |
 
 ## Watched company portals
 
