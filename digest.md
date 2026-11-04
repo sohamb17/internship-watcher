@@ -1,19 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 19:54 UTC · 8 new listings_
+_Updated 2026-11-04 20:01 UTC · 1 new listing_
 
-## New listings (8) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **American Cancer Society Cancer Action Network** | Research Intern, Cancer Risk Prediction | Atlanta, GA | vanshb03 | [apply](https://go.vansh.nyc/1gZ) |
-| 1d ago | **Northrop Grumman** | 2027 Flight Software Engineer Intern - Redondo Beach CA | Manhattan Beach, CA | speedyapply | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032) |
-| 1d ago | **Northrop Grumman** | 2027 Ground Software Engineer Intern - Redondo Beach CA | Redondo Beach, CA | speedyapply | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057) |
-| 1d ago | **Sun Life** | Business Operations Software Engineer - 2027 Co-op | Milwaukee, WI +4 (+3 more) | speedyapply | [apply](https://sunlife.wd3.myworkdayjobs.com/en-US/experienced/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846-2) |
-| 6d ago | **Costco** | CDS Intern, OT/IoT Security Engineering | Wa, WA | vanshb03 | [apply](https://go.vansh.nyc/1gX) |
-| 93d ago | **Lutron** | Summer 2027 - Embedded Firmware Engineering Intern - Austin - TX | Austin, TX | speedyapply | [apply](https://studentopportunities-lutron.icims.com/jobs/5361/summer-2027---embedded-firmware-engineering-intern---austin%2c-tx/job) |
-| 93d ago | **Lutron** | Summer 2027 - Software Engineering Intern - Boston - MA | Boston, MA | speedyapply | [apply](https://studentopportunities-lutron.icims.com/jobs/5387/summer-2027---software-engineering-intern---boston%2c-ma/job) |
-| — | **IMC Trading** | Research Analyst Intern - Summer 2027 | Chicago, United States | Company portals | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) |
+| today | **Entegris** | Reliability Engineer Co-Op | Bedford, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14399?s=gh-internships-2027) |
 
 ## Watched company portals
 
