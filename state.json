@@ -7739,6 +7739,7 @@
 "workday:https://globalfoundries.wd1.myworkdayjobs.com/External:JR-2605136": 20761,
 "workday:https://globalfoundries.wd1.myworkdayjobs.com/External:JR-2605139": 20761,
 "workday:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway:01871347": 20761,
+"workday:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway:01874068": 20761,
 "workday:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway:01874703": 20761,
 "workday:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway:01874745": 20761,
 "workday:https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway:01874746": 20761,
@@ -8450,6 +8451,7 @@
 "jobright:6a760d0267a1ad0bc53c8717": 20759,
 "jobright:6a76227db17cba569035ccac": 20760,
 "jobright:6a76229767a1ad0bc53c8e9f": 20759,
+"jobright:6a862c2e74e02153f145aef1": 20761,
 "jobright:6a96f115d13b4819f39ddd92": 20761,
 "jobright:6a974090455eaf6a08c1bc29": 20760,
 "jobright:6a984018def18223c854e3ec": 20760,
@@ -8670,7 +8672,10 @@
 "jobright:6aea73be1ba298c777772f3d": 20761,
 "jobright:6aea959bd22d4c08ec605278": 20761,
 "jobright:6aea9a7b440b469a1c0af346": 20761,
-"jobright:6aea9ed1897466e69e320468": 20761
+"jobright:6aea9ed1897466e69e320468": 20761,
+"jobright:6aeabd3c1ba298c777774ab0": 20761,
+"jobright:6aeabf43fc85f3a394335855": 20761,
+"jobright:6aeac392440b469a1c0aff71": 20761
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -14174,7 +14179,7 @@
 "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023508": 20761,
 "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2024174": 20760,
 "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025406": 20761,
-"https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025792": 20760,
+"https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025792": 20761,
 "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026530": 20761,
 "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026940": 20759,
 "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027089": 20759,
