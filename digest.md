@@ -1,27 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 00:31 UTC · 16 new listings_
+_Updated 2026-11-04 01:01 UTC · 2 new listings_
 
-## New listings (16) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ByteDance** | Research Scientist Intern - Video and Edge - Multimedia Lab<br>Master's | San Diego, CA | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7701477754169968901/detail) |
-| today | **Boston Scientific** | Equipment Engineering AI Vision Engineer Intern | Maple Grove US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813584308?s=gh-internships-2027) |
-| today | **Caterpillar** | Oil and Gas Project Application Engineering Intern | San Diego, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000403393?s=gh-internships-2027) |
-| today | **Electronic Arts** | Anticheat Engineer Intern | Austin, TX (+1 more) | SimplifyJobs | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242) |
-| today | **Hive Financial Systems** | HFA Intern | Atlanta, GA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5283228007) |
-| today | **Nex** | Software Engineer Intern - Sports & Fitness - Game Development | San Jose, CA (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/nex/jobs/5421056008) |
-| 1d ago | **CNH** | Firmware Software Intern | Oak Brook, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea59f2fc85f3a394332ec6?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Northrop Grumman** | Flight Software Engineer Intern | Manhattan Beach, CA | SimplifyJobs | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032) |
-| 1d ago | **Northrop Grumman** | Ground Software Engineer Intern | Redondo Beach, CA | SimplifyJobs | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057) |
-| 1d ago | **TruStage** | Innovation & AI Technology Intern | Madison, WI | SimplifyJobs | [apply](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293) |
-| 20d ago | **Engramme** | Back-End Software Engineer Co-op Intern | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/engramme/9233d3f9-83d2-4967-ad97-176c11e16696/application?embed=true) |
-| 20d ago | **Engramme** | Full-Stack Software Engineer Co-op Intern | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2/application?embed=true) |
-| 20d ago | **Engramme** | Machine Learning Engineer Co-op Intern | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/engramme/36691537-e0fd-4aa9-9fcd-2618b433fac1/application?embed=true) |
-| 54d ago | **Dell Technologies** | Software Engineer Intern - Client Solutions Group Engineering | Austin, TX | SimplifyJobs | [apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217) |
-| 57d ago | **COUNTRY Financial** | Auto Product Analyst Intern | Bloomington, IL | SimplifyJobs | [apply](https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Auto-Product-Analyst-Intern_R26_0000000995) |
-| 65d ago | **BlueCross BlueShield of Nebraska** | Data Intern - Data Science - Data Analytics | Omaha, NE | SimplifyJobs | [apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) |
+| today | **Cboe** | Technical Business Analyst Intern | Chicago, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4710?s=gh-internships-2027) |
+| today | **Federal Reserve System** | Summer 2027 Intern - Information and Library Science | Chicago, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000033639?s=gh-internships-2027) |
 
 ## Watched company portals
 
