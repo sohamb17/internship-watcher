@@ -1,19 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 19:31 UTC · 8 new listings_
+_Updated 2026-11-04 19:54 UTC · 8 new listings_
 
 ## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Centene** | AI Business Strategy Intern (Undergraduate Summer 2027) | Remote-MO | zshah101 | [apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1) |
-| today | **Federal Reserve Board** | Summer 2027 Intern – Advanced Research Computing (ARC) – R&S | Washington, DC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb67d3fbe13dfb53df3b40?utm_campaign=1079&utm_source=git) |
-| today | **Federal Reserve Board** | Summer 2027 Intern – Application Design and Development (ADD) – R&S | Washington, DC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb67d0765815f7d7460069?utm_campaign=1079&utm_source=git) |
-| today | **General Dynamics Mission Systems** | SW Engineering Intern (Port Orchard) | Port Orchard, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb6a1082f0ac07744397f8?utm_campaign=1079&utm_source=git) |
-| today | **Hologic** | Co-op, R&D Engineer | Marlborough, MA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-hologic-12552?s=gh-internships-2027) |
-| today | **IRA Financial** | General Application - Internship (IT Security & Development) | Sioux Falls, SD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb5cb265311d97105b7ae2?utm_campaign=1079&utm_source=git) |
-| today | **Nexthink** | Software Engineer (Intern) | Madrid, MD, International (ES) (Hybrid) | zshah101 | [apply](https://jobs.smartrecruiters.com/Nexthink/744000159632929) |
-| 365d ago | **Toyota Research Institute** | Automated Driving Advanced Development Intern, Machine Learning Research | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4) |
+| 1d ago | **American Cancer Society Cancer Action Network** | Research Intern, Cancer Risk Prediction | Atlanta, GA | vanshb03 | [apply](https://go.vansh.nyc/1gZ) |
+| 1d ago | **Northrop Grumman** | 2027 Flight Software Engineer Intern - Redondo Beach CA | Manhattan Beach, CA | speedyapply | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032) |
+| 1d ago | **Northrop Grumman** | 2027 Ground Software Engineer Intern - Redondo Beach CA | Redondo Beach, CA | speedyapply | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057) |
+| 1d ago | **Sun Life** | Business Operations Software Engineer - 2027 Co-op | Milwaukee, WI +4 (+3 more) | speedyapply | [apply](https://sunlife.wd3.myworkdayjobs.com/en-US/experienced/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846-2) |
+| 6d ago | **Costco** | CDS Intern, OT/IoT Security Engineering | Wa, WA | vanshb03 | [apply](https://go.vansh.nyc/1gX) |
+| 93d ago | **Lutron** | Summer 2027 - Embedded Firmware Engineering Intern - Austin - TX | Austin, TX | speedyapply | [apply](https://studentopportunities-lutron.icims.com/jobs/5361/summer-2027---embedded-firmware-engineering-intern---austin%2c-tx/job) |
+| 93d ago | **Lutron** | Summer 2027 - Software Engineering Intern - Boston - MA | Boston, MA | speedyapply | [apply](https://studentopportunities-lutron.icims.com/jobs/5387/summer-2027---software-engineering-intern---boston%2c-ma/job) |
+| — | **IMC Trading** | Research Analyst Intern - Summer 2027 | Chicago, United States | Company portals | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) |
 
 ## Watched company portals
 
