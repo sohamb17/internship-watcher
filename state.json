@@ -568,6 +568,36 @@
 "sk": "https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874068",
 "src": "zapply",
 "url": "https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874068?s=gh-internships-2027"
+},
+{
+"company": "William Blair",
+"degrees": [
+"Bachelor's"
+],
+"dk": "williamblair|agentic ai development",
+"found": 20761,
+"loc": "Chicago, IL",
+"more": null,
+"night": true,
+"posted": 20719,
+"role": "Agentic AI Development Intern",
+"sk": "c9bb0b72-5857-4e2b-8a56-716d3c602ea7",
+"src": "simplify",
+"url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242282007"
+},
+{
+"company": "Realty Income Corporation",
+"degrees": [],
+"dk": "realtyincome|multiple opportunities technology",
+"found": 20761,
+"loc": "Del Mar, CA, United States",
+"more": null,
+"night": true,
+"posted": 20760,
+"role": "Technology Intern - Multiple Opportunities",
+"sk": "jobright:6acd8acfa56e5406e57c1afa",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6acd8acfa56e5406e57c1afa?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -4394,6 +4424,7 @@
 "raytheon|engineer part remote software time": 20761,
 "raytheon|engineering software": 20761,
 "realm|engineer software": 20761,
+"realtyincome|multiple opportunities technology": 20761,
 "realtyincome|technology": 20761,
 "redgate|engineer software": 20759,
 "redhat|engineer software": 20761,
@@ -5773,6 +5804,7 @@
 "whitewatermidstream|data science": 20761,
 "whitewatermidstream|operations trading": 20761,
 "wikimediafoundation|engineering software": 20761,
+"williamblair|agentic ai development": 20761,
 "williamblair|application development multiple teams": 20760,
 "williamblair|data science technology wit": 20761,
 "williamblair|engineering software wit": 20761,
@@ -8458,6 +8490,7 @@
 "jobright:6a96f115d13b4819f39ddd92": 20761,
 "jobright:6a974090455eaf6a08c1bc29": 20760,
 "jobright:6a984018def18223c854e3ec": 20760,
+"jobright:6a987f6383fc633357631d3b": 20761,
 "jobright:6a9b10a29c24314c35f97938": 20760,
 "jobright:6a9b19ed90a313642c658978": 20760,
 "jobright:6a9b200c9c24314c35f97de2": 20761,
@@ -8498,6 +8531,7 @@
 "jobright:6acd51db002e496d4bef1bff": 20761,
 "jobright:6acd5fa0ddd23cce28a1223b": 20761,
 "jobright:6acd6a21a56e5406e57c13e4": 20761,
+"jobright:6acd8acfa56e5406e57c1afa": 20761,
 "jobright:6ace3a354391691a335ab4ee": 20761,
 "jobright:6ace3e89ba99f15ef4123a8a": 20761,
 "jobright:6ad0e2be18608b6f36f7f90c": 20761,
@@ -8679,7 +8713,8 @@
 "jobright:6aea9ed1897466e69e320468": 20761,
 "jobright:6aeabd3c1ba298c777774ab0": 20761,
 "jobright:6aeabf43fc85f3a394335855": 20761,
-"jobright:6aeac392440b469a1c0aff71": 20761
+"jobright:6aeac392440b469a1c0aff71": 20761,
+"jobright:6aeaf13c59a085bcfcdcae91": 20761
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -10517,6 +10552,7 @@
 "b341bc8d-ff94-4bc4-8b4c-caf35d8f0ee7": 20759,
 "b380c306-bed2-4e4a-8c77-71a792a86621": 20761,
 "b381b011-e575-41c8-ae41-8f24bc2299d7": 20761,
+"b399880a-a936-4d77-ba1c-e108a00e5e51": 20761,
 "b39e7951-0395-4c53-8303-28b2f26bd237": 20761,
 "b3b5266a-b857-4999-8c6f-daa45fa2c9e6": 20761,
 "b3b71649-a25a-490b-a1a2-3111106344f9": 20761,
@@ -10744,6 +10780,7 @@
 "c917f0bc-a8d2-4468-ad7c-573f62b007bd": 20761,
 "c926a28e-f380-4dce-973c-a3e43c7af653": 20761,
 "c9443ff8-a611-4d5a-b7eb-50e96c3035cf": 20761,
+"c9bb0b72-5857-4e2b-8a56-716d3c602ea7": 20761,
 "c9c49f01-51e4-4d6b-99a4-24bad0192c34": 20759,
 "c9e31c4f-86b8-46c5-9152-5c9ae49ea875": 20761,
 "ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23": 20761,
