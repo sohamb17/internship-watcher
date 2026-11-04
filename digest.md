@@ -1,23 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 20:31 UTC · 12 new listings_
+_Updated 2026-11-04 21:01 UTC · 3 new listings_
 
-## New listings (12) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Data Science: PhD Internship Opportunities - Redmond | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200052449?s=gh-internships-2027) |
-| today | **Amgen** | Grad Intern – R&D TSRS Data Sciences Operations & Analytic (Summer 2027) | United States - Remote | Company portals | [apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585) |
-| today | **Baker Hughes** | Field Engineering Intern- Summer 2027 Opportunities | PA-CANONSBURG (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R169855?s=gh-internships-2027) |
-| today | **Cigna Group** | The Cigna Group's Technology Development Program - Cybersecurity Track Summer Internship | CT Bloomfield 900 Cottage Grove Rd Wilde Bldg | Company portals | [apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program---Cybersecurity-Track-Summer-Internship_26009531) |
-| today | **Draper** | Optics-Physics Sensor Engineering Intern (Summer 2027) | Cambridge, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003094?s=gh-internships-2027) |
-| today | **HDR** | Software Development Intern (Summer 2027) | Omaha, NE, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ada75394c3adc437cecd1c5?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Power Backend Developer Intern - Rochester, MN & Austin, TX - 2027 | Rochester, Minnesota, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9e30db2c964816f65ebe38?utm_campaign=1079&utm_source=git) |
-| today | **Johnson & Johnson** | Technology TS AM CBT Off Cycle Co-Op | Raritan, New Jersey, United States of America | Company portals | [apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Technology-TS-AM-CBT-Off-Cycle-Co-Op_R-099831) |
-| today | **Plus3 IT Systems** | Cloud Engineer Intern | Reston, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb7c93fbe13dfb53df4920?utm_campaign=1079&utm_source=git) |
-| today | **Texas Instruments** | Digital Design Verification Engineering Intern | Santa Clara, CA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-texas-instruments-25019665?s=gh-internships-2027) |
-| today | **William Blair** | Working in Technology (WiT) Software Engineering - Summer 2027 | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab2b6aa1508734c1530b842?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Hewlett Packard Enterprise** | Systems/Software Testing Engineer Cloud & On-Premise Intern | San Juan, PR, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb7cc4fbe13dfb53df493f?utm_campaign=1079&utm_source=git) |
+| today | **Baker Hughes** | Engineering & Technology - Summer 2027 Opportunities | NV-MINDEN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R169853?s=gh-internships-2027) |
+| today | **Bose** | DSP/ML Research Engineer Intern \| Summer 2027 | US, MA - Framingham | Company portals | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) |
+| today | **Constellation Brands** | AI & Automation Engineering Intern | Rochester, NY | vanshb03 | [apply](https://go.vansh.nyc/1h2) |
 
 ## Watched company portals
 
