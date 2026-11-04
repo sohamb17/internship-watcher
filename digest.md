@@ -1,13 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 21:31 UTC · 2 new listings_
+_Updated 2026-11-04 22:01 UTC · 4 new listings_
 
-## New listings (2) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Boston Scientific** | Software Development Engineer Intern | Waltham, US-MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813567960?s=gh-internships-2027) |
-| today | **Toyota Research Institute** | Robotics Research Intern, Manipulation | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd) |
+| today | **Mission Technologies, a division of HII** | Software Engineer Intern (Multiple Levels) - 30069 Job Details / HII's Mission Technologies division | Columbia, MD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ada7afc4c3adc437cecd9b1?utm_campaign=1079&utm_source=git) |
+| today | **Thomson Reuters** | Research Scientist Intern | MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-JREQ205119?s=gh-internships-2027) |
+| today | **Toyota Research Institute** | Human-Centered AI Research Intern, Human Language Models | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e) |
+| 7d ago | **HP Inc** | Cloud Engineering Intern - HP IQ | San Francisco, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4799?s=gh-internships-2027) |
 
 ## Watched company portals
 
