@@ -598,6 +598,20 @@
 "sk": "jobright:6acd8acfa56e5406e57c1afa",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6acd8acfa56e5406e57c1afa?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "SESCO",
+"degrees": [],
+"dk": "sesco|quantitative research trading",
+"found": 20761,
+"loc": "Pittsburgh, PA",
+"more": null,
+"night": true,
+"posted": 20709,
+"role": "Quantitative Research and Trading Intern",
+"sk": "5a0bf194-9554-4a17-9567-64587b944bdc",
+"src": "vansh",
+"url": "https://go.vansh.nyc/1gg"
 }
 ],
 "roles": {
@@ -4711,6 +4725,7 @@
 "servicenow|engineer software": 20761,
 "servicenow|experience research team ux": 20761,
 "servicenow|research scientist staff": 20761,
+"sesco|quantitative research trading": 20761,
 "sharkninja|ai analytics applied opportunities": 20761,
 "sharkninja|consumer design development insights opportunities product": 20761,
 "sharkninja|consumer insights": 20759,
@@ -10985,6 +11000,7 @@
 "e0a6f7fd-1e2d-4420-80b3-10efc9577f23": 20759,
 "e0a98377-2ab5-44f4-a19a-bb11a98699a1": 20761,
 "e0b676c6-f972-4b70-b4f3-86b7670865aa": 20761,
+"e0cf8e4d-5b4b-471a-b7ae-fb2a0930de16": 20761,
 "e0d217d6-7946-42a6-965f-7094154504c3": 20761,
 "e0f7c410-495b-4e54-8274-9a6d2f191e10": 20759,
 "e106eaa4-9eac-44cc-9457-887140222d04": 20761,
@@ -12831,6 +12847,7 @@
 "593da753-215b-425d-9dda-c7b7615d8970": 20761,
 "594798d9-239c-46aa-9761-43cd27b2c7e3": 20760,
 "59a1fc65-1922-464e-b971-12e9ee715b8e": 20761,
+"5a0bf194-9554-4a17-9567-64587b944bdc": 20761,
 "5a1b272f-6c93-474f-82a8-94d8d824af70": 20761,
 "5a516736-27ac-470c-ac75-a26360cf4d72": 20761,
 "5ac5f65b-16ed-45a3-80e3-eb7be468a122": 20759,
@@ -13177,6 +13194,7 @@
 "95e28595-e7d0-4cde-93ad-3f62be4ce75f": 20761,
 "9614e1a9-8e62-4e79-b979-0125c1fbaec7": 20761,
 "9626bcbf-0a01-40c8-ba1e-73544238468c": 20761,
+"96b173ed-413a-48a6-903b-a2000e0740b5": 20761,
 "96be60dd-5228-40c4-895f-f308a3665dc0": 20759,
 "96cc5998-c8cc-40eb-a815-7ae9739af769": 20761,
 "96e1bac9-9226-417a-a3cd-f68621e86d13": 20761,

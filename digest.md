@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 11:01 UTC · 7 new listings_
+_Updated 2026-11-04 11:31 UTC · 8 new listings_
 
-## New listings (7) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -11,6 +11,7 @@ _Updated 2026-11-04 11:01 UTC · 7 new listings_
 | today | **RTX** | Platform Intern (Summer 2027) | TX-RICHARDSON-C27 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874068?s=gh-internships-2027) |
 | 1d ago | **Realty Income Corporation** | Technology Intern - Multiple Opportunities | Del Mar, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6acd8acfa56e5406e57c1afa?utm_campaign=1079&utm_source=git) |
 | 42d ago | **William Blair** | Agentic AI Development Intern | Chicago, IL | SimplifyJobs | [apply](https://www.williamblair.com/Careers/job-description?gh_jid=5242282007) |
+| 52d ago | **SESCO** | Quantitative Research and Trading Intern | Pittsburgh, PA | vanshb03 | [apply](https://go.vansh.nyc/1gg) |
 | 53d ago | **Baidu USA** | Forward Deployed Engineer Intern | Mountain View, CA | vanshb03 | [apply](https://go.vansh.nyc/1fZ) |
 | 832d ago | **Rackner** | Computer Science Intern | College Park, MD | vanshb03 | [apply](https://go.vansh.nyc/1fX) |
 
