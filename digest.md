@@ -1,8 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 02:31 UTC · 0 new listings_
+_Updated 2026-11-04 03:01 UTC · 8 new listings_
 
-Nothing new this run.
+## New listings (8) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **AECOM** | Highway Engineering Intern - Hiring Event with AECOM - Arlington, VA | Arlington, VA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AECOM2/744000159540359) |
+| today | **Etched** | IA Research Engineer (Kernels) Intern | San Jose (+1 more) | Company portals | [apply](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) |
+| today | **LLNL** | Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer... | Livermore, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-llnl-3743990016610216?s=gh-internships-2027) |
+| today | **Nokia** | Optoelectronics Test Mech Development Intern | United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-nokia-41694?s=gh-internships-2027) |
+| 1d ago | **Engramme** | Back-End Software Engineer (Co-op / extended internship) | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea4cc44f991d64376ccc6f?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Engramme** | Full-Stack Software Engineer (Co-op / extended internship) | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea4cc8913589212b1f59e5?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Scot Forge** | IT Software Development Intern (Summer 2027) | Spring Grove, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea73be1ba298c777772f3d?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Seagate Technology** | Summer Intern - Software Engineering | Shakopee, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea48ef4f991d64376cc971?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
