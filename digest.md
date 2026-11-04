@@ -1,14 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 03:31 UTC · 3 new listings_
+_Updated 2026-11-04 04:01 UTC · 2 new listings_
 
-## New listings (3) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Eversource Energy** | 2027 Telecommunications Engineering Intern | Manchester, NH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-031906?s=gh-internships-2027) |
-| today | **LLNL** | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA | vanshb03 | [apply](https://go.vansh.nyc/1fR) |
-| today | **Samsung Research America** | 2027 Summer Intern, Generative AI based Imaging and Video R&D | 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 | zshah101 | [apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002) |
+| today | **LLNL** | Power Systems Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer... | Livermore, CA (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-llnl-3743990016610446?s=gh-internships-2027) |
+| — | **Silabs** | Data Governance Intern | Knoxville | nointernship.com | [apply](https://go.vansh.nyc/Mz?s=y) |
 
 ## Watched company portals
 
