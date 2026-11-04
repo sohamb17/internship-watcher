@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 02:01 UTC · 1 new listing_
+_Updated 2026-11-04 02:28 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Taara** | Optical PLL Research Intern | Sunnyvale, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-taaraconnect-06d29a2a-9913-4c52-b1ba-9236ca086acb?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
