@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 17:31 UTC · 0 new listings_
+_Updated 2026-11-04 18:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Terranova** | AI Intern | Berkeley | Company portals | [apply](https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942) |
 
 ## Watched company portals
 
