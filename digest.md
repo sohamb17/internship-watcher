@@ -1,13 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 13:31 UTC · 16 new listings_
+_Updated 2026-11-04 14:01 UTC · 17 new listings_
 
-## New listings (16) — newest first
+## New listings (17) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Great American Insurance Company** | Business Intelligence (Power BI) Intern - Summer 2027 | Cincinnati, OH (USA) | Company portals | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843) |
 | today | **Itron** | Intern - Data Analytics and Automation, Finance | WA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-itron-itron-JR103020?s=gh-internships-2027) |
+| today | **Johnson & Johnson** | Oncology TR Scientist Intern | Spring House, Pennsylvania, United States of America (+1 more) | Company portals | [apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Oncology-TR-Scientist-Intern_R-099901) |
 | today | **National Interstate Insurance** | Business Intelligence (Power BI) Intern - Summer 2027 | Cincinnati, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9843?s=gh-internships-2027) |
 | today | **Northrop Grumman** | 2027 Cybersecurity Software Engineering Intern - Roy UT | United States-Utah-Clearfield | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259177?s=gh-internships-2027) |
 | today | **Northrop Grumman** | 2027 DevOps Software Engineering Intern - Roy UT | United States-Utah-Roy | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259178?s=gh-internships-2027) |
