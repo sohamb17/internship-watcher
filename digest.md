@@ -1,13 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 19:01 UTC · 2 new listings_
+_Updated 2026-11-04 19:31 UTC · 8 new listings_
 
-## New listings (2) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Cboe** | Enterprise Strategy & Corporate Development Intern | Chicago, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4805?s=gh-internships-2027) |
-| today | **TEL** | Research Scientist - ATG Optical Sensor Development Intern (Summer 2027) | Austin RiverSouth | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tel-tel-careers-R26-02311?s=gh-internships-2027) |
+| today | **Centene** | AI Business Strategy Intern (Undergraduate Summer 2027) | Remote-MO | zshah101 | [apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1) |
+| today | **Federal Reserve Board** | Summer 2027 Intern – Advanced Research Computing (ARC) – R&S | Washington, DC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb67d3fbe13dfb53df3b40?utm_campaign=1079&utm_source=git) |
+| today | **Federal Reserve Board** | Summer 2027 Intern – Application Design and Development (ADD) – R&S | Washington, DC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb67d0765815f7d7460069?utm_campaign=1079&utm_source=git) |
+| today | **General Dynamics Mission Systems** | SW Engineering Intern (Port Orchard) | Port Orchard, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb6a1082f0ac07744397f8?utm_campaign=1079&utm_source=git) |
+| today | **Hologic** | Co-op, R&D Engineer | Marlborough, MA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-hologic-12552?s=gh-internships-2027) |
+| today | **IRA Financial** | General Application - Internship (IT Security & Development) | Sioux Falls, SD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb5cb265311d97105b7ae2?utm_campaign=1079&utm_source=git) |
+| today | **Nexthink** | Software Engineer (Intern) | Madrid, MD, International (ES) (Hybrid) | zshah101 | [apply](https://jobs.smartrecruiters.com/Nexthink/744000159632929) |
+| 365d ago | **Toyota Research Institute** | Automated Driving Advanced Development Intern, Machine Learning Research | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4) |
 
 ## Watched company portals
 
