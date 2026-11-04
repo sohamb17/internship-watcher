@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 11:31 UTC · 8 new listings_
+_Updated 2026-11-04 12:01 UTC · 10 new listings_
 
-## New listings (8) — newest first
+## New listings (10) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Itron** | Intern - Data Analytics and Automation, Finance | WA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-itron-itron-JR103020?s=gh-internships-2027) |
+| today | **Northrop Grumman** | 2027 Cybersecurity Software Engineering Intern - Roy UT | United States-Utah-Clearfield | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259177?s=gh-internships-2027) |
+| today | **Northrop Grumman** | 2027 DevOps Software Engineering Intern - Roy UT | United States-Utah-Roy | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259178?s=gh-internships-2027) |
 | today | **RTX** | Intern: Summer 2027 - Control/Diagnostic Software (Onsite) | US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840) |
 | today | **RTX** | Platform Intern (Summer 2027) | TX-RICHARDSON-C27 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874068?s=gh-internships-2027) |
 | 1d ago | **Realty Income Corporation** | Technology Intern - Multiple Opportunities | Del Mar, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6acd8acfa56e5406e57c1afa?utm_campaign=1079&utm_source=git) |
