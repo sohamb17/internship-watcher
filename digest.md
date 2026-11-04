@@ -1,15 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 22:01 UTC · 4 new listings_
+_Updated 2026-11-04 22:31 UTC · 2 new listings_
 
-## New listings (4) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Mission Technologies, a division of HII** | Software Engineer Intern (Multiple Levels) - 30069 Job Details / HII's Mission Technologies division | Columbia, MD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ada7afc4c3adc437cecd9b1?utm_campaign=1079&utm_source=git) |
-| today | **Thomson Reuters** | Research Scientist Intern | MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-JREQ205119?s=gh-internships-2027) |
-| today | **Toyota Research Institute** | Human-Centered AI Research Intern, Human Language Models | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e) |
-| 7d ago | **HP Inc** | Cloud Engineering Intern - HP IQ | San Francisco, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4799?s=gh-internships-2027) |
+| today | **ASML** | Internship -  Machine Learning and image-based EUV system setup | San Diego, CA, USA | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567) |
+| today | **Cigna** | Cybersecurity Intern, Technology Development Program | Bloomfield, CT / St. Louis, MO | vanshb03 | [apply](https://go.vansh.nyc/1h8) |
 
 ## Watched company portals
 
