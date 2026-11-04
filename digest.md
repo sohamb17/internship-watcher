@@ -1,27 +1,27 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 00:01 UTC · 16 new listings_
+_Updated 2026-11-04 00:31 UTC · 16 new listings_
 
 ## New listings (16) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Meta** | Research Scientist Intern - Ads Quality - PhD | Menlo Park, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1838454487574865) |
-| today | **Meta** | Research Scientist Intern - GenAI Safety | SF / Menlo Park, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/993713283787464) |
-| today | **Boston Scientific** | Equipment Engineering Controls Engineer Intern | Maple Grove US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813768759?s=gh-internships-2027) |
-| today | **Eulerity** | Finance Data Analyst Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/eulerity/jobs/4726901006) |
-| today | **First Citizens BancShares** | Applied AI Intern | Raleigh, NC (+1 more) | SimplifyJobs | [apply](https://firstcitizens.jibeapply.com/jobs/36413?icims=1) |
-| today | **Intuitive Surgical** | Product Development Engineering Intern | Durham, NC, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Intuitive/744000159519489) |
-| today | **Jomboy Media** | Business Intelligence Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/jomboymedia/jobs/4478036009) |
-| today | **Samsung Research America** | Agentic AI Solutions Intern | Mountain View, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002) |
-| today | **Staples** | Software Engineer Intern - SDS e-Commerce Team | Framingham, MA (+1 more) | SimplifyJobs | [apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133) |
-| today | **Vatic Investments** | AI Research Intern<br>Master's/PhD | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) |
-| 1d ago | **Apache Industrial** | AI Implementation Intern | Houston, TX | vanshb03 | [apply](https://go.vansh.nyc/1fA) |
-| 1d ago | **Arch Capital Group** | Originations Portal IT Intern | Greensboro, NC | SimplifyJobs | [apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135) |
-| 1d ago | **REGENT** | Commercial Business Development Data Intern | North Kingstown, RI | SimplifyJobs | [apply](https://jobs.ashbyhq.com/regent/c32af35c-d7bc-4124-834b-7d35cf51dc7b/application?embed=true) |
-| 1d ago | **Vizient** | Summer Intern - Digital Collaboration & Data Insights | Chicago, IL | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Digital-Collaboration---Data-Insights_35969R) |
-| 1d ago | **Zebra Technologies** | Software Engineer Intern | Holtsville, NY | SimplifyJobs | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638) |
-| 20d ago | **Johnson & Johnson** | External Manufacturing Center of Excellence Intern | New Brunswick, NJ / Hopewell Township, NJ | SimplifyJobs | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/EM-Center-of-Excellence-Intern_R-103760) |
+| today | **ByteDance** | Research Scientist Intern - Video and Edge - Multimedia Lab<br>Master's | San Diego, CA | SimplifyJobs | [apply](https://jobs.bytedance.com/en/position/7701477754169968901/detail) |
+| today | **Boston Scientific** | Equipment Engineering AI Vision Engineer Intern | Maple Grove US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813584308?s=gh-internships-2027) |
+| today | **Caterpillar** | Oil and Gas Project Application Engineering Intern | San Diego, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000403393?s=gh-internships-2027) |
+| today | **Electronic Arts** | Anticheat Engineer Intern | Austin, TX (+1 more) | SimplifyJobs | [apply](https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242) |
+| today | **Hive Financial Systems** | HFA Intern | Atlanta, GA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5283228007) |
+| today | **Nex** | Software Engineer Intern - Sports & Fitness - Game Development | San Jose, CA (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/nex/jobs/5421056008) |
+| 1d ago | **CNH** | Firmware Software Intern | Oak Brook, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea59f2fc85f3a394332ec6?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Northrop Grumman** | Flight Software Engineer Intern | Manhattan Beach, CA | SimplifyJobs | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032) |
+| 1d ago | **Northrop Grumman** | Ground Software Engineer Intern | Redondo Beach, CA | SimplifyJobs | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057) |
+| 1d ago | **TruStage** | Innovation & AI Technology Intern | Madison, WI | SimplifyJobs | [apply](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293) |
+| 20d ago | **Engramme** | Back-End Software Engineer Co-op Intern | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/engramme/9233d3f9-83d2-4967-ad97-176c11e16696/application?embed=true) |
+| 20d ago | **Engramme** | Full-Stack Software Engineer Co-op Intern | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2/application?embed=true) |
+| 20d ago | **Engramme** | Machine Learning Engineer Co-op Intern | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/engramme/36691537-e0fd-4aa9-9fcd-2618b433fac1/application?embed=true) |
+| 54d ago | **Dell Technologies** | Software Engineer Intern - Client Solutions Group Engineering | Austin, TX | SimplifyJobs | [apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217) |
+| 57d ago | **COUNTRY Financial** | Auto Product Analyst Intern | Bloomington, IL | SimplifyJobs | [apply](https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Auto-Product-Analyst-Intern_R26_0000000995) |
+| 65d ago | **BlueCross BlueShield of Nebraska** | Data Intern - Data Science - Data Analytics | Omaha, NE | SimplifyJobs | [apply](https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406) |
 
 ## Watched company portals
 
