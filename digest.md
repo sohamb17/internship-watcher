@@ -1,13 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 22:31 UTC · 2 new listings_
+_Updated 2026-11-04 23:01 UTC · 2 new listings_
 
 ## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ASML** | Internship -  Machine Learning and image-based EUV system setup | San Diego, CA, USA | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567) |
-| today | **Cigna** | Cybersecurity Intern, Technology Development Program | Bloomfield, CT / St. Louis, MO | vanshb03 | [apply](https://go.vansh.nyc/1h8) |
+| today | **Meta** | ASIC EDA Infrastructure Engineer Intern | Sunnyvale, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb900365311d97105b9d3c?utm_campaign=1079&utm_source=git) |
+| today | **ASML** | Internship-Optical Modeling and Simulation Engineering | San Jose, CA, USA | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship-Optical-Modeling-and-Simulation-Engineering_J-00354940) |
 
 ## Watched company portals
 
