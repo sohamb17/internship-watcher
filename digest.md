@@ -1,12 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 18:01 UTC · 1 new listing_
+_Updated 2026-11-04 18:31 UTC · 11 new listings_
 
-## New listings (1) — newest first
+## New listings (11) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Terranova** | AI Intern | Berkeley | Company portals | [apply](https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942) |
+| today | **ABB** | AI Engineering, Business Systems Intern- Summer 2027 | USA, NC, Cary | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048714?s=gh-internships-2027) |
+| today | **ABB** | AI Engineering, ERP Intern- Summer 2027 | USA, NC, Cary | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048711?s=gh-internships-2027) |
+| today | **IBM** | Quantum Control Pulse-Level Compiler Intern 2027 | Yorktown Heights, New York, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9f64b43826864b0fbba4c?utm_campaign=1079&utm_source=git) |
+| today | **IBM** | SW Developer Intern / AI Center of Excellence - Austin, TX - 2027 | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb52c582f0ac0774438505?utm_campaign=1079&utm_source=git) |
+| today | **Intel** | Robotics PhD Intern | US Oregon Hillsboro | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Robotics-PhD-Intern_JR0288833) |
+| today | **KLA** | Algorithm Engineering Intern | Ann Arbor, MI | Company portals | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2641512) |
+| today | **Microchip Technology** | Intern (Data Analyst) | OR - Gresham | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-microchiphr-external-R4441-26?s=gh-internships-2027) |
+| today | **Smith+Nephew** | AI Engineer Intern, R&D | Andover, MA | vanshb03 | [apply](https://go.vansh.nyc/1gP) |
+| today | **Smith+Nephew** | Robotics Software Engineering Intern | Pittsburgh, PA | vanshb03 | [apply](https://go.vansh.nyc/1gO) |
+| today | **Zebra Technologies** | 2027 Summer Internship (US) - Software Engineer, AI Features & Product Convergence, Zebra Task Manager | Kennesaw, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb50f3f40efa43f4a15e53?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Eli Lilly and Company** | Technology Intern | Indianapolis, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb50e7765815f7d745ee9f?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
