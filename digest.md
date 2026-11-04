@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 05:31 UTC · 1 new listing_
+_Updated 2026-11-04 06:01 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Northrop Grumman** | 2027 S/W Embedded Engineering Intern – Sykesville MD | United States-Maryland-Sykesville | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258553?s=gh-internships-2027) |
+| today | **Itron** | Intern - Data Analytics and Automation, Finance | WA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-itron-itron-JR103020?s=gh-internships-2027) |
+| today | **RTX** | Intern: Summer 2027 - Control/Diagnostic Software (Onsite) | US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840) |
 
 ## Watched company portals
 
