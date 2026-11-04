@@ -1,14 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 21:01 UTC · 3 new listings_
+_Updated 2026-11-04 21:31 UTC · 2 new listings_
 
-## New listings (3) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Baker Hughes** | Engineering & Technology - Summer 2027 Opportunities | NV-MINDEN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R169853?s=gh-internships-2027) |
-| today | **Bose** | DSP/ML Research Engineer Intern \| Summer 2027 | US, MA - Framingham | Company portals | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371) |
-| today | **Constellation Brands** | AI & Automation Engineering Intern | Rochester, NY | vanshb03 | [apply](https://go.vansh.nyc/1h2) |
+| today | **Boston Scientific** | Software Development Engineer Intern | Waltham, US-MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813567960?s=gh-internships-2027) |
+| today | **Toyota Research Institute** | Robotics Research Intern, Manipulation | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd) |
 
 ## Watched company portals
 
