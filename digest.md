@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 23:01 UTC · 2 new listings_
+_Updated 2026-11-04 23:31 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Meta** | ASIC EDA Infrastructure Engineer Intern | Sunnyvale, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb900365311d97105b9d3c?utm_campaign=1079&utm_source=git) |
-| today | **ASML** | Internship-Optical Modeling and Simulation Engineering | San Jose, CA, USA | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship-Optical-Modeling-and-Simulation-Engineering_J-00354940) |
+| today | **GM Financial** | Intern - Cloud Engineer | Irving, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-gm-financial-261245?s=gh-internships-2027) |
 
 ## Watched company portals
 
