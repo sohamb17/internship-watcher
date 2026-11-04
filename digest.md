@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 04:01 UTC · 2 new listings_
+_Updated 2026-11-04 04:31 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **LLNL** | Power Systems Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer... | Livermore, CA (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-llnl-3743990016610446?s=gh-internships-2027) |
-| — | **Silabs** | Data Governance Intern | Knoxville | nointernship.com | [apply](https://go.vansh.nyc/Mz?s=y) |
+Nothing new this run.
 
 ## Watched company portals
 
