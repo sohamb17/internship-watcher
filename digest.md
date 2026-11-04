@@ -1,15 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 14:31 UTC · 4 new listings_
+_Updated 2026-11-04 15:01 UTC · 5 new listings_
 
-## New listings (4) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Oshkosh** | Engineer Intern - Controls (Summer 2027) | Orlando, Florida, United States | Company portals | [apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Orlando-Florida-United-States/Engineer-Intern---Controls--Summer-2027-_R51717) |
-| today | **State Street** | State Street Investment Management - Credit Research - 2027 Summer Internship | Boston, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-statestreet-global-R-800754?s=gh-internships-2027) |
-| — | **Parsons** | AI/ML Engineering Intern Summer 2027 | VA, Centreville, R188194 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-parsons-search-R188194?s=gh-internships-2027) |
-| — | **Parsons** | Digital Engineering Intern Summer 2027 | VA, Centreville, R188195 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-parsons-search-R188195?s=gh-internships-2027) |
+| today | **Bosch** | Project Management / Test Engineering Intern | Plymouth, MI, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000159649749) |
+| today | **Heartland Business Systems** | Dynamics 365 CRM Engineering Associate - Summer 2027 Internship Program | Little Chute, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a96ced6e4e60e4b8da5a0a0?utm_campaign=1079&utm_source=git) |
+| today | **RTX** | Factory Enablement Digital Engineer Intern (Summer 2027) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer-Intern--Summer-2027-_01887084) |
+| today | **Zebra** | 2027 Summer Internship (US) - Software Engineer, AI Features & Product Convergence, Zebra Task... | Kennesaw, Georgia | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103636?s=gh-internships-2027) |
+| today | **Zebra** | 2027 Summer Internship (US) - Systems Engineer | Germantown, Maryland | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103659?s=gh-internships-2027) |
 
 ## Watched company portals
 
