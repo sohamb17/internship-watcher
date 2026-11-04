@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 05:01 UTC · 2 new listings_
+_Updated 2026-11-04 05:31 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Hakkōda, an IBM Company** | Firmware and Systems Developer Intern 2027 -Poughkeepsie, NY | Poughkeepsie, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea9a7b440b469a1c0af346?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Millennial Software** | Engineering Intern - Forge Automated Code Assessment (Summer 2027) | Chantilly, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea959bd22d4c08ec605278?utm_campaign=1079&utm_source=git) |
+| today | **Northrop Grumman** | 2027 S/W Embedded Engineering Intern – Sykesville MD | United States-Maryland-Sykesville | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10258553?s=gh-internships-2027) |
 
 ## Watched company portals
 
