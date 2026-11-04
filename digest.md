@@ -1,15 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 01:31 UTC · 4 new listings_
+_Updated 2026-11-04 02:01 UTC · 1 new listing_
 
-## New listings (4) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **IBM** | Firmware and Systems Developer Intern 2027 -Poughkeepsie, NY | Poughkeepsie, AR, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea62121ba298c7777725ab?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Lockheed Martin** | Java Software Developer-INTERN | Colorado Springs, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea67de913589212b1f6abe?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Sentient Digital, Inc.** | Software Engineer Intern (Summer 2027) | Brunswick, ME, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea674a913589212b1f6a33?utm_campaign=1079&utm_source=git) |
-| 1d ago | **StudyArena** | Research Intern, Agent Experience · Student Jobs | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea60814f991d64376cd779?utm_campaign=1079&utm_source=git) |
+| today | **Taara** | Optical PLL Research Intern | Sunnyvale, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-taaraconnect-06d29a2a-9913-4c52-b1ba-9236ca086acb?s=gh-internships-2027) |
 
 ## Watched company portals
 
