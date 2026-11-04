@@ -1,14 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 15:31 UTC · 3 new listings_
+_Updated 2026-11-04 16:01 UTC · 4 new listings_
 
-## New listings (3) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **RTX** | High Temperature Composites Engineering Intern (Summer 2027)(Onsite) | US-CA-SANTA FE SPRINGS-11120 ~ 11120 South Norwalk Blvd ~ NO | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/High-Temperature-Composites-Engineering-Intern--Summer-2027--Onsite-_01885228) |
-| today | **Zebra Technologies** | Software Engineer Intern, AI Features & Product Convergence | Kennesaw, GA | vanshb03 | [apply](https://go.vansh.nyc/1gx) |
-| today | **Zebra Technologies** | Systems Engineer Intern | Germantown, MD | vanshb03 | [apply](https://go.vansh.nyc/1gw) |
+| today | **Elanco** | Junior IT Engineer – Information Technology Intern (Summer 2027) | Indianapolis, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a959728c8763a3a87ffacc4?utm_campaign=1079&utm_source=git) |
+| today | **IBM** | Software Developer Intern/Tucson-AZ | Tucson, AZ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb3533f40efa43f4a1521a?utm_campaign=1079&utm_source=git) |
+| today | **Nokia** | Wi-Fi Research Co-op | United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-nokia-41022?s=gh-internships-2027) |
+| today | **Northrop Grumman** | 2027 Operations Tool Engineer Intern | United States-California-Palmdale | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259204?s=gh-internships-2027) |
 
 ## Watched company portals
 
