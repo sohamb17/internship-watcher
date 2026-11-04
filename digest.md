@@ -1,13 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 06:01 UTC · 2 new listings_
+_Updated 2026-11-04 06:31 UTC · 5 new listings_
 
-## New listings (2) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Itron** | Intern - Data Analytics and Automation, Finance | WA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-itron-itron-JR103020?s=gh-internships-2027) |
 | today | **RTX** | Intern: Summer 2027 - Control/Diagnostic Software (Onsite) | US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840) |
+| today | **RTX** | Platform Intern (Summer 2027) | TX-RICHARDSON-C27 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874068?s=gh-internships-2027) |
+| 53d ago | **Baidu USA** | Forward Deployed Engineer Intern | Mountain View, CA | vanshb03 | [apply](https://go.vansh.nyc/1fZ) |
+| 832d ago | **Rackner** | Computer Science Intern | College Park, MD | vanshb03 | [apply](https://go.vansh.nyc/1fX) |
 
 ## Watched company portals
 
