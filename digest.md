@@ -1,16 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 15:01 UTC · 5 new listings_
+_Updated 2026-11-04 15:31 UTC · 3 new listings_
 
-## New listings (5) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bosch** | Project Management / Test Engineering Intern | Plymouth, MI, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000159649749) |
-| today | **Heartland Business Systems** | Dynamics 365 CRM Engineering Associate - Summer 2027 Internship Program | Little Chute, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a96ced6e4e60e4b8da5a0a0?utm_campaign=1079&utm_source=git) |
-| today | **RTX** | Factory Enablement Digital Engineer Intern (Summer 2027) | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer-Intern--Summer-2027-_01887084) |
-| today | **Zebra** | 2027 Summer Internship (US) - Software Engineer, AI Features & Product Convergence, Zebra Task... | Kennesaw, Georgia | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103636?s=gh-internships-2027) |
-| today | **Zebra** | 2027 Summer Internship (US) - Systems Engineer | Germantown, Maryland | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103659?s=gh-internships-2027) |
+| today | **RTX** | High Temperature Composites Engineering Intern (Summer 2027)(Onsite) | US-CA-SANTA FE SPRINGS-11120 ~ 11120 South Norwalk Blvd ~ NO | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-SANTA-FE-SPRINGS-11120--11120-South-Norwalk-Blvd--NORWALK/High-Temperature-Composites-Engineering-Intern--Summer-2027--Onsite-_01885228) |
+| today | **Zebra Technologies** | Software Engineer Intern, AI Features & Product Convergence | Kennesaw, GA | vanshb03 | [apply](https://go.vansh.nyc/1gx) |
+| today | **Zebra Technologies** | Systems Engineer Intern | Germantown, MD | vanshb03 | [apply](https://go.vansh.nyc/1gw) |
 
 ## Watched company portals
 
