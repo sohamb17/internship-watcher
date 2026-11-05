@@ -1,28 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 03:31 UTC · 17 new listings_
+_Updated 2026-11-05 04:01 UTC · 2 new listings_
 
-## New listings (17) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Meta** | Research Scientist Intern - Humanoid Control & Dexterous Manipulation | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1832390484751700) |
-| today | **Meta** | Research Scientist Intern - Monetization Ranking & AI Foundations | Menlo Park, CA / Sunnyvale, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1920724172670221) |
-| today | **Meta** | Research Scientist Intern - Spatial Reasoning & Localization | Boston, MA / Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1218542847568705) |
-| today | **PayPal** | Data Scientist Intern | San Jose, CA (+1 more) | SimplifyJobs | [apply](https://paypal.eightfold.ai/careers/job/274922982821) |
-| today | **PayPal** | Machine Learning Engineer Intern | San Jose, CA (+1 more) | SimplifyJobs | [apply](https://paypal.eightfold.ai/careers/job/274922983149) |
-| today | **PayPal** | Mobile Engineer Intern | Austin, TX / San Jose, CA / Chicago, IL / Omaha, NE / Scotts (+1 more) | SimplifyJobs | [apply](https://paypal.eightfold.ai/careers/job/274922982818) |
-| today | **PayPal** | Software Engineer Intern | Austin, TX / San Jose, CA / Chicago, IL / Omaha, NE / Scotts (+1 more) | SimplifyJobs | [apply](https://paypal.eightfold.ai/careers/job/274922982814) |
-| 1d ago | **Amgen** | Graduate Intern | Remote in USA | SimplifyJobs | [apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585) |
-| 1d ago | **Leidos** | Software Engineering & AI Intern | Remote in USA / Shiloh, IL / Odenton, MD | SimplifyJobs | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220) |
-| 1d ago | **National Laboratory of the Rockies** | Graduate Intern - Artificial Learning and Intelligence for Transportation Safety and Operations | Golden, CO | SimplifyJobs | [apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern----Artificial-Learning-and-Intelligence-for-Transportation-Safety-and-Operations_R14590) |
-| 1d ago | **Vizient** | Pharmacy Aggregation Intern | Washington, DC / Centennial, CO / Remote in USA / Edina, MN  | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) |
-| 15d ago | **Meta** | Research Scientist Intern - Multimodal Behavioral AI | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1428978125312655) |
-| 42d ago | **NCR Voyix** | Software Engineer Fellow | Florida | SimplifyJobs | [apply](https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Software-Engineer-Fellow_R0158700) |
-| — | **Ericsson** | Technology and AI Intern | Plano | nointernship.com | [apply](https://go.vansh.nyc/1gz?s=y) |
-| — | **Northrop Grumman** | S/W Embedded Engineering Intern | Sykesville | nointernship.com | [apply](https://go.vansh.nyc/1fW?s=y) |
-| — | **Nutanix** | Software Engineer Intern | Cambridge | nointernship.com | [apply](https://jobs.jobvite.com/nutanix/job/otr1Afwf) |
-| — | **United Parcel Service (UPS)** | Information Security Intern | Remote | nointernship.com | [apply](https://go.vansh.nyc/1g5?s=y) |
+| 1d ago | **SK hynix memory solutions America Inc.** | Software Engineer Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aebd5a982f0ac077443d740?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Venmo** | Mobile Engineer Intern - Summer 2027 | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aebdd53ef3e65925305a24d?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
