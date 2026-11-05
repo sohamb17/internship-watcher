@@ -1,8 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 07:31 UTC · 0 new listings_
+_Updated 2026-11-05 08:01 UTC · 4 new listings_
 
-Nothing new this run.
+## New listings (4) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 19d ago | **84 Lumber** | Business Intelligence Intern - Business Intelligence | Eighty Four, PA | SimplifyJobs | [apply](https://careers.84lumber.com/jobs/26178?icims=1) |
+| 27d ago | **Peraton** | Software Development Intern | Topeka, KS | SimplifyJobs | [apply](https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false) |
+| 48d ago | **W.R. Berkley** | Software Developer Intern - Java | Urbandale, IA | SimplifyJobs | [apply](https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false) |
+| 79d ago | **Arthur J. Gallagher & Co.** | Data Analytics Intern | Rolling Meadows, IL | SimplifyJobs | [apply](https://jobs.ajg.com/jobs/57701?icims=1) |
 
 ## Watched company portals
 

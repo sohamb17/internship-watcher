@@ -498,7 +498,70 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20762,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20762
 },
-"held": [],
+"held": [
+{
+"company": "Arthur J. Gallagher & Co.",
+"degrees": [],
+"dk": "arthurjgallagher|analytics data",
+"found": 20762,
+"loc": "Rolling Meadows, IL",
+"more": null,
+"night": true,
+"posted": 20683,
+"role": "Data Analytics Intern",
+"sk": "edbfe6a0-64b5-4ceb-8e7f-1ba82a46bfa4",
+"src": "simplify",
+"url": "https://jobs.ajg.com/jobs/57701?icims=1"
+},
+{
+"company": "W.R. Berkley",
+"degrees": [
+"Bachelor's"
+],
+"dk": "wrberkley|developer java software",
+"found": 20762,
+"loc": "Urbandale, IA",
+"more": null,
+"night": true,
+"posted": 20714,
+"role": "Software Developer Intern - Java",
+"sk": "bf48dd2b-e7b1-4338-a911-cb29771f7cce",
+"src": "simplify",
+"url": "https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false"
+},
+{
+"company": "Peraton",
+"degrees": [
+"Bachelor's"
+],
+"dk": "peraton|development software",
+"found": 20762,
+"loc": "Topeka, KS",
+"more": null,
+"night": true,
+"posted": 20735,
+"role": "Software Development Intern",
+"sk": "5c53841c-7751-499e-a270-dec2580e62e6",
+"src": "simplify",
+"url": "https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false"
+},
+{
+"company": "84 Lumber",
+"degrees": [
+"Bachelor's"
+],
+"dk": "84lumber|business intelligence",
+"found": 20762,
+"loc": "Eighty Four, PA",
+"more": null,
+"night": true,
+"posted": 20743,
+"role": "Business Intelligence Intern - Business Intelligence",
+"sk": "c050f43b-0c5e-4e3f-b914-f3eeaa7c3e71",
+"src": "simplify",
+"url": "https://careers.84lumber.com/jobs/26178?icims=1"
+}
+],
 "roles": {
 "10a|engineering fellow": 20762,
 "1password|brokering credential developer": 20759,
@@ -512,6 +575,7 @@
 "42dot|foundation models": 20762,
 "4agrobotics|ai": 20759,
 "4agrobotics|robotics software": 20759,
+"84lumber|business intelligence": 20762,
 "aarete|analytics business": 20762,
 "aarete|architecture data engineering": 20762,
 "abbott|affairs ai artificial clinical intelligence learning machine ml": 20759,
@@ -996,6 +1060,7 @@
 "arrowstreetcapital|developer quantitative": 20762,
 "arrowstreetcapital|engineer software": 20762,
 "arrowstreetcapital|quantitative researcher": 20762,
+"arthurjgallagher|analytics data": 20762,
 "ascension|analytics sourcing strategic": 20762,
 "asmglobal|data specialist": 20762,
 "asml|ai business systems": 20762,
@@ -4255,6 +4320,7 @@
 "peraton|data science": 20762,
 "peraton|developer software": 20762,
 "peraton|development ks software topeka": 20762,
+"peraton|development software": 20762,
 "peraton|electrical engineer": 20759,
 "peraton|engineer": 20759,
 "peraton|engineer software": 20762,
@@ -5877,6 +5943,7 @@
 "workday|engineer software": 20762,
 "workshop|engineer software": 20762,
 "worldengineai|data real research robotics sim to": 20762,
+"wrberkley|developer java software": 20762,
 "wsp|analyst data transportation": 20762,
 "wsp|civil engineering": 20759,
 "wsp|electrical engineering": 20759,
@@ -9503,6 +9570,7 @@
 "33ae8cab-9f3b-486e-9f60-5c43fd1f1e48": 20762,
 "33d259a8-0a0b-4a4c-9875-dd5206ee2317": 20762,
 "33d87281-2914-4356-ad13-441114284934": 20762,
+"33d8edbb-a279-4374-880a-d5be62144aee": 20762,
 "33d96aa1-005b-4988-b918-7ffecf83de91": 20762,
 "341ad57c-d6c1-47e3-97ae-3056b177f31e": 20762,
 "34236390-94e2-432d-b29d-47f812faf22f": 20759,
@@ -9918,6 +9986,7 @@
 "5bfc436a-9656-4284-9854-0a7cfa20e018": 20762,
 "5c09b44a-a348-477f-927a-d9a8aabe0645": 20762,
 "5c47dfa0-2340-4231-a8bc-20e900f594c7": 20760,
+"5c53841c-7751-499e-a270-dec2580e62e6": 20762,
 "5c721084-2430-498d-ae4c-d36aeaee8fac": 20761,
 "5cb3b2a7-3eeb-40f0-80ff-9f30db32b389": 20762,
 "5cb904dd-75ca-4e89-8e6d-2fb161c05b35": 20762,
@@ -10905,6 +10974,7 @@
 "bf1ec0ef-494e-419c-abea-be20337732b0": 20760,
 "bf1f43e3-d62e-4bdd-954f-a48e648fa7ba": 20762,
 "bf3a1bd0-0f1c-4719-af15-7f67b32b2590": 20762,
+"bf48dd2b-e7b1-4338-a911-cb29771f7cce": 20762,
 "bf4a4705-55c7-4d3d-8696-12a63e66879a": 20762,
 "bf6dc064-bc55-48a6-8d17-7fabcfc86bef": 20762,
 "bfa01257-724c-4c7e-9a32-1bd1a99d9b9e": 20762,
@@ -10918,6 +10988,7 @@
 "c00cea89-6203-42a3-af35-f98efd65e78a": 20762,
 "c033b014-3543-4799-8be7-042be636bc14": 20762,
 "c03b7a2c-d1b6-4e44-bfc8-e638eeb45dac": 20762,
+"c050f43b-0c5e-4e3f-b914-f3eeaa7c3e71": 20762,
 "c06039c4-ba75-429d-bdd0-6d8a878845ee": 20759,
 "c067fe94-7764-4b4b-b95a-74df217fe320": 20762,
 "c074fa48-973a-4955-b90e-24dc948ef224": 20759,
@@ -11352,6 +11423,7 @@
 "ed3c7432-cc98-43bc-8361-acf4b6d1672b": 20762,
 "ed9e210c-cd7d-439c-a71c-72609cf1bb48": 20762,
 "edbc294c-6d81-4640-9118-08fb0700b6de": 20759,
+"edbfe6a0-64b5-4ceb-8e7f-1ba82a46bfa4": 20762,
 "edcb0851-74cc-4eda-8752-622b149fc905": 20762,
 "edd669e1-e493-4446-99d3-e8e668188696": 20762,
 "ede8c3f5-fd50-49d4-b347-bece731058ad": 20762,
