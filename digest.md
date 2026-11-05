@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-04 23:31 UTC · 1 new listing_
+_Updated 2026-11-05 00:01 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **GM Financial** | Intern - Cloud Engineer | Irving, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-gm-financial-261245?s=gh-internships-2027) |
+| today | **Daimler Truck** | Project Engineering Intern | Portland, OR US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20557?s=gh-internships-2027) |
+| today | **Daimler Truck** | Vehicle Thermal Integration - Validation Engineering Intern | Portland, OR US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20558?s=gh-internships-2027) |
 
 ## Watched company portals
 
