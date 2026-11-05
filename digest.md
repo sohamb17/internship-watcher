@@ -1,20 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 22:31 UTC · 9 new listings_
+_Updated 2026-11-05 23:01 UTC · 4 new listings_
 
-## New listings (9) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CodeMettle** | Associate QA Engineer (Coop or Intern) | Atlanta, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aece9d23967d67f635a0ddd?utm_campaign=1079&utm_source=git) |
-| today | **J.M. Smucker** | Data Science Intern, Summer 2027 | Working Remote USA | zshah101 | [apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118) |
-| today | **Leidos** | Physiology Research Intern | San Diego, CA | Company portals | [apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Physiology-Research-Intern_R-00196376) |
-| today | **Little Caesars Enterprises** | Intern, AI IT | Detroit, MI | zshah101 | [apply](https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--AI-IT_R9675) |
-| today | **Mitsubishi Electric Trane US** | Automotive Cloud & Middleware Validation Intern | Northville, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae1bc34eb7e8f715a6077fa?utm_campaign=1079&utm_source=git) |
-| today | **Nordson** | Software Intern | Minneapolis, MN (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1jk) |
-| today | **Regal Rexnord** | Engineering Technology Lab Co-op | Tipp City, Ohio, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_05926?s=gh-internships-2027) |
-| today | **Western Alliance** | Summer 2027 Internship - Columbus, OH - Platform Engineering | Columbus, OH | zshah101 | [apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024) |
-| today | **Western Alliance** | Summer 2027 Internship - Dallas, TX - Platform Engineering | Dallas, TX (+3 more) | zshah101 | [apply](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019) |
+| today | **Eversource Energy** | 2027 Gas Project Engineering Co-op | MA Westborough Technology Dr | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032515?s=gh-internships-2027) |
+| today | **Garmin** | IT DevOps Administrator Intern | Olathe, KS | vanshb03 | [apply](https://go.vansh.nyc/1jp) |
+| today | **RTX** | Electrical Components Engineer Intern (Summer 2027)(Onsite) | US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10 (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027--Onsite-_01879761) |
+| today | **Tenet Healthcare** | Data Engineer Intern | Dallas, TX | vanshb03 | [apply](https://go.vansh.nyc/1jn) |
 
 ## Watched company portals
 
