@@ -1,21 +1,28 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 03:01 UTC · 10 new listings_
+_Updated 2026-11-05 03:31 UTC · 17 new listings_
 
-## New listings (10) — newest first
+## New listings (17) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern - Research in Software Engineering, ML Systems, Agents | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200065702?s=gh-internships-2027) |
-| today | **Allegion** | Summer Intern - Engineering - OpEx Distribution | Olathe, KS (+1 more) | Company portals | [apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Olathe-KS/Summer-Intern---Engineering---OpEx-Distribution_JR37417-1) |
-| today | **Berkshire Hathaway Energy** | Renewable Generation Performance Intern | Des Moines, IA | SimplifyJobs | [apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) |
-| today | **Chubb** | Business Intelligence Intern | Chicago, IL | SimplifyJobs | [apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335) |
-| today | **John Deere** | Product Engineering Student Intern - Product Engineering | Urbandale, IA | SimplifyJobs | [apply](https://johndeere.eightfold.ai/careers/job/137483675893) |
-| 1d ago | **ASML** | Machine Learning and Image-Based Metrics for EUV System Setup Intern | San Diego, CA | SimplifyJobs | [apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567) |
-| 1d ago | **Baird** | Automation & AI Solutions Intern | Milwaukee, WI | SimplifyJobs | [apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1) |
-| 1d ago | **Corewell Health** | Consumer Insights Intern | Grand Rapids, MI | SimplifyJobs | [apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Consumer-Insights-Intern_R231723) |
-| 1d ago | **Logiqal** | Quantum Error Correction and Architecture Intern | Princeton, NJ | SimplifyJobs | [apply](https://jobs.ashbyhq.com/logiqal/2ee3439f-b612-408e-ad7c-1012362c640f/application?embed=true) |
-| 48d ago | **Centene** | Data and Analytics Intern - Undergraduate | Missouri | SimplifyJobs | [apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515) |
+| today | **Meta** | Research Scientist Intern - Humanoid Control & Dexterous Manipulation | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1832390484751700) |
+| today | **Meta** | Research Scientist Intern - Monetization Ranking & AI Foundations | Menlo Park, CA / Sunnyvale, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1920724172670221) |
+| today | **Meta** | Research Scientist Intern - Spatial Reasoning & Localization | Boston, MA / Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1218542847568705) |
+| today | **PayPal** | Data Scientist Intern | San Jose, CA (+1 more) | SimplifyJobs | [apply](https://paypal.eightfold.ai/careers/job/274922982821) |
+| today | **PayPal** | Machine Learning Engineer Intern | San Jose, CA (+1 more) | SimplifyJobs | [apply](https://paypal.eightfold.ai/careers/job/274922983149) |
+| today | **PayPal** | Mobile Engineer Intern | Austin, TX / San Jose, CA / Chicago, IL / Omaha, NE / Scotts (+1 more) | SimplifyJobs | [apply](https://paypal.eightfold.ai/careers/job/274922982818) |
+| today | **PayPal** | Software Engineer Intern | Austin, TX / San Jose, CA / Chicago, IL / Omaha, NE / Scotts (+1 more) | SimplifyJobs | [apply](https://paypal.eightfold.ai/careers/job/274922982814) |
+| 1d ago | **Amgen** | Graduate Intern | Remote in USA | SimplifyJobs | [apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585) |
+| 1d ago | **Leidos** | Software Engineering & AI Intern | Remote in USA / Shiloh, IL / Odenton, MD | SimplifyJobs | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220) |
+| 1d ago | **National Laboratory of the Rockies** | Graduate Intern - Artificial Learning and Intelligence for Transportation Safety and Operations | Golden, CO | SimplifyJobs | [apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern----Artificial-Learning-and-Intelligence-for-Transportation-Safety-and-Operations_R14590) |
+| 1d ago | **Vizient** | Pharmacy Aggregation Intern | Washington, DC / Centennial, CO / Remote in USA / Edina, MN  | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) |
+| 15d ago | **Meta** | Research Scientist Intern - Multimodal Behavioral AI | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1428978125312655) |
+| 42d ago | **NCR Voyix** | Software Engineer Fellow | Florida | SimplifyJobs | [apply](https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Software-Engineer-Fellow_R0158700) |
+| — | **Ericsson** | Technology and AI Intern | Plano | nointernship.com | [apply](https://go.vansh.nyc/1gz?s=y) |
+| — | **Northrop Grumman** | S/W Embedded Engineering Intern | Sykesville | nointernship.com | [apply](https://go.vansh.nyc/1fW?s=y) |
+| — | **Nutanix** | Software Engineer Intern | Cambridge | nointernship.com | [apply](https://jobs.jobvite.com/nutanix/job/otr1Afwf) |
+| — | **United Parcel Service (UPS)** | Information Security Intern | Remote | nointernship.com | [apply](https://go.vansh.nyc/1g5?s=y) |
 
 ## Watched company portals
 
