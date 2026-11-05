@@ -1,20 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 20:31 UTC · 9 new listings_
+_Updated 2026-11-05 21:01 UTC · 7 new listings_
 
-## New listings (9) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **BorgWarner** | Software Test Intern | Auburn Hills, MI (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1jb) |
-| today | **Caterpillar** | 2027 Part-Time Intern - Engineering | Pontiac, Illinois | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000399906?s=gh-internships-2027) |
-| today | **Federal Reserve System** | Economic Research, Internship – Summer 2027 | Kansas City, MO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000034027?s=gh-internships-2027) |
-| today | **GM Financial** | Intern - Operations Analyst | Fort Worth, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-gm-financial-261259?s=gh-internships-2027) |
-| today | **Moderna** | 2027 Intern, Data Management | Cambridge, Massachusetts,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-modernatx-m-tx-R20100?s=gh-internships-2027) |
-| today | **onsemi** | Summer 2027 - Device Characterization Engineering Intern | Hopewell Junction, NY, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-onsemi-2506970?s=gh-internships-2027) |
-| today | **onsemi** | Summer 2027 - Lithography Engineering Intern | Hopewell Junction, NY, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-onsemi-2506644?s=gh-internships-2027) |
-| today | **onsemi** | Summer 2027 - Metrology Engineering Intern | Hopewell Junction, NY, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-onsemi-2506645?s=gh-internships-2027) |
-| today | **onsemi** | Summer 2027 - Technology Development Intern | Hopewell Junction, NY, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-onsemi-2506991?s=gh-internships-2027) |
+| today | **Analog Devices** | Equipment Engineering Co-Op GFU (May-Dec) | US, OR, Beaverton (+1 more) | Company portals | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Co-Op-GFU--May-Dec-_R268545) |
+| today | **Momentive** | 2027 CO-OP-Hardcoat Research and Development | NY Waterford | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-momentive-mc-R10052?s=gh-internships-2027) |
+| today | **onsemi** | Summer 2027 - IE / Data Analytics Intern | Hopewell Junction, NY, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-onsemi-2506636?s=gh-internships-2027) |
+| today | **onsemi** | Summer 2027 - Technology Development LV-MV Internship | Hopewell Junction, NY, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-onsemi-2506492?s=gh-internships-2027) |
+| today | **onsemi** | Summer 2027 - Test Development Engineering Internship | Hopewell Junction, NY, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-onsemi-2506614?s=gh-internships-2027) |
+| today | **onsemi** | Summer 2027 - Thin Films, Implant & Diffusion Process Engineering Intern | Hopewell Junction, NY, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-onsemi-2506637?s=gh-internships-2027) |
+| — | **General Matter** | Summer 2027 Internship - Field Engineer | Paducah, Kentucky, United States | Company portals | [apply](https://job-boards.greenhouse.io/generalmatter/jobs/5473803008) |
 
 ## Watched company portals
 
