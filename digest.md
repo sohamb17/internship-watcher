@@ -1,17 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 15:31 UTC · 6 new listings_
+_Updated 2026-11-05 16:01 UTC · 7 new listings_
 
-## New listings (6) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **DrewFeig** | Programmer Analyst Intern | Waller County, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec83b8a9ea762a0408fb7b?utm_campaign=1079&utm_source=git) |
-| today | **Genuine Parts Company** | Software Developer Intern | Birmingham, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a974550e4e60e4b8da5d4fc?utm_campaign=1079&utm_source=git) |
-| today | **L3Harris Technologies** | Intern, Software Engineer (Salt Lake City, UT) | Salt Lake City, UT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa95da028e24cb38513a038?utm_campaign=1079&utm_source=git) |
-| today | **L3Harris Technologies** | Intern, Software Engineer (Salt Lake City, UT) Job Details / L3HHCM20 | Salt Lake City, UT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adffa25065c4e77efafd75c?utm_campaign=1079&utm_source=git) |
-| today | **L3Harris Technologies** | Intern, Software Engineer Job Details / L3HHCM20 | Rockwall, TX, United States (+2 more) | Jobright | [apply](https://jobright.ai/jobs/info/6adff9755dc7953215a44c8f?utm_campaign=1079&utm_source=git) |
-| today | **Little Caesars Enterprises** | Developer IT Intern | Detroit, MI | vanshb03 | [apply](https://go.vansh.nyc/1iC) |
+| today | **Constellation Brands** | AI Innovation Intern | Rochester, NY / Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1iF) |
+| today | **Hearst** | Software Engineer Intern | Carmel, IN (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/hearst/jobs/4466334009) |
+| today | **JM Family** | Software Analyst Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187) |
+| today | **Markel Group** | AI Automation Intern | Woodland Hills, LA | SimplifyJobs | [apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277) |
+| today | **RTX** | Skillbridge: Sr Prin Systems Engineer Intern | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Skillbridge--Sr-Prin-Systems-Engineer-Intern_01887483) |
+| today | **The Federal Reserve System** | 2027 Summer Internship Program - Information Security Intern | Atlanta, GA | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910) |
+| today | **Walmart** | (USA) Summer 2027 Corporate Intern:  Last Mile Delivery Data Science Intern | (USA) J Street Offices, Suite #2 AR BENTONVILLE Home Office | Company portals | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-Street-Offices-Suite-2-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Data-Science-Intern_R-2686828) |
 
 ## Watched company portals
 
