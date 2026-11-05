@@ -1,13 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 04:01 UTC · 2 new listings_
+_Updated 2026-11-05 04:31 UTC · 5 new listings_
 
-## New listings (2) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **SK hynix memory solutions America Inc.** | Software Engineer Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aebd5a982f0ac077443d740?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Venmo** | Mobile Engineer Intern - Summer 2027 | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aebdd53ef3e65925305a24d?utm_campaign=1079&utm_source=git) |
+| — | **Northrop Grumman** | Software Embedded Engineering Intern | Sykesville | nointernship.com | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553) |
+| — | **Qualcomm** | Sensors Subsystem Engineering Intern - Multiple Teams | Markham | nointernship.com | [apply](https://qualcomm.eightfold.ai/careers/job/446721109168) |
+| — | **Tokyo Electron** | Research Scientist Intern - Summer 2027 | Austin | nointernship.com | [apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311) |
+| — | **Westinghouse Electric Company** | System Test Engineering Intern | Warrendale | nointernship.com | [apply](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-System-Test-Engineering-OR/1433673100/) |
+| — | **Zurn Elkay Water Solutions** | Electrical & Electronics Engineering Intern | Downers Grove | nointernship.com | [apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Electrical---Electronics-Engineering-Intern--Summer-2027-_REQ-020097) |
 
 ## Watched company portals
 
