@@ -1,15 +1,44 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 08:01 UTC · 4 new listings_
+_Updated 2026-11-05 08:31 UTC · 33 new listings_
 
-## New listings (4) — newest first
+## New listings (33) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **American Family Insurance Group** | Enterprise Data Intern | Madison, WI | vanshb03 | [apply](https://go.vansh.nyc/1hH) |
+| today | **NCR Atleos** | Data Science Intern | Atlanta, GA / Frisco, TX | vanshb03 | [apply](https://go.vansh.nyc/1hM) |
+| today | **NCR Atleos** | Technology Intern | Atlanta, GA / Frisco, TX | vanshb03 | [apply](https://go.vansh.nyc/1hL) |
+| today | **Tencent** | Game Research & Development Intern, Engine Research | Los Angeles, CA (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1hN) |
+| 1d ago | **HP** | Software Internship Roles - HP Solutions (HPS) | Spring, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abd48a98ff3fb9b3bc6fbc4?utm_campaign=1079&utm_source=git) |
 | 19d ago | **84 Lumber** | Business Intelligence Intern - Business Intelligence | Eighty Four, PA | SimplifyJobs | [apply](https://careers.84lumber.com/jobs/26178?icims=1) |
 | 27d ago | **Peraton** | Software Development Intern | Topeka, KS | SimplifyJobs | [apply](https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false) |
 | 48d ago | **W.R. Berkley** | Software Developer Intern - Java | Urbandale, IA | SimplifyJobs | [apply](https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Application Software Development Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/5020/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Application Systems Development Intern - Motive Mix | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/5021/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Applied Research Science Intern<br>Master's/PhD | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4967/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Artificial Intelligence Engineer Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Audio Applied Research Science Intern<br>Master's/PhD | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4968/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Automated Test Software Engineering Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4964/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Cloud Applications Development Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4965/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Cloud Software Engineer Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4976/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Data Engineer Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4982/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Data-Driven Sustainability Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4979/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Mobile Applications Intern - Android | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/5006/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Mobile Applications Intern - iOS | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/5007/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Software Engineer Intern<br>Master's | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4996/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Unified Communications Technology Intern | Skokie, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/5002/job?mobile=true&needsRedirect=false) |
+| 63d ago | **Shure** | Web Analytics Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/5027/job?mobile=true&needsRedirect=false) |
+| 64d ago | **Atlassian** | Software Engineer Intern | Seattle, WA / SF | SimplifyJobs | [apply](https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job) |
+| 64d ago | **Southern Star Central Gas Pipeline** | GIS Analyst Intern | Owensboro, KY | SimplifyJobs | [apply](https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false) |
+| 64d ago | **Western & Southern Financial Group** | Software Engineer Intern | Cincinnati, OH | SimplifyJobs | [apply](https://careers-westernsouthern.icims.com/jobs/25222/job?mobile=true&needsRedirect=false) |
+| 71d ago | **Empirical Foods** | Software Engineer Intern - Summer 2027 | Dakota Dunes, SD | SimplifyJobs | [apply](https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false) |
+| 72d ago | **Springs Window Fashions** | Software Engineering Intern - Summer 2027 | Long Island City, Queens, NY | SimplifyJobs | [apply](https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false) |
+| 74d ago | **Springs Window Fashions** | AI Analyst Intern - Consumer Business Unit | Middleton, WI | SimplifyJobs | [apply](https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false) |
+| 74d ago | **Springs Window Fashions** | Data Analyst Intern - Consumer Business Unit | Middleton, WI | SimplifyJobs | [apply](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false) |
+| 74d ago | **Springs Window Fashions** | Textile Engineering Intern - Summer 2027 | Middleton, WI | SimplifyJobs | [apply](https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false) |
 | 79d ago | **Arthur J. Gallagher & Co.** | Data Analytics Intern | Rolling Meadows, IL | SimplifyJobs | [apply](https://jobs.ajg.com/jobs/57701?icims=1) |
+| 153d ago | **Susquehanna International Group (SIG)** | Electricity + Natural Gas Analyst Intern | Ardmore, PA | SimplifyJobs | [apply](https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false) |
 
 ## Watched company portals
 
