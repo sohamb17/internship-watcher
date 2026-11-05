@@ -1,115 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 14:01 UTC · 104 new listings_
+_Updated 2026-11-05 14:31 UTC · 5 new listings_
 
-## New listings (104) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **American Family Insurance Group** | Enterprise Data Intern | Madison, WI | vanshb03 | [apply](https://go.vansh.nyc/1hH) |
-| today | **AMETEK** | Intern, Junior Python Developer | Wayne, NJ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad87a8f950ef68d5184861d?utm_campaign=1079&utm_source=git) |
-| today | **Arango** | Software Engineer Intern, Cookbooks | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1it) |
-| today | **Ascend Learning** | Intern - Software Engineering Job Details / Ascend Learning, LLC | Leawood, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad7623267bec1d0d9c74cbd?utm_campaign=1079&utm_source=git) |
-| today | **Cognizant** | Software Engineering Internship – TriZetto Product House | Teaneck, NJ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec610fab48a7079381b829?utm_campaign=1079&utm_source=git) |
-| today | **Concord Advice** | Data Scientist Intern | Florham Park, NJ | vanshb03 | [apply](https://go.vansh.nyc/1ir) |
-| today | **Constellation Energy** | Renewable Energy Intern | Houston, TX | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us) |
-| today | **Emerson** | Applications Engineer Intern | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab4121f7bd08137133158f5?utm_campaign=1079&utm_source=git) |
-| today | **Framatome** | AI and Software Innovation Intern | Lynchburg, VA | SimplifyJobs | [apply](https://careers-framatome.icims.com/jobs/3385/job?mobile=true&needsRedirect=false) |
-| today | **General Dynamics Mission Systems** | FPGA Engineer Intern | Manassas, VA | vanshb03 | [apply](https://go.vansh.nyc/1i0) |
-| today | **IDeaS** | Software Developer Intern | Bloomington, MN | SimplifyJobs | [apply](https://ideas-sas.icims.com/jobs/42665/job?mobile=true&needsRedirect=false) |
-| today | **Lennox** | Mobile Applications Intern | Richardson, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa9d06c28e24cb38513c74e?utm_campaign=1079&utm_source=git) |
-| today | **Liberty Mutual** | Analyst Development Intern | Boston, MA / Seattle, WA / Plano, TX | SimplifyJobs | [apply](https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false) |
-| today | **Lyte AI** | Software Engineering Intern | Sunnyvale, CA | vanshb03 | [apply](https://go.vansh.nyc/1in) |
-| today | **NCR Atleos** | Data Science Intern | Atlanta, GA / Frisco, TX | vanshb03 | [apply](https://go.vansh.nyc/1hM) |
-| today | **NCR Atleos** | Technology Intern | Atlanta, GA / Frisco, TX | vanshb03 | [apply](https://go.vansh.nyc/1hL) |
-| today | **Nebo** | Back-End Engineering Intern | Atlanta, GA | vanshb03 | [apply](https://go.vansh.nyc/1i8) |
-| today | **Nebo** | Front-End Engineering Intern | Atlanta, GA | vanshb03 | [apply](https://go.vansh.nyc/1i7) |
-| today | **Nebo** | Web Development Intern | Atlanta, GA | vanshb03 | [apply](https://go.vansh.nyc/1i6) |
-| today | **Novelis** | Automotive Engineering Co-op | Kennesaw, GA | SimplifyJobs | [apply](https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false) |
-| today | **Peraton** | Cyber Research Intern | West Lafayette, IN / Basking Ridge, Bernards, NJ / Silver Sp | SimplifyJobs | [apply](https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false) |
-| today | **Peraton** | Social Media & Marketing Analyst Intern | San Diego, CA | SimplifyJobs | [apply](https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false) |
-| today | **Prospect Equities** | Backend / Frontend Developer Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1ia) |
-| today | **State Farm** | Magnet Program @ University of Illinois Urbana-Champaign Intern | Champaign, IL | SimplifyJobs | [apply](https://jobs.statefarm.com/jobs/46049?icims=1) |
-| today | **State Farm** | Magnet Program Intern | Tempe, AZ | SimplifyJobs | [apply](https://jobs.statefarm.com/jobs/46301?icims=1) |
-| today | **Tencent** | Game Research & Development Intern, Engine Research | Los Angeles, CA (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1hN) |
-| today | **The Cary Company** | AI / Automation Intern | Addison, IL | vanshb03 | [apply](https://go.vansh.nyc/1ig) |
-| today | **Veryable** | Platform Engineer Intern | Dallas, TX | vanshb03 | [apply](https://go.vansh.nyc/1ip) |
-| 1d ago | **Constellation Energy** | Load Forecasting & Analytics Intern | Baltimore, MD | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/139493?icims=1&lang=en-us) |
-| 1d ago | **HP** | Software Internship Roles - HP Solutions (HPS) | Spring, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abd48a98ff3fb9b3bc6fbc4?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Interbiz Consulting** | Software Engineer Intern | Tempe, AZ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec36f8f69ea487dd5d7b16?utm_campaign=1079&utm_source=git) |
-| 2d ago | **Noblis** | Data Science and Innovation Intern | Springfield, VA / Reston, VA | SimplifyJobs | [apply](https://careers.noblis.org/jobs/28097?icims=1&lang=en-us) |
-| 2d ago | **ViaSat** | Digital and Programmable Logic Engineer Intern | Tempe, AZ | vanshb03 | [apply](https://go.vansh.nyc/1hV) |
-| 3d ago | **Alaska Air Group** | BI Analyst Intern | Renton, WA | SimplifyJobs | [apply](https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false) |
-| 3d ago | **Alaska Air Group** | Guest Products Analyst Intern | SeaTac, WA | SimplifyJobs | [apply](https://corporatejobs-alaskaair.icims.com/jobs/21208/job?mobile=true&needsRedirect=false) |
-| 3d ago | **Alaska Air Group** | VR Development Intern | Renton, WA | SimplifyJobs | [apply](https://corporatejobs-alaskaair.icims.com/jobs/21281/job?mobile=true&needsRedirect=false) |
-| 3d ago | **General Dynamics Mission Systems** | Engineer Intern - Multiple Teams | United States (+1 more) | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/76785/job?mobile=true&needsRedirect=false) |
-| 7d ago | **Constellation Energy** | Geothermal Production Analytics Engineer Intern | Middletown, CA | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/140400?icims=1&lang=en-us) |
-| 10d ago | **Atlassian** | AI Research Intern | SF | SimplifyJobs | [apply](https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job) |
-| 10d ago | **Atlassian** | AI Researcher Intern | Seattle, WA / SF | SimplifyJobs | [apply](https://campus-americas.icims.com/jobs/26246/ai-researcher-%28phd%29%2c-2027-graduate-u.s./job) |
-| 13d ago | **Constellation Energy** | Data & Digital Transformation Intern - Geysers | Middletown, CA | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/140352?icims=1&lang=en-us) |
-| 13d ago | **Docusign** | Applied Science Intern<br>Master's/PhD | SF | SimplifyJobs | [apply](https://careers.docusign.com/jobs/30563?icims=1) |
-| 14d ago | **Constellation Energy** | IT Development Intern | San Diego, CA | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/140300?icims=1&lang=en-us) |
-| 14d ago | **General Dynamics Mission Systems** | Engineer Intern | Pittsfield, MA (+1 more) | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/75533/job?mobile=true&needsRedirect=false) |
-| 15d ago | **IDeaS** | Marketing Analytics Intern | Bloomington, MN | SimplifyJobs | [apply](https://ideas-sas.icims.com/jobs/44176/job?mobile=true&needsRedirect=false) |
-| 15d ago | **Minerals Technologies** | Finance Intern - Data Analysis | Bethlehem, PA | SimplifyJobs | [apply](https://careers-mineralstech.icims.com/jobs/4896/job?mobile=true&needsRedirect=false) |
-| 15d ago | **Minerals Technologies** | Geographic Information Science Intern | Belle Fourche, SD | SimplifyJobs | [apply](https://careers-mineralstech.icims.com/jobs/4903/job?mobile=true&needsRedirect=false) |
-| 16d ago | **Milwaukee Brewers** | Minor League Technology Operations Intern | Phoenix, AZ | SimplifyJobs | [apply](https://careers-brewers.icims.com/jobs/2804/job?mobile=true&needsRedirect=false) |
-| 19d ago | **84 Lumber** | Business Intelligence Intern - Business Intelligence | Eighty Four, PA | SimplifyJobs | [apply](https://careers.84lumber.com/jobs/26178?icims=1) |
-| 21d ago | **Susquehanna International Group** | Business Analytics AI Co-op | Bala Cynwyd, PA | SimplifyJobs | [apply](https://careers-sig.icims.com/jobs/11675/job?mobile=true&needsRedirect=false) |
-| 22d ago | **Susquehanna International Group** | Technology Co-op | Bala Cynwyd, PA | SimplifyJobs | [apply](https://careers-sig.icims.com/jobs/11654/job?mobile=true&needsRedirect=false) |
-| 22d ago | **General Dynamics Mission Systems** | Software Engineer for Crypto & Cross Domain Solutions Intern | Scottsdale, AZ | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/75477/job?mobile=true&needsRedirect=false) |
-| 22d ago | **Philadelphia Gas Works** | Field Operations Revenue Protection Unit Intern | Philadelphia, PA | SimplifyJobs | [apply](https://careers-pgworks.icims.com/jobs/1990/job?in_iframe=1&mobile=true&needsRedirect=false) |
-| 22d ago | **Wolf & Company** | AI & Automation Intern | Boston, MA | SimplifyJobs | [apply](https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false) |
-| 23d ago | **Garmin** | Data Scientist Intern | Louisville, CO | SimplifyJobs | [apply](https://careers.garmin.com/jobs/19925?icims=1) |
-| 26d ago | **Lennox International** | Business Compliance Intern | Richardson, TX | SimplifyJobs | [apply](https://uscareers-lennox.icims.com/jobs/55590/job?mobile=true&needsRedirect=false) |
-| 27d ago | **Peraton** | Software Development Intern | Topeka, KS | SimplifyJobs | [apply](https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false) |
-| 29d ago | **IDEMIA** | Engineering Intern | Reston, VA | SimplifyJobs | [apply](https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false) |
-| 30d ago | **Atlassian** | Data Engineer Intern | Seattle, WA | SimplifyJobs | [apply](https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job) |
-| 30d ago | **Dayton Freight Lines** | Business Intelligence Intern | Dayton, OH | SimplifyJobs | [apply](https://careers-daytonfreight.icims.com/jobs/18278/job?mobile=true&needsRedirect=false) |
-| 30d ago | **General Dynamics Mission Systems** | Software Engineer Intern - CWL | Manassas, VA | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/75346/job?mobile=true&needsRedirect=false) |
-| 35d ago | **ITT** | Data Analytics / AI Intern - Summer 2027 | Irvine, CA | SimplifyJobs | [apply](https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false) |
-| 36d ago | **Iridium Communications** | Software Engineering Intern | Tempe, AZ / McLean, VA | SimplifyJobs | [apply](https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false) |
-| 40d ago | **Atlassian** | Data Scientist Intern<br>Master's | Seattle, WA | SimplifyJobs | [apply](https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job) |
-| 40d ago | **Barrios** | Data and Computer Engineering/Computer Science Intern | Houston, TX | SimplifyJobs | [apply](https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false) |
-| 41d ago | **Enterprise Holdings** | Data Engineer Intern - IT | St. Louis, MO | SimplifyJobs | [apply](https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false) |
-| 41d ago | **State Farm** | Data Science Intern - Magnet Program<br>Master's | Tempe, AZ | SimplifyJobs | [apply](https://jobs.statefarm.com/jobs/46353?icims=1) |
-| 42d ago | **West Bend Insurance** | Data Solution Engineer Intern | Madison, WI / West Bend, WI | SimplifyJobs | [apply](https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false) |
-| 43d ago | **West Bend Insurance** | IT Data Engineer Intern | Madison, WI / West Bend, WI | SimplifyJobs | [apply](https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false) |
-| 44d ago | **Atlassian** | Machine Learning Intern<br>Master's | Seattle, WA / SF | SimplifyJobs | [apply](https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job) |
-| 48d ago | **Lennox International** | AI & Analytics Intern | Richardson, TX | SimplifyJobs | [apply](https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&needsRedirect=false) |
-| 48d ago | **Lennox International** | AI Engineering Intern - Summer 2027<br>Master's | Richardson, TX | SimplifyJobs | [apply](https://uscareers-lennox.icims.com/jobs/54897/job?mobile=true&needsRedirect=false) |
-| 48d ago | **Lennox International** | IoT Intern<br>Master's | Richardson, TX | SimplifyJobs | [apply](https://uscareers-lennox.icims.com/jobs/54893/job?mobile=true&needsRedirect=false) |
-| 48d ago | **W.R. Berkley** | Software Developer Intern - Java | Urbandale, IA | SimplifyJobs | [apply](https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false) |
-| 51d ago | **Highgate** | Data Services Intern - Summer 2027 | Irving, TX | SimplifyJobs | [apply](https://externalhourly-highgate.icims.com/jobs/82546/job?hub=7&mobile=true&needsRedirect=false) |
-| 56d ago | **Federated Insurance** | IT Intern | Owatonna, MN | SimplifyJobs | [apply](https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false) |
-| 56d ago | **General Dynamics Mission Systems** | Payload Control System Software/Systems Engineering Intern - Summer 2027 | Middletown, RI / Manassas, VA | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false) |
-| 56d ago | **Shure** | Application Software Engineer Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4956/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Application Software Development Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/5020/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Application Systems Development Intern - Motive Mix | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/5021/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Applied Research Science Intern<br>Master's/PhD | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4967/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Artificial Intelligence Engineer Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Audio Applied Research Science Intern<br>Master's/PhD | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4968/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Automated Test Software Engineering Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4964/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Cloud Applications Development Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4965/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Cloud Software Engineer Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4976/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Data Engineer Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4982/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Data-Driven Sustainability Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4979/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Mobile Applications Intern - Android | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/5006/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Mobile Applications Intern - iOS | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/5007/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Software Engineer Intern<br>Master's | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/4996/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Unified Communications Technology Intern | Skokie, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/5002/job?mobile=true&needsRedirect=false) |
-| 63d ago | **Shure** | Web Analytics Intern | Niles, IL | SimplifyJobs | [apply](https://careersus-shure.icims.com/jobs/5027/job?mobile=true&needsRedirect=false) |
-| 64d ago | **Atlassian** | Software Engineer Intern | Seattle, WA / SF | SimplifyJobs | [apply](https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job) |
-| 64d ago | **Southern Star Central Gas Pipeline** | GIS Analyst Intern | Owensboro, KY | SimplifyJobs | [apply](https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false) |
-| 64d ago | **Western & Southern Financial Group** | Software Engineer Intern | Cincinnati, OH | SimplifyJobs | [apply](https://careers-westernsouthern.icims.com/jobs/25222/job?mobile=true&needsRedirect=false) |
-| 71d ago | **Empirical Foods** | Software Engineer Intern - Summer 2027 | Dakota Dunes, SD | SimplifyJobs | [apply](https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false) |
-| 72d ago | **Springs Window Fashions** | Software Engineering Intern - Summer 2027 | Long Island City, Queens, NY | SimplifyJobs | [apply](https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false) |
-| 74d ago | **Springs Window Fashions** | AI Analyst Intern - Consumer Business Unit | Middleton, WI | SimplifyJobs | [apply](https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false) |
-| 74d ago | **Springs Window Fashions** | Data Analyst Intern - Consumer Business Unit | Middleton, WI | SimplifyJobs | [apply](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false) |
-| 74d ago | **Springs Window Fashions** | Textile Engineering Intern - Summer 2027 | Middleton, WI | SimplifyJobs | [apply](https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false) |
-| 79d ago | **Arthur J. Gallagher & Co.** | Data Analytics Intern | Rolling Meadows, IL | SimplifyJobs | [apply](https://jobs.ajg.com/jobs/57701?icims=1) |
-| 153d ago | **Susquehanna International Group (SIG)** | Electricity + Natural Gas Analyst Intern | Ardmore, PA | SimplifyJobs | [apply](https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false) |
-| 209d ago | **Anthropic** | Anthropic Fellows Program - AI Safety | London, UK / SF / Ontario, Canada / Berkeley, CA / United St | SimplifyJobs | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) |
+| today | **Daikin Comfort** | Programmer Analyst Intern, Summer 2027 | Waller, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a98478d11f73b6462c8d988?utm_campaign=1079&utm_source=git) |
+| today | **Genuine Parts Company** | Cloud Developer Intern | Birmingham, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a974550e4e60e4b8da5d4fd?utm_campaign=1079&utm_source=git) |
+| today | **JM Family** | Analytics Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200) |
+| today | **Layup Parts** | Software Engineering Intern | Huntington Beach, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a51c2058d7d3e6cf1cc2738?utm_campaign=1079&utm_source=git) |
+| — | **Parsons** | Summer Embedded Developer Intern | MD, Columbia, R188299 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-parsons-search-R188299?s=gh-internships-2027) |
 
 ## Watched company portals
 
