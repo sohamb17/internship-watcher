@@ -1,19 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 21:31 UTC · 8 new listings_
+_Updated 2026-11-05 22:01 UTC · 5 new listings_
 
-## New listings (8) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Deltek** | Software Development Internship | Herndon, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeccbdc3a3fa7f03ea8943a?utm_campaign=1079&utm_source=git) |
-| today | **Deltek** | Software Engineering Intern | Herndon, VA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6aeccbd9a9ea762a0409235d?utm_campaign=1079&utm_source=git) |
-| today | **ICF** | Seasonal Associate, Full Stack Developer (Remote) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb7027765815f7d74605bd?utm_campaign=1079&utm_source=git) |
-| today | **KUKA** | Software Developer Intern | Clinton Township, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aecd30aa2661405dc2c6ad7?utm_campaign=1079&utm_source=git) |
-| today | **Regal Rexnord** | Information Technology Summer Intern | Grafton, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a970421246d697dcee02c94?utm_campaign=1079&utm_source=git) |
-| today | **SecondWind by Joveo** | Software Engineering Intern (Remote) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aecd747465e3d23713822f0?utm_campaign=1079&utm_source=git) |
-| today | **SecondWind by Joveo** | Web Development Intern (Remote) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aecd76c3a3fa7f03ea89ada?utm_campaign=1079&utm_source=git) |
-| today | **Trajectory** | Member of Technical Staff - Research Intern | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aecd78cab48a7079381efa0?utm_campaign=1079&utm_source=git) |
+| today | **CareSource** | Data Analyst Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1jg) |
+| today | **Tenet Healthcare** | Data Engineer Intern  – Summer 2027 – Onsite in Dallas, TX | Dallas, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603028291?s=gh-internships-2027) |
+| today | **Toyota Research Institute** | Robotics Intern, Human-Robot Interaction | Cambridge, MA (+1 more) | Company portals | [apply](https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642) |
+| today | **Toyota Research Institute** | Robotics Intern, Mechanical Engineering | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9) |
+| today | **Western Alliance Bancorporation** | Platform Engineering Intern | Columbus, OH | vanshb03 | [apply](https://go.vansh.nyc/1jh) |
 
 ## Watched company portals
 
