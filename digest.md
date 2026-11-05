@@ -1,14 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 05:01 UTC · 3 new listings_
+_Updated 2026-11-05 05:31 UTC · 1 new listing_
 
-## New listings (3) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Betasouls Inc.** | Unity Game Development Intern - Mandarin Speaking | Irvine, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aebf67fa5e0b9b5f933148c?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Venmo** | Software Engineer Intern - Summer 2027 | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aebe478ef3e65925305a389?utm_campaign=1079&utm_source=git) |
-| 1d ago | **WD** | Summer 2027 Intern - Software Engineering | Colorado Springs, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a7cd1d6d77e8156a8e34665?utm_campaign=1079&utm_source=git) |
+| today | **Boston Scientific** | Engineering Co-op (Jan- Aug) 27 | United States   N/A | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813777558?s=gh-internships-2027) |
 
 ## Watched company portals
 
