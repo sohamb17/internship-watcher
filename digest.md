@@ -1,18 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 11:31 UTC · 99 new listings_
+_Updated 2026-11-05 12:01 UTC · 102 new listings_
 
-## New listings (99) — newest first
+## New listings (102) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **American Family Insurance Group** | Enterprise Data Intern | Madison, WI | vanshb03 | [apply](https://go.vansh.nyc/1hH) |
+| today | **AMETEK** | Intern, Junior Python Developer | Wayne, NJ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad87a8f950ef68d5184861d?utm_campaign=1079&utm_source=git) |
 | today | **Arango** | Software Engineer Intern, Cookbooks | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1it) |
+| today | **Ascend Learning** | Intern - Software Engineering Job Details / Ascend Learning, LLC | Leawood, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad7623267bec1d0d9c74cbd?utm_campaign=1079&utm_source=git) |
 | today | **Concord Advice** | Data Scientist Intern | Florham Park, NJ | vanshb03 | [apply](https://go.vansh.nyc/1ir) |
 | today | **Constellation Energy** | Renewable Energy Intern | Houston, TX | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us) |
 | today | **Framatome** | AI and Software Innovation Intern | Lynchburg, VA | SimplifyJobs | [apply](https://careers-framatome.icims.com/jobs/3385/job?mobile=true&needsRedirect=false) |
 | today | **General Dynamics Mission Systems** | FPGA Engineer Intern | Manassas, VA | vanshb03 | [apply](https://go.vansh.nyc/1i0) |
 | today | **IDeaS** | Software Developer Intern | Bloomington, MN | SimplifyJobs | [apply](https://ideas-sas.icims.com/jobs/42665/job?mobile=true&needsRedirect=false) |
+| today | **Lennox** | Mobile Applications Intern | Richardson, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa9d06c28e24cb38513c74e?utm_campaign=1079&utm_source=git) |
 | today | **Liberty Mutual** | Analyst Development Intern | Boston, MA / Seattle, WA / Plano, TX | SimplifyJobs | [apply](https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false) |
 | today | **Lyte AI** | Software Engineering Intern | Sunnyvale, CA | vanshb03 | [apply](https://go.vansh.nyc/1in) |
 | today | **NCR Atleos** | Data Science Intern | Atlanta, GA / Frisco, TX | vanshb03 | [apply](https://go.vansh.nyc/1hM) |
