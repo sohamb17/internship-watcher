@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 02:01 UTC · 1 new listing_
+_Updated 2026-11-05 02:31 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **NVIDIA** | Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027548?s=gh-internships-2027) |
+| today | **Keysight Technologies** | R&D DSP/FPGA Design Automation Intern | Santa Rosa, CA | vanshb03 | [apply](https://go.vansh.nyc/1hn) |
+| 1d ago | **Elevated Web Design** | AI Software Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aebc8c0f40efa43f4a1aa5a?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
