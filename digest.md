@@ -1,20 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 18:01 UTC · 9 new listings_
+_Updated 2026-11-05 18:08 UTC · 1 new listing_
 
-## New listings (9) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Aerospace** | 2027 Enterprise REsiliency Modeling and Simulation Graduate Intern | Chantilly, VA | Company portals | [apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/XMLNAME-2027-Enterprise-REsiliency-Modeling-and-Simulation-Graduate-Intern_R017077) |
-| today | **FDB (First Databank, Inc.)** | Software Engineering Intern | Carmel, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeca63ba2661405dc2c4ca7?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | SW Developer Intern / Enterprise Platform-as-a-Service 2027 | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9e3bc827c94c3d5a1cba28?utm_campaign=1079&utm_source=git) |
-| today | **Lumentum** | Internship - Field Application Engineer | USA - CA - San Jose (+2 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-lumentum-lite-20261644?s=gh-internships-2027) |
-| today | **Marketeq Digital Solutions** | AI Solutions Engineering Intern (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeca773465e3d2371380383?utm_campaign=1079&utm_source=git) |
-| today | **MonoSol, A Kuraray Company** | Application Development Intern | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aecaad33967d67f6359e5df?utm_campaign=1079&utm_source=git) |
-| today | **PatientPoint®** | Software Engineer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aecaa343967d67f6359e56a?utm_campaign=1079&utm_source=git) |
-| today | **Qualitrol** | Research & Development Co-Op (Fall 2027) | Fairport, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab412d0d2f5fbd604be15fa?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Ilitch Companies** | Intern, Developer IT | Detroit, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeca86b465e3d237138042b?utm_campaign=1079&utm_source=git) |
+| today | **Amgen** | Undergraduate Intern-R&D -Oncology Research (Summer 2027) | US - California - South San Francisco | Company portals | [apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---South-San-Francisco/Undergraduate-Intern-R-D--Oncology-Research--Summer-2027-_R-260523) |
 
 ## Watched company portals
 
