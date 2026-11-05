@@ -1,16 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 14:31 UTC · 5 new listings_
+_Updated 2026-11-05 15:01 UTC · 0 new listings_
 
-## New listings (5) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Daikin Comfort** | Programmer Analyst Intern, Summer 2027 | Waller, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a98478d11f73b6462c8d988?utm_campaign=1079&utm_source=git) |
-| today | **Genuine Parts Company** | Cloud Developer Intern | Birmingham, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a974550e4e60e4b8da5d4fd?utm_campaign=1079&utm_source=git) |
-| today | **JM Family** | Analytics Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200) |
-| today | **Layup Parts** | Software Engineering Intern | Huntington Beach, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a51c2058d7d3e6cf1cc2738?utm_campaign=1079&utm_source=git) |
-| — | **Parsons** | Summer Embedded Developer Intern | MD, Columbia, R188299 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-parsons-search-R188299?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
