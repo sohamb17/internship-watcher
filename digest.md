@@ -1,18 +1,27 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 16:01 UTC · 7 new listings_
+_Updated 2026-11-05 16:31 UTC · 16 new listings_
 
-## New listings (7) — newest first
+## New listings (16) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Constellation Brands** | AI Innovation Intern | Rochester, NY / Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1iF) |
-| today | **Hearst** | Software Engineer Intern | Carmel, IN (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/hearst/jobs/4466334009) |
-| today | **JM Family** | Software Analyst Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187) |
-| today | **Markel Group** | AI Automation Intern | Woodland Hills, LA | SimplifyJobs | [apply](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277) |
-| today | **RTX** | Skillbridge: Sr Prin Systems Engineer Intern | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Skillbridge--Sr-Prin-Systems-Engineer-Intern_01887483) |
-| today | **The Federal Reserve System** | 2027 Summer Internship Program - Information Security Intern | Atlanta, GA | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910) |
-| today | **Walmart** | (USA) Summer 2027 Corporate Intern:  Last Mile Delivery Data Science Intern | (USA) J Street Offices, Suite #2 AR BENTONVILLE Home Office | Company portals | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-Street-Offices-Suite-2-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Data-Science-Intern_R-2686828) |
+| today | **AES Corporation** | Generation Support Engineer Intern (Summer 2027) | US, Indianapolis, IN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aes-aes-us-R1065284?s=gh-internships-2027) |
+| today | **AMD** | Summer 2027 Masters High-Speed SerDes and Optical Interconnect Engineering Intern | Santa Clara, CA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-91893?s=gh-internships-2027) |
+| today | **Central Insurance** | Software Engineering Intern | Van Wert, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec86f0ab48a7079381c20a?utm_campaign=1079&utm_source=git) |
+| today | **Federal Reserve System** | 2027 Summer Internship Program - Information Security Intern | Atlanta, GA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000033910?s=gh-internships-2027) |
+| today | **Innovita Write** | Frontend Engineer Intern (Remote) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec9986ab48a7079381ca35?utm_campaign=1079&utm_source=git) |
+| today | **Leonardo DRS** | Senior Technical Intern - Firmware | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea0e04440b469a1c0a9de2?utm_campaign=1079&utm_source=git) |
+| today | **Northrop Grumman** | 2027 Systems Engineer Intern - Cape Canaveral FL | United States-Florida-Cape... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251849?s=gh-internships-2027) |
+| today | **NRDC** | Donor Systems Intern | NYC | SimplifyJobs | [apply](https://careers-nrdc.icims.com/jobs/6046/job?mobile=true&needsRedirect=false) |
+| today | **NRDC** | Knowledge Management Intern | Washington, DC | SimplifyJobs | [apply](https://careers-nrdc.icims.com/jobs/6066/job?mobile=true&needsRedirect=false) |
+| today | **Oceaneering** | C++ Robotics Algorithm Developer Intern | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6acfa4e278d51ae69ce0738b?utm_campaign=1079&utm_source=git) |
+| today | **RRD** | IT Software Integration & Automation Summer Intern | Minneapolis, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec939d3a3fa7f03ea872d6?utm_campaign=1079&utm_source=git) |
+| today | **RRD** | Software Developer Intern | Warrenville, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec93b9a2661405dc2c43f8?utm_campaign=1079&utm_source=git) |
+| today | **RTX** | Systems Engineering Fall 2027 Co-op, Richardson, TX (Onsite) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Fall-2027-Co-op--Richardson--TX--Onsite-_01886215) |
+| today | **The Federal Reserve System** | Knowledge and Information Management Intern | Atlanta, GA | SimplifyJobs | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908) |
+| today | **Watchfire** | Intern Software Engineering | Danville, Illinois, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9882b2af954907d6573b9f?utm_campaign=1079&utm_source=git) |
+| 1d ago | **UnitedHealth Group** | Infrastructure & Engineering Development Program Internship | Eden Prairie, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec9454a2661405dc2c4428?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
