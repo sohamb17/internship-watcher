@@ -1,19 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 19:01 UTC · 8 new listings_
+_Updated 2026-11-05 19:31 UTC · 2 new listings_
 
-## New listings (8) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Palantir** | Software Engineer, Internship - Sovereign AI Systems | New York, NY (+1 more) | Company portals | [apply](https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312) |
-| today | **Copart** | Strategic Analyst Intern | Dallas, TX - Headquarters | Company portals | [apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Strategic-Analyst-Intern_JR104599-1) |
-| today | **IBM** | Back-End Developer Intern 2027 -Tucson, AZ | Tucson, AZ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9e242bdacf777321a90a03?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Software Engineer Intern 2027 | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aecb453ab48a7079381d8bf?utm_campaign=1079&utm_source=git) |
-| today | **Legrand** | Firmware Engineering Intern | Reno, NV (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1iV) |
-| today | **Lumbermen's** | Software Developer Intern | Grand Rapids, MI (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1iS) |
-| today | **Northrop Grumman** | 2027 Engineering Internship (Graduate or PhD) (Dulles VA / Baltimore MD) | United States Virginia Dulles | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259462?s=gh-internships-2027) |
-| 5d ago | **Toyota Research Institute** | Accelerated Science Intern, Multi-scale Physics Battery Modeling | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593) |
+| today | **The Federal Reserve System** | Economic Research, Internship – Summer 2027 | Kansas City, MO | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Economic-Research--Internship---Summer-2027_R-0000034027) |
+| 1d ago | **STARKEY DE MÉXICO S.A. DE C.V.** | Software Engineering Intern | Eden Prairie, MN | vanshb03 | [apply](https://go.vansh.nyc/1j1) |
 
 ## Watched company portals
 
