@@ -1,16 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 04:31 UTC · 5 new listings_
+_Updated 2026-11-05 05:01 UTC · 3 new listings_
 
-## New listings (5) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| — | **Northrop Grumman** | Software Embedded Engineering Intern | Sykesville | nointernship.com | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553) |
-| — | **Qualcomm** | Sensors Subsystem Engineering Intern - Multiple Teams | Markham | nointernship.com | [apply](https://qualcomm.eightfold.ai/careers/job/446721109168) |
-| — | **Tokyo Electron** | Research Scientist Intern - Summer 2027 | Austin | nointernship.com | [apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311) |
-| — | **Westinghouse Electric Company** | System Test Engineering Intern | Warrendale | nointernship.com | [apply](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-System-Test-Engineering-OR/1433673100/) |
-| — | **Zurn Elkay Water Solutions** | Electrical & Electronics Engineering Intern | Downers Grove | nointernship.com | [apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Electrical---Electronics-Engineering-Intern--Summer-2027-_REQ-020097) |
+| 1d ago | **Betasouls Inc.** | Unity Game Development Intern - Mandarin Speaking | Irvine, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aebf67fa5e0b9b5f933148c?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Venmo** | Software Engineer Intern - Summer 2027 | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aebe478ef3e65925305a389?utm_campaign=1079&utm_source=git) |
+| 1d ago | **WD** | Summer 2027 Intern - Software Engineering | Colorado Springs, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a7cd1d6d77e8156a8e34665?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
