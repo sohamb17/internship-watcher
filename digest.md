@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 18:08 UTC · 1 new listing_
+_Updated 2026-11-05 18:31 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Amgen** | Undergraduate Intern-R&D -Oncology Research (Summer 2027) | US - California - South San Francisco | Company portals | [apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---South-San-Francisco/Undergraduate-Intern-R-D--Oncology-Research--Summer-2027-_R-260523) |
+| today | **Apex Technology** | Software Engineering Internship, Embedded Systems (Spring or Summer 2027) | Los Angeles | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-apex-technology-inc-4203604c-2330-4c89-8432-37af718a6bda?s=gh-internships-2027) |
+| today | **Booz Allen** | University – Summer 27, Cybersecurity Analyst Intern | McLean, VA | Company portals | [apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214) |
 
 ## Watched company portals
 
