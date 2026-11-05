@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 13:01 UTC · 102 new listings_
+_Updated 2026-11-05 13:31 UTC · 104 new listings_
 
-## New listings (102) — newest first
+## New listings (104) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -10,8 +10,10 @@ _Updated 2026-11-05 13:01 UTC · 102 new listings_
 | today | **AMETEK** | Intern, Junior Python Developer | Wayne, NJ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad87a8f950ef68d5184861d?utm_campaign=1079&utm_source=git) |
 | today | **Arango** | Software Engineer Intern, Cookbooks | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1it) |
 | today | **Ascend Learning** | Intern - Software Engineering Job Details / Ascend Learning, LLC | Leawood, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad7623267bec1d0d9c74cbd?utm_campaign=1079&utm_source=git) |
+| today | **Cognizant** | Software Engineering Internship – TriZetto Product House | Teaneck, NJ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec610fab48a7079381b829?utm_campaign=1079&utm_source=git) |
 | today | **Concord Advice** | Data Scientist Intern | Florham Park, NJ | vanshb03 | [apply](https://go.vansh.nyc/1ir) |
 | today | **Constellation Energy** | Renewable Energy Intern | Houston, TX | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us) |
+| today | **Emerson** | Applications Engineer Intern | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab4121f7bd08137133158f5?utm_campaign=1079&utm_source=git) |
 | today | **Framatome** | AI and Software Innovation Intern | Lynchburg, VA | SimplifyJobs | [apply](https://careers-framatome.icims.com/jobs/3385/job?mobile=true&needsRedirect=false) |
 | today | **General Dynamics Mission Systems** | FPGA Engineer Intern | Manassas, VA | vanshb03 | [apply](https://go.vansh.nyc/1i0) |
 | today | **IDeaS** | Software Developer Intern | Bloomington, MN | SimplifyJobs | [apply](https://ideas-sas.icims.com/jobs/42665/job?mobile=true&needsRedirect=false) |
