@@ -1,14 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 17:01 UTC · 3 new listings_
+_Updated 2026-11-05 17:31 UTC · 2 new listings_
 
-## New listings (3) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AECOM** | Water/Wastewater Engineering Intern | Buffalo, NY, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AECOM2/744000159925579) |
-| today | **AMD** | Summer/Fall 2027 PhD Photonics Design and Engineering Co-Op | San Jose, CA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-90710?s=gh-internships-2027) |
-| today | **Regal Rexnord** | Strategic Pricing and Analytics Summer Intern | Milwaukee, Wisconsin, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04973?s=gh-internships-2027) |
+| today | **Clarios** | Product Engineering: Materials Intern (Summer 2027) | WI | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD49906?s=gh-internships-2027) |
+| today | **Shield AI** | June 2027 Co-Op - Software Engineer Intern | Dallas, Texas (+1 more) | Company portals | [apply](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949) |
 
 ## Watched company portals
 
