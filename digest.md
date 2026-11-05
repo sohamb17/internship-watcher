@@ -1,14 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 00:31 UTC · 3 new listings_
+_Updated 2026-11-05 00:57 UTC · 1 new listing_
 
-## New listings (3) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Daimler Truck** | Industrial Engineering Intern | Detroit, MI US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20564?s=gh-internships-2027) |
-| today | **Daimler Truck** | Machine Shop Engineering Internship | Detroit, MI US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20562?s=gh-internships-2027) |
-| 1d ago | **IDEMIA** | Information Technology Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1hf) |
+| today | **Badger Meter** | Firmware Test Engineer Intern | Milwaukee, WI | vanshb03 | [apply](https://go.vansh.nyc/1hi) |
 
 ## Watched company portals
 
