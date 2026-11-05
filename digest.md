@@ -1,15 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 23:01 UTC · 4 new listings_
+_Updated 2026-11-05 23:31 UTC · 0 new listings_
 
-## New listings (4) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Eversource Energy** | 2027 Gas Project Engineering Co-op | MA Westborough Technology Dr | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032515?s=gh-internships-2027) |
-| today | **Garmin** | IT DevOps Administrator Intern | Olathe, KS | vanshb03 | [apply](https://go.vansh.nyc/1jp) |
-| today | **RTX** | Electrical Components Engineer Intern (Summer 2027)(Onsite) | US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10 (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027--Onsite-_01879761) |
-| today | **Tenet Healthcare** | Data Engineer Intern | Dallas, TX | vanshb03 | [apply](https://go.vansh.nyc/1jn) |
+Nothing new this run.
 
 ## Watched company portals
 
