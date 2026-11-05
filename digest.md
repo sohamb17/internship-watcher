@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 10:01 UTC · 89 new listings_
+_Updated 2026-11-05 10:31 UTC · 96 new listings_
 
-## New listings (89) — newest first
+## New listings (96) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -12,14 +12,21 @@ _Updated 2026-11-05 10:01 UTC · 89 new listings_
 | today | **General Dynamics Mission Systems** | FPGA Engineer Intern | Manassas, VA | vanshb03 | [apply](https://go.vansh.nyc/1i0) |
 | today | **IDeaS** | Software Developer Intern | Bloomington, MN | SimplifyJobs | [apply](https://ideas-sas.icims.com/jobs/42665/job?mobile=true&needsRedirect=false) |
 | today | **Liberty Mutual** | Analyst Development Intern | Boston, MA / Seattle, WA / Plano, TX | SimplifyJobs | [apply](https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false) |
+| today | **Lyte AI** | Software Engineering Intern | Sunnyvale, CA | vanshb03 | [apply](https://go.vansh.nyc/1in) |
 | today | **NCR Atleos** | Data Science Intern | Atlanta, GA / Frisco, TX | vanshb03 | [apply](https://go.vansh.nyc/1hM) |
 | today | **NCR Atleos** | Technology Intern | Atlanta, GA / Frisco, TX | vanshb03 | [apply](https://go.vansh.nyc/1hL) |
+| today | **Nebo** | Back-End Engineering Intern | Atlanta, GA | vanshb03 | [apply](https://go.vansh.nyc/1i8) |
+| today | **Nebo** | Front-End Engineering Intern | Atlanta, GA | vanshb03 | [apply](https://go.vansh.nyc/1i7) |
+| today | **Nebo** | Web Development Intern | Atlanta, GA | vanshb03 | [apply](https://go.vansh.nyc/1i6) |
 | today | **Novelis** | Automotive Engineering Co-op | Kennesaw, GA | SimplifyJobs | [apply](https://careers-novelis.icims.com/jobs/53836/job?mobile=true&needsRedirect=false) |
 | today | **Peraton** | Cyber Research Intern | West Lafayette, IN / Basking Ridge, Bernards, NJ / Silver Sp | SimplifyJobs | [apply](https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false) |
 | today | **Peraton** | Social Media & Marketing Analyst Intern | San Diego, CA | SimplifyJobs | [apply](https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false) |
+| today | **Prospect Equities** | Backend / Frontend Developer Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1ia) |
 | today | **State Farm** | Magnet Program @ University of Illinois Urbana-Champaign Intern | Champaign, IL | SimplifyJobs | [apply](https://jobs.statefarm.com/jobs/46049?icims=1) |
 | today | **State Farm** | Magnet Program Intern | Tempe, AZ | SimplifyJobs | [apply](https://jobs.statefarm.com/jobs/46301?icims=1) |
 | today | **Tencent** | Game Research & Development Intern, Engine Research | Los Angeles, CA (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1hN) |
+| today | **The Cary Company** | AI / Automation Intern | Addison, IL | vanshb03 | [apply](https://go.vansh.nyc/1ig) |
+| today | **Veryable** | Platform Engineer Intern | Dallas, TX | vanshb03 | [apply](https://go.vansh.nyc/1ip) |
 | 1d ago | **Constellation Energy** | Load Forecasting & Analytics Intern | Baltimore, MD | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/139493?icims=1&lang=en-us) |
 | 1d ago | **HP** | Software Internship Roles - HP Solutions (HPS) | Spring, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abd48a98ff3fb9b3bc6fbc4?utm_campaign=1079&utm_source=git) |
 | 2d ago | **Noblis** | Data Science and Innovation Intern | Springfield, VA / Reston, VA | SimplifyJobs | [apply](https://careers.noblis.org/jobs/28097?icims=1&lang=en-us) |
