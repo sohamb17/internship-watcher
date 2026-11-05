@@ -1,13 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 00:01 UTC · 2 new listings_
+_Updated 2026-11-05 00:31 UTC · 3 new listings_
 
-## New listings (2) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Daimler Truck** | Project Engineering Intern | Portland, OR US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20557?s=gh-internships-2027) |
-| today | **Daimler Truck** | Vehicle Thermal Integration - Validation Engineering Intern | Portland, OR US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20558?s=gh-internships-2027) |
+| today | **Daimler Truck** | Industrial Engineering Intern | Detroit, MI US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20564?s=gh-internships-2027) |
+| today | **Daimler Truck** | Machine Shop Engineering Internship | Detroit, MI US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20562?s=gh-internships-2027) |
+| 1d ago | **IDEMIA** | Information Technology Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1hf) |
 
 ## Watched company portals
 
