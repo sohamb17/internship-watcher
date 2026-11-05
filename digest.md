@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 11:01 UTC · 97 new listings_
+_Updated 2026-11-05 11:31 UTC · 99 new listings_
 
-## New listings (97) — newest first
+## New listings (99) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **American Family Insurance Group** | Enterprise Data Intern | Madison, WI | vanshb03 | [apply](https://go.vansh.nyc/1hH) |
+| today | **Arango** | Software Engineer Intern, Cookbooks | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1it) |
+| today | **Concord Advice** | Data Scientist Intern | Florham Park, NJ | vanshb03 | [apply](https://go.vansh.nyc/1ir) |
 | today | **Constellation Energy** | Renewable Energy Intern | Houston, TX | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us) |
 | today | **Framatome** | AI and Software Innovation Intern | Lynchburg, VA | SimplifyJobs | [apply](https://careers-framatome.icims.com/jobs/3385/job?mobile=true&needsRedirect=false) |
 | today | **General Dynamics Mission Systems** | FPGA Engineer Intern | Manassas, VA | vanshb03 | [apply](https://go.vansh.nyc/1i0) |
