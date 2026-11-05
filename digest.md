@@ -1,13 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 02:31 UTC · 2 new listings_
+_Updated 2026-11-05 03:01 UTC · 10 new listings_
 
-## New listings (2) — newest first
+## New listings (10) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Keysight Technologies** | R&D DSP/FPGA Design Automation Intern | Santa Rosa, CA | vanshb03 | [apply](https://go.vansh.nyc/1hn) |
-| 1d ago | **Elevated Web Design** | AI Software Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aebc8c0f40efa43f4a1aa5a?utm_campaign=1079&utm_source=git) |
+| today | **Microsoft** | Research Intern - Research in Software Engineering, ML Systems, Agents | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200065702?s=gh-internships-2027) |
+| today | **Allegion** | Summer Intern - Engineering - OpEx Distribution | Olathe, KS (+1 more) | Company portals | [apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Olathe-KS/Summer-Intern---Engineering---OpEx-Distribution_JR37417-1) |
+| today | **Berkshire Hathaway Energy** | Renewable Generation Performance Intern | Des Moines, IA | SimplifyJobs | [apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) |
+| today | **Chubb** | Business Intelligence Intern | Chicago, IL | SimplifyJobs | [apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335) |
+| today | **John Deere** | Product Engineering Student Intern - Product Engineering | Urbandale, IA | SimplifyJobs | [apply](https://johndeere.eightfold.ai/careers/job/137483675893) |
+| 1d ago | **ASML** | Machine Learning and Image-Based Metrics for EUV System Setup Intern | San Diego, CA | SimplifyJobs | [apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567) |
+| 1d ago | **Baird** | Automation & AI Solutions Intern | Milwaukee, WI | SimplifyJobs | [apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1) |
+| 1d ago | **Corewell Health** | Consumer Insights Intern | Grand Rapids, MI | SimplifyJobs | [apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Consumer-Insights-Intern_R231723) |
+| 1d ago | **Logiqal** | Quantum Error Correction and Architecture Intern | Princeton, NJ | SimplifyJobs | [apply](https://jobs.ashbyhq.com/logiqal/2ee3439f-b612-408e-ad7c-1012362c640f/application?embed=true) |
+| 48d ago | **Centene** | Data and Analytics Intern - Undergraduate | Missouri | SimplifyJobs | [apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515) |
 
 ## Watched company portals
 
