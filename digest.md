@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 01:31 UTC · 1 new listing_
+_Updated 2026-11-05 02:01 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Modern Technology Solutions, Inc. (MTSI)** | Software Development Intern | St. Louis, MO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb6f95765815f7d7460589?utm_campaign=1079&utm_source=git) |
+| today | **NVIDIA** | Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027548?s=gh-internships-2027) |
 
 ## Watched company portals
 
