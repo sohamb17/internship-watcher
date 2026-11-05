@@ -1,8 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 15:01 UTC · 0 new listings_
+_Updated 2026-11-05 15:31 UTC · 6 new listings_
 
-Nothing new this run.
+## New listings (6) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **DrewFeig** | Programmer Analyst Intern | Waller County, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec83b8a9ea762a0408fb7b?utm_campaign=1079&utm_source=git) |
+| today | **Genuine Parts Company** | Software Developer Intern | Birmingham, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a974550e4e60e4b8da5d4fc?utm_campaign=1079&utm_source=git) |
+| today | **L3Harris Technologies** | Intern, Software Engineer (Salt Lake City, UT) | Salt Lake City, UT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa95da028e24cb38513a038?utm_campaign=1079&utm_source=git) |
+| today | **L3Harris Technologies** | Intern, Software Engineer (Salt Lake City, UT) Job Details / L3HHCM20 | Salt Lake City, UT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adffa25065c4e77efafd75c?utm_campaign=1079&utm_source=git) |
+| today | **L3Harris Technologies** | Intern, Software Engineer Job Details / L3HHCM20 | Rockwall, TX, United States (+2 more) | Jobright | [apply](https://jobright.ai/jobs/info/6adff9755dc7953215a44c8f?utm_campaign=1079&utm_source=git) |
+| today | **Little Caesars Enterprises** | Developer IT Intern | Detroit, MI | vanshb03 | [apply](https://go.vansh.nyc/1iC) |
 
 ## Watched company portals
 
