@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 09:31 UTC · 83 new listings_
+_Updated 2026-11-05 09:39 UTC · 89 new listings_
 
-## New listings (83) — newest first
+## New listings (89) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@ _Updated 2026-11-05 09:31 UTC · 83 new listings_
 | today | **Tencent** | Game Research & Development Intern, Engine Research | Los Angeles, CA (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1hN) |
 | 1d ago | **Constellation Energy** | Load Forecasting & Analytics Intern | Baltimore, MD | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/139493?icims=1&lang=en-us) |
 | 1d ago | **HP** | Software Internship Roles - HP Solutions (HPS) | Spring, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abd48a98ff3fb9b3bc6fbc4?utm_campaign=1079&utm_source=git) |
+| 2d ago | **Noblis** | Data Science and Innovation Intern | Springfield, VA / Reston, VA | SimplifyJobs | [apply](https://careers.noblis.org/jobs/28097?icims=1&lang=en-us) |
 | 2d ago | **ViaSat** | Digital and Programmable Logic Engineer Intern | Tempe, AZ | vanshb03 | [apply](https://go.vansh.nyc/1hV) |
 | 3d ago | **Alaska Air Group** | BI Analyst Intern | Renton, WA | SimplifyJobs | [apply](https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false) |
 | 3d ago | **Alaska Air Group** | Guest Products Analyst Intern | SeaTac, WA | SimplifyJobs | [apply](https://corporatejobs-alaskaair.icims.com/jobs/21208/job?mobile=true&needsRedirect=false) |
@@ -35,8 +36,12 @@ _Updated 2026-11-05 09:31 UTC · 83 new listings_
 | 14d ago | **Constellation Energy** | IT Development Intern | San Diego, CA | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/140300?icims=1&lang=en-us) |
 | 14d ago | **General Dynamics Mission Systems** | Engineer Intern | Pittsfield, MA (+1 more) | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/75533/job?mobile=true&needsRedirect=false) |
 | 15d ago | **IDeaS** | Marketing Analytics Intern | Bloomington, MN | SimplifyJobs | [apply](https://ideas-sas.icims.com/jobs/44176/job?mobile=true&needsRedirect=false) |
+| 15d ago | **Minerals Technologies** | Finance Intern - Data Analysis | Bethlehem, PA | SimplifyJobs | [apply](https://careers-mineralstech.icims.com/jobs/4896/job?mobile=true&needsRedirect=false) |
+| 15d ago | **Minerals Technologies** | Geographic Information Science Intern | Belle Fourche, SD | SimplifyJobs | [apply](https://careers-mineralstech.icims.com/jobs/4903/job?mobile=true&needsRedirect=false) |
 | 16d ago | **Milwaukee Brewers** | Minor League Technology Operations Intern | Phoenix, AZ | SimplifyJobs | [apply](https://careers-brewers.icims.com/jobs/2804/job?mobile=true&needsRedirect=false) |
 | 19d ago | **84 Lumber** | Business Intelligence Intern - Business Intelligence | Eighty Four, PA | SimplifyJobs | [apply](https://careers.84lumber.com/jobs/26178?icims=1) |
+| 21d ago | **Susquehanna International Group** | Business Analytics AI Co-op | Bala Cynwyd, PA | SimplifyJobs | [apply](https://careers-sig.icims.com/jobs/11675/job?mobile=true&needsRedirect=false) |
+| 22d ago | **Susquehanna International Group** | Technology Co-op | Bala Cynwyd, PA | SimplifyJobs | [apply](https://careers-sig.icims.com/jobs/11654/job?mobile=true&needsRedirect=false) |
 | 22d ago | **General Dynamics Mission Systems** | Software Engineer for Crypto & Cross Domain Solutions Intern | Scottsdale, AZ | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/75477/job?mobile=true&needsRedirect=false) |
 | 22d ago | **Philadelphia Gas Works** | Field Operations Revenue Protection Unit Intern | Philadelphia, PA | SimplifyJobs | [apply](https://careers-pgworks.icims.com/jobs/1990/job?in_iframe=1&mobile=true&needsRedirect=false) |
 | 22d ago | **Wolf & Company** | AI & Automation Intern | Boston, MA | SimplifyJobs | [apply](https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false) |
@@ -89,6 +94,7 @@ _Updated 2026-11-05 09:31 UTC · 83 new listings_
 | 74d ago | **Springs Window Fashions** | Textile Engineering Intern - Summer 2027 | Middleton, WI | SimplifyJobs | [apply](https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false) |
 | 79d ago | **Arthur J. Gallagher & Co.** | Data Analytics Intern | Rolling Meadows, IL | SimplifyJobs | [apply](https://jobs.ajg.com/jobs/57701?icims=1) |
 | 153d ago | **Susquehanna International Group (SIG)** | Electricity + Natural Gas Analyst Intern | Ardmore, PA | SimplifyJobs | [apply](https://careers-sig.icims.com/jobs/10945/job?mobile=true&needsRedirect=false) |
+| 209d ago | **Anthropic** | Anthropic Fellows Program - AI Safety | London, UK / SF / Ontario, Canada / Berkeley, CA / United St | SimplifyJobs | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) |
 
 ## Watched company portals
 
