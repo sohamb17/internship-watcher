@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 00:57 UTC · 1 new listing_
+_Updated 2026-11-05 01:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Badger Meter** | Firmware Test Engineer Intern | Milwaukee, WI | vanshb03 | [apply](https://go.vansh.nyc/1hi) |
+Nothing new this run.
 
 ## Watched company portals
 
