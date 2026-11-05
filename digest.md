@@ -1,27 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 16:31 UTC · 16 new listings_
+_Updated 2026-11-05 17:01 UTC · 3 new listings_
 
-## New listings (16) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AES Corporation** | Generation Support Engineer Intern (Summer 2027) | US, Indianapolis, IN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aes-aes-us-R1065284?s=gh-internships-2027) |
-| today | **AMD** | Summer 2027 Masters High-Speed SerDes and Optical Interconnect Engineering Intern | Santa Clara, CA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-91893?s=gh-internships-2027) |
-| today | **Central Insurance** | Software Engineering Intern | Van Wert, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec86f0ab48a7079381c20a?utm_campaign=1079&utm_source=git) |
-| today | **Federal Reserve System** | 2027 Summer Internship Program - Information Security Intern | Atlanta, GA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000033910?s=gh-internships-2027) |
-| today | **Innovita Write** | Frontend Engineer Intern (Remote) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec9986ab48a7079381ca35?utm_campaign=1079&utm_source=git) |
-| today | **Leonardo DRS** | Senior Technical Intern - Firmware | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea0e04440b469a1c0a9de2?utm_campaign=1079&utm_source=git) |
-| today | **Northrop Grumman** | 2027 Systems Engineer Intern - Cape Canaveral FL | United States-Florida-Cape... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251849?s=gh-internships-2027) |
-| today | **NRDC** | Donor Systems Intern | NYC | SimplifyJobs | [apply](https://careers-nrdc.icims.com/jobs/6046/job?mobile=true&needsRedirect=false) |
-| today | **NRDC** | Knowledge Management Intern | Washington, DC | SimplifyJobs | [apply](https://careers-nrdc.icims.com/jobs/6066/job?mobile=true&needsRedirect=false) |
-| today | **Oceaneering** | C++ Robotics Algorithm Developer Intern | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6acfa4e278d51ae69ce0738b?utm_campaign=1079&utm_source=git) |
-| today | **RRD** | IT Software Integration & Automation Summer Intern | Minneapolis, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec939d3a3fa7f03ea872d6?utm_campaign=1079&utm_source=git) |
-| today | **RRD** | Software Developer Intern | Warrenville, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec93b9a2661405dc2c43f8?utm_campaign=1079&utm_source=git) |
-| today | **RTX** | Systems Engineering Fall 2027 Co-op, Richardson, TX (Onsite) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Fall-2027-Co-op--Richardson--TX--Onsite-_01886215) |
-| today | **The Federal Reserve System** | Knowledge and Information Management Intern | Atlanta, GA | SimplifyJobs | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908) |
-| today | **Watchfire** | Intern Software Engineering | Danville, Illinois, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9882b2af954907d6573b9f?utm_campaign=1079&utm_source=git) |
-| 1d ago | **UnitedHealth Group** | Infrastructure & Engineering Development Program Internship | Eden Prairie, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec9454a2661405dc2c4428?utm_campaign=1079&utm_source=git) |
+| today | **AECOM** | Water/Wastewater Engineering Intern | Buffalo, NY, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AECOM2/744000159925579) |
+| today | **AMD** | Summer/Fall 2027 PhD Photonics Design and Engineering Co-Op | San Jose, CA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-90710?s=gh-internships-2027) |
+| today | **Regal Rexnord** | Strategic Pricing and Analytics Summer Intern | Milwaukee, Wisconsin, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04973?s=gh-internships-2027) |
 
 ## Watched company portals
 
