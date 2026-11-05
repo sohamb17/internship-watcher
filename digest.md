@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 10:31 UTC · 96 new listings_
+_Updated 2026-11-05 11:01 UTC · 97 new listings_
 
-## New listings (96) — newest first
+## New listings (97) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@ _Updated 2026-11-05 10:31 UTC · 96 new listings_
 | today | **Veryable** | Platform Engineer Intern | Dallas, TX | vanshb03 | [apply](https://go.vansh.nyc/1ip) |
 | 1d ago | **Constellation Energy** | Load Forecasting & Analytics Intern | Baltimore, MD | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/139493?icims=1&lang=en-us) |
 | 1d ago | **HP** | Software Internship Roles - HP Solutions (HPS) | Spring, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abd48a98ff3fb9b3bc6fbc4?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Interbiz Consulting** | Software Engineer Intern | Tempe, AZ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aec36f8f69ea487dd5d7b16?utm_campaign=1079&utm_source=git) |
 | 2d ago | **Noblis** | Data Science and Innovation Intern | Springfield, VA / Reston, VA | SimplifyJobs | [apply](https://careers.noblis.org/jobs/28097?icims=1&lang=en-us) |
 | 2d ago | **ViaSat** | Digital and Programmable Logic Engineer Intern | Tempe, AZ | vanshb03 | [apply](https://go.vansh.nyc/1hV) |
 | 3d ago | **Alaska Air Group** | BI Analyst Intern | Renton, WA | SimplifyJobs | [apply](https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false) |
