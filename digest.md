@@ -1,23 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 20:01 UTC · 12 new listings_
+_Updated 2026-11-05 20:31 UTC · 9 new listings_
 
-## New listings (12) — newest first
+## New listings (9) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Apex Technology** | Ground Software Engineering Internship (Spring or Summer 2027) | Los Angeles | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-apex-technology-inc-2d5ad921-241f-4e7a-b9ff-9d01763da88c?s=gh-internships-2027) |
-| today | **Apex Technology** | Software Engineering Internship, Test & Automation (Summer 2027) | Los Angeles | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-apex-technology-inc-692bb497-59ba-44df-bacf-fffd2f7c6344?s=gh-internships-2027) |
-| today | **Cigna Group** | Health and Clinical Outcomes Research Intern (Master's/PhD Students) | Bloomfield, CT | Company portals | [apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Bloomfield-CT/Health-and-Clinical-Outcomes-Research-Intern--Master-s-PhD-Students-_26009344) |
-| today | **Fresenius Medical Care** | Embedded Software Co-Op | Lawrence, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0273960?s=gh-internships-2027) |
-| today | **Highmark Health** | Summer 2027 Technical Analyst enGen Undergraduate Intern | PA Working at Home   Pennsylvania | Company portals | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Technical-Analyst-enGen-Undergraduate-Intern_J291283) |
-| today | **RR Donnelley** | IT Software Integration & Automation Intern | Minneapolis, MN | vanshb03 | [apply](https://go.vansh.nyc/1j3) |
-| today | **RR Donnelley** | Software Developer Intern | Warrenville, IL | vanshb03 | [apply](https://go.vansh.nyc/1j4) |
-| 1d ago | **KEEN Footwear** | Associate Footwear Developer Intern | Keene, NH +1 | speedyapply | [apply](https://www.keenfootwear.com/careers-list.html?4750548005&gh_jid=4750548005) |
-| 1d ago | **Raytheon** | Intern: Summer 2027 - Control/Diagnostic Software - Onsite | Jupiter, FL | speedyapply | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840) |
-| 1d ago | **Stevens Capital Management** | Developer Internship | Radnor, PA | speedyapply | [apply](https://job-boards.greenhouse.io/scm/jobs/721888) |
-| 10d ago | **General Dynamics Mission Systems** | Software Test Engineer Intern | Pittsburgh, PA | speedyapply | [apply](https://careers-gdms.icims.com/jobs/75729/software-test-engineer-intern/job) |
-| 94d ago | **Lutron** | Summer 2027 - Software Engineering Intern - Cincinnati - OH | Cincinnati, OH | speedyapply | [apply](https://studentopportunities-lutron.icims.com/jobs/5392/summer-2027---software-engineering-intern---cincinnati%2c-oh/job) |
+| today | **BorgWarner** | Software Test Intern | Auburn Hills, MI (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1jb) |
+| today | **Caterpillar** | 2027 Part-Time Intern - Engineering | Pontiac, Illinois | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000399906?s=gh-internships-2027) |
+| today | **Federal Reserve System** | Economic Research, Internship – Summer 2027 | Kansas City, MO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000034027?s=gh-internships-2027) |
+| today | **GM Financial** | Intern - Operations Analyst | Fort Worth, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-gm-financial-261259?s=gh-internships-2027) |
+| today | **Moderna** | 2027 Intern, Data Management | Cambridge, Massachusetts,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-modernatx-m-tx-R20100?s=gh-internships-2027) |
+| today | **onsemi** | Summer 2027 - Device Characterization Engineering Intern | Hopewell Junction, NY, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-onsemi-2506970?s=gh-internships-2027) |
+| today | **onsemi** | Summer 2027 - Lithography Engineering Intern | Hopewell Junction, NY, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-onsemi-2506644?s=gh-internships-2027) |
+| today | **onsemi** | Summer 2027 - Metrology Engineering Intern | Hopewell Junction, NY, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-onsemi-2506645?s=gh-internships-2027) |
+| today | **onsemi** | Summer 2027 - Technology Development Intern | Hopewell Junction, NY, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-onsemi-2506991?s=gh-internships-2027) |
 
 ## Watched company portals
 
