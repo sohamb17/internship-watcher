@@ -1,15 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 22:01 UTC · 4 new listings_
+_Updated 2026-11-06 22:31 UTC · 3 new listings_
 
-## New listings (4) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Applied Concepts, Inc.** | Web and Apps Developer - Intern (Nov-26 to May-27) | Richardson, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae69186d45dc30fb7d3935a?utm_campaign=1079&utm_source=git) |
-| today | **Career Launch Tech Initiative** | Software Engineer Intern | Los Angeles, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee2b165c81f621d3112dec?utm_campaign=1079&utm_source=git) |
-| today | **Enovation Controls** | Manufacturing Software Engineering Intern | Tulsa, OK, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee2a56d20350c7a5079987?utm_campaign=1079&utm_source=git) |
-| today | **Trimble** | AI Automation Intern | OH Dayton | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R58148?s=gh-internships-2027) |
+| today | **Federal Reserve System** | 2027 Information Technology Internship | St. Louis, MO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000034047?s=gh-internships-2027) |
+| today | **Llbean** | Software Developer Intern | Freeport, ME | vanshb03 | [apply](https://go.vansh.nyc/1lw) |
+| today | **The Federal Reserve System** | 2027 Information Technology Internship | St. Louis, MO | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/St-Louis-MO/XMLNAME-2027-Information-Technology-Internship_R-0000034047) |
 
 ## Watched company portals
 
