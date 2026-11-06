@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 12:31 UTC · 12 new listings_
+_Updated 2026-11-06 13:01 UTC · 13 new listings_
 
-## New listings (12) — newest first
+## New listings (13) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -11,6 +11,7 @@ _Updated 2026-11-06 12:31 UTC · 12 new listings_
 | today | **ASM International** | Product Intelligence Engineering Intern - AI/ML | Phoenix, AZ | SimplifyJobs | [apply](https://www.asm.com/open-vacancies/?gh_jid=5029228101) |
 | today | **Bobcat Company** | Embedded Software Engineer Student Experience - Summer 2027 Job Details / Doosan Corp | Bismarck, ND, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad881cb67bec1d0d9c7db75?utm_campaign=1079&utm_source=git) |
 | today | **CNH** | Embedded Software Engineer Intern | Tempe, AZ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae7fd6dfb2cd420ace644c9?utm_campaign=1079&utm_source=git) |
+| today | **GE Vernova** | Field Engineer Intern | Remote | Company portals | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Remote/Field-Engineer-Intern_R5058374-3) |
 | today | **HoYoverse** | Research Scientist Intern - Video Generation<br>Master's/PhD | Mountain View, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true) |
 | today | **Merrick & Company** | Civil Infrastructure Engineer Intern | Charlotte, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9881b4c8ed473c5c7646c7?utm_campaign=1079&utm_source=git) |
 | 1d ago | **HP** | Software and Engineering Intern Roles - Imaging and Print | Corvallis, OR, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6a9257509864261ccd2a0979?utm_campaign=1079&utm_source=git) |

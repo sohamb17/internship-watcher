@@ -676,6 +676,20 @@
 "sk": "jobright:6ae7fd6dfb2cd420ace644c9",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6ae7fd6dfb2cd420ace644c9?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "GE Vernova",
+"degrees": [],
+"dk": "gevernova|engineer field",
+"found": 20763,
+"loc": "Remote",
+"more": null,
+"night": true,
+"posted": 20763,
+"role": "Field Engineer Intern",
+"sk": "workday:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite:R5058374",
+"src": "ats",
+"url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Remote/Field-Engineer-Intern_R5058374-3"
 }
 ],
 "roles": {
@@ -2764,6 +2778,7 @@
 "gevernova|architecture systems": 20763,
 "gevernova|commercial growth scs strategy": 20763,
 "gevernova|digital ge technology vernova": 20760,
+"gevernova|engineer field": 20763,
 "gevernova|engineer project": 20763,
 "gevernova|power system": 20763,
 "ginkgobioworks|autonomous lab software": 20763,
@@ -8313,6 +8328,7 @@
 "workday:https://generalmotors.wd5.myworkdayjobs.com/careers_gm:JR-202623300": 20759,
 "workday:https://generalmotors.wd5.myworkdayjobs.com/careers_gm:JR-202623439": 20759,
 "workday:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite:R5049176": 20760,
+"workday:https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite:R5058374": 20763,
 "workday:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs:R-57176": 20760,
 "workday:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs:R-57243": 20760,
 "workday:https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs:R-57259": 20761,
