@@ -1,29 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-05 23:44 UTC · 18 new listings_
+_Updated 2026-11-06 00:01 UTC · 1 new listing_
 
-## New listings (18) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CareSource** | Configuration and Automation Intern | Remote in USA | SimplifyJobs | [apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Configuration-and-Automation_R14185) |
-| today | **Cintas** | IT Intern – Engineer - Customer Channels | Mason, OH | SimplifyJobs | [apply](https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/?ats=successfactors) |
-| today | **DwyerOmega** | Software Engineer Intern | Westerville, OH | SimplifyJobs | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548) |
-| today | **Johns Hopkins Applied Physics Laboratory** | Maritime Software Development Intern - Maritime Software Development - Ocean Systems and Engineering | Laurel, MD | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/60820?icims=1&lang=en-us) |
-| today | **Nooks** | Software Engineer Intern | SF (+1 more) | SimplifyJobs | [apply](https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb/application?embed=true) |
-| today | **Public Service Enterprise Group** | Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability | Newark, NJ | SimplifyJobs | [apply](https://jobs.pseg.com/job/Newark-Summer-2027-Intern-Corporate-Citizenship-Federal-Affairs-&-Sustainability-NJ-07101/1448352900/?ats=successfactors) |
-| today | **Riverside Research** | Software Applications Intern | Fairborn, OH | SimplifyJobs | [apply](https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false) |
-| today | **State Farm** | P&C Actuarial & Underwriting Modeling Intern - Data Scientist<br>Master's | Tempe, AZ / Dunwoody, GA / Richardson, TX / Bloomington, IL | SimplifyJobs | [apply](https://jobs.statefarm.com/jobs/46227?icims=1&lang=en-us) |
-| today | **Vizient** | Product Operations Internship - Metrics & Reporting | Irving, TX | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations-Metrics---Reporting_36053R-1) |
-| today | **Vizient** | Research Analytics & Insights Intern<br>Master's/PhD | Chicago, IL | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2) |
-| 3d ago | **Zoox** | Hardware Engineer Intern, Vehicle Development [Summer 2027] | Foster City, CA | Company portals | [apply](https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62) |
-| 3d ago | **Zoox** | Hardware Engineer Intern, Vehicle Systems [Summer 2027] | Foster City, CA | Company portals | [apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b) |
-| 3d ago | **Zoox** | Information Technology & Applications Intern [Summer 2027] | Foster City, CA | Company portals | [apply](https://jobs.lever.co/zoox/f35b2447-360f-4945-8ae8-16870e8d7558) |
-| 6d ago | **Zoox** | Software Engineer Intern, Autonomy Software [Summer 2027] | Foster City, CA | Company portals | [apply](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877) |
-| 6d ago | **Zoox** | Software Engineer Intern, Software Platforms & Product [Summer 2027] | Foster City, CA | Company portals | [apply](https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520) |
-| 6d ago | **Zoox** | Software Engineer Intern, Software Systems [Summer 2027] | Foster City, CA | Company portals | [apply](https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20) |
-| 10d ago | **Danaher** | Supply Chain AI Co-op | Indiana | SimplifyJobs | [apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Multiple-OpCo/Computer-Science-Data-AI-Co-op-Supply-Chain_R1320599) |
-| 30d ago | **RTX** | Application Portfolio Support Intern - Summer 2027 | Farmington, CT | SimplifyJobs | [apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Application-Portfolio-Support-Intern--Summer-2027-_01879981) |
+| today | **Walmart** | Data Science Intern, Last Mile Delivery | Bentonville, AR | vanshb03 | [apply](https://go.vansh.nyc/1jy) |
 
 ## Watched company portals
 
