@@ -1,17 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 17:01 UTC · 6 new listings_
+_Updated 2026-11-06 17:31 UTC · 1 new listing_
 
-## New listings (6) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Draper** | GNC Systems Engineering Intern (Summer 2027) | Cambridge, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003129?s=gh-internships-2027) |
-| today | **GlobalFoundries** | Silicon Photonics Test Development Intern (Summer 2027) | USA - Vermont - Essex Junction | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Silicon-Photonics-Test-Development-Intern--Summer-2027-_JR-2604260) |
-| today | **Guidehouse** | Intern - Health Automation & Analytics, Provider Advisory - Campus 2027 | VA Arlington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-guidehouse-external-46421?s=gh-internships-2027) |
-| today | **T-Mobile** | Summer 2027 AI Engineering Internship | Bellevue, Washington (+2 more) | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765) |
-| today | **T-Mobile** | Summer 2027 Data Engineering Internship | Frisco Texas (+1 more) | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754) |
-| today | **T-Mobile** | Summer 2027 Software Engineer HR Data Products Internship | Bellevue, Washington (+1 more) | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766) |
+| today | **Indiana Farm Bureau Insurance** | Application Development Intern - Summer 2027 | Indianapolis, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab3fa8ed2f5fbd604be0927?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
