@@ -1,20 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 14:31 UTC · 9 new listings_
+_Updated 2026-11-06 15:01 UTC · 8 new listings_
 
-## New listings (9) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bosch** | Vision‑Language‑Action (VLA) Research Intern | Sunnyvale, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000160212170) |
-| today | **Match Group** | Android Engineer Intern | Los Angeles, California | Company portals | [apply](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d) |
-| today | **Match Group** | Backend Engineer Intern | Palo Alto, California | Company portals | [apply](https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3) |
-| today | **Match Group** | Data Scientist Intern | San Francisco, California | Company portals | [apply](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff) |
-| today | **Match Group** | iOS Engineer Intern | Los Angeles, California | Company portals | [apply](https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef) |
-| today | **Match Group** | Machine Learning Engineer Intern | Palo Alto, California | Company portals | [apply](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72) |
-| today | **Match Group** | Technical Project Management Intern | Los Angeles, California | Company portals | [apply](https://jobs.lever.co/matchgroup/107da1ee-5b8a-4a1b-9d75-5ba3d597116c) |
-| today | **Match Group** | User Experience Research Intern | Los Angeles, California | Company portals | [apply](https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713) |
-| today | **Toyota Research Institute** | Robotics Intern, World Action Models for Robot Policy | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d) |
+| today | **Alaska Airlines** | Software Delivery Platform Intern | SeaTac, WA | vanshb03 | [apply](https://go.vansh.nyc/1ke) |
+| today | **Cook Group** | Applied AI & Full Stack Development Intern | Bloomington, IN | vanshb03 | [apply](https://go.vansh.nyc/1k3) |
+| today | **Indiana Farm Bureau Insurance** | Software Development Intern - Summer 2027 | Indianapolis, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab3faa47bd0813713314c4f?utm_campaign=1079&utm_source=git) |
+| today | **Intercontinental Exchange, Inc.** | Application Security Intern | Jacksonville, FL | vanshb03 | [apply](https://go.vansh.nyc/1k7) |
+| today | **Intercontinental Exchange, Inc.** | Infrastructure Observability Intern | Jacksonville, FL | vanshb03 | [apply](https://go.vansh.nyc/1k5) |
+| today | **W.R. Berkley** | Software Developer Intern, .NET | Urbandale, IA | vanshb03 | [apply](https://go.vansh.nyc/1k4) |
+| today | **Western & Southern Financial Group** | Software Developer Intern, Agency Systems | Cincinnati, OH | vanshb03 | [apply](https://go.vansh.nyc/1k9) |
+| — | **The New York Times** | Interactive News Engineering Intern | New York, NY | Company portals | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005) |
 
 ## Watched company portals
 
