@@ -1,15 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 01:31 UTC · 4 new listings_
+_Updated 2026-11-06 02:01 UTC · 1 new listing_
 
-## New listings (4) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **NVIDIA** | Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027 | CA Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028260?s=gh-internships-2027) |
-| today | **Light & Wonder** | Software Engineering Intern | Reno, NV | vanshb03 | [apply](https://go.vansh.nyc/1jR) |
-| today | **LLNL** | Center for Global Security Research (CGSR) Undergraduate Research Associate - Summer 2027 | Livermore, CA (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-llnl-3743990016680716?s=gh-internships-2027) |
-| today | **RTX** | Enterprise Services Engineering Co-Op (Spring/Summer 2027) | US-CT-EAST HARTFORD-PH ~ 400 Main St ~ BLDG PH (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-PH--400-Main-St--BLDG-PH/Enterprise-Services-Engineering-Co-Op--Spring-Summer-2027-_01884910) |
+| today | **Etched** | Infrastructure Engineering & Projects Intern | San Jose | Company portals | [apply](https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b) |
 
 ## Watched company portals
 
