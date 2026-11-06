@@ -1,8 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 21:38 UTC · 0 new listings_
+_Updated 2026-11-06 22:01 UTC · 4 new listings_
 
-Nothing new this run.
+## New listings (4) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Applied Concepts, Inc.** | Web and Apps Developer - Intern (Nov-26 to May-27) | Richardson, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae69186d45dc30fb7d3935a?utm_campaign=1079&utm_source=git) |
+| today | **Career Launch Tech Initiative** | Software Engineer Intern | Los Angeles, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee2b165c81f621d3112dec?utm_campaign=1079&utm_source=git) |
+| today | **Enovation Controls** | Manufacturing Software Engineering Intern | Tulsa, OK, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee2a56d20350c7a5079987?utm_campaign=1079&utm_source=git) |
+| today | **Trimble** | AI Automation Intern | OH Dayton | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R58148?s=gh-internships-2027) |
 
 ## Watched company portals
 
