@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 04:01 UTC · 1 new listing_
+_Updated 2026-11-06 04:31 UTC · 3 new listings_
 
-## New listings (1) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 16d ago | **Metamorphic** | Research and Engineering Intern (Summer 2027) | Palo Alto | Company portals | [apply](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a) |
+| today | **ASM** | Intern, Field Process Engineering | > Arizona > Phoenix | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-asm-5029217101?s=gh-internships-2027) |
+| today | **ASM** | Intern, Process Engineering | > Arizona > Phoenix | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-asm-5029209101?s=gh-internships-2027) |
+| 1d ago | **Trihydro Corporation** | Software Developer Intern | Fort Collins, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa3a9104233a2201a2b2b73?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
