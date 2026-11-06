@@ -1,16 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 11:01 UTC · 5 new listings_
+_Updated 2026-11-06 11:31 UTC · 7 new listings_
 
-## New listings (5) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **ASM International** | Product Intelligence Engineering Intern - AI/ML | Phoenix, AZ | SimplifyJobs | [apply](https://www.asm.com/open-vacancies/?gh_jid=5029228101) |
+| today | **Bobcat Company** | Embedded Software Engineer Student Experience - Summer 2027 Job Details / Doosan Corp | Bismarck, ND, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad881cb67bec1d0d9c7db75?utm_campaign=1079&utm_source=git) |
 | today | **HoYoverse** | Research Scientist Intern - Video Generation<br>Master's/PhD | Mountain View, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true) |
 | 1d ago | **HP** | Software and Engineering Intern Roles - Imaging and Print | Corvallis, OR, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6a9257509864261ccd2a0979?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Janus Henderson Investors** | Investments Technology Research Intern | Denver, Colorado, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed7cdbf46c27c797e9cdd6?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Riverlane** | PhD Engineering Internship 2027 | Cambridge, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad77bc667bec1d0d9c758ed?utm_campaign=1079&utm_source=git) |
+| 38d ago | **Waymo** | Summer Intern - MS/PhD - Perception Systems Engineering: Pedestrian Detection Precision<br>Master's/PhD | SF | SimplifyJobs | [apply](https://careers.withwaymo.com/jobs?gh_jid=8234670) |
 
 ## Watched company portals
 
