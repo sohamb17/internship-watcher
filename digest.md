@@ -1,20 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 18:01 UTC · 9 new listings_
+_Updated 2026-11-06 18:31 UTC · 5 new listings_
 
-## New listings (9) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Amazon Development Center U.S., Inc.** | 2027 Quantum Applied Science Internship, Quantum Technologies team | Pasadena, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/amazon-2a9de690-508c-45d8-b6d3-09ada5edccc1?s=gh-internships-2027) |
-| today | **Danaher** | Firmware Engineer Co-op | Indianapolis, Indiana, United... (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1321509?s=gh-internships-2027) |
-| today | **ICD** | AI/ML Engineering Intern | Jersey City, NJ (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1kF) |
-| today | **Motorola Solutions** | Software Presales Enablement Intern - Summer Internship 2027 | Illinois Remote Work, More... (+1 more) | Company portals | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228) |
-| today | **National Interstate Insurance** | Claims Technical Intern | Cincinnati, OH (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1kH) |
-| today | **Niural** | AI Product Operator Intern | New York City | zshah101 | [apply](https://jobs.ashbyhq.com/niural/0daacf58-a15d-4c6f-bfa0-0fc069e4956e) |
-| today | **Oshkosh** | Customer Support AI Intern | McConnellsburg, Pennsylvania, United States | zshah101 | [apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Customer-Support-Business-Analyst-Intern_R49501) |
-| today | **Tradeweb** | Summer 2027 AI/ML Engineering Internship | Jersey City, NJ, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-tradeweb-301961?s=gh-internships-2027) |
-| today | **Voya Financial** | Summer Intern – Renewable Energy Infrastructure Debt | New York, NY | zshah101 | [apply](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386) |
+| today | **Advanced Energy** | Intern - Firmware Engineer, Undergraduate | Eden Prairie, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aedf3c0c7498922fe0c5ecd?utm_campaign=1079&utm_source=git) |
+| today | **IBM** | Back-End Developer Intern 2027 -Houston, TX | Houston, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea2a47440b469a1c0ab413?utm_campaign=1079&utm_source=git) |
+| today | **IBM** | z/OS Core Technologies Back End Developer Intern 2027 - Poughkeepsie | Poughkeepsie, AR | Jobright | [apply](https://jobright.ai/jobs/info/6aedf9fbbd2f33eea72d58d2?utm_campaign=1079&utm_source=git) |
+| today | **Marketeq Digital Solutions** | AI Workflow Engineering Intern (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aedf4f5bd2f33eea72d562a?utm_campaign=1079&utm_source=git) |
+| today | **MedPro Group** | Intern - Application Developer | Fort Wayne, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aedfba7caf8e660b87d90e3?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
