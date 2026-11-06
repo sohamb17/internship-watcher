@@ -1,14 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 22:31 UTC · 3 new listings_
+_Updated 2026-11-06 23:01 UTC · 8 new listings_
 
-## New listings (3) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Federal Reserve System** | 2027 Information Technology Internship | St. Louis, MO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000034047?s=gh-internships-2027) |
-| today | **Llbean** | Software Developer Intern | Freeport, ME | vanshb03 | [apply](https://go.vansh.nyc/1lw) |
-| today | **The Federal Reserve System** | 2027 Information Technology Internship | St. Louis, MO | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/St-Louis-MO/XMLNAME-2027-Information-Technology-Internship_R-0000034047) |
+| today | **Deeplocal** | Creative Technology Intern | Sharpsburg, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee41bbcaf8e660b87ddbe8?utm_campaign=1079&utm_source=git) |
+| today | **ICCU** | Software Development Intern | Chubbuck, ID, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6aee4381e0c9de7b05f8d251?utm_campaign=1079&utm_source=git) |
+| today | **Invesco** | Early Career Intern - Real Estate (Data Science) | Dallas, Texas | zshah101 | [apply](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) |
+| today | **Marmon Holdings** | Intern - AI Technology Solutions | Chicago, IL | zshah101 | [apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903) |
+| today | **Schneider** | Software Engineering Intern - Summer 2027 | Green Bay, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee3f6f5c81f621d3114746?utm_campaign=1079&utm_source=git) |
+| today | **Shure** | Embedded Software Intern | Niles, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a995f9a2b714347bbbe9f62?utm_campaign=1079&utm_source=git) |
+| today | **Tschetter Group** | Summer Internship - AI and Automation | Bellevue, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee35315c81f621d3113dd6?utm_campaign=1079&utm_source=git) |
+| 5d ago | **MITRE** | Internships in Computer Science or Software Engineering | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117315?s=gh-internships-2027) |
 
 ## Watched company portals
 
