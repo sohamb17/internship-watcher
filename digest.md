@@ -1,8 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 03:01 UTC · 0 new listings_
+_Updated 2026-11-06 03:31 UTC · 11 new listings_
 
-Nothing new this run.
+## New listings (11) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Citi** | Technology, Application Development, Summer Analyst, New York Or New Jersey - USA, 2027 | Jersey City, NJ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adbad2bc5c64fa3d9cb0a92?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Citi** | Technology, Application Development, Summer Analyst, Tampa - USA, 2027 | Tampa, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adbe4569e3e874dbfba2a26?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Lockheed Martin** | Software Developer Intern | Boulder, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed2a503967d67f635a2f20?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Raft** | Full Stack Engineering Intern - Summer 2027 | McLean, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed23b43a3fa7f03ea8c453?utm_campaign=1079&utm_source=git) |
+| 45d ago | **Idaho National Laboratory** | Computer Security Research Intern | Idaho Falls, ID | vanshb03 | [apply](https://go.vansh.nyc/1jX) |
+| 45d ago | **Idaho National Laboratory** | Cyber Security Research Intern | Idaho Falls, ID | vanshb03 | [apply](https://go.vansh.nyc/1jY) |
+| — | **Aurora Innovation** | LiDAR Systems Intern | Mountain View | nointernship.com | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1/application?embed=true) |
+| — | **DwyerOmega** | Sensors Engineer Intern | Westerville | nointernship.com | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640964) |
+| — | **East Penn Manufacturing** | Research & Development Intern | Kutztown | nointernship.com | [apply](https://careerseast-eastpennmanufacturing.icims.com/jobs/30850/job?mobile=true&needsRedirect=false) |
+| — | **Qualcomm** | Driver and Tools Developer Intern - Telemetry Firmware | Markham | nointernship.com | [apply](https://qualcomm.eightfold.ai/careers/job/446721989047) |
+| — | **ViaSat** | Pointing and Tracking Engineer Intern | Duluth | nointernship.com | [apply](https://careers.viasat.com/jobs/6752) |
 
 ## Watched company portals
 
