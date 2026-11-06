@@ -1,26 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 14:01 UTC · 15 new listings_
+_Updated 2026-11-06 14:31 UTC · 9 new listings_
 
-## New listings (15) — newest first
+## New listings (9) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Advisors Excel** | Web Development Intern | Topeka, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a7cde9383621355407ac5e4?utm_campaign=1079&utm_source=git) |
-| today | **Analog Devices** | Wet Lab Sensor Research Co-Op | US, MA, Boston (+1 more) | Company portals | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Wet-Lab-Sensor-Research-Co-Op_R268534-1) |
-| today | **ASM International** | Product Intelligence Engineering Intern - AI/ML | Phoenix, AZ | SimplifyJobs | [apply](https://www.asm.com/open-vacancies/?gh_jid=5029228101) |
-| today | **Bobcat Company** | Embedded Software Engineer Student Experience - Summer 2027 Job Details / Doosan Corp | Bismarck, ND, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad881cb67bec1d0d9c7db75?utm_campaign=1079&utm_source=git) |
-| today | **Bosch** | Motorsport Software and Data Analytics Graduate Intern | Farmington Hills, MI, United States | Company portals | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000160208440) |
-| today | **CNH** | Embedded Software Engineer Intern | Tempe, AZ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae7fd6dfb2cd420ace644c9?utm_campaign=1079&utm_source=git) |
-| today | **GE Vernova** | Field Engineer Intern | Remote | Company portals | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Remote/Field-Engineer-Intern_R5058374-3) |
-| today | **HoYoverse** | Research Scientist Intern - Video Generation<br>Master's/PhD | Mountain View, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true) |
-| today | **IDEMIA** | Service Platform Engineering Internship | Eden Prairie, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad13de7e2d41540d4a6f527?utm_campaign=1079&utm_source=git) |
-| today | **Merrick & Company** | Civil Infrastructure Engineer Intern | Charlotte, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9881b4c8ed473c5c7646c7?utm_campaign=1079&utm_source=git) |
-| 1d ago | **HP** | Software and Engineering Intern Roles - Imaging and Print | Corvallis, OR, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6a9257509864261ccd2a0979?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Janus Henderson Investors** | Investments Technology Research Intern | Denver, Colorado, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed7cdbf46c27c797e9cdd6?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Riverlane** | PhD Engineering Internship 2027 | Cambridge, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad77bc667bec1d0d9c758ed?utm_campaign=1079&utm_source=git) |
-| 1d ago | **The Travelers Companies** | Business Insurance Underwriting Professional Development Program (BI UPDP) Internship | TX - Houston | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-travelers-external-R-53494?s=gh-internships-2027) |
-| 38d ago | **Waymo** | Summer Intern - MS/PhD - Perception Systems Engineering: Pedestrian Detection Precision<br>Master's/PhD | SF | SimplifyJobs | [apply](https://careers.withwaymo.com/jobs?gh_jid=8234670) |
+| today | **Bosch** | Vision‑Language‑Action (VLA) Research Intern | Sunnyvale, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000160212170) |
+| today | **Match Group** | Android Engineer Intern | Los Angeles, California | Company portals | [apply](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d) |
+| today | **Match Group** | Backend Engineer Intern | Palo Alto, California | Company portals | [apply](https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3) |
+| today | **Match Group** | Data Scientist Intern | San Francisco, California | Company portals | [apply](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff) |
+| today | **Match Group** | iOS Engineer Intern | Los Angeles, California | Company portals | [apply](https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef) |
+| today | **Match Group** | Machine Learning Engineer Intern | Palo Alto, California | Company portals | [apply](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72) |
+| today | **Match Group** | Technical Project Management Intern | Los Angeles, California | Company portals | [apply](https://jobs.lever.co/matchgroup/107da1ee-5b8a-4a1b-9d75-5ba3d597116c) |
+| today | **Match Group** | User Experience Research Intern | Los Angeles, California | Company portals | [apply](https://jobs.lever.co/matchgroup/e2747122-5e35-4230-9d54-8d274dd0a713) |
+| today | **Toyota Research Institute** | Robotics Intern, World Action Models for Robot Policy | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d) |
 
 ## Watched company portals
 
