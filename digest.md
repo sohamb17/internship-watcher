@@ -1,13 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 15:31 UTC · 2 new listings_
+_Updated 2026-11-06 16:01 UTC · 12 new listings_
 
-## New listings (2) — newest first
+## New listings (12) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Globus Medical** | Software COOP | Methuen, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globusmedical-gmed-careers-JR108063?s=gh-internships-2027) |
-| today | **Hitachi** | Full Stack Developer Intern | Dallas, TX (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1kr) |
+| today | **Galaxy** | 2027 Digital Infrastructure Intern - NYC | New York City, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aede06f5c81f621d310f1a6?utm_campaign=1079&utm_source=git) |
+| today | **Genuine Parts Company** | Customer Software Development Intern | Birmingham, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a974549b22f636c8141713e?utm_campaign=1079&utm_source=git) |
+| today | **Genuine Parts Company** | Software Engineer - QA Analyst Intern | Birmingham, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a982fd683fc63335762ff0c?utm_campaign=1079&utm_source=git) |
+| today | **Genuine Parts Company** | Web Developer Intern | Birmingham, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a983015dd171c7285790a65?utm_campaign=1079&utm_source=git) |
+| today | **IBM** | Back End Developer Intern - Poughkeepsie, NY - 2027 | Poughkeepsie, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea0f0b897466e69e31ae68?utm_campaign=1079&utm_source=git) |
+| today | **Robert Bosch Venture Capital** | Motorsport Software and Data Analytics Graduate Intern<br>Master's/PhD | Farmington Hills, MI | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000160208440) |
+| today | **Safran Defense & Space, Inc.** | Software Engineering Internship Job Details / Safran DSI | Bedford, NH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad80f7f67bec1d0d9c7ba74?utm_campaign=1079&utm_source=git) |
+| today | **Tinder** | Android Engineer Intern | LA | SimplifyJobs | [apply](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply) |
+| today | **Tinder** | Backend Engineer Intern | Palo Alto, CA / LA | SimplifyJobs | [apply](https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply) |
+| today | **Tinder** | Data Scientist Intern | SF | SimplifyJobs | [apply](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply) |
+| today | **Tinder** | iOS Engineer Intern | Palo Alto, CA / LA | SimplifyJobs | [apply](https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply) |
+| today | **Tinder** | Machine Learning Engineer Intern | Palo Alto, CA | SimplifyJobs | [apply](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply) |
 
 ## Watched company portals
 
