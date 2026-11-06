@@ -1,14 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 21:01 UTC · 3 new listings_
+_Updated 2026-11-06 21:31 UTC · 3 new listings_
 
 ## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Samsung** | Business Intelligence & Data Analytics Intern | 6625 Excellence Way, Plano, TX, USA | Company portals | [apply](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949) |
-| today | **Samsung** | Samsung Care AI Data Analytic Intern | 6625 Excellence Way, Plano, TX, USA | Company portals | [apply](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1) |
-| today | **Sherwin-Williams** | 2027 Summer Engineering Co-Op - Garland, TX | Garland, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-sherwin-williams-2625121?s=gh-internships-2027) |
+| today | **Waymo** | 2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model) | Mountain View, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-waymo-8358262?s=gh-internships-2027) |
+| today | **Waymo** | 2027 Summer Intern, PhD, Machine Learning - Generative World Models & Controllable Simulation | Mountain View, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-waymo-8351210?s=gh-internships-2027) |
+| today | **Moog** | Intern, Product Engineering | Buffalo, NY (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-20386?s=gh-internships-2027) |
 
 ## Watched company portals
 
