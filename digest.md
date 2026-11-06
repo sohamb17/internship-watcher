@@ -1,25 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 00:31 UTC · 14 new listings_
+_Updated 2026-11-06 01:01 UTC · 3 new listings_
 
-## New listings (14) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Catholic Charities of Kansas City-St. Joseph** | Data and Project Coordinator AmeriCorps VISTA Intern | Kansas City, MO | SimplifyJobs | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4597604) |
-| today | **Eversource Energy** | 2027 Summer Distribution Engineering Intern (Tilton, NH-Hybrid Schedule) | Tilton, NH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032407?s=gh-internships-2027) |
-| today | **Eversource Energy** | 2027 Summer: Distribution Engineering Intern (Waltham, MA-Hybrid Schedule) | Waltham, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032412?s=gh-internships-2027) |
-| today | **Eversource Energy** | 2027 Summer: Transmission and Distribution Standards Engineering Intern (MA, Hybrid Schedule) | Westwood, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032409?s=gh-internships-2027) |
-| today | **Red Wing Shoe Company** | Data and Analytics Intern | Red Wing, MN | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/RedWingShoeCompany/744000159979648) |
-| today | **Rhoda ai** | Optical Sensing Intern - Robot Perception | Mountain View (+1 more) | Company portals | [apply](https://jobs.ashbyhq.com/rhoda-ai/df2aa2a4-ca56-4fa6-b106-89a7fc6a9bb4) |
-| today | **Trajectory** | Member of Technical Staff Intern | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1jK) |
-| today | **V2X** | AI Engineering Intern | Indianapolis, IN (+1 more) | SimplifyJobs | [apply](https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us) |
-| 1d ago | **AstraZeneca** | Manufacturing Digital and AI Intern | Gaithersburg, MD | SimplifyJobs | [apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647) |
-| 1d ago | **CrowdStrike** | Intelligence Intern | Arlington County, Arlington, VA | SimplifyJobs | [apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Intern---Summer-2027_R30605) |
-| 1d ago | **CrowdStrike** | Sales Data Analytics Intern | Arlington County, Arlington, VA / Sunnyvale, CA | SimplifyJobs | [apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801) |
-| 1d ago | **Eversource Energy** | Electric Operations Intern | Dorchester, Boston, MA | SimplifyJobs | [apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--Electric-Operations-Intern--MA-_R-032507) |
-| 1d ago | **Molina Healthcare** | Undergraduate Electronic Data Interchange Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1jD) |
-| 63d ago | **Apex** | Ground Software Intern - Spring or Summer 2027 | LA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c/application?embed=true) |
+| 1d ago | **AFL** | Web Design/Development Intern- Summer 2027 | Duncan, SC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed02f43a3fa7f03ea8b326?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Kite Realty Group** | Summer Intern  - Application Development | Indianapolis, IN 46204, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed07f43967d67f635a1f03?utm_campaign=1079&utm_source=git) |
+| 1d ago | **PROJXON** | Full Stack Engineer (Internship) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed0b6aab48a70793820d9d?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
