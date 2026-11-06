@@ -1,18 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 16:31 UTC · 7 new listings_
+_Updated 2026-11-06 17:01 UTC · 6 new listings_
 
-## New listings (7) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **GlobalFoundries** | Program Management Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Program-Management-Intern--Silicon-Photonics--Summer-2027-_JR-2605132) |
-| today | **Great American Insurance Company** | Claims Technical Intern - Summer 2027 | Cincinnati, OH (USA) | Company portals | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Claims-Technical-Intern---Summer-2027_R9873-1) |
-| today | **Invitation-charter** | Data Developer Intern | Greenwood Village, CO | vanshb03 | [apply](https://go.vansh.nyc/1kw) |
-| today | **Invitation-charter** | Data Science Intern | Greenwood Village, CO | vanshb03 | [apply](https://go.vansh.nyc/1ku) |
-| today | **Invitation-charter** | Software Engineer Intern | Englewood, CO | vanshb03 | [apply](https://go.vansh.nyc/1kv) |
-| today | **S&P Global** | Managed Data Services Intern - Ilevel - GP Mds | Dallas, TX | SimplifyJobs | [apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Summer-intern--iLevel---GP-MDS_332651-1) |
-| today | **SAS** | Data Scientist Intern<br>Master's/PhD | Cary, NC | SimplifyJobs | [apply](https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false) |
+| today | **Draper** | GNC Systems Engineering Intern (Summer 2027) | Cambridge, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003129?s=gh-internships-2027) |
+| today | **GlobalFoundries** | Silicon Photonics Test Development Intern (Summer 2027) | USA - Vermont - Essex Junction | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Silicon-Photonics-Test-Development-Intern--Summer-2027-_JR-2604260) |
+| today | **Guidehouse** | Intern - Health Automation & Analytics, Provider Advisory - Campus 2027 | VA Arlington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-guidehouse-external-46421?s=gh-internships-2027) |
+| today | **T-Mobile** | Summer 2027 AI Engineering Internship | Bellevue, Washington (+2 more) | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765) |
+| today | **T-Mobile** | Summer 2027 Data Engineering Internship | Frisco Texas (+1 more) | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754) |
+| today | **T-Mobile** | Summer 2027 Software Engineer HR Data Products Internship | Bellevue, Washington (+1 more) | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766) |
 
 ## Watched company portals
 
