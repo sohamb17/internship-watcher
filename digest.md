@@ -1,8 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 16:02 UTC · 0 new listings_
+_Updated 2026-11-06 16:31 UTC · 7 new listings_
 
-Nothing new this run.
+## New listings (7) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **GlobalFoundries** | Program Management Intern, Silicon Photonics (Summer 2027) | USA - New York - Malta | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Program-Management-Intern--Silicon-Photonics--Summer-2027-_JR-2605132) |
+| today | **Great American Insurance Company** | Claims Technical Intern - Summer 2027 | Cincinnati, OH (USA) | Company portals | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Claims-Technical-Intern---Summer-2027_R9873-1) |
+| today | **Invitation-charter** | Data Developer Intern | Greenwood Village, CO | vanshb03 | [apply](https://go.vansh.nyc/1kw) |
+| today | **Invitation-charter** | Data Science Intern | Greenwood Village, CO | vanshb03 | [apply](https://go.vansh.nyc/1ku) |
+| today | **Invitation-charter** | Software Engineer Intern | Englewood, CO | vanshb03 | [apply](https://go.vansh.nyc/1kv) |
+| today | **S&P Global** | Managed Data Services Intern - Ilevel - GP Mds | Dallas, TX | SimplifyJobs | [apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Summer-intern--iLevel---GP-MDS_332651-1) |
+| today | **SAS** | Data Scientist Intern<br>Master's/PhD | Cary, NC | SimplifyJobs | [apply](https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false) |
 
 ## Watched company portals
 
