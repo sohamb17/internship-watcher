@@ -1,16 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 18:31 UTC · 5 new listings_
+_Updated 2026-11-06 19:01 UTC · 3 new listings_
 
-## New listings (5) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Advanced Energy** | Intern - Firmware Engineer, Undergraduate | Eden Prairie, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aedf3c0c7498922fe0c5ecd?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Back-End Developer Intern 2027 -Houston, TX | Houston, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea2a47440b469a1c0ab413?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | z/OS Core Technologies Back End Developer Intern 2027 - Poughkeepsie | Poughkeepsie, AR | Jobright | [apply](https://jobright.ai/jobs/info/6aedf9fbbd2f33eea72d58d2?utm_campaign=1079&utm_source=git) |
-| today | **Marketeq Digital Solutions** | AI Workflow Engineering Intern (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aedf4f5bd2f33eea72d562a?utm_campaign=1079&utm_source=git) |
-| today | **MedPro Group** | Intern - Application Developer | Fort Wayne, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aedfba7caf8e660b87d90e3?utm_campaign=1079&utm_source=git) |
+| today | **Notion** | Software Engineering Intern, Frontend (Summer 2027) | New York, New York | Company portals | [apply](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413) |
+| today | **Notion** | Software Engineering Intern, iOS (Summer 2027) | New York, New York | Company portals | [apply](https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947) |
+| — | **Duolingo** | AI Research Intern (PhD) | New York, NY; Pittsburgh, PA | Company portals | [apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8928923002) |
 
 ## Watched company portals
 
