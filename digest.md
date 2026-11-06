@@ -1,21 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 19:31 UTC · 10 new listings_
+_Updated 2026-11-06 20:01 UTC · 3 new listings_
 
-## New listings (10) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Rivian** | ML AI Motor Controls Algorithm Intern | Champaign, IL | vanshb03 | [apply](https://go.vansh.nyc/1kS) |
-| today | **Salesforce** | Summer 2027 Intern - Applied AI Strategy & Research | California - San Francisco (+1 more) | Company portals | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-1) |
-| today | **HII** | 2027 COLLEGE SUMMER INTERN - INFRASTRUCTURE & SUSTAINABILITY Job Details / Huntington Ingalls | Pascagoula, MS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee0ab0c7498922fe0c73c5?utm_campaign=1079&utm_source=git) |
-| today | **Jacobs** | Agile Software Intern | Nashua, NH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a992b16a873af78718f413a?utm_campaign=1079&utm_source=git) |
-| today | **Motion** | Customer Software Development Intern | Birmingham, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee0878caf8e660b87d9e83?utm_campaign=1079&utm_source=git) |
-| today | **RTX** | Digital Technology Intern (Summer 2027) | US-MA-ANDOVER-AR2 ~ 362 Lowell St ~ AR2 PLYMOUTH BLDG | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Digital-Technology-Intern--Summer-2027-_01871051) |
-| 1d ago | **Spectrum** | 2027 Summer Intern: Data Developer | Greenwood Village, CO | speedyapply | [apply](https://invitation-charter.icims.com/jobs/82077/2027-summer-intern%3a-data-developer/job) |
-| 1d ago | **The Hartford** | Tech & Data Program Summer 2027 - Software Engineer Intern - Hartford | Hartford, CT | speedyapply | [apply](https://thehartford.wd5.myworkdayjobs.com/en-US/careers_restricted/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105) |
-| 44d ago | **GDIT** | GDIT Summer Internship Program - Summer 2027 Software Development Internship | Bossier City, LA | speedyapply | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2) |
-| — | **Lila Sciences** | Co-op, AI for Protein Design | San Francisco, CA USA | Company portals | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4480337009) |
+| today | **GE Vernova** | GE Vernova- Grid Engineering Internship - Summer 2027 | Bellevue | Company portals | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova--Grid-Engineering-Internship---Summer-2027_R5056820-2) |
+| today | **Micron Technology** | Intern - Corporate Development | Boise, ID - Main Site | Company portals | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Corporate-Development_JR115817) |
+| 1d ago | **DwyerOmega** | Cyber Resilience & Product Security Intern | Michigan City, IN | vanshb03 | [apply](https://go.vansh.nyc/1kY) |
 
 ## Watched company portals
 
