@@ -1,14 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 20:01 UTC · 3 new listings_
+_Updated 2026-11-06 20:31 UTC · 11 new listings_
 
-## New listings (3) — newest first
+## New listings (11) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **GE Vernova** | GE Vernova- Grid Engineering Internship - Summer 2027 | Bellevue | Company portals | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova--Grid-Engineering-Internship---Summer-2027_R5056820-2) |
-| today | **Micron Technology** | Intern - Corporate Development | Boise, ID - Main Site | Company portals | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Corporate-Development_JR115817) |
-| 1d ago | **DwyerOmega** | Cyber Resilience & Product Security Intern | Michigan City, IN | vanshb03 | [apply](https://go.vansh.nyc/1kY) |
+| today | **BAE Systems** | Software Engineering Intern III, Summer 2027 (Onsite) | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aab280f4be87a72913a388d?utm_campaign=1079&utm_source=git) |
+| today | **Career Launch Tech Initiative** | Software Engineering Intern (Volunteer) | Los Angeles, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee1e49caf8e660b87dafd9?utm_campaign=1079&utm_source=git) |
+| today | **Entegris** | NPI Engineering Co-Op | Rockrimmon, Colorado Springs, CO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14487?s=gh-internships-2027) |
+| today | **Moog** | Intern, CNC Machining Engineer | Torrance, CA (+2 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-21145?s=gh-internships-2027) |
+| today | **Paylocity** | Test Engineer Intern | Pittsford, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee1ee35c81f621d3111f05?utm_campaign=1079&utm_source=git) |
+| today | **Sierra Nevada Corporation** | Liaison Engineer Intern - Summer 2027 | Vandalia, OH (+1 more) | Company portals | [apply](https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Vandalia-OH/Liason-Engineer-Intern_R0031178) |
+| today | **T-Mobile** | Summer 2027 AI Strategist Internship | Bellevue, Washington (+1 more) | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279) |
+| — | **The New York Times** | Android Engineering Intern | New York, NY (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005) |
+| — | **The New York Times** | Frontend Engineering Intern | New York, NY (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005) |
+| — | **The New York Times** | Full-Stack Engineering Intern | New York, NY (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005) |
+| — | **The New York Times** | iOS Engineering Intern | New York, NY (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005) |
 
 ## Watched company portals
 
