@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 05:01 UTC · 1 new listing_
+_Updated 2026-11-06 05:31 UTC · 3 new listings_
 
-## New listings (1) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ASM** | Intern, Product Intelligence Engineering (AI/ML) | > Arizona > Phoenix | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-asm-5029228101?s=gh-internships-2027) |
+| today | **Eversource Energy** | 2027 Summer: Distribution Engineering Intern (Hybrid Schedule) | Yarmouth, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032402?s=gh-internships-2027) |
+| today | **Eversource Energy** | 2027 Summer: Distribution Engineering Intern (Springfield, MA-Hybrid Schedule) | East Springfield, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032401?s=gh-internships-2027) |
+| 1d ago | **Hakkōda, an IBM Company** | Software Engineer Intern 2027 | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed4721a3da3840d4aba9c6?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
