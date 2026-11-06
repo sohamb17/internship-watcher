@@ -498,7 +498,25 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20763,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20763
 },
-"held": [],
+"held": [
+{
+"company": "HoYoverse",
+"degrees": [
+"Master's",
+"PhD"
+],
+"dk": "hoyoverse|generation research scientist video",
+"found": 20763,
+"loc": "Mountain View, CA",
+"more": null,
+"night": true,
+"posted": 20763,
+"role": "Research Scientist Intern - Video Generation",
+"sk": "77127d50-fe05-4069-a053-a1d3aed35a10",
+"src": "simplify",
+"url": "https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true"
+}
+],
 "roles": {
 "10a|engineering fellow": 20763,
 "1password|brokering credential developer": 20759,
@@ -2891,6 +2909,7 @@
 "hookmusic|data": 20763,
 "horizonair|engineer software": 20760,
 "horizonindustries|appian": 20763,
+"hoyoverse|generation research scientist video": 20763,
 "hpiq|aml engineer platform software": 20763,
 "hpiq|aml engineering platform software": 20763,
 "hpiq|automation engineering test wireless": 20763,
@@ -9134,6 +9153,7 @@
 "jobright:6ae2a301de23f466ec8c7f31": 20762,
 "jobright:6ae2a303de23f466ec8c7f33": 20762,
 "jobright:6ae2a307eb7e8f715a60f6b4": 20762,
+"jobright:6ae2baaa1f9d9308370b4126": 20763,
 "jobright:6ae2baaa829a3bada1606f2a": 20762,
 "jobright:6ae2baaa829a3bada1606f2b": 20762,
 "jobright:6ae2bac705a39c3e2c71c5d7": 20762,
@@ -9299,7 +9319,7 @@
 "jobright:6aeac392440b469a1c0aff71": 20762,
 "jobright:6aeaf13c59a085bcfcdcae91": 20762,
 "jobright:6aeb3014fbe13dfb53df1b5c": 20762,
-"jobright:6aeb3067a0b134121d9986c5": 20762,
+"jobright:6aeb3067a0b134121d9986c5": 20763,
 "jobright:6aeb3533f40efa43f4a1521a": 20762,
 "jobright:6aeb41a4a0b134121d998d5f": 20762,
 "jobright:6aeb50e365311d97105b72a2": 20762,
@@ -9370,6 +9390,7 @@
 "jobright:6aece6743967d67f635a0bbf": 20763,
 "jobright:6aece9d23967d67f635a0ddd": 20763,
 "jobright:6aeceeb2ab48a7079381fe01": 20763,
+"jobright:6aecf810ab48a707938202c0": 20763,
 "jobright:6aecfe823967d67f635a197b": 20763,
 "jobright:6aed01beab48a7079382071f": 20763,
 "jobright:6aed02f43a3fa7f03ea8b326": 20763,
@@ -10794,6 +10815,7 @@
 "76f81261-3cc0-45e5-938b-cc7d06c83756": 20763,
 "770d0c2e-5cd5-4716-b307-3db3d3f8e1ce": 20763,
 "77126d0e-4cb6-4a91-a879-83b75744b445": 20763,
+"77127d50-fe05-4069-a053-a1d3aed35a10": 20763,
 "772bc79c-99f8-434b-b3f8-c449513885d4": 20763,
 "778c7809-1093-4a0c-b72e-bda6dcae46f0": 20759,
 "77d6016a-c39e-4d1c-8e5a-1ff56302a8eb": 20759,
@@ -15589,7 +15611,7 @@
 "https://zapply.jobs/l/d/workday-visa-visa-REF089880W": 20760,
 "https://zapply.jobs/l/d/workday-visa-visa-REF089882W": 20760,
 "https://zapply.jobs/l/d/workday-visa-visa-REF089883W": 20763,
-"https://zapply.jobs/l/d/workday-visa-visa-REF089884W": 20762,
+"https://zapply.jobs/l/d/workday-visa-visa-REF089884W": 20763,
 "https://zapply.jobs/l/d/workday-visa-visa-REF089900W": 20763,
 "https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31108": 20759,
 "https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31112": 20759,

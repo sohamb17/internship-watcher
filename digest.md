@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 07:31 UTC · 0 new listings_
+_Updated 2026-11-06 08:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **HoYoverse** | Research Scientist Intern - Video Generation<br>Master's/PhD | Mountain View, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true) |
 
 ## Watched company portals
 
