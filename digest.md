@@ -1,14 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 01:01 UTC · 3 new listings_
+_Updated 2026-11-06 01:31 UTC · 4 new listings_
 
-## New listings (3) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **AFL** | Web Design/Development Intern- Summer 2027 | Duncan, SC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed02f43a3fa7f03ea8b326?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Kite Realty Group** | Summer Intern  - Application Development | Indianapolis, IN 46204, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed07f43967d67f635a1f03?utm_campaign=1079&utm_source=git) |
-| 1d ago | **PROJXON** | Full Stack Engineer (Internship) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed0b6aab48a70793820d9d?utm_campaign=1079&utm_source=git) |
+| today | **NVIDIA** | Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027 | CA Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028260?s=gh-internships-2027) |
+| today | **Light & Wonder** | Software Engineering Intern | Reno, NV | vanshb03 | [apply](https://go.vansh.nyc/1jR) |
+| today | **LLNL** | Center for Global Security Research (CGSR) Undergraduate Research Associate - Summer 2027 | Livermore, CA (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-llnl-3743990016680716?s=gh-internships-2027) |
+| today | **RTX** | Enterprise Services Engineering Co-Op (Spring/Summer 2027) | US-CT-EAST HARTFORD-PH ~ 400 Main St ~ BLDG PH (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-PH--400-Main-St--BLDG-PH/Enterprise-Services-Engineering-Co-Op--Spring-Summer-2027-_01884910) |
 
 ## Watched company portals
 
