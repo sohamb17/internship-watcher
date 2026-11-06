@@ -1,14 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 21:31 UTC · 3 new listings_
+_Updated 2026-11-06 21:38 UTC · 0 new listings_
 
-## New listings (3) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Waymo** | 2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model) | Mountain View, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-waymo-8358262?s=gh-internships-2027) |
-| today | **Waymo** | 2027 Summer Intern, PhD, Machine Learning - Generative World Models & Controllable Simulation | Mountain View, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-waymo-8351210?s=gh-internships-2027) |
-| today | **Moog** | Intern, Product Engineering | Buffalo, NY (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-20386?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
