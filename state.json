@@ -515,6 +515,24 @@
 "sk": "77127d50-fe05-4069-a053-a1d3aed35a10",
 "src": "simplify",
 "url": "https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true"
+},
+{
+"company": "ASM International",
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"dk": "asminternational|ai engineering intelligence ml product",
+"found": 20763,
+"loc": "Phoenix, AZ",
+"more": null,
+"night": true,
+"posted": 20763,
+"role": "Product Intelligence Engineering Intern - AI/ML",
+"sk": "03bd77d2-3d33-47c7-93cd-c8cc83b1d94f",
+"src": "simplify",
+"url": "https://www.asm.com/open-vacancies/?gh_jid=5029228101"
 }
 ],
 "roles": {
@@ -1039,6 +1057,7 @@
 "ascendlearning|ascend details engineering job learning llc software": 20762,
 "ascension|analytics sourcing strategic": 20763,
 "asmglobal|data specialist": 20763,
+"asminternational|ai engineering intelligence ml product": 20763,
 "asml|ai business systems": 20763,
 "asml|application engineer qa software": 20763,
 "asml|assurance quality software": 20763,
@@ -9583,6 +9602,7 @@
 "033a2dce-7821-4e99-b6e1-138c6671f830": 20763,
 "037d751e-e964-4164-ad1e-5cd1b7b6cb57": 20763,
 "03a8913b-a007-4657-8f59-bc29a722beda": 20763,
+"03bd77d2-3d33-47c7-93cd-c8cc83b1d94f": 20763,
 "03dcc6a0-7074-41ed-b801-a60f6116f591": 20763,
 "03ddbf84-5e23-46af-b5c3-428a7ef7f009": 20760,
 "040797ca-19c6-40f3-ac53-c8aec60aa433": 20759,
@@ -15512,7 +15532,7 @@
 "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026530": 20763,
 "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026940": 20759,
 "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027089": 20759,
-"https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027170": 20762,
+"https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027170": 20763,
 "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027548": 20763,
 "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027561": 20761,
 "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028260": 20763,

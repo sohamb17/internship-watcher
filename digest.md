@@ -1,11 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 08:01 UTC · 1 new listing_
+_Updated 2026-11-06 08:31 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **ASM International** | Product Intelligence Engineering Intern - AI/ML | Phoenix, AZ | SimplifyJobs | [apply](https://www.asm.com/open-vacancies/?gh_jid=5029228101) |
 | today | **HoYoverse** | Research Scientist Intern - Video Generation<br>Master's/PhD | Mountain View, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true) |
 
 ## Watched company portals
