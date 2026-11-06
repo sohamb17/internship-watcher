@@ -1,19 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 15:01 UTC · 8 new listings_
+_Updated 2026-11-06 15:31 UTC · 2 new listings_
 
-## New listings (8) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Alaska Airlines** | Software Delivery Platform Intern | SeaTac, WA | vanshb03 | [apply](https://go.vansh.nyc/1ke) |
-| today | **Cook Group** | Applied AI & Full Stack Development Intern | Bloomington, IN | vanshb03 | [apply](https://go.vansh.nyc/1k3) |
-| today | **Indiana Farm Bureau Insurance** | Software Development Intern - Summer 2027 | Indianapolis, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab3faa47bd0813713314c4f?utm_campaign=1079&utm_source=git) |
-| today | **Intercontinental Exchange, Inc.** | Application Security Intern | Jacksonville, FL | vanshb03 | [apply](https://go.vansh.nyc/1k7) |
-| today | **Intercontinental Exchange, Inc.** | Infrastructure Observability Intern | Jacksonville, FL | vanshb03 | [apply](https://go.vansh.nyc/1k5) |
-| today | **W.R. Berkley** | Software Developer Intern, .NET | Urbandale, IA | vanshb03 | [apply](https://go.vansh.nyc/1k4) |
-| today | **Western & Southern Financial Group** | Software Developer Intern, Agency Systems | Cincinnati, OH | vanshb03 | [apply](https://go.vansh.nyc/1k9) |
-| — | **The New York Times** | Interactive News Engineering Intern | New York, NY | Company portals | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005) |
+| today | **Globus Medical** | Software COOP | Methuen, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globusmedical-gmed-careers-JR108063?s=gh-internships-2027) |
+| today | **Hitachi** | Full Stack Developer Intern | Dallas, TX (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1kr) |
 
 ## Watched company portals
 
