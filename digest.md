@@ -1,12 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 02:01 UTC · 1 new listing_
+_Updated 2026-11-06 02:31 UTC · 4 new listings_
 
-## New listings (1) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Etched** | Infrastructure Engineering & Projects Intern | San Jose | Company portals | [apply](https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b) |
+| 1d ago | **BAE Systems** | Embedded Software Engineer Spring/Summer 2027 | Maple Grove, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed0f06a2661405dc2c8db3?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Citi** | Technology, Application Development, Summer Analyst, Irving - USA, 2027 | Irving, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adbad22389e06bb41ad34a4?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Citi** | Technology, Application Development, Summer Analyst, Jacksonville - USA, 2027 | Jacksonville, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adc1d9a46a8cabdc1ff6292?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Citi** | Technology, Production Support, Summer Analyst, Tampa - USA, 2027 | Tampa, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adbe4555dc7953215a3558d?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
