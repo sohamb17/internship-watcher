@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 13:31 UTC · 9 new listings_
+_Updated 2026-11-07 14:01 UTC · 10 new listings_
 
-## New listings (9) — newest first
+## New listings (10) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Category Labs** | Research Intern | NYC | SimplifyJobs | [apply](https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true) |
+| today | **Hidden Level** | Full Stack Software Engineering Intern – Summer 2027 | Syracuse, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adb10cfcb58d64fcd372ba9?utm_campaign=1079&utm_source=git) |
 | today | **Spectrum** | 2027 Summer Intern: Software Engineer - P&T | Maryland Heights, MO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed39af3a3fa7f03ea8cb05?utm_campaign=1079&utm_source=git) |
 | 1d ago | **TikTok** | Research Engineer Intern (TikTok Generalized Arch) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeeb166676e3f91d326949e?utm_campaign=1079&utm_source=git) |
 | 1d ago | **TikTok** | Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeeaa2b0fe787d00ed18114?utm_campaign=1079&utm_source=git) |
