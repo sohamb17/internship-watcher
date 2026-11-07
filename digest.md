@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 02:31 UTC · 1 new listing_
+_Updated 2026-11-07 03:01 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Infineon Technologies** | Internship - Applications Engineer | San Jose, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6aee6ee15c81f621d31167b7?utm_campaign=1079&utm_source=git) |
+| today | **TikTok** | Data Operations Intern | LA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7704912455690504453) |
+| 67d ago | **Baird** | Capital Markets Compliance Data & Analytics Intern | Milwaukee, WI | SimplifyJobs | [apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Capital-Markets-Compliance-Data---Analytics--Year-Round-_R2026962-2) |
 
 ## Watched company portals
 
