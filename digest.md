@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 01:31 UTC · 2 new listings_
+_Updated 2026-11-07 02:01 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Daiichi Sankyo** | DTX Infrastructure Intern | Basking Ridge, NJ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee599a5c81f621d3115aec?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Ryzoe** | Trainee (Intern) Full Stack Developer | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee5894d20350c7a507c6bf?utm_campaign=1079&utm_source=git) |
+| today | **Zoox** | AI Workflows & Safety Decision Making Intern [2027] | Foster City, CA | Company portals | [apply](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) |
 
 ## Watched company portals
 
