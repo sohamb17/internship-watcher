@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 16:01 UTC · 2 new listings_
+_Updated 2026-11-07 16:31 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Aether Field** | Programmer Analyst Intern | Waller, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aef380a40b5de2d2b30fbfe?utm_campaign=1079&utm_source=git) |
-| today | **Leonardo DRS** | Senior Technical Intern - Software | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad5a410f04335fc70ede35b?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
