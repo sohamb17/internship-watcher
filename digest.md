@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 14:31 UTC · 0 new listings_
+_Updated 2026-11-07 15:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Tenaska** | Software Engineering Intern | Omaha, NE, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a7e391f0cd4a0703257ec58?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
