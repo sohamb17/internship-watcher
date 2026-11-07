@@ -540,6 +540,24 @@
 "sk": "jobright:6aeeaa2b0fe787d00ed18114",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6aeeaa2b0fe787d00ed18114?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "Category Labs",
+"degrees": [
+"Bachelor's",
+"Master's",
+"PhD"
+],
+"dk": "category|research",
+"found": 20764,
+"loc": "NYC",
+"more": null,
+"night": true,
+"posted": 20764,
+"role": "Research Intern",
+"sk": "482492ee-a5b2-4831-a3e9-65a37b6c1a46",
+"src": "simplify",
+"url": "https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true"
 }
 ],
 "roles": {
@@ -1702,6 +1720,7 @@
 "cartesian|6 applied cs ml months phd": 20764,
 "cartesian|alumni assistant host iap micro research": 20764,
 "castletoncommoditiesinternational|data learning machine science": 20759,
+"category|research": 20764,
 "caterpillar|analytics corporate digital": 20764,
 "caterpillar|application engineering gas oil project": 20764,
 "caterpillar|autonomy corporate engineering intelligent systems": 20764,
@@ -10754,6 +10773,7 @@
 "47d46841-c65e-4407-8aea-0d09d3f38312": 20759,
 "47fc293a-86ff-4dfb-9ef9-71a0f154f798": 20763,
 "480a67dc-16ba-405a-acd9-1cf14304b979": 20764,
+"482492ee-a5b2-4831-a3e9-65a37b6c1a46": 20764,
 "483a6e7d-49d9-4b1b-823b-1c0e3be6b318": 20763,
 "484795df-9f5d-4137-aada-8bc8059146a3": 20764,
 "48975da5-2bb2-4457-8702-de4898cd805e": 20764,
@@ -15696,9 +15716,9 @@
 "https://zapply.jobs/l/d/lever-zoox-0168ad29-2fd8-4c91-865c-b9fff8aa30c1": 20764,
 "https://zapply.jobs/l/d/lever-zoox-0accbf9e-9b09-4733-b495-fb6dce13ba62": 20764,
 "https://zapply.jobs/l/d/lever-zoox-0c32245b-f51d-40d2-8e57-a0be1b744c5b": 20764,
-"https://zapply.jobs/l/d/lever-zoox-7b20b929-d9a4-4995-a472-16cd4925a877": 20763,
+"https://zapply.jobs/l/d/lever-zoox-7b20b929-d9a4-4995-a472-16cd4925a877": 20764,
 "https://zapply.jobs/l/d/lever-zoox-85c6aec7-8da2-445d-9c4d-812365dbce97": 20764,
-"https://zapply.jobs/l/d/lever-zoox-88f6cb68-1534-44af-80db-10e43c203520": 20763,
+"https://zapply.jobs/l/d/lever-zoox-88f6cb68-1534-44af-80db-10e43c203520": 20764,
 "https://zapply.jobs/l/d/lever-zoox-8b32157b-ab44-4078-85ea-1d8d7b747a20": 20764,
 "https://zapply.jobs/l/d/microsoft-200042199": 20764,
 "https://zapply.jobs/l/d/microsoft-200042630": 20763,
