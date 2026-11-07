@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 19:31 UTC · 2 new listings_
+_Updated 2026-11-07 20:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Kiewit** | Estimating Intern - Kiewit Infrastructure Engineers (Summer 2027) | Lone Tree, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9cf1e32c964816f65ea42c?utm_campaign=1079&utm_source=git) |
-| today | **Motorola Solutions** | Test Engineering Internship 2027 | Greater Chicago Area, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9af62290a313642c657632?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
