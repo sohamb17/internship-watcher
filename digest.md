@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 03:31 UTC · 2 new listings_
+_Updated 2026-11-07 04:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Zoox** | Safety Reporting & Benchmarking Intern<br>Master's | Foster City, CA | SimplifyJobs | [apply](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply) |
-| 4d ago | **Plexus** | Intern - Automation Engineer (Summer 2027) | Nampa, ID | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-plexus-plexus-careers-R041024?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
