@@ -1,17 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 11:31 UTC · 6 new listings_
+_Updated 2026-11-07 12:01 UTC · 8 new listings_
 
-## New listings (6) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **Tesla** | Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA | SimplifyJobs | [apply](https://www.tesla.com/careers/search/job/289241) |
 | today | **Category Labs** | Research Intern | NYC | SimplifyJobs | [apply](https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true) |
 | today | **Spectrum** | 2027 Summer Intern: Software Engineer - P&T | Maryland Heights, MO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aed39af3a3fa7f03ea8cb05?utm_campaign=1079&utm_source=git) |
 | 1d ago | **TikTok** | Research Engineer Intern (TikTok Generalized Arch) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeeb166676e3f91d326949e?utm_campaign=1079&utm_source=git) |
 | 1d ago | **TikTok** | Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeeaa2b0fe787d00ed18114?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Kestra Financial** | Summer Internship, Advisor Platform Engineering | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeea3da9f8e479a8bcf9f3e?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Torentify** | Full Stack Developer - Intern (Remote) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeec8939f8e479a8bcfaacf?utm_campaign=1079&utm_source=git) |
+| 70d ago | **Northwood Space** | Supply Chain Data & Analytics Intern | LA / Torrance, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true) |
 
 ## Watched company portals
 

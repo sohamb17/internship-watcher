@@ -586,6 +586,22 @@
 "sk": "jobright:6aed39af3a3fa7f03ea8cb05",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6aed39af3a3fa7f03ea8cb05?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "Northwood Space",
+"degrees": [
+"Bachelor's"
+],
+"dk": "northwoodspace|analytics chain data supply",
+"found": 20764,
+"loc": "LA / Torrance, CA",
+"more": null,
+"night": true,
+"posted": 20694,
+"role": "Supply Chain Data & Analytics Intern",
+"sk": "f6b7f447-ad5a-434e-bf7f-b120f36843eb",
+"src": "simplify",
+"url": "https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true"
 }
 ],
 "roles": {
@@ -4429,6 +4445,7 @@
 "northropgrumman|engineering roy software ut": 20764,
 "northwesternmutual|analytics enterprise impact modeling sustainability": 20763,
 "northwesternmutual|application development": 20764,
+"northwoodspace|analytics chain data supply": 20764,
 "notion|engineer frontend software": 20764,
 "notion|engineer ios software": 20764,
 "notion|engineer mobile software": 20759,
@@ -5693,6 +5710,7 @@
 "tesla|engineer integration optimus software": 20759,
 "tesla|engineer integration platforms si software": 20759,
 "tesla|engineer integration service software tooling": 20759,
+"tesla|engineer learning reinforcement si software": 20764,
 "tesla|engineer linux software systems update": 20759,
 "tesla|engineer maps navigation robotaxi software": 20759,
 "tesla|engineer maps navigation software validation": 20759,
@@ -11101,6 +11119,7 @@
 "60ab7a67-de85-40c1-889d-104e6d6019cd": 20764,
 "60cceb67-73c6-4b3b-9464-f6f276a9ad2c": 20759,
 "60dfdc9e-b8e3-49d2-81b6-1e7cd70c9881": 20759,
+"60fd1301-4412-4891-b853-6eec26f242df": 20764,
 "611745cb-59b3-4e7e-8af9-36974ce7c0d2": 20764,
 "6128a4f5-8798-47fb-a46b-e553d79e7c09": 20759,
 "612d47bb-ecd4-42e3-8669-3af521907136": 20764,
@@ -12723,6 +12742,7 @@
 "f531f9e9-2165-4c86-a9ff-8efab2b0a393": 20759,
 "f5387b71-b243-4149-b269-544b787a751e": 20764,
 "f5398a2b-3679-4382-af99-0d9ac640b121": 20759,
+"f53a894a-ab47-4376-99ff-d2e440e9c33d": 20764,
 "f5457527-7b38-4075-a2c5-86d4b5dd0795": 20759,
 "f5506af0-7205-497f-8afc-70c81179f25a": 20763,
 "f55ba2e1-e436-475d-8d27-c4fbd34fd773": 20764,
@@ -12738,6 +12758,7 @@
 "f682356d-55da-4f90-987d-77f140cc652d": 20764,
 "f6a2b87f-8d79-42e5-b672-1818e34256c5": 20764,
 "f6b2ba47-0f93-4363-9f77-04ac9d5960b0": 20764,
+"f6b7f447-ad5a-434e-bf7f-b120f36843eb": 20764,
 "f6bf553d-9f2a-46c8-a6e7-693d5ca48d14": 20759,
 "f6c5ebc4-d026-40ec-a28c-ba2c0d6c0cfb": 20759,
 "f6d28670-0f41-488f-98a2-647a3dff7849": 20759,
