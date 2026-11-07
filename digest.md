@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 02:01 UTC · 1 new listing_
+_Updated 2026-11-07 02:02 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Zoox** | AI Workflows & Safety Decision Making Intern [2027] | Foster City, CA | Company portals | [apply](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) |
+Nothing new this run.
 
 ## Watched company portals
 
