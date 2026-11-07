@@ -512,6 +512,34 @@
 "sk": "jobright:6aeea3da9f8e479a8bcf9f3e",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6aeea3da9f8e479a8bcf9f3e?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "TikTok",
+"degrees": [],
+"dk": "tiktok|arch engineer generalized phd research start tiktok",
+"found": 20764,
+"loc": "San Jose, CA, United States",
+"more": null,
+"night": true,
+"posted": 20763,
+"role": "Research Engineer Intern (TikTok Generalized Arch) - 2027 Start (PhD)",
+"sk": "jobright:6aeeb166676e3f91d326949e",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6aeeb166676e3f91d326949e?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "TikTok",
+"degrees": [],
+"dk": "tiktok|bric engineer phd software start tiktok",
+"found": 20764,
+"loc": "San Jose, CA, United States",
+"more": null,
+"night": true,
+"posted": 20763,
+"role": "Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)",
+"sk": "jobright:6aeeaa2b0fe787d00ed18114",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6aeeaa2b0fe787d00ed18114?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -1294,7 +1322,7 @@
 "bildai|ai swe": 20764,
 "biogen|ai data innovation science": 20764,
 "biogen|analytics insights integrated nephrology": 20759,
-"biogen|information technology": 20762,
+"biogen|information technology": 20764,
 "biomrieux|data science": 20764,
 "birdconstruction|business intelligence": 20759,
 "bitgo|custody engineer software": 20759,
@@ -5788,6 +5816,7 @@
 "tiktok|arch code engineer generalized intelligence quality software tiktok validation": 20764,
 "tiktok|arch commerce data e engineer software": 20764,
 "tiktok|arch engineer frontend multimedia project": 20764,
+"tiktok|arch engineer generalized phd research start tiktok": 20764,
 "tiktok|architecture artificial client engineer intelligence": 20764,
 "tiktok|architecture commerce data e engineer software": 20764,
 "tiktok|architecture engineer feeds infrastructure recommendation software": 20764,
@@ -5812,6 +5841,7 @@
 "tiktok|backend engineer software": 20764,
 "tiktok|bp data engineer platform tiktok": 20764,
 "tiktok|brand creative engineer innovation intelligence software": 20764,
+"tiktok|bric engineer phd software start tiktok": 20764,
 "tiktok|business client global solutions": 20764,
 "tiktok|business engineer integrity monetization research technology": 20764,
 "tiktok|business engineer integrity software": 20764,
@@ -9580,7 +9610,7 @@
 "jobright:6ae9f5cf2b0b1eb5805b5237": 20761,
 "jobright:6ae9f640a291a1db4de26516": 20762,
 "jobright:6ae9f64b43826864b0fbba4c": 20762,
-"jobright:6ae9ff641ba298c77776dd1b": 20761,
+"jobright:6ae9ff641ba298c77776dd1b": 20764,
 "jobright:6aea06631ba298c77776e0a0": 20761,
 "jobright:6aea0e04440b469a1c0a9de2": 20763,
 "jobright:6aea0ebd913589212b1f2be9": 20761,
@@ -9786,7 +9816,9 @@
 "jobright:6aee6ee15c81f621d31167b7": 20764,
 "jobright:6aee8a4bbd2f33eea72dccf7": 20764,
 "jobright:6aee8c72d20350c7a507df64": 20764,
-"jobright:6aeea3da9f8e479a8bcf9f3e": 20764
+"jobright:6aeea3da9f8e479a8bcf9f3e": 20764,
+"jobright:6aeeaa2b0fe787d00ed18114": 20764,
+"jobright:6aeeb166676e3f91d326949e": 20764
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -15800,7 +15832,7 @@
 "https://zapply.jobs/l/d/workday-amat-external-R2630376": 20759,
 "https://zapply.jobs/l/d/workday-amat-external-R2630672": 20763,
 "https://zapply.jobs/l/d/workday-amat-external-R2631535": 20759,
-"https://zapply.jobs/l/d/workday-amgen-careers-R-260523": 20763,
+"https://zapply.jobs/l/d/workday-amgen-careers-R-260523": 20764,
 "https://zapply.jobs/l/d/workday-amgen-careers-R-260585": 20764,
 "https://zapply.jobs/l/d/workday-analogdevices-external-R267479": 20764,
 "https://zapply.jobs/l/d/workday-analogdevices-external-R268534": 20764,

@@ -1,11 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 06:31 UTC · 1 new listing_
+_Updated 2026-11-07 07:01 UTC · 3 new listings_
 
-## New listings (1) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| 1d ago | **TikTok** | Research Engineer Intern (TikTok Generalized Arch) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeeb166676e3f91d326949e?utm_campaign=1079&utm_source=git) |
+| 1d ago | **TikTok** | Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeeaa2b0fe787d00ed18114?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Kestra Financial** | Summer Internship, Advisor Platform Engineering | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeea3da9f8e479a8bcf9f3e?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
