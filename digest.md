@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 22:00 UTC · 1 new listing_
+_Updated 2026-11-07 22:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Motion** | Software Engineer - QA Analyst Intern | Birmingham, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aef82d30fe787d00ed1b892?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
