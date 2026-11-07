@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 01:01 UTC · 1 new listing_
+_Updated 2026-11-07 01:31 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Shield AI** | 2027 Summer Intern - Supplier Development Engineer - 6463 | Dallas, Texas | Company portals | [apply](https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753) |
+| 1d ago | **Daiichi Sankyo** | DTX Infrastructure Intern | Basking Ridge, NJ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee599a5c81f621d3115aec?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Ryzoe** | Trainee (Intern) Full Stack Developer | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee5894d20350c7a507c6bf?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
