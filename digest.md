@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 02:02 UTC · 0 new listings_
+_Updated 2026-11-07 02:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Infineon Technologies** | Internship - Applications Engineer | San Jose, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6aee6ee15c81f621d31167b7?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
