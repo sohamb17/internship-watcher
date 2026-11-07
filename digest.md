@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 05:31 UTC · 1 new listing_
+_Updated 2026-11-07 06:01 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Corning** | HPC DevOps Engineer Intern, Science & Technology | Corning, NY | vanshb03 | [apply](https://go.vansh.nyc/1lY) |
+| 1d ago | **Kestra Financial** | Summer Internship, Advisor Platform Engineering | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeea3da9f8e479a8bcf9f3e?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 

@@ -498,7 +498,22 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20764,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20764
 },
-"held": [],
+"held": [
+{
+"company": "Kestra Financial",
+"degrees": [],
+"dk": "kestrafinancial|advisor engineering platform",
+"found": 20764,
+"loc": "Austin, TX, United States",
+"more": null,
+"night": true,
+"posted": 20763,
+"role": "Summer Internship, Advisor Platform Engineering",
+"sk": "jobright:6aeea3da9f8e479a8bcf9f3e",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6aeea3da9f8e479a8bcf9f3e?utm_campaign=1079&utm_source=git"
+}
+],
 "roles": {
 "10a|engineering fellow": 20764,
 "1password|brokering credential developer": 20759,
@@ -3396,6 +3411,8 @@
 "kenworthtruck|data engineering management product resident": 20760,
 "kenworthtruck|developer software": 20760,
 "keplercommunications|engineer software": 20759,
+"kestrafinancial|advisor engineering platform": 20764,
+"kestra|advisor engineering platform": 20764,
 "ketjen|data ketjen science": 20764,
 "ketjen|data science": 20764,
 "keybank|analytics marketing": 20764,
@@ -9761,13 +9778,15 @@
 "jobright:6aee559de0c9de7b05f8dcbf": 20764,
 "jobright:6aee5894d20350c7a507c6bf": 20764,
 "jobright:6aee599a5c81f621d3115aec": 20764,
+"jobright:6aee59c6d20350c7a507c7e8": 20764,
 "jobright:6aee6391d20350c7a507ce6f": 20764,
 "jobright:6aee66e2e0c9de7b05f8e9e5": 20764,
 "jobright:6aee690dc7498922fe0cc7b0": 20764,
 "jobright:6aee695abd2f33eea72dbe8d": 20764,
 "jobright:6aee6ee15c81f621d31167b7": 20764,
 "jobright:6aee8a4bbd2f33eea72dccf7": 20764,
-"jobright:6aee8c72d20350c7a507df64": 20764
+"jobright:6aee8c72d20350c7a507df64": 20764,
+"jobright:6aeea3da9f8e479a8bcf9f3e": 20764
 },
 "nointernship": {
 "nointernship:50673": 20760,
