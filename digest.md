@@ -1,15 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 23:01 UTC · 4 new listings_
+_Updated 2026-11-07 23:31 UTC · 0 new listings_
 
-## New listings (4) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Cair Health** | Software Engineering Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aef96d69f8e479a8bcfdf51?utm_campaign=1079&utm_source=git) |
-| today | **NetApp** | Software Engineer Intern Job Details / NetApp, Inc. | Wichita, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aef92839f8e479a8bcfde85?utm_campaign=1079&utm_source=git) |
-| today | **Studio Alumbra** | Website Developer Intern | Greenville-Spartanburg-Anderson metropolitan area, South Car | Jobright | [apply](https://jobright.ai/jobs/info/6aef8580676e3f91d326cc3a?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Louisiana Economic Development** | Intern Application Developer – Oracle - 2027 | Baton Rouge, LA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6aef936e0fe787d00ed1bddf?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
