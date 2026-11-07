@@ -1,28 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 00:01 UTC · 17 new listings_
+_Updated 2026-11-07 00:31 UTC · 11 new listings_
 
-## New listings (17) — newest first
+## New listings (11) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Dandy** | Summer 2027 Internship - PhD Research Intern | USA - New York NY | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-dandy-52bcfe21-dfa6-4669-8b58-b995c6e97b31?s=gh-internships-2027) |
-| today | **Docusign** | Agentic AI Engineer Intern | SF | SimplifyJobs | [apply](https://careers.docusign.com/jobs/30587?icims=1&lang=en-us) |
-| today | **L3Harris Technologies** | Data Architect Intern | Huntsville, AL (+1 more) | SimplifyJobs | [apply](https://jobs.l3harris.com/job/Huntsville-Intern,-Data-Architect-AL-35806/1448613300/?ats=successfactors) |
-| today | **MITRE** | Data Science Intern | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-internships-2027) |
-| today | **Varda Space** | Site Reliability Internship - Summer 2027 | El Segundo, California, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-vardaspace-8198267003?s=gh-internships-2027) |
-| today | **Zoox** | Data Science Intern [Summer 2027] | Foster City, CA (+1 more) | Company portals | [apply](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97) |
-| 1d ago | **DataRobot** | Software Design Engineer Intern | Boston, MA / Seattle, WA / SF / Ontario, Canada | SimplifyJobs | [apply](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) |
-| 1d ago | **Intercontinental Exchange** | Infrastructure Development & Automation Intern | Atlanta, GA | vanshb03 | [apply](https://go.vansh.nyc/1lE) |
-| 1d ago | **Intercontinental Exchange** | Release Engineering Intern | Jacksonville, FL | vanshb03 | [apply](https://go.vansh.nyc/1lD) |
-| 1d ago | **L.L.Bean** | Quality Assurance Analyst Intern | Freeport, ME | vanshb03 | [apply](https://go.vansh.nyc/1lF) |
-| 1d ago | **Leidos** | AI/Automation Development Intern - Assessment & Authorization | Remote in USA | SimplifyJobs | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319) |
-| 1d ago | **Machina Cognita Technologies** | Engineering Intern | Lafayette, IN | SimplifyJobs | [apply](https://jobs.ashbyhq.com/machinacognita/c36e9f62-9bbe-45e7-8bff-d52affacbe81/application?embed=true) |
-| 1d ago | **Republic Finance** | React Developer Intern | Plano, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee54e8bd2f33eea72dadcf?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Samsung** | AI Data Analyst Intern | Plano, TX | SimplifyJobs | [apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1) |
-| 1d ago | **The Federal Reserve System** | Statistics Intern | Atlanta, GA | SimplifyJobs | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876) |
-| 1d ago | **Vizient** | Intern Revenue Intelligence - Revenue Intelligence | Centennial, CO / Chicago, IL / Irving, TX | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Revenue-Intelligence_36048R-1) |
-| — | **Pinterest** | UX Quantitative Research Intern (USA) | Remote, US; San Francisco, CA, US; Seattle, WA, US; New York | Company portals | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) |
+| today | **Meta** | Research Scientist Intern - AI Agents and Machine Learning | Menlo Park, CA / Sunnyvale, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1826604892017856) |
+| today | **Meta** | Research Scientist Intern - AI Systems and Infrastructure | Menlo Park, CA / NYC | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1750797606003820) |
+| today | **Meta** | Research Scientist Intern - Generative AI & 3D Generation | Burlingame, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1406087328180524) |
+| today | **Meta** | Research Scientist Intern - Robotics Foundation Models - Agentic RL | Menlo Park, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1414987577372371) |
+| today | **Meta** | Research Scientist Intern - Synthetic Data for Computer Use Agents | Menlo Park, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1667187061776108) |
+| today | **Microsoft** | Research Intern - AI & Human Systems | New York, New York, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200066265?s=gh-internships-2027) |
+| today | **Corning** | Image Analysis Intern | Corning, NY | SimplifyJobs | [apply](https://corningjobs.corning.com/job/Corning-Intern,-Image-Analysis-Summer-2027-NY-14831/1448762800/?ats=successfactors) |
+| today | **Enovation Controls** | Embedded Machine Learning Engineer Intern | Tulsa, OK (+1 more) | SimplifyJobs | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257) |
+| 1d ago | **Invesco** | Data Science Intern - Real Estate | Dallas, TX (+1 more) | SimplifyJobs | [apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091) |
+| 1d ago | **L.L.Bean** | Business Analyst/Data Analyst Intern | Freeport, ME | SimplifyJobs | [apply](https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275) |
+| 1d ago | **United Parcel Service** | Summer Engineer Intern | Middleburg Heights, OH | SimplifyJobs | [apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIDDLEBURG-HEIGHTS-OHMID/XMLNAME-2027-Summer-Engineering-Intern---Cleveland-OH_R26039950) |
 
 ## Watched company portals
 
