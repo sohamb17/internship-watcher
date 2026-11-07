@@ -1,12 +1,28 @@
 # Internship watcher — latest
 
-_Updated 2026-11-06 23:31 UTC · 1 new listing_
+_Updated 2026-11-07 00:01 UTC · 17 new listings_
 
-## New listings (1) — newest first
+## New listings (17) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Parspec** | Applied AI Engineer Intern | Hybrid - San Mateo, California | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-parspec-0a897c21-0df7-40ba-85f2-694bf6678504?s=gh-internships-2027) |
+| today | **Dandy** | Summer 2027 Internship - PhD Research Intern | USA - New York NY | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-dandy-52bcfe21-dfa6-4669-8b58-b995c6e97b31?s=gh-internships-2027) |
+| today | **Docusign** | Agentic AI Engineer Intern | SF | SimplifyJobs | [apply](https://careers.docusign.com/jobs/30587?icims=1&lang=en-us) |
+| today | **L3Harris Technologies** | Data Architect Intern | Huntsville, AL (+1 more) | SimplifyJobs | [apply](https://jobs.l3harris.com/job/Huntsville-Intern,-Data-Architect-AL-35806/1448613300/?ats=successfactors) |
+| today | **MITRE** | Data Science Intern | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-internships-2027) |
+| today | **Varda Space** | Site Reliability Internship - Summer 2027 | El Segundo, California, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-vardaspace-8198267003?s=gh-internships-2027) |
+| today | **Zoox** | Data Science Intern [Summer 2027] | Foster City, CA (+1 more) | Company portals | [apply](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97) |
+| 1d ago | **DataRobot** | Software Design Engineer Intern | Boston, MA / Seattle, WA / SF / Ontario, Canada | SimplifyJobs | [apply](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) |
+| 1d ago | **Intercontinental Exchange** | Infrastructure Development & Automation Intern | Atlanta, GA | vanshb03 | [apply](https://go.vansh.nyc/1lE) |
+| 1d ago | **Intercontinental Exchange** | Release Engineering Intern | Jacksonville, FL | vanshb03 | [apply](https://go.vansh.nyc/1lD) |
+| 1d ago | **L.L.Bean** | Quality Assurance Analyst Intern | Freeport, ME | vanshb03 | [apply](https://go.vansh.nyc/1lF) |
+| 1d ago | **Leidos** | AI/Automation Development Intern - Assessment & Authorization | Remote in USA | SimplifyJobs | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319) |
+| 1d ago | **Machina Cognita Technologies** | Engineering Intern | Lafayette, IN | SimplifyJobs | [apply](https://jobs.ashbyhq.com/machinacognita/c36e9f62-9bbe-45e7-8bff-d52affacbe81/application?embed=true) |
+| 1d ago | **Republic Finance** | React Developer Intern | Plano, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aee54e8bd2f33eea72dadcf?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Samsung** | AI Data Analyst Intern | Plano, TX | SimplifyJobs | [apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1) |
+| 1d ago | **The Federal Reserve System** | Statistics Intern | Atlanta, GA | SimplifyJobs | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Statistics-Intern_R-0000033876) |
+| 1d ago | **Vizient** | Intern Revenue Intelligence - Revenue Intelligence | Centennial, CO / Chicago, IL / Irving, TX | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Revenue-Intelligence_36048R-1) |
+| — | **Pinterest** | UX Quantitative Research Intern (USA) | Remote, US; San Francisco, CA, US; Seattle, WA, US; New York | Company portals | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) |
 
 ## Watched company portals
 
