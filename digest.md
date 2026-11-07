@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 13:01 UTC · 7 new listings_
+_Updated 2026-11-07 13:31 UTC · 9 new listings_
 
-## New listings (7) — newest first
+## New listings (9) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -12,7 +12,9 @@ _Updated 2026-11-07 13:01 UTC · 7 new listings_
 | 1d ago | **TikTok** | Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeeaa2b0fe787d00ed18114?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Kestra Financial** | Summer Internship, Advisor Platform Engineering | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeea3da9f8e479a8bcf9f3e?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Torentify** | Full Stack Developer - Intern (Remote) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeec8939f8e479a8bcfaacf?utm_campaign=1079&utm_source=git) |
+| 30d ago | **Upstart** | Applied Scientist Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1m4) |
 | 70d ago | **Northwood Space** | Supply Chain Data & Analytics Intern | LA / Torrance, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true) |
+| 85d ago | **Aechelon Technology** | Junior Software Engineer Intern | Overland Park, KS | vanshb03 | [apply](https://go.vansh.nyc/1m2) |
 
 ## Watched company portals
 
