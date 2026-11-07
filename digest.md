@@ -1,8 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-07 17:01 UTC · 0 new listings_
+_Updated 2026-11-07 17:31 UTC · 3 new listings_
 
-Nothing new this run.
+## New listings (3) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **IBM** | Intern Application Developer – Adobe - 2027 | Buffalo, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9e2d4a27c94c3d5a1cb631?utm_campaign=1079&utm_source=git) |
+| today | **Springs Window Fashions** | Textile Engineering Analytics & Software Intern | Middleton, WI | vanshb03 | [apply](https://go.vansh.nyc/1me) |
+| today | **The Waldinger Corporation** | Intern - Software Engineering | Des Moines, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad241b05290d4375c4518ef?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
