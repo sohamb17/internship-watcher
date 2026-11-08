@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-08 20:01 UTC · 0 new listings_
+_Updated 2026-11-08 20:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Simon Property Group** | Intern - Project Delivery (Information Services / Computer Science Majors) | Indianapolis, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9ae20d13883870605947cf?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
