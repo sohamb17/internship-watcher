@@ -568,6 +568,20 @@
 "sk": "jobright:6a7f63f419ce4e6e9d9377a4",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6a7f63f419ce4e6e9d9377a4?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "HDR",
+"degrees": [],
+"dk": "hdr|development rr software",
+"found": 20765,
+"loc": "Round Rock, TX, United States",
+"more": null,
+"night": true,
+"posted": 20765,
+"role": "Software Development Intern-RR",
+"sk": "jobright:6a9b52d490a313642c659bf3",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6a9b52d490a313642c659bf3?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -2876,6 +2890,7 @@
 "hcsc|analyst data enterprise": 20765,
 "hcsc|classification data security": 20759,
 "hcsc|engineer product": 20765,
+"hdr|development rr software": 20765,
 "hdr|development software": 20763,
 "hdsupply|artificial data intelligence science": 20765,
 "healthcareservice|associate careers developer early engineering product": 20765,
@@ -9410,7 +9425,9 @@
 "jobright:6a9b10a29c24314c35f97938": 20760,
 "jobright:6a9b19ed90a313642c658978": 20760,
 "jobright:6a9b200c9c24314c35f97de2": 20762,
+"jobright:6a9b3debd5ff1f3f1c39e64c": 20765,
 "jobright:6a9b40089c24314c35f988ca": 20765,
+"jobright:6a9b52d490a313642c659bf3": 20765,
 "jobright:6a9cf1e32c964816f65ea42c": 20765,
 "jobright:6a9e242bdacf777321a90a03": 20763,
 "jobright:6a9e2d4a27c94c3d5a1cb631": 20765,
@@ -9479,7 +9496,9 @@
 "jobright:6ab6b4b9634ec6aa7c0d412d": 20765,
 "jobright:6ab6cd2481e327c4bf201418": 20765,
 "jobright:6ab6d98239fd8792cb73c5d5": 20765,
+"jobright:6ab6ebd0ba1c25652c610a53": 20765,
 "jobright:6ab6ee2439fd8792cb73cc86": 20765,
+"jobright:6ab6f90439fd8792cb73d000": 20765,
 "jobright:6abbe5653217d1d13329b7be": 20762,
 "jobright:6abd081d372c01f6cd71df1d": 20762,
 "jobright:6abd0ef08ff3fb9b3bc6e331": 20762,
