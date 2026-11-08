@@ -1,19 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-08 14:01 UTC · 8 new listings_
+_Updated 2026-11-08 14:31 UTC · 0 new listings_
 
-## New listings (8) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **CNH** | Software Engineer Intern | Tempe, AZ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af03b4f0fe787d00ed1d8bb?utm_campaign=1079&utm_source=git) |
-| today | **Crowe** | MSFT AI Business Solutions Implementation Intern | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a7f63b2b56bea5779c0acc7?utm_campaign=1079&utm_source=git) |
-| today | **Crowe** | Power Platform Business Solutions Intern | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a7f63f419ce4e6e9d9377a4?utm_campaign=1079&utm_source=git) |
-| today | **HDR** | Software Development Intern-RR | Round Rock, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9b52d490a313642c659bf3?utm_campaign=1079&utm_source=git) |
-| today | **Nuvo** | Software Engineering Intern | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9b5db99c24314c35f990bb?utm_campaign=1079&utm_source=git) |
-| today | **Spectrum** | 2027 Summer Intern: Associate QA Analyst (Customer Operations) | Maryland Heights, MO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad33e22f04335fc70ed8d1e?utm_campaign=1079&utm_source=git) |
-| today | **Zurn Elkay Water Solutions** | IT Business Systems Intern (Summer 2027) | Milwaukee, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab6d98239fd8792cb73c5d5?utm_campaign=1079&utm_source=git) |
-| 33d ago | **Center for AI Safety (CAIS)** | Research Engineer Intern | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1mP) |
+Nothing new this run.
 
 ## Watched company portals
 
