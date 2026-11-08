@@ -1,20 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-08 18:01 UTC · 9 new listings_
+_Updated 2026-11-08 18:31 UTC · 0 new listings_
 
-## New listings (9) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Great West Casualty Company** | Intern / Systems Development (IT) | South Sioux City, NE, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac80edea444ac5d36f876ee?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Associate Developer 2027 - Adobe | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9e236727c94c3d5a1cb55e?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Associate Package Specialist 2027 - Oracle Cloud | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9e23a275edfa11b4710631?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Intern Application Developer 2027 – DPE | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9e2db32c964816f65ebd7e?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Intern Application Developer – Oracle - 2027 | Baton Rouge, Louisiana, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6a9e2de468f82b4036738c9d?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Intern Application Developer – Salesforce - 2027 | Baton Rouge, Louisiana, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9e2d36dacf777321a90aa8?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Intern Developer 2027 – Adobe | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9e2d69dacf777321a90aaf?utm_campaign=1079&utm_source=git) |
-| 2d ago | **Allied Consultants** | Power Platform Admin/Developer Intern | Austin, TX | speedyapply | [apply](https://careers-alliedconsultants.icims.com/jobs/8815/power-platform-admin-developer-intern/job) |
-| 97d ago | **Lutron** | Summer 2027 - Embedded Software Engineering Intern - Lehigh Valley - PA | Coopersburg, PA | speedyapply | [apply](https://studentopportunities-lutron.icims.com/jobs/5363/summer-2027---embedded-software-engineering-intern---lehigh-valley%2c-pa/job) |
+Nothing new this run.
 
 ## Watched company portals
 
