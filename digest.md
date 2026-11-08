@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-08 00:01 UTC · 1 new listing_
+_Updated 2026-11-08 00:31 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 1d ago | **Kiewit** | Scheduling Intern - Kiewit Infrastructure Engineers (Summer 2027) | Lone Tree, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab6b4b9634ec6aa7c0d412d?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
