@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-08 03:31 UTC · 0 new listings_
+_Updated 2026-11-08 04:01 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| — | **Barrios** | Data and Computer Eng/Sci Intern | Houston | nointernship.com | [apply](https://go.vansh.nyc/1lZ?s=y) |
+| — | **Riverside Research** | Formal Methods Research Intern | Lexington | nointernship.com | [apply](https://go.vansh.nyc/1mh?s=y) |
 
 ## Watched company portals
 
