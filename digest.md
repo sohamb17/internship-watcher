@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-08 16:44 UTC · 0 new listings_
+_Updated 2026-11-08 17:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Leonardo DRS** | Embedded Software Engineer Intern Job Details / Leonardo DRS, Inc. | Bridgeton, MO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac67d5b064da25272e1aa98?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
