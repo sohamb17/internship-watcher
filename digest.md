@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-08 22:31 UTC · 0 new listings_
+_Updated 2026-11-08 23:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **TechSyncSystems** | Computer Engineer Intern | San Antonio, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af0e41e8022f8ddd31a2a35?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
