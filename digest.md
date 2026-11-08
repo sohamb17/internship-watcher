@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-08 05:01 UTC · 0 new listings_
+_Updated 2026-11-08 05:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Citizens Energy Group** | Meter Services Data Analytics Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1mM) |
 
 ## Watched company portals
 
