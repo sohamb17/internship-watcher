@@ -1,18 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 22:31 UTC · 7 new listings_
+_Updated 2026-11-09 23:01 UTC · 5 new listings_
 
-## New listings (7) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ASML** | Internship- Co-Op: AI Engineer | San Diego, CA, USA (+2 more) | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628) |
-| today | **Micron Technology** | Intern - Process Development Engineer, Dry Etch | Boise, ID - Main Site | Company portals | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Dry-Etch_JR107326) |
-| today | **Northrop Grumman** | 2027 Software Testing Engineering Intern - Apopka FL | United States-Florida-Apopka | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259820?s=gh-internships-2027) |
-| today | **Veolia Environnement SA** | Project Engineering & Archival Intern -Water Technologies | Pico Rivera, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000160735749?s=gh-internships-2027) |
-| 98d ago | **Lutron** | Summer 2027 - Software Engineering Intern - Lehigh Valley - PA | Coopersburg, PA | speedyapply | [apply](https://studentopportunities-lutron.icims.com/jobs/5382/summer-2027---software-engineering-intern---lehigh-valley%2c-pa/job) |
-| — | **The New York Times** | Data Analyst Intern | New York, NY | Company portals | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005) |
-| — | **The New York Times** | ML Scientist Intern | New York, NY | Company portals | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005) |
+| today | **Elevated Web Design** | Product Software Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af225d4905985ccaa409f0e?utm_campaign=1079&utm_source=git) |
+| today | **Illumio** | Engineering Intern, SRE | Sunnyvale, California - | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-illumio-2bcba5c3-c6e7-407c-92b2-73027594789e?s=gh-internships-2027) |
+| today | **Marketeq Digital Solutions** | AI Prototype Engineering Intern (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af229861aaffa49f73822dc?utm_campaign=1079&utm_source=git) |
+| today | **Toshiba America Electronic Components, Inc.** | 5053 Firmware Engineer Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adfa4d20a4cc7090f9818ee?utm_campaign=1079&utm_source=git) |
+| today | **X, The Moonshot Factory** | 2027 PhD Residency - Computer Architecture & Emerging Systems (Early Stage Project) | Mountain View, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af22eaa905985ccaa40a4c0?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
