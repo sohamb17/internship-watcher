@@ -498,64 +498,7 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20766,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20766
 },
-"held": [
-{
-"company": "Alliance Laundry Systems",
-"degrees": [],
-"dk": "alliancelaundry|embedded firmware",
-"found": 20766,
-"loc": "Ripon, WI",
-"more": null,
-"night": true,
-"posted": 20733,
-"role": "Embedded Firmware Co-op",
-"sk": "8a309f21-1889-45b4-b1c8-5a8a590cc745",
-"src": "vansh",
-"url": "https://go.vansh.nyc/1nC"
-},
-{
-"company": "onsemi",
-"degrees": [],
-"dk": "onsemi|engineer validation",
-"found": 20766,
-"loc": "Nampa, ID",
-"more": null,
-"night": true,
-"posted": 20722,
-"role": "Validation Engineer Intern",
-"sk": "c42932ec-cec6-419b-ac40-39eccd40b755",
-"src": "vansh",
-"url": "https://go.vansh.nyc/1nW"
-},
-{
-"company": "ByteDance",
-"degrees": [],
-"dk": "bytedance|acceleration ai cloud dpu infra phd research start",
-"found": 20766,
-"loc": "San Jose, CA, United States",
-"more": 1,
-"night": true,
-"posted": 20766,
-"role": "Cloud Acceleration Research Intern (DPU & AI Infra) - 2027 Start (PhD)",
-"sk": "jobright:6ac40b82d9621c5b2839f4b8",
-"src": "jobright",
-"url": "https://jobright.ai/jobs/info/6ac40b82d9621c5b2839f4b8?utm_campaign=1079&utm_source=git"
-},
-{
-"company": "Bessemer Trust",
-"degrees": [],
-"dk": "bessemertrust|engineering infrastructure",
-"found": 20766,
-"loc": "Woodbridge, NJ, United States",
-"more": null,
-"night": true,
-"posted": 20766,
-"role": "Infrastructure Engineering Intern",
-"sk": "jobright:6ae37d00eab1f967309747f9",
-"src": "jobright",
-"url": "https://jobright.ai/jobs/info/6ae37d00eab1f967309747f9?utm_campaign=1079&utm_source=git"
-}
-],
+"held": [],
 "roles": {
 "10a|engineering fellow": 20766,
 "1password|brokering credential developer": 20759,
