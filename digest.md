@@ -1,15 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 14:02 UTC · 4 new listings_
+_Updated 2026-11-09 14:31 UTC · 1 new listing_
 
-## New listings (4) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ByteDance** | Cloud Acceleration Research Intern (DPU & AI Infra) - 2027 Start (PhD) | San Jose, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6ac40b82d9621c5b2839f4b8?utm_campaign=1079&utm_source=git) |
-| today | **Bessemer Trust** | Infrastructure Engineering Intern | Woodbridge, NJ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae37d00eab1f967309747f9?utm_campaign=1079&utm_source=git) |
-| 33d ago | **Alliance Laundry Systems** | Embedded Firmware Co-op | Ripon, WI | vanshb03 | [apply](https://go.vansh.nyc/1nC) |
-| 44d ago | **onsemi** | Validation Engineer Intern | Nampa, ID | vanshb03 | [apply](https://go.vansh.nyc/1nW) |
+| today | **Stantec** | Building Science Co-op/Intern (Summer 2027) | San Francisco, CA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-hdhl-1008756?s=gh-internships-2027) |
 
 ## Watched company portals
 
