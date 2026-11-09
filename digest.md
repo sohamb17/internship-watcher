@@ -1,13 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 17:31 UTC · 2 new listings_
+_Updated 2026-11-09 18:01 UTC · 5 new listings_
 
-## New listings (2) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microchip Technology** | Intern - Device Engineer | CA - San Jose - Fortune Dr | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-microchiphr-external-R4398-26?s=gh-internships-2027) |
-| 837d ago | **Ritual** | Software Engineer Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1oJ) |
+| today | **AstraZeneca** | Network Planning & Data Analytics Intern | – Tarzana – CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263845?s=gh-internships-2027) |
+| today | **Heartland Business Systems** | Cloud Infrastructure Engineering Associate - Summer 2027 Internship Program | Little Chute, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af1e882905985ccaa40697c?utm_campaign=1079&utm_source=git) |
+| today | **KLA** | NPI Engineering Intern | Milpitas, CA | Company portals | [apply](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/NPI-Engineering-Intern_2642012-1) |
+| today | **UiPath** | AI Engineer Intern | Bellevue | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-uipath-f6857594-645c-4833-aa5b-763e9759b555?s=gh-internships-2027) |
+| today | **UiPath** | Software Engineer Intern | Bellevue | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-uipath-4983eab7-099d-4c77-9a5a-8dde72084c04?s=gh-internships-2027) |
 
 ## Watched company portals
 
