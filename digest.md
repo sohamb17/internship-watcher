@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 03:31 UTC · 1 new listing_
+_Updated 2026-11-09 04:01 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Tesla** | Internship, Software Engineer, Inference Infrastructure (Summer 2027) | Palo Alto, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af116a7676e3f91d3271493?utm_campaign=1079&utm_source=git) |
+| 3d ago | **UPS** | 2027 Summer Engineering Intern - Cleveland OH | MIDDLEBURG HEIGHTS, Ohio | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-ups-R26039950?s=gh-internships-2027) |
+| — | **National Interstate Insurance** | Data Scientist Intern | Lakeland | nointernship.com | [apply](https://go.vansh.nyc/1ni?s=y) |
 
 ## Watched company portals
 
