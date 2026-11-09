@@ -1,16 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 22:01 UTC · 5 new listings_
+_Updated 2026-11-09 22:31 UTC · 7 new listings_
 
-## New listings (5) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CAI** | Programmer Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1pg) |
-| today | **Federal Reserve System** | Summer 2027 Graduate Internship – Data Science | Minneapolis, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000034056?s=gh-internships-2027) |
-| today | **National Interstate Insurance** | Telematics Intern / Predictive Analytics Intern - Summer 2027 | Cincinnati, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9868?s=gh-internships-2027) |
-| today | **Vertiv** | Engineering Graduate Intern (Summer 2027) | Delaware, OH, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-vertiv-20285130?s=gh-internships-2027) |
-| today | **Zoetis** | AI Architecture, Enablement & Tools Intern, AI Capabilities | Remote / United States / Kalamazoo, MI | vanshb03 | [apply](https://go.vansh.nyc/1ph) |
+| today | **ASML** | Internship- Co-Op: AI Engineer | San Diego, CA, USA (+2 more) | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628) |
+| today | **Micron Technology** | Intern - Process Development Engineer, Dry Etch | Boise, ID - Main Site | Company portals | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Dry-Etch_JR107326) |
+| today | **Northrop Grumman** | 2027 Software Testing Engineering Intern - Apopka FL | United States-Florida-Apopka | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259820?s=gh-internships-2027) |
+| today | **Veolia Environnement SA** | Project Engineering & Archival Intern -Water Technologies | Pico Rivera, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000160735749?s=gh-internships-2027) |
+| 98d ago | **Lutron** | Summer 2027 - Software Engineering Intern - Lehigh Valley - PA | Coopersburg, PA | speedyapply | [apply](https://studentopportunities-lutron.icims.com/jobs/5382/summer-2027---software-engineering-intern---lehigh-valley%2c-pa/job) |
+| — | **The New York Times** | Data Analyst Intern | New York, NY | Company portals | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005) |
+| — | **The New York Times** | ML Scientist Intern | New York, NY | Company portals | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005) |
 
 ## Watched company portals
 
