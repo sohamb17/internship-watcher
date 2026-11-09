@@ -1,24 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 16:02 UTC · 13 new listings_
+_Updated 2026-11-09 16:31 UTC · 6 new listings_
 
-## New listings (13) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Analog Devices** | Machine Learning for Computational Sensing Research Intern | US, MA, Wilmington | Company portals | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Machine-Learning-for-Computational-Sensing-Research-Intern_R268371) |
-| today | **General Dynamics Mission Systems** | Full-Stack Application Development Intern | Chantilly, VA / Pittsfield, MA / Scottsdale, AZ (+1 more) | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false) |
-| today | **General Dynamics Mission Systems** | Full-Stack Software Engineer Intern | Chantilly, VA / Pittsfield, MA / Scottsdale, AZ (+1 more) | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false) |
-| today | **Haskell** | AI Engineering Design Intern for Facility Design | Jacksonville, FL (+1 more) | SimplifyJobs | [apply](https://haskell.jibeapply.com/jobs/7415?icims=1&lang=en-us) |
-| today | **Highmark Health** | Summer 2027 UCD Reporting and Analytics Undergraduate Intern | PA Working at Home   Pennsylvania | Company portals | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987) |
-| today | **NBCUniversal** | Film Production & Development Internships – Summer 2027 | North Hollywood, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160651979?s=gh-internships-2027) |
-| today | **NBCUniversal** | Global Security & Intelligence Internships – Summer 2027 | Universal City, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160648454?s=gh-internships-2027) |
-| today | **NBCUniversal** | Media Tech: Product & Engineering Internships – Summer 2027 | New York, NY | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160652809?s=gh-internships-2027) |
-| today | **NBCUniversal** | Studio Operations, Data Analytics Internships – Summer 2027 | Universal City, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160648109?s=gh-internships-2027) |
-| today | **Paccar** | Data Analyst Intern | Chillicothe, OH (+1 more) | SimplifyJobs | [apply](https://jobs.paccar.com/job/Chillicothe-Data-Analyst-Intern-OH-45601-8829/1455610233/?ats=successfactors) |
-| today | **RTX** | Software Engineering Intern (E2D-IN-1) | US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020) |
-| today | **Zoetis** | IT/OT Security Intern | Kalamazoo, MI | vanshb03 | [apply](https://go.vansh.nyc/1op) |
-| — | **Enova** | Analytics Internship Summer 2027 (Hybrid) | Chicago, IL | Company portals | [apply](https://job-boards.greenhouse.io/enova/jobs/8366036) |
+| today | **Atrium Hospitality** | AI & Automation Intern | Alpharetta, GA | SimplifyJobs | [apply](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Alpharetta-GA/AI---Automation-Intern_R50811) |
+| today | **Mettler Toledo** | Embedded Software Engineering Intern | Oakland, CA | vanshb03 | [apply](https://go.vansh.nyc/1ou) |
+| today | **NBCUniversal** | Media Tech: Cybersecurity, Governance & Security Engineering Internships – Summer 2027 | New York, NY | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160654878?s=gh-internships-2027) |
+| today | **NBCUniversal** | Media Tech: Data, AI & Machine Learning Internships – Summer 2027 | Universal City, CA (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160649935?s=gh-internships-2027) |
+| today | **NBCUniversal** | Technology Intern, NBC News Group | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1os) |
+| today | **Zoetis** | Information Security Intern | Parsippany, NJ | vanshb03 | [apply](https://go.vansh.nyc/1ox) |
 
 ## Watched company portals
 
