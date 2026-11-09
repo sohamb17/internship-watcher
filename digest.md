@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 20:31 UTC · 1 new listing_
+_Updated 2026-11-09 20:52 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AECOM** | Rail Engineering Intern | Chicago, IL, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AECOM2/744000160716151) |
+| today | **Analog Devices** | Advanced Algorithms Research Intern | US, MA, Boston | Company portals | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Advanced-Algorithms-Research-Intern_R268506) |
+| today | **Persona AI** | Humanoid Robotics Software Internship | Pensacola, FL or Houston, TX | Company portals | [apply](https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb) |
 
 ## Watched company portals
 
