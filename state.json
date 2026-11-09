@@ -540,6 +540,20 @@
 "sk": "jobright:6ac40b82d9621c5b2839f4b8",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6ac40b82d9621c5b2839f4b8?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "Bessemer Trust",
+"degrees": [],
+"dk": "bessemertrust|engineering infrastructure",
+"found": 20766,
+"loc": "Woodbridge, NJ, United States",
+"more": null,
+"night": true,
+"posted": 20766,
+"role": "Infrastructure Engineering Intern",
+"sk": "jobright:6ae37d00eab1f967309747f9",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6ae37d00eab1f967309747f9?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -1326,6 +1340,7 @@
 "berkshirehathawayenergy|engineering generation renewable": 20762,
 "berkshirehathawayenergy|generation performance renewable": 20766,
 "bertelsmann|data science": 20766,
+"bessemertrust|engineering infrastructure": 20766,
 "betasouls|development game mandarin speaking unity": 20762,
 "bildai|ai swe": 20766,
 "biogen|ai data innovation science": 20766,
@@ -9460,6 +9475,9 @@
 "jobright:6aa2003a3272060a8e3f32fe": 20762,
 "jobright:6aa3a9104233a2201a2b2b73": 20763,
 "jobright:6aa3c5d64238ea18d430e19b": 20763,
+"jobright:6aa50eac2ed333b4ea5c53fb": 20766,
+"jobright:6aa5111b82e82a31997bc009": 20766,
+"jobright:6aa5412142411952ff9a7df2": 20766,
 "jobright:6aa83600654b2a9424cfb529": 20763,
 "jobright:6aa95da028e24cb38513a038": 20762,
 "jobright:6aa9b8fe28e24cb38513bad2": 20762,
@@ -9653,6 +9671,7 @@
 "jobright:6ae2baaa829a3bada1606f2b": 20762,
 "jobright:6ae2bac705a39c3e2c71c5d7": 20762,
 "jobright:6ae36eead45dc30fb7d2959e": 20763,
+"jobright:6ae37d00eab1f967309747f9": 20766,
 "jobright:6ae380c6eab1f96730974a43": 20765,
 "jobright:6ae38c7bd7424a2a828e0c53": 20765,
 "jobright:6ae396bafb2cd420ace524e6": 20760,
@@ -10001,7 +10020,8 @@
 "jobright:6af0e41e8022f8ddd31a2a35": 20766,
 "jobright:6af10e8e676e3f91d3271360": 20766,
 "jobright:6af116a7676e3f91d3271493": 20766,
-"jobright:6af1a19b62fb9f5fcd89087e": 20766
+"jobright:6af1a19b62fb9f5fcd89087e": 20766,
+"jobright:6af1b2b98cbcfef4a59d54a6": 20766
 },
 "nointernship": {
 "nointernship:50673": 20760,
