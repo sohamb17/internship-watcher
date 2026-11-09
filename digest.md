@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 03:01 UTC · 0 new listings_
+_Updated 2026-11-09 03:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Tesla** | Internship, Software Engineer, Inference Infrastructure (Summer 2027) | Palo Alto, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af116a7676e3f91d3271493?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
