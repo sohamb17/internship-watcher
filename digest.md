@@ -1,17 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 16:31 UTC · 6 new listings_
+_Updated 2026-11-09 17:01 UTC · 3 new listings_
 
-## New listings (6) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Atrium Hospitality** | AI & Automation Intern | Alpharetta, GA | SimplifyJobs | [apply](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Alpharetta-GA/AI---Automation-Intern_R50811) |
-| today | **Mettler Toledo** | Embedded Software Engineering Intern | Oakland, CA | vanshb03 | [apply](https://go.vansh.nyc/1ou) |
-| today | **NBCUniversal** | Media Tech: Cybersecurity, Governance & Security Engineering Internships – Summer 2027 | New York, NY | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160654878?s=gh-internships-2027) |
-| today | **NBCUniversal** | Media Tech: Data, AI & Machine Learning Internships – Summer 2027 | Universal City, CA (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160649935?s=gh-internships-2027) |
-| today | **NBCUniversal** | Technology Intern, NBC News Group | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1os) |
-| today | **Zoetis** | Information Security Intern | Parsippany, NJ | vanshb03 | [apply](https://go.vansh.nyc/1ox) |
+| today | **NBCUniversal** | Software Engineering Intern | New York, NY (+3 more) | vanshb03 | [apply](https://go.vansh.nyc/1oA) |
+| today | **PTC** | EDU Engineering Solutions Intern (Summer 2027) | Boston, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ptc-ptc-JR112949?s=gh-internships-2027) |
+| today | **Toyota Research Institute** | Robotics Intern, Teleoperation and Spatial Computing | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871) |
 
 ## Watched company portals
 
