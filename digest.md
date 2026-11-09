@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-08 23:31 UTC · 0 new listings_
+_Updated 2026-11-09 00:01 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Shield AI** | Engineer 2 New Grad - Multiple Teams | Washington, DC | SimplifyJobs | [apply](https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply) |
+| 1d ago | **Sandhills Global** | Software Development Intern | Lincoln, NE | Jobright | [apply](https://jobright.ai/jobs/info/66ca0a763673251f8b24f33d?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
