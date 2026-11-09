@@ -1,16 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 18:01 UTC · 5 new listings_
+_Updated 2026-11-09 18:31 UTC · 4 new listings_
 
-## New listings (5) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AstraZeneca** | Network Planning & Data Analytics Intern | – Tarzana – CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263845?s=gh-internships-2027) |
-| today | **Heartland Business Systems** | Cloud Infrastructure Engineering Associate - Summer 2027 Internship Program | Little Chute, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af1e882905985ccaa40697c?utm_campaign=1079&utm_source=git) |
-| today | **KLA** | NPI Engineering Intern | Milpitas, CA | Company portals | [apply](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/NPI-Engineering-Intern_2642012-1) |
-| today | **UiPath** | AI Engineer Intern | Bellevue | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-uipath-f6857594-645c-4833-aa5b-763e9759b555?s=gh-internships-2027) |
-| today | **UiPath** | Software Engineer Intern | Bellevue | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-uipath-4983eab7-099d-4c77-9a5a-8dde72084c04?s=gh-internships-2027) |
+| today | **Citizens Energy Group** | IT Security Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1oR) |
+| today | **Johns Hopkins APL** | Artificial Intelligence Intern, Information Fusion | Laurel, MD | vanshb03 | [apply](https://go.vansh.nyc/1oQ) |
+| today | **Zoetis** | AI Assistant Development Intern | Parsippany, NJ | vanshb03 | [apply](https://go.vansh.nyc/1oP) |
+| — | **Lila Sciences** | Co-op, Software, Platform Engineering | San Francisco, CA USA | Company portals | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4472540009) |
 
 ## Watched company portals
 
