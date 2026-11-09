@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 05:31 UTC · 1 new listing_
+_Updated 2026-11-09 06:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 25d ago | **Indie** | Applications Software Developer Intern | Aliso Viejo, CA | vanshb03 | [apply](https://go.vansh.nyc/1nq) |
+Nothing new this run.
 
 ## Watched company portals
 
