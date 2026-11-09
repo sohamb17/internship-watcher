@@ -1,14 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 17:01 UTC · 3 new listings_
+_Updated 2026-11-09 17:31 UTC · 2 new listings_
 
-## New listings (3) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **NBCUniversal** | Software Engineering Intern | New York, NY (+3 more) | vanshb03 | [apply](https://go.vansh.nyc/1oA) |
-| today | **PTC** | EDU Engineering Solutions Intern (Summer 2027) | Boston, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ptc-ptc-JR112949?s=gh-internships-2027) |
-| today | **Toyota Research Institute** | Robotics Intern, Teleoperation and Spatial Computing | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/4ea8d663-1060-4c55-aede-91fd8f945871) |
+| today | **Microchip Technology** | Intern - Device Engineer | CA - San Jose - Fortune Dr | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-microchiphr-external-R4398-26?s=gh-internships-2027) |
+| 837d ago | **Ritual** | Software Engineer Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1oJ) |
 
 ## Watched company portals
 
