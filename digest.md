@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 14:31 UTC · 1 new listing_
+_Updated 2026-11-09 15:01 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Stantec** | Building Science Co-op/Intern (Summer 2027) | San Francisco, CA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-hdhl-1008756?s=gh-internships-2027) |
+| today | **The Federal Reserve System** | Research Intern - 2027 | Cleveland, OH | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Research-Intern---2027_R-0000033640) |
 
 ## Watched company portals
 
