@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 20:02 UTC · 2 new listings_
+_Updated 2026-11-09 20:31 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **BAE Systems** | Space Systems - Model Based Systems Engineering Intern, Summer 2027 | Broomfield, Colorado | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-132378BR?s=gh-internships-2027) |
-| today | **Skydio** | Systems Engineering Intern - Summer 2027 | San Mateo, California, United States | Company portals | [apply](https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a) |
+| today | **AECOM** | Rail Engineering Intern | Chicago, IL, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AECOM2/744000160716151) |
 
 ## Watched company portals
 
