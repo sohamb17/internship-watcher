@@ -1,13 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 19:31 UTC · 2 new listings_
+_Updated 2026-11-09 20:02 UTC · 2 new listings_
 
 ## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Nasdaq** | Technical Research Intern - 2027 Summer Internship | USA - Richmond - Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nasdaq-global-external-site-R0027292?s=gh-internships-2027) |
-| 11d ago | **SeatGeek** | Security Engineer Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1oZ) |
+| today | **BAE Systems** | Space Systems - Model Based Systems Engineering Intern, Summer 2027 | Broomfield, Colorado | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-132378BR?s=gh-internships-2027) |
+| today | **Skydio** | Systems Engineering Intern - Summer 2027 | San Mateo, California, United States | Company portals | [apply](https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a) |
 
 ## Watched company portals
 
