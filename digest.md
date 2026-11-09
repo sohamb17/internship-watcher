@@ -1,11 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 12:01 UTC · 2 new listings_
+_Updated 2026-11-09 12:31 UTC · 3 new listings_
 
-## New listings (2) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **ByteDance** | Cloud Acceleration Research Intern (DPU & AI Infra) - 2027 Start (PhD) | San Jose, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6ac40b82d9621c5b2839f4b8?utm_campaign=1079&utm_source=git) |
 | 33d ago | **Alliance Laundry Systems** | Embedded Firmware Co-op | Ripon, WI | vanshb03 | [apply](https://go.vansh.nyc/1nC) |
 | 44d ago | **onsemi** | Validation Engineer Intern | Nampa, ID | vanshb03 | [apply](https://go.vansh.nyc/1nW) |
 

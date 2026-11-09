@@ -526,6 +526,20 @@
 "sk": "c42932ec-cec6-419b-ac40-39eccd40b755",
 "src": "vansh",
 "url": "https://go.vansh.nyc/1nW"
+},
+{
+"company": "ByteDance",
+"degrees": [],
+"dk": "bytedance|acceleration ai cloud dpu infra phd research start",
+"found": 20766,
+"loc": "San Jose, CA, United States",
+"more": 1,
+"night": true,
+"posted": 20766,
+"role": "Cloud Acceleration Research Intern (DPU & AI Infra) - 2027 Start (PhD)",
+"sk": "jobright:6ac40b82d9621c5b2839f4b8",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6ac40b82d9621c5b2839f4b8?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -1557,6 +1571,7 @@
 "burnsengineering|engineer software": 20766,
 "burnsengineering|engineering software": 20766,
 "businessolver|analyst business data innovation intelligence science": 20763,
+"bytedance|acceleration ai cloud dpu infra phd research start": 20766,
 "bytedance|agent aml ark engineer evaluation evolution learning machine us": 20766,
 "bytedance|agent applied ark engineer evaluation evolution learning machine": 20766,
 "bytedance|ai application engineer engineering gpu software system technologies": 20766,
@@ -5873,7 +5888,7 @@
 "tiktok|arch code engineer generalized intelligence quality software tiktok validation": 20766,
 "tiktok|arch commerce data e engineer software": 20766,
 "tiktok|arch engineer frontend multimedia project": 20766,
-"tiktok|arch engineer generalized phd research start tiktok": 20765,
+"tiktok|arch engineer generalized phd research start tiktok": 20766,
 "tiktok|architecture artificial client engineer intelligence": 20766,
 "tiktok|architecture commerce data e engineer software": 20766,
 "tiktok|architecture engineer feeds infrastructure recommendation software": 20766,
@@ -9356,6 +9371,7 @@
 "jobright:6a959728c8763a3a87ffacc4": 20762,
 "jobright:6a95c3b94c22023a07935a09": 20762,
 "jobright:6a95d3da3843db015990790a": 20762,
+"jobright:6a9603269fcec54423730d31": 20766,
 "jobright:6a962810c8763a3a87ffec45": 20762,
 "jobright:6a965e6c4c22023a07939065": 20766,
 "jobright:6a9666ead13b4819f39db95a": 20762,
@@ -9396,7 +9412,7 @@
 "jobright:6a995f9a2b714347bbbe9f62": 20764,
 "jobright:6a99ac87040e5c3d07597ffd": 20766,
 "jobright:6a99b4bead752e2ad5501567": 20766,
-"jobright:6a99bd37ad752e2ad55018ea": 20763,
+"jobright:6a99bd37ad752e2ad55018ea": 20766,
 "jobright:6a99cdda040e5c3d07599006": 20764,
 "jobright:6a99cf391388387060590896": 20763,
 "jobright:6a99d46c90a313642c6530af": 20766,
@@ -9450,7 +9466,7 @@
 "jobright:6aa9d06c28e24cb38513c74e": 20762,
 "jobright:6aaafa86c85610f4a4842cbb": 20766,
 "jobright:6aab280f4be87a72913a388d": 20764,
-"jobright:6aac52253d96632d741aa73c": 20763,
+"jobright:6aac52253d96632d741aa73c": 20766,
 "jobright:6aac8191636cddf7396f4523": 20762,
 "jobright:6aad86f42e757fcb5c8b8f1f": 20760,
 "jobright:6aad87113dbb1f8967cee0d6": 20760,
@@ -9514,6 +9530,8 @@
 "jobright:6abec7d4064da25272e02ec5": 20766,
 "jobright:6ac021ee372c01f6cd72ad37": 20763,
 "jobright:6ac29dcf372c01f6cd72fef0": 20759,
+"jobright:6ac3f148d9621c5b2839ebb2": 20766,
+"jobright:6ac40b82d9621c5b2839f4b8": 20766,
 "jobright:6ac420944ac55253f5d710e0": 20759,
 "jobright:6ac5387e0e027c0f3b3ad915": 20763,
 "jobright:6ac560594ac55253f5d76608": 20762,
@@ -9982,7 +10000,8 @@
 "jobright:6af09f307bf8e8b9eaf830f4": 20766,
 "jobright:6af0e41e8022f8ddd31a2a35": 20766,
 "jobright:6af10e8e676e3f91d3271360": 20766,
-"jobright:6af116a7676e3f91d3271493": 20766
+"jobright:6af116a7676e3f91d3271493": 20766,
+"jobright:6af1a19b62fb9f5fcd89087e": 20766
 },
 "nointernship": {
 "nointernship:50673": 20760,
