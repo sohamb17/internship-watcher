@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 04:31 UTC · 1 new listing_
+_Updated 2026-11-09 05:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Samsung** | ePro Business & Data Analyst Intern | 6625 Excellence Way, Plano, TX, USA | Company portals | [apply](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996) |
+Nothing new this run.
 
 ## Watched company portals
 
