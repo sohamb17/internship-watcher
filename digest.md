@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 04:01 UTC · 2 new listings_
+_Updated 2026-11-09 04:31 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 3d ago | **UPS** | 2027 Summer Engineering Intern - Cleveland OH | MIDDLEBURG HEIGHTS, Ohio | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-ups-R26039950?s=gh-internships-2027) |
-| — | **National Interstate Insurance** | Data Scientist Intern | Lakeland | nointernship.com | [apply](https://go.vansh.nyc/1ni?s=y) |
+| today | **Samsung** | ePro Business & Data Analyst Intern | 6625 Excellence Way, Plano, TX, USA | Company portals | [apply](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996) |
 
 ## Watched company portals
 
