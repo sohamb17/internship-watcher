@@ -1,16 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 23:01 UTC · 5 new listings_
+_Updated 2026-11-09 23:31 UTC · 1 new listing_
 
-## New listings (5) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Elevated Web Design** | Product Software Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af225d4905985ccaa409f0e?utm_campaign=1079&utm_source=git) |
-| today | **Illumio** | Engineering Intern, SRE | Sunnyvale, California - | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-illumio-2bcba5c3-c6e7-407c-92b2-73027594789e?s=gh-internships-2027) |
-| today | **Marketeq Digital Solutions** | AI Prototype Engineering Intern (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af229861aaffa49f73822dc?utm_campaign=1079&utm_source=git) |
-| today | **Toshiba America Electronic Components, Inc.** | 5053 Firmware Engineer Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adfa4d20a4cc7090f9818ee?utm_campaign=1079&utm_source=git) |
-| today | **X, The Moonshot Factory** | 2027 PhD Residency - Computer Architecture & Emerging Systems (Early Stage Project) | Mountain View, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af22eaa905985ccaa40a4c0?utm_campaign=1079&utm_source=git) |
+| today | **Epic Games** | AI Programmer Intern | Cary,North Carolina,United States | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-epicgames-6251540004?s=gh-internships-2027) |
 
 ## Watched company portals
 
