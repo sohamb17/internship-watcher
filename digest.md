@@ -1,15 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 21:01 UTC · 4 new listings_
+_Updated 2026-11-09 21:31 UTC · 7 new listings_
 
-## New listings (4) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AES Corporation** | Transmission Planning Engineer - Intern (Summer 2027) | US, Dayton, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aes-aes-us-R1064789?s=gh-internships-2027) |
-| today | **Centene** | Social Media & AI Undergraduate Summer Intern | Remote-CA | zshah101 | [apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859) |
-| today | **Fresenius Medical Care** | V&V Systems Engineer Co-op | Lawrence, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277323?s=gh-internships-2027) |
-| today | **MKS Instruments** | University of Oregon Applications Engineering Graduate Intern | Beaverton, OR | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-mksinst-mkscareersuniversity-R23921?s=gh-internships-2027) |
+| today | **ABB** | Process Engineering Intern - Summer 2027 | New Berlin, Wisconsin, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00049939?s=gh-internships-2027) |
+| today | **Art of Problem Solving** | Software Engineering Intern | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af220161116f6f0a07664eb?utm_campaign=1079&utm_source=git) |
+| today | **AstraZeneca** | Early Oncology Clinical Development Intern, PharmD and PhD | Gaithersburg - MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263864?s=gh-internships-2027) |
+| today | **General Dynamics** | SW Engineering Intern (Summer 2027) | Manassas, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af21fa60cb834dad9323edb?utm_campaign=1079&utm_source=git) |
+| today | **Great American Insurance Company** | Telematics Intern / Predictive Analytics Intern - Summer 2027 | Cincinnati, OH (USA) | Company portals | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868) |
+| today | **Paylocity** | Software Engineering Intern | Pittsford, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2169c8cbcfef4a59d7e86?utm_campaign=1079&utm_source=git) |
+| 10d ago | **Harvey** | Software Engineering Intern (Summer 2027) | New York (+1 more) | Company portals | [apply](https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d) |
 
 ## Watched company portals
 
