@@ -1,12 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 15:01 UTC · 1 new listing_
+_Updated 2026-11-09 15:31 UTC · 5 new listings_
 
-## New listings (1) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **The Federal Reserve System** | Research Intern - 2027 | Cleveland, OH | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Research-Intern---2027_R-0000033640) |
+| today | **CACI** | Cyber Security Intern - Summer 2027 | Sterling, VA, US | Company portals | [apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sterling-VA-US/Cyber-Security-Intern---Summer-2027_334812) |
+| today | **Entegris** | Research Associate Co-Op - ICPS | Aurora, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14482?s=gh-internships-2027) |
+| today | **Federal Reserve System** | Research Intern - 2027 | Cleveland, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000033640?s=gh-internships-2027) |
+| today | **NBCUniversal** | Universal Television Entertainment Production, Development & Programming Internships – Summer 2027 | New York, NY (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-NBCUniversal3-744000160639069?s=gh-internships-2027) |
+| today | **Vertiv** | Software Engineering Test Intern (Summer 2027) | Delaware, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab920e53a2ec87116e28359?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
