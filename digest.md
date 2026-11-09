@@ -1,15 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 18:31 UTC · 4 new listings_
+_Updated 2026-11-09 19:01 UTC · 12 new listings_
 
-## New listings (4) — newest first
+## New listings (12) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Citizens Energy Group** | IT Security Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1oR) |
-| today | **Johns Hopkins APL** | Artificial Intelligence Intern, Information Fusion | Laurel, MD | vanshb03 | [apply](https://go.vansh.nyc/1oQ) |
-| today | **Zoetis** | AI Assistant Development Intern | Parsippany, NJ | vanshb03 | [apply](https://go.vansh.nyc/1oP) |
-| — | **Lila Sciences** | Co-op, Software, Platform Engineering | San Francisco, CA USA | Company portals | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4472540009) |
+| today | **ABB** | Systems Engineering Intern - Summer 2027 | USA, OH, Cleveland | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048328?s=gh-internships-2027) |
+| today | **Allison Transmission** | Product Engineering Intern | Indianapolis, IN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008414?s=gh-internships-2027) |
+| today | **Biodesix, Inc.** | Software Development & AI Internship (Undergrad/Graduate) | Louisville, Colorado, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af1fcf662fb9f5fcd892852?utm_campaign=1079&utm_source=git) |
+| today | **Bluecrest Partners** | Software Engineer Intern | Rochester, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af1ff1b905985ccaa4077f6?utm_campaign=1079&utm_source=git) |
+| today | **IBM** | Co-Op Developer Digital Product - 2027 | University Park, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9e2516dacf777321a90a21?utm_campaign=1079&utm_source=git) |
+| today | **Lila Sciences** | Co-op, Software, Applied AI Platform Engineer | San Francisco, CA USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lilasciences-4472540009?s=gh-internships-2027) |
+| today | **Marketeq Digital Solutions** | AI Product Engineering Intern (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af1f5101aaffa49f737f0bb?utm_campaign=1079&utm_source=git) |
+| today | **Mettler-Toledo International, Inc** | Summer 2027 Intern - Embedded Software Engineering (Oakland, CA) | Oakland, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af1f3ff0cb834dad93215b6?utm_campaign=1079&utm_source=git) |
+| today | **SHI International Corp.** | Solutions Engineer - Intern | Piscataway, NJ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af1f2fe1aaffa49f737efab?utm_campaign=1079&utm_source=git) |
+| today | **Viavi Solutions** | Digital Hardware Engineering Intern | Lenexa, KS (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1oU) |
+| 1d ago | **New York Life** | 2027 New York Life Direct Summer Internship Program - IBM i Developer | Tampa, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af1f7f71116f6f0a0763e05?utm_campaign=1079&utm_source=git) |
+| — | **Lila Sciences** | Co-Op, IT/OT Security Analyst | Cambridge, MA USA (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4477308009) |
 
 ## Watched company portals
 
