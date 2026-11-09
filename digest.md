@@ -1,18 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 21:31 UTC · 7 new listings_
+_Updated 2026-11-09 22:01 UTC · 5 new listings_
 
-## New listings (7) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ABB** | Process Engineering Intern - Summer 2027 | New Berlin, Wisconsin, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00049939?s=gh-internships-2027) |
-| today | **Art of Problem Solving** | Software Engineering Intern | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af220161116f6f0a07664eb?utm_campaign=1079&utm_source=git) |
-| today | **AstraZeneca** | Early Oncology Clinical Development Intern, PharmD and PhD | Gaithersburg - MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263864?s=gh-internships-2027) |
-| today | **General Dynamics** | SW Engineering Intern (Summer 2027) | Manassas, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af21fa60cb834dad9323edb?utm_campaign=1079&utm_source=git) |
-| today | **Great American Insurance Company** | Telematics Intern / Predictive Analytics Intern - Summer 2027 | Cincinnati, OH (USA) | Company portals | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868) |
-| today | **Paylocity** | Software Engineering Intern | Pittsford, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2169c8cbcfef4a59d7e86?utm_campaign=1079&utm_source=git) |
-| 10d ago | **Harvey** | Software Engineering Intern (Summer 2027) | New York (+1 more) | Company portals | [apply](https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d) |
+| today | **CAI** | Programmer Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1pg) |
+| today | **Federal Reserve System** | Summer 2027 Graduate Internship – Data Science | Minneapolis, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000034056?s=gh-internships-2027) |
+| today | **National Interstate Insurance** | Telematics Intern / Predictive Analytics Intern - Summer 2027 | Cincinnati, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9868?s=gh-internships-2027) |
+| today | **Vertiv** | Engineering Graduate Intern (Summer 2027) | Delaware, OH, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-vertiv-20285130?s=gh-internships-2027) |
+| today | **Zoetis** | AI Architecture, Enablement & Tools Intern, AI Capabilities | Remote / United States / Kalamazoo, MI | vanshb03 | [apply](https://go.vansh.nyc/1ph) |
 
 ## Watched company portals
 
