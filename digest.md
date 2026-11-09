@@ -1,12 +1,11 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 11:01 UTC · 3 new listings_
+_Updated 2026-11-09 11:31 UTC · 2 new listings_
 
-## New listings (3) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Cloud Solution Architecture INTERN | United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200062098?s=gh-internships-2027) |
 | 33d ago | **Alliance Laundry Systems** | Embedded Firmware Co-op | Ripon, WI | vanshb03 | [apply](https://go.vansh.nyc/1nC) |
 | 44d ago | **onsemi** | Validation Engineer Intern | Nampa, ID | vanshb03 | [apply](https://go.vansh.nyc/1nW) |
 
