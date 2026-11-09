@@ -1,13 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 20:52 UTC · 2 new listings_
+_Updated 2026-11-09 21:01 UTC · 4 new listings_
 
-## New listings (2) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Analog Devices** | Advanced Algorithms Research Intern | US, MA, Boston | Company portals | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Advanced-Algorithms-Research-Intern_R268506) |
-| today | **Persona AI** | Humanoid Robotics Software Internship | Pensacola, FL or Houston, TX | Company portals | [apply](https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb) |
+| today | **AES Corporation** | Transmission Planning Engineer - Intern (Summer 2027) | US, Dayton, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aes-aes-us-R1064789?s=gh-internships-2027) |
+| today | **Centene** | Social Media & AI Undergraduate Summer Intern | Remote-CA | zshah101 | [apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Social-Media---AI-Undergraduate-Summer-Intern_1667859) |
+| today | **Fresenius Medical Care** | V&V Systems Engineer Co-op | Lawrence, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277323?s=gh-internships-2027) |
+| today | **MKS Instruments** | University of Oregon Applications Engineering Graduate Intern | Beaverton, OR | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-mksinst-mkscareersuniversity-R23921?s=gh-internships-2027) |
 
 ## Watched company portals
 
