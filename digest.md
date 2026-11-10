@@ -1,15 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 15:31 UTC · 4 new listings_
+_Updated 2026-11-10 16:01 UTC · 5 new listings_
 
-## New listings (4) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Aerospace** | 2027 Propulsion Science Undergraduate Intern | El Segundo, CA | Company portals | [apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Propulsion-Science-Undergraduate-Intern_R017148) |
-| today | **Booz Allen** | University - Summer 2027 Quantum Computing Research Intern | Washington, DC | Company portals | [apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046) |
-| today | **Veolia Environnement SA** | Manufacturing Software Engineer Intern | Boulder, CO | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000160896184?s=gh-internships-2027) |
-| today | **Walmart** | Summer 2027 Intern: Automation Engineer | (USA) Change Building AR Bentonville Home Office | Company portals | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/Summer-2027-Intern--Automation-Engineer_R-2630033) |
+| today | **AllianceBernstein** | Infrastructure Engineering Summer Intern | Nashville, TN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa8a91ef5332f8b86243dfb?utm_campaign=1079&utm_source=git) |
+| today | **Clarios** | IT Digital/AI Intern (Summer 2027) | WI | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD49910?s=gh-internships-2027) |
+| today | **General Dynamics Information Technology** | GDIT Summer Internship Program – Summer 2027 Growth Team Technical Writer Internship | USA VA Herndon | Company portals | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Growth-Team-Technical-Writer-Internship_RQ231856) |
+| today | **Omnicom Group** | Analytics Intern | Washington, DC | SimplifyJobs | [apply](https://interpublic.wd5.myworkdayjobs.com/omc/job/Washington-District-of-Columbia-United-States-of-America/Intern--Analytics_R16262) |
+| today | **RTX** | Component Electrical Test Engineer Intern (Summer 2027)(Onsite) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Component-Electrical-Test-Engineer-Intern--Summer-2027--Onsite-_01885779) |
 
 ## Watched company portals
 
