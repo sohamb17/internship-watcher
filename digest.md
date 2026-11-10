@@ -1,14 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 04:31 UTC · 3 new listings_
+_Updated 2026-11-10 05:01 UTC · 0 new listings_
 
-## New listings (3) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Johns Hopkins APL** | AI & Data Science Intern, Analytic Capabilities | Laurel, MD | vanshb03 | [apply](https://go.vansh.nyc/1pW) |
-| today | **Kiewit** | Machine Learning Intern, Kiewit Data Services | Omaha, NE | vanshb03 | [apply](https://go.vansh.nyc/1pX) |
-| today | **Lockheed Martin** | Software Development Intern | Bethesda, MD / Rockville, MD | vanshb03 | [apply](https://go.vansh.nyc/1pZ) |
+Nothing new this run.
 
 ## Watched company portals
 
