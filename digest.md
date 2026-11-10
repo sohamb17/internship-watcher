@@ -1,16 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 08:01 UTC · 6 new listings_
+_Updated 2026-11-10 08:31 UTC · 8 new listings_
 
-## New listings (6) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **GlobalFoundries** | Controls Engineering Intern (Summer 2027) | USA - Vermont - Essex Junction | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647) |
 | today | **GlobalFoundries** | Silicon Photonics Process Integration Engineering Intern (Summer 2027) | USA - New York - Malta | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605135) |
 | today | **Intel** | HR IT Software Engineer Intern | Costa Rica, San Jose | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637) |
+| today | **Trilogy Health Services** | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | SimplifyJobs | [apply](https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us) |
 | 1d ago | **Clonin** | Software Engineer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2a1bd6d2bd34f89adbb60?utm_campaign=1079&utm_source=git) |
 | 42d ago | **LG AI Research** | AI Scientist/Engineer Intern | Ann Arbor, MI | vanshb03 | [apply](https://go.vansh.nyc/1q2) |
+| 49d ago | **The Marzetti Company** | IT Analytics Intern | Columbus, OH | SimplifyJobs | [apply](https://careers.marzetticompany.com/jobs/8067?icims=1&lang=en-us) |
 | 60d ago | **Johns Hopkins Applied Physics Laboratory** | AI & Data Science Intern - Analytic Capabilities | Laurel, MD | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/60008?icims=1) |
 
 ## Watched company portals
