@@ -1,15 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 22:31 UTC · 4 new listings_
+_Updated 2026-11-10 23:01 UTC · 5 new listings_
 
-## New listings (4) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ByteDance** | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1s7) |
-| today | **GE Vernova** | GE Vernova Technical Field Advisor Intern - 2027 | Remote | Company portals | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Remote/GE-Vernova-Technical-Field-Advisor-Intern---2027_R5058143-3) |
-| today | **Northrop Grumman** | 2027 Electromechanical Engineer Intern - Rolling Meadows IL | United States-Illinois-Rolling... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260085?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Intern Engineer - Product Support | United States-Oklahoma-Oklahoma... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260078?s=gh-internships-2027) |
+| today | **Cisco** | Software Engineer Embedded Systems I (Intern) - United States | San Jose California US | Company portals | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1) |
+| today | **Elevated Web Design** | GTM Software Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af387644ac248020e8d218a?utm_campaign=1079&utm_source=git) |
+| today | **JLL** | Architecture / Engineering Summer 2027 Internship | New York, NY | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ544579?s=gh-internships-2027) |
+| today | **JLL** | Project & Development Services Summer 2027 Internship - Nashville, TN | Nashville, TN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ544847?s=gh-internships-2027) |
+| — | **ByteDance** | Site Reliability Engineer - Intern (Data Platform, Computer Platform) - 2027 Start | San Jose, California | zapplyjobs | [apply](https://zapply.jobs/l/d/bytedance-7678104426079799557?s=gh-internships-2027) |
 
 ## Watched company portals
 
