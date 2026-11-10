@@ -1,36 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 14:01 UTC · 25 new listings_
+_Updated 2026-11-10 14:31 UTC · 3 new listings_
 
-## New listings (25) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **NVIDIA** | AI Operations Intern, AI Clouds - Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029119?s=gh-internships-2027) |
-| today | **Boston Scientific** | Software & Systems Testing Engineering Intern Job Details / Boston Scientific | Arden Hills, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2dce6f6053e296fc7829a?utm_campaign=1079&utm_source=git) |
-| today | **Celonis** | Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern | Raleigh, US, North Carolina | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-celonis-8198760003?s=gh-internships-2027) |
-| today | **Concordia Plan Services** | Information Technology Intern | St. Louis, MO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aba9c50be5f1e9325116615?utm_campaign=1079&utm_source=git) |
-| today | **Federal Reserve System** | 2027 Summer Internship Program - Supervision & Regulation (Professional Development Group) | Atlanta, GA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000033864?s=gh-internships-2027) |
-| today | **GlobalFoundries** | Controls Engineering Intern (Summer 2027) | USA - Vermont - Essex Junction | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647) |
-| today | **GlobalFoundries** | Silicon Photonics Process Integration Engineering Intern (Summer 2027) | USA - New York - Malta | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605135) |
-| today | **Intel** | HR IT Software Engineer Intern | Costa Rica, San Jose | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637) |
-| today | **JM Family** | Franchise Analyst Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Franchise-Analyst-Intern_JR105216) |
-| today | **Nintendo** | Intern - IT Software Engineer | Redmond, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad66ca354bbabbab06f80a0?utm_campaign=1079&utm_source=git) |
-| today | **Nintendo** | Intern - Localization Systems Analyst | Redmond, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad66c9a52aa6152bb6952b6?utm_campaign=1079&utm_source=git) |
-| today | **RTX** | 2027 Summer/Fall Co-op, AGS Software Engineering (Onsite) | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abaadc3ad8589219ef7ea1f?utm_campaign=1079&utm_source=git) |
-| today | **Teledyne Brown Engineering** | NHRC Software Engineering Internship (Summer 2027) with Security Clearance | Huntsville, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2fe7b80020ca3a8971d26?utm_campaign=1079&utm_source=git) |
-| today | **The Federal Reserve System** | 2027 Summer Internship Program - Supervision & Regulation (Professional Development Group) | Atlanta, GA | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Professional-Development-Group-_R-0000033864) |
-| today | **Trilogy Health Services** | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | SimplifyJobs | [apply](https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us) |
-| 1d ago | **Clonin** | Software Engineer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2a1bd6d2bd34f89adbb60?utm_campaign=1079&utm_source=git) |
-| 1d ago | **youbloom** | Software Quality Assurance Analyst Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2cc1656fd115cb6941794?utm_campaign=1079&utm_source=git) |
-| 8d ago | **Selective Insurance** | IT Information Management Intern | Charlotte, NC (+2 more) | SimplifyJobs | [apply](https://jobs.selective.com/jobs/5689?icims=1&lang=en-us) |
-| 42d ago | **LG AI Research** | AI Scientist/Engineer Intern | Ann Arbor, MI | vanshb03 | [apply](https://go.vansh.nyc/1q2) |
-| 49d ago | **The Marzetti Company** | IT Analytics Intern | Columbus, OH | SimplifyJobs | [apply](https://careers.marzetticompany.com/jobs/8067?icims=1&lang=en-us) |
-| 49d ago | **Windstar Cruises** | Revenue & Data Analytics Intern | Doral, FL | SimplifyJobs | [apply](https://www.xanterrajobs.com/jobs/39609?icims=1&lang=en-us) |
-| 60d ago | **Johns Hopkins Applied Physics Laboratory** | AI & Data Science Intern - Analytic Capabilities | Laurel, MD | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/60008?icims=1) |
-| 63d ago | **Selective Insurance** | Business Intelligence & Insights Intern | Branchville, NJ | SimplifyJobs | [apply](https://jobs.selective.com/jobs/5707?icims=1&lang=en-us) |
-| 63d ago | **Selective Insurance** | IT Claims Application Delivery Intern | Charlotte, NC | SimplifyJobs | [apply](https://jobs.selective.com/jobs/5750?icims=1&lang=en-us) |
-| 63d ago | **Selective Insurance** | IT Commercial Lines Summer Intern | Charlotte, NC / Hartford, CT | SimplifyJobs | [apply](https://jobs.selective.com/jobs/5701?icims=1&lang=en-us) |
+| today | **Salesforce** | Summer 2027 Intern - AI Foundry Incubation | California   Palo Alto (+1 more) | Company portals | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655) |
+| today | **Aerospace** | 2027 Electric Propulsion & Plasma Science Graduate Intern | El Segundo, CA (+1 more) | Company portals | [apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Electric-Propulsion---Plasma-Science-Graduate-Intern_R017151) |
+| — | **Compeer Financial** | Intern Data Analytics | MN-Lakeville; MN-Mankato; MN-Rochester; WI-Eau Claire; IL-Bl | Company portals | [apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5409874008) |
 
 ## Watched company portals
 
