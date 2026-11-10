@@ -1,14 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 20:31 UTC · 3 new listings_
+_Updated 2026-11-10 20:54 UTC · 4 new listings_
 
-## New listings (3) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Arista Networks** | Data Analytics Intern | Austin, TX, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AristaNetworks/744000160961018) |
-| today | **General Dynamics Information Technology** | Summer 2027 Technical Intern | USA VA Falls Church | Company portals | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200) |
-| today | **Samsung** | 5G Network Intelligence and Automation Intern | 6555 Excellence Way, Plano, TX, USA | Company portals | [apply](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959) |
+| today | **Air Liquide** | 2027 Summer Intern - Non Engineering | Houston, TX (HO) - NAM Corporate | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10099605?s=gh-internships-2027) |
+| today | **First Citizens Wealth** | 2027 IT Summer Intern - Software Developer (Raleigh, NC) | Raleigh, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af360c37c81de7a524bedef?utm_campaign=1079&utm_source=git) |
+| today | **Rambus** | CAD Engineering Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af360624ac248020e8d062a?utm_campaign=1079&utm_source=git) |
+| today | **Rambus** | Forward Deployed Engineer Intern - AI & Enterprise Systems | San Jose, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af35edbf6053e296fc7bd1f?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
