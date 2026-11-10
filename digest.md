@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 06:01 UTC · 1 new listing_
+_Updated 2026-11-10 06:31 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Intel** | HR IT Software Engineer Intern | Costa Rica, San Jose | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637) |
+| 42d ago | **LG AI Research** | AI Scientist/Engineer Intern | Ann Arbor, MI | vanshb03 | [apply](https://go.vansh.nyc/1q2) |
 
 ## Watched company portals
 

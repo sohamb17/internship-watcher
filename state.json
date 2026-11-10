@@ -512,6 +512,20 @@
 "sk": "workday:https://intel.wd1.myworkdayjobs.com/external:JR0288637",
 "src": "ats",
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637"
+},
+{
+"company": "LG AI Research",
+"degrees": [],
+"dk": "lgairesearch|ai engineer scientist",
+"found": 20767,
+"loc": "Ann Arbor, MI",
+"more": null,
+"night": true,
+"posted": 20725,
+"role": "AI Scientist/Engineer Intern",
+"sk": "2fe9df84-c1b1-41ec-9c26-8304f92f9624",
+"src": "vansh",
+"url": "https://go.vansh.nyc/1q2"
 }
 ],
 "roles": {
@@ -3705,6 +3719,7 @@
 "leonardo|engineer software test": 20759,
 "lexisnexisrisksolutions|analytics customer insights": 20767,
 "lexisnexisrisksolutions|analytics data fraud placement science": 20759,
+"lgairesearch|ai engineer scientist": 20767,
 "libertymutual|analyst development": 20767,
 "lifefitness|analytics data operations revenue": 20767,
 "lifefitness|analytics marketing": 20767,
@@ -14843,6 +14858,7 @@
 "2fc17ba3-562c-4170-a89a-cbeb28cfda48": 20767,
 "2fc8d318-737f-4ff8-96aa-a7d54581a443": 20767,
 "2fe9c70d-d975-4f96-a3a0-6c1c81bc3e37": 20759,
+"2fe9df84-c1b1-41ec-9c26-8304f92f9624": 20767,
 "3037a91d-9e10-43df-8917-18eefaf9fbfc": 20767,
 "304ea544-aa1c-4407-8ca7-4d167c1d2257": 20767,
 "30a1249d-234c-444b-8a82-f4a78318b945": 20767,
@@ -16048,6 +16064,7 @@
 "d390a4ea-7094-4604-8880-b12c01d98232": 20767,
 "d3912072-9779-4617-847d-906fc4744550": 20767,
 "d39bc98d-daf8-4560-a54c-397e6558750f": 20760,
+"d41d8a52-3a90-4f12-8ca6-20bd3650bbd4": 20767,
 "d4268fbb-2c89-4c07-84b2-e348328a2a57": 20767,
 "d463fdf0-c66d-484c-9d06-25326a27bb3c": 20767,
 "d4d8496f-7104-4259-b775-6a77600f6f34": 20767,
