@@ -1,15 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 03:31 UTC · 4 new listings_
+_Updated 2026-11-10 04:01 UTC · 0 new listings_
 
-## New listings (4) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **onsemi** | AI & Data Analytics Intern<br>Master's | Scottsdale, AZ | SimplifyJobs | [apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) |
-| today | **REGENT** | Mission Software Engineering Intern<br>Master's/PhD | North Kingstown, RI | SimplifyJobs | [apply](https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true) |
-| 1d ago | **FIRST RF** | Intern – Embedded Engineer | Boulder, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac753144ac55253f5d7d993?utm_campaign=1079&utm_source=git) |
-| — | **Western Digital** | Channel Integration Engineer Co-op | Rochester | nointernship.com | [apply](https://jobs.smartrecruiters.com/WesternDigital/744000149106240) |
+Nothing new this run.
 
 ## Watched company portals
 
