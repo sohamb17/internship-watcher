@@ -1,14 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 21:31 UTC · 3 new listings_
+_Updated 2026-11-10 22:01 UTC · 6 new listings_
 
-## New listings (3) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AMD** | Summer 2027 PhD AI Machine Learning Engineer Intern | San Jose, CA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-91663?s=gh-internships-2027) |
-| today | **General Dynamics Information Technology** | GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship | USA LA Bossier City | Company portals | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) |
-| today | **Northrop Grumman** | 2027 Systems Engineer Intern - Dulles VA or McLean VA | United States Virginia Dulles | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259857?s=gh-internships-2027) |
+| today | **Echo Global Logistics** | Software Engineering Intern- Chicago | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af368b210c7aed77861a125?utm_campaign=1079&utm_source=git) |
+| today | **Optimum** | Intern - Developer, Financial & People Systems | Bethpage, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af369334ac248020e8d0d07?utm_campaign=1079&utm_source=git) |
+| today | **Optimum** | Intern - Software Development | Bethpage, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3692e10c7aed77861a2e1?utm_campaign=1079&utm_source=git) |
+| today | **Siemens** | Building X Software Developer Internship | Buffalo Grove, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af36956769e9374033c612d?utm_campaign=1079&utm_source=git) |
+| today | **Skydio** | Middleware Software Engineer Intern - Summer 2027 | San Mateo, California, United States | Company portals | [apply](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03) |
+| — | **Anduril** | 2027 Optical Payload Engineer Intern | Costa Mesa, California, United States | Company portals | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007) |
 
 ## Watched company portals
 
