@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 13:01 UTC · 21 new listings_
+_Updated 2026-11-10 13:31 UTC · 22 new listings_
 
-## New listings (21) — newest first
+## New listings (22) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@ _Updated 2026-11-10 13:01 UTC · 21 new listings_
 | today | **Nintendo** | Intern - IT Software Engineer | Redmond, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad66ca354bbabbab06f80a0?utm_campaign=1079&utm_source=git) |
 | today | **Nintendo** | Intern - Localization Systems Analyst | Redmond, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad66c9a52aa6152bb6952b6?utm_campaign=1079&utm_source=git) |
 | today | **RTX** | 2027 Summer/Fall Co-op, AGS Software Engineering (Onsite) | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abaadc3ad8589219ef7ea1f?utm_campaign=1079&utm_source=git) |
+| today | **The Federal Reserve System** | 2027 Summer Internship Program - Supervision & Regulation (Professional Development Group) | Atlanta, GA | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Professional-Development-Group-_R-0000033864) |
 | today | **Trilogy Health Services** | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | SimplifyJobs | [apply](https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us) |
 | 1d ago | **Clonin** | Software Engineer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2a1bd6d2bd34f89adbb60?utm_campaign=1079&utm_source=git) |
 | 1d ago | **youbloom** | Software Quality Assurance Analyst Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2cc1656fd115cb6941794?utm_campaign=1079&utm_source=git) |

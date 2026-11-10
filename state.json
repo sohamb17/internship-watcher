@@ -804,6 +804,20 @@
 "sk": "workday:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external:JR105216",
 "src": "ats",
 "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Franchise-Analyst-Intern_JR105216"
+},
+{
+"company": "The Federal Reserve System",
+"degrees": [],
+"dk": "thefederalreservesystem|development group professional regulation supervision",
+"found": 20767,
+"loc": "Atlanta, GA",
+"more": null,
+"night": true,
+"posted": 20767,
+"role": "2027 Summer Internship Program - Supervision & Regulation (Professional Development Group)",
+"sk": "workday:https://rb.wd5.myworkdayjobs.com/FRS:R-0000033864",
+"src": "ats",
+"url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Professional-Development-Group-_R-0000033864"
 }
 ],
 "roles": {
@@ -3690,6 +3704,7 @@
 "jmfamilyenterprises|ai center delivery excellence team": 20767,
 "jmfamilyenterprises|ai decision science": 20767,
 "jmfamilyenterprises|analyst financial": 20767,
+"jmfamilyenterprises|analyst franchise": 20767,
 "jmfamilyenterprises|analyst investment": 20761,
 "jmfamilyenterprises|analyst software": 20767,
 "jmfamilyenterprises|analytics": 20767,
@@ -6207,6 +6222,7 @@
 "thefederalreservesystem|cybersecurity information security": 20767,
 "thefederalreservesystem|data rein": 20767,
 "thefederalreservesystem|data science": 20767,
+"thefederalreservesystem|development group professional regulation supervision": 20767,
 "thefederalreservesystem|economic research": 20767,
 "thefederalreservesystem|federal reserve technical": 20767,
 "thefederalreservesystem|focus research": 20767,
@@ -9639,6 +9655,7 @@
 "workday:https://rb.wd5.myworkdayjobs.com/FRS:R-0000033639": 20767,
 "workday:https://rb.wd5.myworkdayjobs.com/FRS:R-0000033640": 20767,
 "workday:https://rb.wd5.myworkdayjobs.com/FRS:R-0000033861": 20767,
+"workday:https://rb.wd5.myworkdayjobs.com/FRS:R-0000033864": 20767,
 "workday:https://rb.wd5.myworkdayjobs.com/FRS:R-0000033888": 20761,
 "workday:https://rb.wd5.myworkdayjobs.com/FRS:R-0000033910": 20767,
 "workday:https://rb.wd5.myworkdayjobs.com/FRS:R-0000033975": 20767,
@@ -17337,6 +17354,7 @@
 "https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105189": 20767,
 "https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105199": 20767,
 "https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105200": 20767,
+"https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105216": 20767,
 "https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0094002": 20766,
 "https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098968": 20767,
 "https://zapply.jobs/l/d/workday-kla-search-2641512": 20766,
