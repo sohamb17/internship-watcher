@@ -1,8 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 21:01 UTC · 0 new listings_
+_Updated 2026-11-10 21:31 UTC · 3 new listings_
 
-Nothing new this run.
+## New listings (3) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **AMD** | Summer 2027 PhD AI Machine Learning Engineer Intern | San Jose, CA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-91663?s=gh-internships-2027) |
+| today | **General Dynamics Information Technology** | GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship | USA LA Bossier City | Company portals | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) |
+| today | **Northrop Grumman** | 2027 Systems Engineer Intern - Dulles VA or McLean VA | United States Virginia Dulles | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259857?s=gh-internships-2027) |
 
 ## Watched company portals
 
