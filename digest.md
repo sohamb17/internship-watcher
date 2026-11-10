@@ -1,17 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 03:01 UTC · 6 new listings_
+_Updated 2026-11-10 03:31 UTC · 4 new listings_
 
-## New listings (6) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Aerospace** | 2027 Power and Analog Circuit Engineering Grad Intern | El Segundo, CA | Company portals | [apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Intern_R016430) |
-| today | **General Dynamics Mission Systems** | Ontology and Semantic Engineering Intern | Chantilly, VA / Pittsfield, MA / Scottsdale, AZ | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/76088/job?mobile=true&needsRedirect=false) |
-| today | **General Dynamics Mission Systems** | Ontology Data Analysis and Validation Intern | Chantilly, VA / Pittsfield, MA / Scottsdale, AZ | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/76095/job?mobile=true&needsRedirect=false) |
-| today | **Pika** | Applied AI Engineer Intern - Creative Experiences | Palo Alto, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true) |
-| today | **RTX** | Systems Engineering Intern (Summer 2027), SAOC, Cedar Rapids, IA (Onsite) | US-IA-CEDAR RAPIDS-143 ~ 855 35Th St NE ~ BLDG 143 | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221) |
-| 81d ago | **GE Vernova** | Energy Optimization Software Engineer Intern - Summer 2027<br>Master's/PhD | Bellevue, WA (+1 more) | SimplifyJobs | [apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1) |
+| today | **onsemi** | AI & Data Analytics Intern<br>Master's | Scottsdale, AZ | SimplifyJobs | [apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) |
+| today | **REGENT** | Mission Software Engineering Intern<br>Master's/PhD | North Kingstown, RI | SimplifyJobs | [apply](https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true) |
+| 1d ago | **FIRST RF** | Intern – Embedded Engineer | Boulder, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac753144ac55253f5d7d993?utm_campaign=1079&utm_source=git) |
+| — | **Western Digital** | Channel Integration Engineer Co-op | Rochester | nointernship.com | [apply](https://jobs.smartrecruiters.com/WesternDigital/744000149106240) |
 
 ## Watched company portals
 
