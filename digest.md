@@ -1,19 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 19:31 UTC · 8 new listings_
+_Updated 2026-11-10 20:01 UTC · 9 new listings_
 
-## New listings (8) — newest first
+## New listings (9) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AECOM** | Design Engineering Intern - Networking Event with AECOM – Raleigh, NC | Greenville, SC, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AECOM2/744000160950270) |
-| today | **AGCO Corporation** | Embedded Software Engineering Intern - Summer 2027 Job Details / AGCO | Hesston, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af34fb880020ca3a897462a?utm_campaign=1079&utm_source=git) |
-| today | **Analog Devices** | Mechatronics Engineering Intern | US, OR, Beaverton | Company portals | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831) |
-| today | **Hewlett Packard (HP)** | Performance Engineering Co-op | Fort Collins, CO | vanshb03 | [apply](https://go.vansh.nyc/1rR) |
-| today | **Motorola Solutions** | Software System Technologist Intern (Summer 2027 Internship) | Allen, TX (TX139) | Company portals | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511) |
-| today | **Shape Corp.** | Computer Science Engineering Intern- Summer 2027 | Grand Haven, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af353a710c7aed778619623?utm_campaign=1079&utm_source=git) |
-| today | **SRC** | Test Engineering (Intern - Summer 2027) | Syracuse, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3256080020ca3a8972834?utm_campaign=1079&utm_source=git) |
-| today | **SRC, Inc** | Machine Learning Engineer Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1rU) |
+| today | **Addepar** | AI Engineering Intern | New York, NY (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1rX) |
+| today | **Addepar** | Data Engineering Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1rY) |
+| today | **REGENT** | Embedded Software Engineering Intern (Summer) | North Kingstown, Rhode Island, USA | zshah101 | [apply](https://jobs.ashbyhq.com/REGENT/9f25824f-486e-4d3a-b444-116b474619d7) |
+| 1d ago | **Hypertherm Associates** | Graduate Intern - Software Security | Kent, WA | speedyapply | [apply](https://hypertherm.wd503.myworkdayjobs.com/en-US/hypertherm-careers/job/Kent-WA/Graduate-Intern---Software-Security_R4136) |
+| 1d ago | **Raytheon** | Software Engineering Intern - E2D-IN-1 | Sterling, VA | speedyapply | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020) |
+| 17d ago | **Amperesand** | AI/ML Engineering Intern | Sunnyvale, California, United States | zshah101 | [apply](https://job-boards.greenhouse.io/amperesand/jobs/4465899009) |
+| 99d ago | **Lutron** | Summer 2027 - Embedded Software Engineering Intern - Cincinnati - OH | Cincinnati, OH | speedyapply | [apply](https://studentopportunities-lutron.icims.com/jobs/5366/summer-2027---embedded-software-engineering-intern---cincinnati%2c-oh/job) |
+| — | **Hunt Oil Company** | Application Developer Intern - Summer 2027 | Dallas, TX, United States (+1 more) | zshah101 | [apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104) |
+| — | **Judi Health** | AI Solutions Intern | Charlotte, North Carolina, United States; Denver, Colorado,  | Company portals | [apply](https://job-boards.greenhouse.io/judihealth/jobs/5477146008) |
 
 ## Watched company portals
 
