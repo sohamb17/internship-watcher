@@ -1,30 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 00:31 UTC · 19 new listings_
+_Updated 2026-11-10 01:01 UTC · 4 new listings_
 
-## New listings (19) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Meta** | Research Scientist Intern - Computational Photography & Computer Vision | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1670489511324528) |
-| today | **Cirrus Logic** | Applied AI Engineering Intern | Austin, TX | SimplifyJobs | [apply](https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8/apply) |
-| today | **DreamWorks Animation** | Advertising & Partnerships: Data Science Intern | NYC | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930) |
-| today | **DreamWorks Animation** | Digital Transformation AR/VR Intern | Universal City, LA | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160647460) |
-| today | **DreamWorks Animation** | Media Tech: Data – AI & Machine Learning Intern | NYC (+1 more) | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767) |
-| today | **DreamWorks Animation** | Media Tech: Product & Engineering Intern | NYC | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160652809) |
-| today | **DreamWorks Animation** | Software Engineer Intern | NYC (+1 more) | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459) |
-| today | **DreamWorks Animation** | Studio Operations – Data Analytics Intern | Universal City, LA | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160648109) |
-| today | **GE Vernova** | GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027 | Bellevue | Company portals | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2) |
-| today | **Intuitive Surgical** | Robotics and Controls Engineering Intern | Sunnyvale, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Intuitive/744000160747319) |
-| today | **Kasa Living** | Hospitality and Events Intelligence Intern | Athens, GA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/kasa/jobs/8197274003) |
-| today | **Paccar** | Greenhouse Gas Data Analyst Intern | Kirkland, WA | SimplifyJobs | [apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/?ats=successfactors) |
-| today | **Scout Motors** | Digital Products Intern | Charlotte, NC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007) |
-| today | **The New York Times** | Machine Learning Scientist Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005) |
-| 1d ago | **CSAA Insurance Group** | Advanced Analysis Intern | Phoenix, AZ | SimplifyJobs | [apply](https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Advanced-Analysis-Intern_R8005-1) |
-| 1d ago | **Ecmtek** | Developer Intern, Python Development | Nashville, TN | vanshb03 | [apply](https://go.vansh.nyc/1pE) |
-| 1d ago | **Highmark Health** | Reporting and Analytics Undergraduate Intern | New Mexico / Washington / Kansas / Pennsylvania / North Dako | SimplifyJobs | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987) |
-| 1d ago | **Philadelphia Gas Works** | Data and Analytics Intern | Philadelphia, PA | SimplifyJobs | [apply](https://careers-pgworks.icims.com/jobs/2160/job?in_iframe=1&mobile=true&needsRedirect=false) |
-| 1d ago | **Vizient** | Data Management Intern | Irving, TX | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Data-Management_36162R) |
+| today | **Microsoft** | Research Intern - Next-Generation AI Agents | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200066468?s=gh-internships-2027) |
+| today | **CTGT** | AI Evaluation Research Intern | San Francisco | Company portals | [apply](https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e) |
+| today | **Keysight Technologies** | Embedded Software Engineer Intern | Cambridge, MA | vanshb03 | [apply](https://go.vansh.nyc/1pK) |
+| 1d ago | **RTX** | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | vanshb03 | [apply](https://go.vansh.nyc/1pH) |
 
 ## Watched company portals
 
