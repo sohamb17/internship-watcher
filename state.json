@@ -498,7 +498,22 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20767,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20767
 },
-"held": [],
+"held": [
+{
+"company": "Intel",
+"degrees": [],
+"dk": "intel|engineer hr it software",
+"found": 20767,
+"loc": "Costa Rica, San Jose",
+"more": null,
+"night": true,
+"posted": 20767,
+"role": "HR IT Software Engineer Intern",
+"sk": "workday:https://intel.wd1.myworkdayjobs.com/external:JR0288637",
+"src": "ats",
+"url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637"
+}
+],
 "roles": {
 "10a|engineering fellow": 20767,
 "1password|brokering credential developer": 20759,
@@ -2613,6 +2628,7 @@
 "generaldynamics|application development full stack": 20767,
 "generaldynamics|cwl engineering sw": 20760,
 "generaldynamics|engineering full software stack": 20767,
+"generaldynamics|engineering ontology semantic": 20767,
 "generaldynamics|engineering sw": 20767,
 "generalintuitionmedal|technical": 20767,
 "generalmagic|ai engineer": 20759,
@@ -3252,6 +3268,7 @@
 "intel|development engineer integration phd process": 20759,
 "intel|development engineer module phd": 20767,
 "intel|development manufacturing process": 20759,
+"intel|engineer hr it software": 20767,
 "intel|engineer module phd": 20767,
 "intel|engineer phd research system technology": 20767,
 "intel|engineer software": 20767,
@@ -4661,7 +4678,7 @@
 "oshkosh|digital technology": 20767,
 "oshkosh|electrification engineering": 20767,
 "oshkosh|engineer fea": 20762,
-"oshkosh|engineer fluid power": 20766,
+"oshkosh|engineer fluid power": 20767,
 "oshkosh|engineer product safety": 20761,
 "oshkosh|engineer software": 20767,
 "oshkosh|engineering software": 20767,
@@ -8957,6 +8974,7 @@
 "workday:https://intel.wd1.myworkdayjobs.com/external:JR0288138": 20767,
 "workday:https://intel.wd1.myworkdayjobs.com/external:JR0288139": 20767,
 "workday:https://intel.wd1.myworkdayjobs.com/external:JR0288140": 20767,
+"workday:https://intel.wd1.myworkdayjobs.com/external:JR0288637": 20767,
 "workday:https://intel.wd1.myworkdayjobs.com/external:JR0288661": 20759,
 "workday:https://intel.wd1.myworkdayjobs.com/external:JR0288749": 20767,
 "workday:https://intel.wd1.myworkdayjobs.com/external:JR0288833": 20767,
@@ -9254,7 +9272,7 @@
 "workday:https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh:R49547": 20761,
 "workday:https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh:R51072": 20767,
 "workday:https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh:R51129": 20762,
-"workday:https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh:R51242": 20766,
+"workday:https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh:R51242": 20767,
 "workday:https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh:R51717": 20767,
 "workday:https://pg.wd5.myworkdayjobs.com/1000:R000157499": 20767,
 "workday:https://pg.wd5.myworkdayjobs.com/1000:R000157502": 20767,
@@ -10176,6 +10194,7 @@
 "jobright:6aee5894d20350c7a507c6bf": 20764,
 "jobright:6aee599a5c81f621d3115aec": 20765,
 "jobright:6aee59c6d20350c7a507c7e8": 20765,
+"jobright:6aee62a6bd2f33eea72dbc0b": 20767,
 "jobright:6aee6391d20350c7a507ce6f": 20767,
 "jobright:6aee66e2e0c9de7b05f8e9e5": 20765,
 "jobright:6aee690dc7498922fe0cc7b0": 20765,
@@ -10262,7 +10281,8 @@
 "jobright:6af25c591aaffa49f738425c": 20767,
 "jobright:6af268ac1116f6f0a0769031": 20767,
 "jobright:6af270a90cb834dad9326f54": 20767,
-"jobright:6af28595d622b1b75451a287": 20767
+"jobright:6af28595d622b1b75451a287": 20767,
+"jobright:6af28dad16c956f235783da7": 20767
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -16345,6 +16365,7 @@
 "https://zapply.jobs/l/d/ashby-dandy-52bcfe21-dfa6-4669-8b58-b995c6e97b31": 20767,
 "https://zapply.jobs/l/d/ashby-etched-05d67dff-a7a4-4ece-a809-3200d95e7440": 20767,
 "https://zapply.jobs/l/d/ashby-etched-1a92048c-60e0-445b-a84e-8f008f1cf47b": 20767,
+"https://zapply.jobs/l/d/ashby-etched-27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8": 20767,
 "https://zapply.jobs/l/d/ashby-etched-494546ec-de37-46a2-b450-692c23b7b0c8": 20762,
 "https://zapply.jobs/l/d/ashby-illumio-2bcba5c3-c6e7-407c-92b2-73027594789e": 20767,
 "https://zapply.jobs/l/d/ashby-mercor-049bd532-6fb7-4ae6-85a1-788dd31a14ca": 20763,
