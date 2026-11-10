@@ -1,18 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 12:01 UTC · 18 new listings_
+_Updated 2026-11-10 12:31 UTC · 20 new listings_
 
-## New listings (18) — newest first
+## New listings (20) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Boston Scientific** | Software & Systems Testing Engineering Intern Job Details / Boston Scientific | Arden Hills, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2dce6f6053e296fc7829a?utm_campaign=1079&utm_source=git) |
 | today | **Celonis** | Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern | Raleigh, US, North Carolina | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-celonis-8198760003?s=gh-internships-2027) |
+| today | **Concordia Plan Services** | Information Technology Intern | St. Louis, MO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aba9c50be5f1e9325116615?utm_campaign=1079&utm_source=git) |
 | today | **GlobalFoundries** | Controls Engineering Intern (Summer 2027) | USA - Vermont - Essex Junction | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647) |
 | today | **GlobalFoundries** | Silicon Photonics Process Integration Engineering Intern (Summer 2027) | USA - New York - Malta | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605135) |
 | today | **Intel** | HR IT Software Engineer Intern | Costa Rica, San Jose | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637) |
 | today | **Nintendo** | Intern - IT Software Engineer | Redmond, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad66ca354bbabbab06f80a0?utm_campaign=1079&utm_source=git) |
 | today | **Nintendo** | Intern - Localization Systems Analyst | Redmond, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad66c9a52aa6152bb6952b6?utm_campaign=1079&utm_source=git) |
+| today | **RTX** | 2027 Summer/Fall Co-op, AGS Software Engineering (Onsite) | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abaadc3ad8589219ef7ea1f?utm_campaign=1079&utm_source=git) |
 | today | **Trilogy Health Services** | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | SimplifyJobs | [apply](https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us) |
 | 1d ago | **Clonin** | Software Engineer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2a1bd6d2bd34f89adbb60?utm_campaign=1079&utm_source=git) |
 | 1d ago | **youbloom** | Software Quality Assurance Analyst Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2cc1656fd115cb6941794?utm_campaign=1079&utm_source=git) |
