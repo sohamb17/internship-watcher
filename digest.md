@@ -1,14 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 15:01 UTC · 3 new listings_
+_Updated 2026-11-10 15:31 UTC · 4 new listings_
 
-## New listings (3) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **New York Life** | 2027 New York Life Direct Summer Internship Program - IBM i Developer Job Details / New York Life Insurance Co | Tampa, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3114a7c81de7a524bc09e?utm_campaign=1079&utm_source=git) |
-| today | **T-Mobile** | Summer 2027 Business Analytics & Reporting Internship | Bellevue, Washington | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319) |
-| today | **T-Mobile** | Summer 2027 Site Reliability Engineering Internship | Frisco Texas | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Site-Reliability-Engineering-Internship_REQ381393) |
+| today | **Aerospace** | 2027 Propulsion Science Undergraduate Intern | El Segundo, CA | Company portals | [apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Propulsion-Science-Undergraduate-Intern_R017148) |
+| today | **Booz Allen** | University - Summer 2027 Quantum Computing Research Intern | Washington, DC | Company portals | [apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046) |
+| today | **Veolia Environnement SA** | Manufacturing Software Engineer Intern | Boulder, CO | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000160896184?s=gh-internships-2027) |
+| today | **Walmart** | Summer 2027 Intern: Automation Engineer | (USA) Change Building AR Bentonville Home Office | Company portals | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/Summer-2027-Intern--Automation-Engineer_R-2630033) |
 
 ## Watched company portals
 
