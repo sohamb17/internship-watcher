@@ -1,12 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 06:31 UTC · 2 new listings_
+_Updated 2026-11-10 07:01 UTC · 5 new listings_
 
-## New listings (2) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **GlobalFoundries** | Controls Engineering Intern (Summer 2027) | USA - Vermont - Essex Junction | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647) |
+| today | **GlobalFoundries** | Silicon Photonics Process Integration Engineering Intern (Summer 2027) | USA - New York - Malta | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605135) |
 | today | **Intel** | HR IT Software Engineer Intern | Costa Rica, San Jose | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637) |
+| 1d ago | **Clonin** | Software Engineer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2a1bd6d2bd34f89adbb60?utm_campaign=1079&utm_source=git) |
 | 42d ago | **LG AI Research** | AI Scientist/Engineer Intern | Ann Arbor, MI | vanshb03 | [apply](https://go.vansh.nyc/1q2) |
 
 ## Watched company portals
