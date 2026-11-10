@@ -1,17 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 22:01 UTC · 6 new listings_
+_Updated 2026-11-10 22:31 UTC · 4 new listings_
 
-## New listings (6) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Echo Global Logistics** | Software Engineering Intern- Chicago | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af368b210c7aed77861a125?utm_campaign=1079&utm_source=git) |
-| today | **Optimum** | Intern - Developer, Financial & People Systems | Bethpage, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af369334ac248020e8d0d07?utm_campaign=1079&utm_source=git) |
-| today | **Optimum** | Intern - Software Development | Bethpage, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3692e10c7aed77861a2e1?utm_campaign=1079&utm_source=git) |
-| today | **Siemens** | Building X Software Developer Internship | Buffalo Grove, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af36956769e9374033c612d?utm_campaign=1079&utm_source=git) |
-| today | **Skydio** | Middleware Software Engineer Intern - Summer 2027 | San Mateo, California, United States | Company portals | [apply](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03) |
-| — | **Anduril** | 2027 Optical Payload Engineer Intern | Costa Mesa, California, United States | Company portals | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007) |
+| today | **ByteDance** | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1s7) |
+| today | **GE Vernova** | GE Vernova Technical Field Advisor Intern - 2027 | Remote | Company portals | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Remote/GE-Vernova-Technical-Field-Advisor-Intern---2027_R5058143-3) |
+| today | **Northrop Grumman** | 2027 Electromechanical Engineer Intern - Rolling Meadows IL | United States-Illinois-Rolling... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260085?s=gh-internships-2027) |
+| today | **Northrop Grumman** | 2027 Intern Engineer - Product Support | United States-Oklahoma-Oklahoma... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260078?s=gh-internships-2027) |
 
 ## Watched company portals
 
