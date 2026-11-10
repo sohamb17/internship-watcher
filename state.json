@@ -790,6 +790,20 @@
 "sk": "jobright:6aba9c50be5f1e9325116615",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6aba9c50be5f1e9325116615?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "JM Family",
+"degrees": [],
+"dk": "jmfamily|analyst franchise",
+"found": 20767,
+"loc": "Florida - Deerfield Beach",
+"more": null,
+"night": true,
+"posted": 20767,
+"role": "Franchise Analyst Intern",
+"sk": "workday:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external:JR105216",
+"src": "ats",
+"url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Franchise-Analyst-Intern_JR105216"
 }
 ],
 "roles": {
@@ -3695,6 +3709,7 @@
 "jmfamily|analysis reporting sales": 20764,
 "jmfamily|analyst customer data experience": 20766,
 "jmfamily|analyst financial": 20767,
+"jmfamily|analyst franchise": 20767,
 "jmfamily|analyst investment": 20767,
 "jmfamily|analyst software": 20767,
 "jmfamily|analytics": 20767,
@@ -9312,6 +9327,7 @@
 "workday:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external:JR105189": 20767,
 "workday:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external:JR105199": 20767,
 "workday:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external:JR105200": 20767,
+"workday:https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external:JR105216": 20767,
 "workday:https://kla.wd1.myworkdayjobs.com/Search:2641325": 20759,
 "workday:https://kla.wd1.myworkdayjobs.com/Search:2641392": 20759,
 "workday:https://kla.wd1.myworkdayjobs.com/Search:2641507": 20759,

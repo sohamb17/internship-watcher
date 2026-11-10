@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 12:47 UTC · 20 new listings_
+_Updated 2026-11-10 13:01 UTC · 21 new listings_
 
-## New listings (20) — newest first
+## New listings (21) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@ _Updated 2026-11-10 12:47 UTC · 20 new listings_
 | today | **GlobalFoundries** | Controls Engineering Intern (Summer 2027) | USA - Vermont - Essex Junction | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647) |
 | today | **GlobalFoundries** | Silicon Photonics Process Integration Engineering Intern (Summer 2027) | USA - New York - Malta | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605135) |
 | today | **Intel** | HR IT Software Engineer Intern | Costa Rica, San Jose | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637) |
+| today | **JM Family** | Franchise Analyst Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Franchise-Analyst-Intern_JR105216) |
 | today | **Nintendo** | Intern - IT Software Engineer | Redmond, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad66ca354bbabbab06f80a0?utm_campaign=1079&utm_source=git) |
 | today | **Nintendo** | Intern - Localization Systems Analyst | Redmond, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad66c9a52aa6152bb6952b6?utm_campaign=1079&utm_source=git) |
 | today | **RTX** | 2027 Summer/Fall Co-op, AGS Software Engineering (Onsite) | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abaadc3ad8589219ef7ea1f?utm_campaign=1079&utm_source=git) |
