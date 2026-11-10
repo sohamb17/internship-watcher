@@ -644,6 +644,68 @@
 "sk": "jobright:6af2cc1656fd115cb6941794",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6af2cc1656fd115cb6941794?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "Selective Insurance",
+"degrees": [
+"Bachelor's"
+],
+"dk": "selectiveinsurance|information it management",
+"found": 20767,
+"loc": "Charlotte, NC",
+"more": 2,
+"night": true,
+"posted": 20759,
+"role": "IT Information Management Intern",
+"sk": "e607654c-f29c-4661-80c6-08643000d167",
+"src": "simplify",
+"url": "https://jobs.selective.com/jobs/5689?icims=1&lang=en-us"
+},
+{
+"company": "Selective Insurance",
+"degrees": [
+"Bachelor's"
+],
+"dk": "selectiveinsurance|commercial it lines",
+"found": 20767,
+"loc": "Charlotte, NC / Hartford, CT",
+"more": null,
+"night": true,
+"posted": 20704,
+"role": "IT Commercial Lines Summer Intern",
+"sk": "ec82070a-1dec-4b05-9e7d-e8e93eab62f9",
+"src": "simplify",
+"url": "https://jobs.selective.com/jobs/5701?icims=1&lang=en-us"
+},
+{
+"company": "Selective Insurance",
+"degrees": [
+"Bachelor's"
+],
+"dk": "selectiveinsurance|application claims delivery it",
+"found": 20767,
+"loc": "Charlotte, NC",
+"more": null,
+"night": true,
+"posted": 20704,
+"role": "IT Claims Application Delivery Intern",
+"sk": "b1c42508-489a-4a21-bf5b-ebd2039bbe7b",
+"src": "simplify",
+"url": "https://jobs.selective.com/jobs/5750?icims=1&lang=en-us"
+},
+{
+"company": "Selective Insurance",
+"degrees": [],
+"dk": "selectiveinsurance|business insights intelligence",
+"found": 20767,
+"loc": "Branchville, NJ",
+"more": null,
+"night": true,
+"posted": 20704,
+"role": "Business Intelligence & Insights Intern",
+"sk": "988292e2-9865-480d-8599-0279ef142eb3",
+"src": "simplify",
+"url": "https://jobs.selective.com/jobs/5707?icims=1&lang=en-us"
 }
 ],
 "roles": {
@@ -5461,6 +5523,10 @@
 "secondwindbyjoveo|development remote web": 20763,
 "secondwindbyjoveo|engineering remote software": 20763,
 "sedgwickclaimsmanagementservices|analyst data": 20767,
+"selectiveinsurance|application claims delivery it": 20767,
+"selectiveinsurance|business insights intelligence": 20767,
+"selectiveinsurance|commercial it lines": 20767,
+"selectiveinsurance|information it management": 20767,
 "sel|engineer software": 20767,
 "semgrep|cloud engineer platform software": 20767,
 "semgrep|engineer software": 20767,
@@ -10966,6 +11032,7 @@
 "1b7c7b2b-a974-4f9a-b99a-fc20c33836a6": 20759,
 "1bb710dd-c7a9-429a-9bc8-9438e72bf14d": 20759,
 "1bc20c6e-0eb9-4303-9f38-13bb3df03fa8": 20767,
+"1bd5c700-e454-4a26-bbbd-9880cefb4be7": 20767,
 "1c05aeb6-1548-460d-ac98-cca04204d3a7": 20767,
 "1c140b14-cbd4-45da-9316-2fd50f440ccf": 20767,
 "1c4c6e2a-b8f1-414c-ba29-d58ee1ce7dbe": 20759,
@@ -12381,6 +12448,7 @@
 "9857a37f-ddfe-474b-877b-894f4761b0d3": 20767,
 "98635871-6276-41e4-ad95-172485704a2c": 20767,
 "986abdef-dc72-4aa6-a4da-fbbcadaadc49": 20767,
+"988292e2-9865-480d-8599-0279ef142eb3": 20767,
 "98860377-289a-4a03-8249-583c9cb042ca": 20767,
 "98921a30-96ec-4b77-b16f-55d21867f42f": 20764,
 "989858a3-bc3c-4cce-957d-70b6377e70e3": 20759,
@@ -12392,6 +12460,7 @@
 "99d9f40c-43fa-4ed7-9813-99c784ef3e43": 20767,
 "9a212b5f-a9ed-4a6c-9091-d44030af17cc": 20767,
 "9a33b73a-0e3a-42d3-a81a-ac9a4f99a22c": 20767,
+"9a604003-28ad-46f3-991d-0d27170b494c": 20767,
 "9a6bfc62-3b30-4eb9-ae60-710c5f62d722": 20767,
 "9a83a82e-0789-4e56-8944-40f3428f8630": 20767,
 "9ab28903-ae46-4bfe-9491-da387c3a1628": 20767,
@@ -12661,6 +12730,7 @@
 "b19ed1eb-aa8f-4af1-a327-0008140019c7": 20767,
 "b1a212f9-bfdc-4a20-bc91-e34800cb57f6": 20767,
 "b1af74c5-7bce-4b61-a57f-bdbb3cb3926e": 20767,
+"b1c42508-489a-4a21-bf5b-ebd2039bbe7b": 20767,
 "b1d0db5d-2ecc-4ad8-8fdd-ad33cabd3059": 20767,
 "b1d9f56a-e2f8-42b6-ac39-13079b471af8": 20767,
 "b21b1dd0-f3e1-498f-b48e-8ca16e2503a8": 20767,
@@ -13226,6 +13296,7 @@
 "e56eca03-b173-46e6-8a0b-5f5eaa9df1f7": 20767,
 "e595d9e8-49e8-4372-9e3b-e6e2708c26dc": 20767,
 "e5fc4725-7c7e-4f70-8b44-393f041df42f": 20767,
+"e607654c-f29c-4661-80c6-08643000d167": 20767,
 "e60dfb39-6279-46ca-9802-7328d053355a": 20767,
 "e63307f6-52eb-4edb-a2ea-1448402f84ef": 20759,
 "e637a804-a5ef-4f60-a280-dd56d1d6b377": 20759,
@@ -13317,6 +13388,7 @@
 "ec44a0f2-7cf0-4dd9-84b2-cdc746efb42e": 20767,
 "ec682ade-102c-4bca-9824-a71e73c64c13": 20767,
 "ec753813-5b9a-4724-aa04-29e2d05da32a": 20767,
+"ec82070a-1dec-4b05-9e7d-e8e93eab62f9": 20767,
 "eca74c97-b4a2-47c3-9c47-d2ac8fe296cf": 20766,
 "ecb50799-5432-4e4c-94bd-ab79e8a11ebd": 20760,
 "ecc69c92-2354-4bcc-8af5-c5e605953496": 20767,

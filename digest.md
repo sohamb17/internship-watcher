@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 10:31 UTC · 10 new listings_
+_Updated 2026-11-10 11:01 UTC · 14 new listings_
 
-## New listings (10) — newest first
+## New listings (14) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -13,9 +13,13 @@ _Updated 2026-11-10 10:31 UTC · 10 new listings_
 | today | **Trilogy Health Services** | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | SimplifyJobs | [apply](https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us) |
 | 1d ago | **Clonin** | Software Engineer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2a1bd6d2bd34f89adbb60?utm_campaign=1079&utm_source=git) |
 | 1d ago | **youbloom** | Software Quality Assurance Analyst Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2cc1656fd115cb6941794?utm_campaign=1079&utm_source=git) |
+| 8d ago | **Selective Insurance** | IT Information Management Intern | Charlotte, NC (+2 more) | SimplifyJobs | [apply](https://jobs.selective.com/jobs/5689?icims=1&lang=en-us) |
 | 42d ago | **LG AI Research** | AI Scientist/Engineer Intern | Ann Arbor, MI | vanshb03 | [apply](https://go.vansh.nyc/1q2) |
 | 49d ago | **The Marzetti Company** | IT Analytics Intern | Columbus, OH | SimplifyJobs | [apply](https://careers.marzetticompany.com/jobs/8067?icims=1&lang=en-us) |
 | 60d ago | **Johns Hopkins Applied Physics Laboratory** | AI & Data Science Intern - Analytic Capabilities | Laurel, MD | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/60008?icims=1) |
+| 63d ago | **Selective Insurance** | Business Intelligence & Insights Intern | Branchville, NJ | SimplifyJobs | [apply](https://jobs.selective.com/jobs/5707?icims=1&lang=en-us) |
+| 63d ago | **Selective Insurance** | IT Claims Application Delivery Intern | Charlotte, NC | SimplifyJobs | [apply](https://jobs.selective.com/jobs/5750?icims=1&lang=en-us) |
+| 63d ago | **Selective Insurance** | IT Commercial Lines Summer Intern | Charlotte, NC / Hartford, CT | SimplifyJobs | [apply](https://jobs.selective.com/jobs/5701?icims=1&lang=en-us) |
 
 ## Watched company portals
 
