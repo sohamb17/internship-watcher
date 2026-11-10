@@ -1,15 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 01:01 UTC · 4 new listings_
+_Updated 2026-11-10 01:31 UTC · 0 new listings_
 
-## New listings (4) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern - Next-Generation AI Agents | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200066468?s=gh-internships-2027) |
-| today | **CTGT** | AI Evaluation Research Intern | San Francisco | Company portals | [apply](https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e) |
-| today | **Keysight Technologies** | Embedded Software Engineer Intern | Cambridge, MA | vanshb03 | [apply](https://go.vansh.nyc/1pK) |
-| 1d ago | **RTX** | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | vanshb03 | [apply](https://go.vansh.nyc/1pH) |
+Nothing new this run.
 
 ## Watched company portals
 
