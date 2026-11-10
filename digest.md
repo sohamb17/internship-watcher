@@ -1,19 +1,55 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 16:31 UTC · 8 new listings_
+_Updated 2026-11-10 17:01 UTC · 44 new listings_
 
-## New listings (8) — newest first
+## New listings (44) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AstraZeneca** | Global Engineering Capital Projects Intern, Undergraduate | Gaithersburg, MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263950?s=gh-internships-2027) |
-| today | **CACI** | Business/Systems Analyst Intern - Summer 2027 | Remote | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-caci-external-331551?s=gh-internships-2027) |
-| today | **DP World** | AI & Analytics Intern - Talent Management | Charlotte, NC | SimplifyJobs | [apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) |
-| today | **Entegris** | Analytical/Metrology Scientist Intern | Billerica, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15873?s=gh-internships-2027) |
-| today | **Entegris** | Metrology Scientist Intern | Billerica, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15874?s=gh-internships-2027) |
-| today | **General Dynamics Mission Systems** | Systems and Software Development Intern | San Antonio, TX / Scottsdale, AZ | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/76099/job?mobile=true&needsRedirect=false) |
-| today | **OneAmerica Financial** | Cyber Security Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1qx) |
-| today | **Zebra** | 2027 Summer Internship (US) - Security | Lincolnshire, Illinois | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103608?s=gh-internships-2027) |
+| today | **Akeshya Private Limited** | Flutter Developer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qE) |
+| today | **Akeshya Private Limited** | Full Stack Developer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qD) |
+| today | **Avary.ai** | Data Scientist Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qF) |
+| today | **Business Web Solutions** | Web Developer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qH) |
+| today | **Diffuse Bio** | Software Engineering Intern | Redwood City, CA | vanshb03 | [apply](https://go.vansh.nyc/1qJ) |
+| today | **Elas** | Data Science Intern | Pleasanton, CA | vanshb03 | [apply](https://go.vansh.nyc/1qK) |
+| today | **Entegris** | Microanalysis Scientist Intern | Billerica, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15842?s=gh-internships-2027) |
+| today | **Entegris** | Organic Scientist Intern | Billerica, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15872?s=gh-internships-2027) |
+| today | **Entegris** | Solutions Engineering Intern | Billerica, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15884?s=gh-internships-2027) |
+| today | **Flowai** | Senior Back-End Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qL) |
+| today | **getIntro** | Software Engineering Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qM) |
+| today | **Grey State Apparel** | Data Analyst Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1qN) |
+| today | **Headstarter** | Software Engineering Intern, Agents & FE | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1qO) |
+| today | **Holiday World** | AI Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1rb) |
+| today | **Holiday World** | Software Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1ra) |
+| today | **Intelura** | Backend Engineering & Security Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qP) |
+| today | **Intelura** | Mobile Application Developer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qQ) |
+| today | **Ixana** | Embedded Hardware Engineer Intern, FPGA Design | West Lafayette, IN | vanshb03 | [apply](https://go.vansh.nyc/1qS) |
+| today | **Ixana** | Embedded Software Engineer Intern, Wearables and IoT | West Lafayette, IN | vanshb03 | [apply](https://go.vansh.nyc/1qR) |
+| today | **Klatch AI** | Full Stack Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qT) |
+| today | **Maincode** | AI Research Residency Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qU) |
+| today | **Metasys** | AI/ML Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1r2) |
+| today | **Metasys** | Automation QA Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qZ) |
+| today | **Metasys** | Backend Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1r1) |
+| today | **Metasys** | Data Architect Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qW) |
+| today | **Metasys** | Data Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1r7) |
+| today | **Metasys** | Data Scientist Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qX) |
+| today | **Metasys** | DevOps Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1r4) |
+| today | **Metasys** | DevSecOps Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1r8) |
+| today | **Metasys** | Frontend Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1r0) |
+| today | **Metasys** | MLOps Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1r6) |
+| today | **Metasys** | Security Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1r5) |
+| today | **Metasys** | Site Reliability Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1qY) |
+| today | **Metasys** | Technical Architect Intern, Frontend/Backend | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1r3) |
+| today | **Mindsmith** | Software Engineering Intern | Lehi, UT | vanshb03 | [apply](https://go.vansh.nyc/1r9) |
+| today | **North Texas Family Health** | Software Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1rd) |
+| today | **Northwaysports** | Data Science Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1rc) |
+| today | **Nura** | Software Engineer Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1re) |
+| today | **Operio** | Software Engineering Intern | United States (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1rf) |
+| today | **Stealth Startup \| Enterprise AI** | Software Engineering Intern | Remote / United States / Canada | vanshb03 | [apply](https://go.vansh.nyc/1rh) |
+| today | **Uplimit** | Software Engineer Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1rm) |
+| today | **Zebra Technologies** | Security Intern | Lincolnshire, IL | vanshb03 | [apply](https://go.vansh.nyc/1qC) |
+| 5d ago | **Palantir** | Software Engineer, Intern - Connectivity Platform and Product | New York, NY (+3 more) | Company portals | [apply](https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743) |
+| 5d ago | **Palantir** | Software Engineer, Internship - Data Connectors | New York, NY | Company portals | [apply](https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a) |
 
 ## Watched company portals
 
