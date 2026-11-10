@@ -1,20 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 18:31 UTC · 9 new listings_
+_Updated 2026-11-10 19:01 UTC · 1 new listing_
 
-## New listings (9) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Addepar** | Software Engineering Intern - Summer 2027 | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af344ba7c81de7a524bdb6a?utm_campaign=1079&utm_source=git) |
-| today | **AECOM** | Traffic Engineering Intern | Columbus, OH, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AECOM2/744000160941500) |
-| today | **Entegris** | Controls Engineering Co-Op | Austin, TX | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14460?s=gh-internships-2027) |
-| today | **Entegris** | Equipment Engineering Intern | Billerica, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15883?s=gh-internships-2027) |
-| today | **Entegris** | New Product Introduction Engineering Intern | Colorado Springs, CO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15880?s=gh-internships-2027) |
-| today | **Fox Corporation** | Summer 2027 FOX Technology Internship Program - Los Angeles, CA | Los Angeles, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad6178054bbabbab06f460f?utm_campaign=1079&utm_source=git) |
-| today | **General Dynamics Information Technology** | Summer 2027 Jr. Research Analyst Internship | USA MD Baltimore   6401 Security Blvd MDC113 | Company portals | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-MD-Baltimore---6401-Security-Blvd-MDC113/Summer-2027-Jr-Research-Analyst-Internship--_RQ228131) |
-| today | **General Motors** | 2027 Summer Intern - Machine Learning Engineer, Embodied AI | Sunnyvale, California, United States of America | Company portals | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) |
-| today | **RTX** | Part time Software Engineer Co-op (Remote) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9f3be32411b3e5a2e30a0?utm_campaign=1079&utm_source=git) |
+| today | **HP Inc** | Performance Engineering Co-op | Fort Collins, Colorado, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4986?s=gh-internships-2027) |
 
 ## Watched company portals
 
