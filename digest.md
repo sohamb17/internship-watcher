@@ -1,12 +1,34 @@
 # Internship watcher — latest
 
-_Updated 2026-11-09 23:31 UTC · 1 new listing_
+_Updated 2026-11-10 00:01 UTC · 23 new listings_
 
-## New listings (1) — newest first
+## New listings (23) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Epic Games** | AI Programmer Intern | Cary,North Carolina,United States | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-epicgames-6251540004?s=gh-internships-2027) |
+| today | **Jane Street** | Formal Methods Research and Development Intern | NYC | SimplifyJobs | [apply](https://www.janestreet.com/join-jane-street/apply/8927083002?gh_jid=8927083002) |
+| today | **Biodesix** | AI Research & Development Intern | Louisville, CO (+1 more) | SimplifyJobs | [apply](https://www.biodesix.com/careers/current-openings?gh_jid=4485306009) |
+| today | **Biodesix** | Data Analytics & Business Intelligence Intern | Louisville, CO (+1 more) | SimplifyJobs | [apply](https://www.biodesix.com/careers/current-openings?gh_jid=4485182009) |
+| today | **Biodesix** | Software Development Intern | Louisville, CO (+1 more) | SimplifyJobs | [apply](https://www.biodesix.com/careers/current-openings?gh_jid=4485410009) |
+| today | **Integration Innovation (i3)** | Data Management Intern | Huntsville, AL (+1 more) | SimplifyJobs | [apply](https://i3-corps.jibeapply.com/jobs/5490?icims=1&lang=en-us) |
+| today | **Johns Hopkins Applied Physics Laboratory** | Artificial Intelligence Intern - Information Fusion | Laurel, MD | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us) |
+| today | **Lila Sciences** | Applied AI Platform Engineer Co-op | SF | SimplifyJobs | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4472540009) |
+| today | **Nokia** | Defense Software Test & AI Co-Op | United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-nokia-41196?s=gh-internships-2027) |
+| today | **Pivotal Aero** | Software Engineering Intern | Palo Alto, CA | vanshb03 | [apply](https://go.vansh.nyc/1px) |
+| today | **Pivotal Software** | Internship, Flight Test Engineer (Summer 2027) | Palo Alto, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/lever-pivotal-67927cb0-cf1a-4775-93be-61db3efe684b?s=gh-internships-2027) |
+| today | **Pivotal Software** | Internship, Maintenance, Repair & Overhaul Engineering (Summer 2027) | Palo Alto, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/lever-pivotal-23e45f4a-ab7f-4d45-9ec8-bae2ced5d583?s=gh-internships-2027) |
+| today | **Pivotal Software** | Internship, Software Engineering (Summer 2027) | Palo Alto, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/lever-pivotal-3a80913d-886a-4d22-bf5e-9a011b157ec4?s=gh-internships-2027) |
+| 1d ago | **7-Eleven** | Data Engineer Intern | Irving, TX (+1 more) | SimplifyJobs | [apply](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281) |
+| 1d ago | **Docking Robotics** | Software Engineer Intern (UNPAID) | Daytona Beach, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af235351aaffa49f7382b46?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Fortrea** | AIML Rapid Development Studio Intern | Remote in USA | SimplifyJobs | [apply](https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/AIML-Rapid-Development-Studio-Internship_266655) |
+| 1d ago | **Growth Mesh** | Programmer Analyst Intern | Waller, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af238e28cbcfef4a59da71f?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Maxinsights** | Machine Learning Engineer Intern - Video Foundation Models & Agentic AI<br>Master's/PhD | Santa Clara, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d/application?embed=true) |
+| 1d ago | **Micron Technology** | Hig Hbm Dtpco Intern | Richardson, TX | SimplifyJobs | [apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HIG-HBM-DTPCO_JR116993) |
+| 1d ago | **Tonic** | Forward Deployed Engineer Co-op - Data De-Identification | Remote in USA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/tonicai/e632d472-fbd2-475a-9878-536c0eacb5e9/application?embed=true) |
+| 1d ago | **Zoetis Services** | Data and Analytics Product Operations Intern | Parsippany-Troy Hills, NJ | SimplifyJobs | [apply](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Data---Analytics-Product-Operations-Intern_JR00022022-1) |
+| 2d ago | **BWXT** | Intern - Applications Development | Lynchburg, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af234ab62fb9f5fcd895bb0?utm_campaign=1079&utm_source=git) |
+| 2d ago | **McDonald's** | Global Technology Infrastructure & Operations Intern | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af232571aaffa49f7382985?utm_campaign=1079&utm_source=git) |
+| — | **Schweitzer Engineering Laboratories** | Application Engineering Intern | Mississippi Jackson | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-selinc-sel-2026-24309?s=gh-internships-2027) |
 
 ## Watched company portals
 
