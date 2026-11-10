@@ -1,16 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 16:01 UTC · 5 new listings_
+_Updated 2026-11-10 16:31 UTC · 8 new listings_
 
-## New listings (5) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AllianceBernstein** | Infrastructure Engineering Summer Intern | Nashville, TN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa8a91ef5332f8b86243dfb?utm_campaign=1079&utm_source=git) |
-| today | **Clarios** | IT Digital/AI Intern (Summer 2027) | WI | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD49910?s=gh-internships-2027) |
-| today | **General Dynamics Information Technology** | GDIT Summer Internship Program – Summer 2027 Growth Team Technical Writer Internship | USA VA Herndon | Company portals | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Herndon/GDIT-Summer-Internship-Program---Summer-2027-Growth-Team-Technical-Writer-Internship_RQ231856) |
-| today | **Omnicom Group** | Analytics Intern | Washington, DC | SimplifyJobs | [apply](https://interpublic.wd5.myworkdayjobs.com/omc/job/Washington-District-of-Columbia-United-States-of-America/Intern--Analytics_R16262) |
-| today | **RTX** | Component Electrical Test Engineer Intern (Summer 2027)(Onsite) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Component-Electrical-Test-Engineer-Intern--Summer-2027--Onsite-_01885779) |
+| today | **AstraZeneca** | Global Engineering Capital Projects Intern, Undergraduate | Gaithersburg, MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263950?s=gh-internships-2027) |
+| today | **CACI** | Business/Systems Analyst Intern - Summer 2027 | Remote | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-caci-external-331551?s=gh-internships-2027) |
+| today | **DP World** | AI & Analytics Intern - Talent Management | Charlotte, NC | SimplifyJobs | [apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) |
+| today | **Entegris** | Analytical/Metrology Scientist Intern | Billerica, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15873?s=gh-internships-2027) |
+| today | **Entegris** | Metrology Scientist Intern | Billerica, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15874?s=gh-internships-2027) |
+| today | **General Dynamics Mission Systems** | Systems and Software Development Intern | San Antonio, TX / Scottsdale, AZ | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/76099/job?mobile=true&needsRedirect=false) |
+| today | **OneAmerica Financial** | Cyber Security Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1qx) |
+| today | **Zebra** | 2027 Summer Internship (US) - Security | Lincolnshire, Illinois | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103608?s=gh-internships-2027) |
 
 ## Watched company portals
 
