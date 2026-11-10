@@ -1,15 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 02:31 UTC · 4 new listings_
+_Updated 2026-11-10 03:01 UTC · 6 new listings_
 
-## New listings (4) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Entegris** | Technical Training Co-Op | Chaska, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14459?s=gh-internships-2027) |
-| today | **Hewlett Packard Enterprise** | Wireless Hardware Engineering Intern | San Jose, California, United States of America | Company portals | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701) |
-| today | **Steel Dynamics** | Information Security Intern | Fort Wayne, IN | vanshb03 | [apply](https://go.vansh.nyc/1pP) |
-| 1d ago | **FormFactor Inc.** | Software Engineer Intern | Livermore, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af25c591aaffa49f738425c?utm_campaign=1079&utm_source=git) |
+| today | **Aerospace** | 2027 Power and Analog Circuit Engineering Grad Intern | El Segundo, CA | Company portals | [apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Intern_R016430) |
+| today | **General Dynamics Mission Systems** | Ontology and Semantic Engineering Intern | Chantilly, VA / Pittsfield, MA / Scottsdale, AZ | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/76088/job?mobile=true&needsRedirect=false) |
+| today | **General Dynamics Mission Systems** | Ontology Data Analysis and Validation Intern | Chantilly, VA / Pittsfield, MA / Scottsdale, AZ | SimplifyJobs | [apply](https://careers-gdms.icims.com/jobs/76095/job?mobile=true&needsRedirect=false) |
+| today | **Pika** | Applied AI Engineer Intern - Creative Experiences | Palo Alto, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true) |
+| today | **RTX** | Systems Engineering Intern (Summer 2027), SAOC, Cedar Rapids, IA (Onsite) | US-IA-CEDAR RAPIDS-143 ~ 855 35Th St NE ~ BLDG 143 | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Systems-Engineering-Intern--Summer-2027---SAOC--Cedar-Rapids--IA--Onsite-_01886221) |
+| 81d ago | **GE Vernova** | Energy Optimization Software Engineer Intern - Summer 2027<br>Master's/PhD | Bellevue, WA (+1 more) | SimplifyJobs | [apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1) |
 
 ## Watched company portals
 
