@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 01:31 UTC · 0 new listings_
+_Updated 2026-11-10 02:01 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **NVIDIA** | Systems Research Intern, Observability – Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026644?s=gh-internships-2027) |
+| today | **Hewlett Packard Enterprise** | Strategic Sourcing AI & Automation Intern | Spring, Texas, United States of America | Company portals | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Strategic-Sourcing-AI---Automation-Intern_1213039) |
 
 ## Watched company portals
 
