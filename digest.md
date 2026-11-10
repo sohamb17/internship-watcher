@@ -1,12 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 19:01 UTC · 1 new listing_
+_Updated 2026-11-10 19:31 UTC · 8 new listings_
 
-## New listings (1) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **HP Inc** | Performance Engineering Co-op | Fort Collins, Colorado, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4986?s=gh-internships-2027) |
+| today | **AECOM** | Design Engineering Intern - Networking Event with AECOM – Raleigh, NC | Greenville, SC, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AECOM2/744000160950270) |
+| today | **AGCO Corporation** | Embedded Software Engineering Intern - Summer 2027 Job Details / AGCO | Hesston, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af34fb880020ca3a897462a?utm_campaign=1079&utm_source=git) |
+| today | **Analog Devices** | Mechatronics Engineering Intern | US, OR, Beaverton | Company portals | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831) |
+| today | **Hewlett Packard (HP)** | Performance Engineering Co-op | Fort Collins, CO | vanshb03 | [apply](https://go.vansh.nyc/1rR) |
+| today | **Motorola Solutions** | Software System Technologist Intern (Summer 2027 Internship) | Allen, TX (TX139) | Company portals | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511) |
+| today | **Shape Corp.** | Computer Science Engineering Intern- Summer 2027 | Grand Haven, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af353a710c7aed778619623?utm_campaign=1079&utm_source=git) |
+| today | **SRC** | Test Engineering (Intern - Summer 2027) | Syracuse, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3256080020ca3a8972834?utm_campaign=1079&utm_source=git) |
+| today | **SRC, Inc** | Machine Learning Engineer Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1rU) |
 
 ## Watched company portals
 
