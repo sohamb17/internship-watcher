@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 10:01 UTC · 9 new listings_
+_Updated 2026-11-10 10:31 UTC · 10 new listings_
 
-## New listings (9) — newest first
+## New listings (10) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@ _Updated 2026-11-10 10:01 UTC · 9 new listings_
 | today | **Intel** | HR IT Software Engineer Intern | Costa Rica, San Jose | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637) |
 | today | **Trilogy Health Services** | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | SimplifyJobs | [apply](https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us) |
 | 1d ago | **Clonin** | Software Engineer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2a1bd6d2bd34f89adbb60?utm_campaign=1079&utm_source=git) |
+| 1d ago | **youbloom** | Software Quality Assurance Analyst Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af2cc1656fd115cb6941794?utm_campaign=1079&utm_source=git) |
 | 42d ago | **LG AI Research** | AI Scientist/Engineer Intern | Ann Arbor, MI | vanshb03 | [apply](https://go.vansh.nyc/1q2) |
 | 49d ago | **The Marzetti Company** | IT Analytics Intern | Columbus, OH | SimplifyJobs | [apply](https://careers.marzetticompany.com/jobs/8067?icims=1&lang=en-us) |
 | 60d ago | **Johns Hopkins Applied Physics Laboratory** | AI & Data Science Intern - Analytic Capabilities | Laurel, MD | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/60008?icims=1) |

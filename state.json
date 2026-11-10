@@ -630,6 +630,20 @@
 "sk": "https://zapply.jobs/l/d/greenhouse-celonis-8198760003",
 "src": "zapply",
 "url": "https://zapply.jobs/l/d/greenhouse-celonis-8198760003?s=gh-internships-2027"
+},
+{
+"company": "youbloom",
+"degrees": [],
+"dk": "youbloom|analyst assurance quality software",
+"found": 20767,
+"loc": "United States",
+"more": null,
+"night": true,
+"posted": 20766,
+"role": "Software Quality Assurance Analyst Intern",
+"sk": "jobright:6af2cc1656fd115cb6941794",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6af2cc1656fd115cb6941794?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -6788,6 +6802,7 @@
 "yorkspace|engineering ground software": 20763,
 "yorkspace|engineering software": 20759,
 "yotta|engineer research": 20767,
+"youbloom|analyst assurance quality software": 20767,
 "zebra|ai": 20763,
 "zebra|ai computers engineer handheld mobile software": 20763,
 "zebra|ai computers engineer handheld mobile software us": 20763,
@@ -10424,7 +10439,8 @@
 "jobright:6af28dad16c956f235783da7": 20767,
 "jobright:6af29c3a41f4504a0888ce49": 20767,
 "jobright:6af2a1bd6d2bd34f89adbb60": 20767,
-"jobright:6af2b343d622b1b75451ae2f": 20767
+"jobright:6af2b343d622b1b75451ae2f": 20767,
+"jobright:6af2cc1656fd115cb6941794": 20767
 },
 "nointernship": {
 "nointernship:50673": 20760,
