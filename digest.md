@@ -1,20 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 20:01 UTC · 9 new listings_
+_Updated 2026-11-10 20:31 UTC · 3 new listings_
 
-## New listings (9) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Addepar** | AI Engineering Intern | New York, NY (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1rX) |
-| today | **Addepar** | Data Engineering Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1rY) |
-| today | **REGENT** | Embedded Software Engineering Intern (Summer) | North Kingstown, Rhode Island, USA | zshah101 | [apply](https://jobs.ashbyhq.com/REGENT/9f25824f-486e-4d3a-b444-116b474619d7) |
-| 1d ago | **Hypertherm Associates** | Graduate Intern - Software Security | Kent, WA | speedyapply | [apply](https://hypertherm.wd503.myworkdayjobs.com/en-US/hypertherm-careers/job/Kent-WA/Graduate-Intern---Software-Security_R4136) |
-| 1d ago | **Raytheon** | Software Engineering Intern - E2D-IN-1 | Sterling, VA | speedyapply | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020) |
-| 17d ago | **Amperesand** | AI/ML Engineering Intern | Sunnyvale, California, United States | zshah101 | [apply](https://job-boards.greenhouse.io/amperesand/jobs/4465899009) |
-| 99d ago | **Lutron** | Summer 2027 - Embedded Software Engineering Intern - Cincinnati - OH | Cincinnati, OH | speedyapply | [apply](https://studentopportunities-lutron.icims.com/jobs/5366/summer-2027---embedded-software-engineering-intern---cincinnati%2c-oh/job) |
-| — | **Hunt Oil Company** | Application Developer Intern - Summer 2027 | Dallas, TX, United States (+1 more) | zshah101 | [apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104) |
-| — | **Judi Health** | AI Solutions Intern | Charlotte, North Carolina, United States; Denver, Colorado,  | Company portals | [apply](https://job-boards.greenhouse.io/judihealth/jobs/5477146008) |
+| today | **Arista Networks** | Data Analytics Intern | Austin, TX, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AristaNetworks/744000160961018) |
+| today | **General Dynamics Information Technology** | Summer 2027 Technical Intern | USA VA Falls Church | Company portals | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200) |
+| today | **Samsung** | 5G Network Intelligence and Automation Intern | 6555 Excellence Way, Plano, TX, USA | Company portals | [apply](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959) |
 
 ## Watched company portals
 
