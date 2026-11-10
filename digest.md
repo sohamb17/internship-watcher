@@ -1,13 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 02:01 UTC · 2 new listings_
+_Updated 2026-11-10 02:31 UTC · 4 new listings_
 
-## New listings (2) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **NVIDIA** | Systems Research Intern, Observability – Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026644?s=gh-internships-2027) |
-| today | **Hewlett Packard Enterprise** | Strategic Sourcing AI & Automation Intern | Spring, Texas, United States of America | Company portals | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Strategic-Sourcing-AI---Automation-Intern_1213039) |
+| today | **Entegris** | Technical Training Co-Op | Chaska, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14459?s=gh-internships-2027) |
+| today | **Hewlett Packard Enterprise** | Wireless Hardware Engineering Intern | San Jose, California, United States of America | Company portals | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701) |
+| today | **Steel Dynamics** | Information Security Intern | Fort Wayne, IN | vanshb03 | [apply](https://go.vansh.nyc/1pP) |
+| 1d ago | **FormFactor Inc.** | Software Engineer Intern | Livermore, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af25c591aaffa49f738425c?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
