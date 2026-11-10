@@ -1,15 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 18:01 UTC · 4 new listings_
+_Updated 2026-11-10 18:31 UTC · 9 new listings_
 
-## New listings (4) — newest first
+## New listings (9) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ABB** | Multiphysics & Engineering Intern- Summer 2027 | USA, NC, Raleigh | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048430?s=gh-internships-2027) |
-| today | **Echo** | Software Engineering Intern | Chicago, IL / Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1rF) |
-| today | **JM Family** | Strategy Analyst Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Strategy-Analyst-Intern_JR105218) |
-| today | **Walmart** | Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery | Bentonville, AR | Company portals | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Data-Science---Data-Analytics---Last-Mile-Delivery_R-2690193) |
+| today | **Addepar** | Software Engineering Intern - Summer 2027 | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af344ba7c81de7a524bdb6a?utm_campaign=1079&utm_source=git) |
+| today | **AECOM** | Traffic Engineering Intern | Columbus, OH, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AECOM2/744000160941500) |
+| today | **Entegris** | Controls Engineering Co-Op | Austin, TX | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14460?s=gh-internships-2027) |
+| today | **Entegris** | Equipment Engineering Intern | Billerica, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15883?s=gh-internships-2027) |
+| today | **Entegris** | New Product Introduction Engineering Intern | Colorado Springs, CO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15880?s=gh-internships-2027) |
+| today | **Fox Corporation** | Summer 2027 FOX Technology Internship Program - Los Angeles, CA | Los Angeles, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad6178054bbabbab06f460f?utm_campaign=1079&utm_source=git) |
+| today | **General Dynamics Information Technology** | Summer 2027 Jr. Research Analyst Internship | USA MD Baltimore   6401 Security Blvd MDC113 | Company portals | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-MD-Baltimore---6401-Security-Blvd-MDC113/Summer-2027-Jr-Research-Analyst-Internship--_RQ228131) |
+| today | **General Motors** | 2027 Summer Intern - Machine Learning Engineer, Embodied AI | Sunnyvale, California, United States of America | Company portals | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) |
+| today | **RTX** | Part time Software Engineer Co-op (Remote) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9f3be32411b3e5a2e30a0?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
