@@ -1,11 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 09:01 UTC · 8 new listings_
+_Updated 2026-11-10 09:31 UTC · 9 new listings_
 
-## New listings (8) — newest first
+## New listings (9) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **Celonis** | Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern | Raleigh, US, North Carolina | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-celonis-8198760003?s=gh-internships-2027) |
 | today | **GlobalFoundries** | Controls Engineering Intern (Summer 2027) | USA - Vermont - Essex Junction | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647) |
 | today | **GlobalFoundries** | Silicon Photonics Process Integration Engineering Intern (Summer 2027) | USA - New York - Malta | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605135) |
 | today | **Intel** | HR IT Software Engineer Intern | Costa Rica, San Jose | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637) |

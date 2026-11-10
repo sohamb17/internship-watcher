@@ -616,6 +616,20 @@
 "sk": "4b696a25-371d-4850-bd83-a776f749aa20",
 "src": "simplify",
 "url": "https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us"
+},
+{
+"company": "Celonis",
+"degrees": [],
+"dk": "celonis|ai consulting engineering management summernaut value",
+"found": 20767,
+"loc": "Raleigh, US, North Carolina",
+"more": null,
+"night": true,
+"posted": 20767,
+"role": "Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern",
+"sk": "https://zapply.jobs/l/d/greenhouse-celonis-8198760003",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/greenhouse-celonis-8198760003?s=gh-internships-2027"
 }
 ],
 "roles": {
@@ -1832,6 +1846,7 @@
 "celestica|ai engineer": 20762,
 "celestica|engineer hardware software": 20767,
 "celestica|software testing": 20767,
+"celonis|ai consulting engineering management summernaut value": 20767,
 "cencora|data scientist": 20767,
 "cencora|developer edi it software": 20767,
 "centene|ai business strategy": 20767,
@@ -14750,6 +14765,7 @@
 "10a4c1fc-00fd-4484-a2cb-67f889fde2c0": 20759,
 "10c2be53-c89b-47c5-a481-6863d8924fb4": 20767,
 "110172c9-cacb-4e4a-9b63-0dc54234601c": 20767,
+"11054b2f-34e1-4f34-b9a7-7d3cf5671f13": 20767,
 "1177979b-b74e-4b75-a21e-a6aa7e59c27c": 20763,
 "11c7246a-5401-41ee-bbee-55cd7642ec02": 20767,
 "12171d05-3363-4c18-a881-e5e4831cf8c4": 20767,
@@ -15976,6 +15992,7 @@
 "b7ec3ee9-ceaf-4c6a-8ba9-405057ba8904": 20764,
 "b7f5ac38-2de8-4ccc-bf9f-b0f99093d371": 20762,
 "b874d3e7-6f1f-4e8a-b144-3a2fda8545c7": 20767,
+"b88e660e-8aa8-4fed-8f34-0762497595ef": 20767,
 "b8909250-da05-4287-b0e0-bd86f6e12bef": 20766,
 "b8bd9378-c89f-40ef-9272-07d6976f6ed4": 20767,
 "b8ccd64b-202b-4e0b-8896-9342422062d0": 20759,
@@ -16559,6 +16576,7 @@
 "https://zapply.jobs/l/d/greenhouse-asm-5029217101": 20766,
 "https://zapply.jobs/l/d/greenhouse-asm-5029228101": 20766,
 "https://zapply.jobs/l/d/greenhouse-atoms-8919596002": 20763,
+"https://zapply.jobs/l/d/greenhouse-celonis-8198760003": 20767,
 "https://zapply.jobs/l/d/greenhouse-divergent-5393519008": 20767,
 "https://zapply.jobs/l/d/greenhouse-divergent-5393537008": 20767,
 "https://zapply.jobs/l/d/greenhouse-duolingo-8928712002": 20767,
