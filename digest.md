@@ -1,27 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 17:31 UTC · 16 new listings_
+_Updated 2026-11-10 18:01 UTC · 4 new listings_
 
-## New listings (16) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **GlobalFoundries** | Fab Systems Setup & Routing Intern (Summer 2027) | USA - Vermont - Essex Junction | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Fab-Systems-Setup---Routing-Intern--Summer-2027-_JR-2604640) |
-| today | **GlobalFoundries** | Metrology/CFM Equipment Engineering Intern (Summer 2027) | USA - Vermont - Essex Junction | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Metrology-CFM-Equipment-Engineering-Intern--Summer-2027-_JR-2604642) |
-| today | **GlobalFoundries** | Systems Engineering Intern (Summer 2027) | USA - Texas - Richardson | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045) |
-| today | **IBM** | Quantum Information Software Intern 2027 | Yorktown Heights, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae8bf8d03f4a1104b255e24?utm_campaign=1079&utm_source=git) |
-| today | **Indiana Farm Bureau Insurance** | Software Engineering Intern - Summer 2027 | Indianapolis, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aba83dfd2914e9273eebb1d?utm_campaign=1079&utm_source=git) |
-| today | **Manhattan Associates** | Technology Consultant - Early Career Spring & Summer 2027 | Atlanta, GA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-manh-campus-17011?s=gh-internships-2027) |
-| today | **Mason** | AI Engineer Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1rz) |
-| today | **Renesas Electronics** | Intern, Applications Engineering | San Jose, California, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af338aef6053e296fc7a3c8?utm_campaign=1079&utm_source=git) |
-| today | **RetailReady** | Full Stack Intern | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1rt) |
-| today | **Rivet** | Full-Stack Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1ru) |
-| today | **SemiAnalysis** | Data Engineer Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1rv) |
-| today | **SigIQ.ai** | Machine Learning Intern/Resident | Berkeley, CA | vanshb03 | [apply](https://go.vansh.nyc/1rw) |
-| today | **Substrate** | Systems Software Engineer Intern | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1rx) |
-| today | **TerraByte Green** | AI Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1ry) |
-| today | **Tyler Technologies** | Software Development Intern, Year-Round (UMaine Internship Program) | Orono, ME, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad64088950ef68d518377d0?utm_campaign=1079&utm_source=git) |
-| today | **Vooma** | Software Engineering Intern | San Mateo, CA | vanshb03 | [apply](https://go.vansh.nyc/1rA) |
+| today | **ABB** | Multiphysics & Engineering Intern- Summer 2027 | USA, NC, Raleigh | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048430?s=gh-internships-2027) |
+| today | **Echo** | Software Engineering Intern | Chicago, IL / Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1rF) |
+| today | **JM Family** | Strategy Analyst Intern | Florida - Deerfield Beach | Company portals | [apply](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Strategy-Analyst-Intern_JR105218) |
+| today | **Walmart** | Summer 2027 Corporate Intern: Data Science & Data Analytics – Last Mile Delivery | Bentonville, AR | Company portals | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Summer-2027-Corporate-Intern--Data-Science---Data-Analytics---Last-Mile-Delivery_R-2690193) |
 
 ## Watched company portals
 
