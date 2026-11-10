@@ -1,14 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 14:31 UTC · 3 new listings_
+_Updated 2026-11-10 15:01 UTC · 3 new listings_
 
 ## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Salesforce** | Summer 2027 Intern - AI Foundry Incubation | California   Palo Alto (+1 more) | Company portals | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655) |
-| today | **Aerospace** | 2027 Electric Propulsion & Plasma Science Graduate Intern | El Segundo, CA (+1 more) | Company portals | [apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Electric-Propulsion---Plasma-Science-Graduate-Intern_R017151) |
-| — | **Compeer Financial** | Intern Data Analytics | MN-Lakeville; MN-Mankato; MN-Rochester; WI-Eau Claire; IL-Bl | Company portals | [apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5409874008) |
+| today | **New York Life** | 2027 New York Life Direct Summer Internship Program - IBM i Developer Job Details / New York Life Insurance Co | Tampa, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3114a7c81de7a524bc09e?utm_campaign=1079&utm_source=git) |
+| today | **T-Mobile** | Summer 2027 Business Analytics & Reporting Internship | Bellevue, Washington | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319) |
+| today | **T-Mobile** | Summer 2027 Site Reliability Engineering Internship | Frisco Texas | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Site-Reliability-Engineering-Internship_REQ381393) |
 
 ## Watched company portals
 
