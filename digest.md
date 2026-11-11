@@ -1,27 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 00:31 UTC · 16 new listings_
+_Updated 2026-11-11 01:01 UTC · 5 new listings_
 
-## New listings (16) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Allen Lund Company** | Customer Service Systems and Process Audit Intern | Orlando, FL | SimplifyJobs | [apply](https://allenlundcompany.applytojob.com/apply/At334EGZh0/Customer-Service-Systems-Intern) |
-| today | **Art of Problem Solving** | Data Science Intern | San Diego, CA | SimplifyJobs | [apply](https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003) |
-| today | **ASML** | Internship - Electromechanical Engineer | Wilton, CT, USA (+1 more) | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Internship---Electromechanical-Engineer_J-00356069) |
-| today | **DwyerOmega** | Applied AI Intern | Remote in USA | SimplifyJobs | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662) |
-| today | **General Dynamics Information Technology** | AI/ML Business Intelligence Development Intern | Bossier City, LA | SimplifyJobs | [apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) |
-| today | **International** | Artificial Intelligence/Machine Learning Intern | Lisle, IL | SimplifyJobs | [apply](https://careers.international.com/jobs/60456?icims=1&lang=en-us) |
-| today | **Motorola Solutions** | IT M&A Integration Analyst - 2027 Summer Internship (Chicago Hybrid) | Chicago, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70464?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Optics/Photonic Engineering Intern - Apopka FL | United States-Florida-Apopka | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260049?s=gh-internships-2027) |
-| 1d ago | **Echo Global Logistics** | Software Engineer Intern | United States | SimplifyJobs | [apply](https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1) |
-| 1d ago | **JMP Statistical Discovery** | C++ Software Development Intern | Cary, NC | SimplifyJobs | [apply](https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false) |
-| 1d ago | **Rambus** | Product Engineer Intern | San Jose, CA | SimplifyJobs | [apply](https://careers-rambus.icims.com/jobs/23119/job?mobile=true&needsRedirect=false) |
-| 1d ago | **Vizient** | Spend Management Insights Intern | Irving, TX | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Spend-Management-Insights_36212R) |
-| 13d ago | **Micron Technology** | Data Scientist New Grad - AI for Business Functions | Boise, ID | SimplifyJobs | [apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682) |
-| 19d ago | **Toyota Research Institute** | Robotics Intern, Human Aware Interactions and Learning | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/71e99c38-aa29-4414-956d-cc526644b9b7) |
-| 25d ago | **CenturyLink** | AI & Automation Builders Internship | Remote in USA | SimplifyJobs | [apply](https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors) |
-| 56d ago | **Elire** | AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data | Remote in USA / Minneapolis, MN | SimplifyJobs | [apply](https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false) |
+| 13d ago | **Syntiant** | Internship - DevOps Machine Learning Infrastructure Engineer | Irvine, California, United States | zshah101 | [apply](https://apply.workable.com/syntiant/j/468B53B345/) |
+| — | **Sedaro** | Compiler Intern, Simulator | Arlington, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/bamboohr-sedarotech-95?s=gh-internships-2027) |
+| — | **Sedaro** | DevOps Intern | Arlington, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/bamboohr-sedarotech-96?s=gh-internships-2027) |
+| — | **Sedaro** | Modeling & Simulation Intern | Arlington, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/bamboohr-sedarotech-94?s=gh-internships-2027) |
+| — | **Sedaro** | Software Engineer Intern | Arlington, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/bamboohr-sedarotech-97?s=gh-internships-2027) |
 
 ## Watched company portals
 
