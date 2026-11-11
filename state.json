@@ -910,6 +910,20 @@
 "sk": "jobright:6aba86741acb8fc6f09c0052",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6aba86741acb8fc6f09c0052?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "BAE Systems",
+"degrees": [],
+"dk": "bae|electronic finance iii systems",
+"found": 20768,
+"loc": "Nashua, New Hampshire",
+"more": null,
+"night": true,
+"posted": 20763,
+"role": "Electronic Systems Finance Intern III, Summer 2027",
+"sk": "https://zapply.jobs/l/d/phenom-bae-systems-129972BR",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/phenom-bae-systems-129972BR?s=gh-internships-2027"
 }
 ],
 "roles": {
@@ -1683,6 +1697,7 @@
 "bae|based engineering model space systems": 20768,
 "bae|developer iii onsite software": 20768,
 "bae|electrical engineering": 20759,
+"bae|electronic finance iii systems": 20768,
 "bae|embedded engineer software": 20768,
 "bae|engineering hardware iii onsite": 20768,
 "bae|engineering iii onsite software": 20768,
@@ -17741,6 +17756,7 @@
 "https://zapply.jobs/l/d/phenom-bae-systems-129576BR": 20768,
 "https://zapply.jobs/l/d/phenom-bae-systems-129774BR": 20768,
 "https://zapply.jobs/l/d/phenom-bae-systems-129896BR": 20768,
+"https://zapply.jobs/l/d/phenom-bae-systems-129972BR": 20768,
 "https://zapply.jobs/l/d/phenom-bae-systems-130781BR": 20768,
 "https://zapply.jobs/l/d/phenom-bae-systems-132094BR": 20759,
 "https://zapply.jobs/l/d/phenom-bae-systems-132378BR": 20768,

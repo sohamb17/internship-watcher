@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 12:31 UTC · 29 new listings_
+_Updated 2026-11-11 13:01 UTC · 30 new listings_
 
-## New listings (29) — newest first
+## New listings (30) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@ _Updated 2026-11-11 12:31 UTC · 29 new listings_
 | 1d ago | **Haskell** | AI Engineering Design Intern | Jacksonville, FL | vanshb03 | [apply](https://go.vansh.nyc/1tj) |
 | 1d ago | **Syncere** | SLAM Engineer | Palo Alto, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4055939bc2e330fdbd01d?utm_campaign=1079&utm_source=git) |
 | 2d ago | **BAE Systems** | Software Developer Intern III, Summer 2027 (Onsite) | Rome, New York | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-129774BR?s=gh-internships-2027) |
+| 5d ago | **BAE Systems** | Electronic Systems Finance Intern III, Summer 2027 | Nashua, New Hampshire | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-129972BR?s=gh-internships-2027) |
 | 8d ago | **Trilogy Health Services** | Value Based Care Finance Intern | Louisville, KY | SimplifyJobs | [apply](https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us) |
 | 20d ago | **Ursa Major** | IT Infrastructure & Automation Intern | Berthoud, CO | vanshb03 | [apply](https://go.vansh.nyc/1tM) |
 | 22d ago | **Bosch** | Embedded AI Software Engineering Co-op | Fountain Inn, SC | vanshb03 | [apply](https://go.vansh.nyc/1tK) |
