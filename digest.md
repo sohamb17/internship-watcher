@@ -1,21 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 22:01 UTC · 10 new listings_
+_Updated 2026-11-11 22:31 UTC · 4 new listings_
 
-## New listings (10) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bask** | Backend Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1vi) |
-| today | **Bask** | Software Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1vj) |
-| today | **Emerson Electric** | RF Engineering Co-op (Jul - Dec 2027) | Santa Rosa, CA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-emerson-electric-26013238?s=gh-internships-2027) |
-| today | **KeyBank** | 2027 KeyBank Consumer Analyst Summer Internship - Brooklyn, OH | Brooklyn, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-43222?s=gh-internships-2027) |
-| today | **KeyBank** | 2027 KeyBank Consumer Analyst Summer Internship - Buffalo, NY | Buffalo, NY | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-43221?s=gh-internships-2027) |
-| today | **Motorola Solutions** | 2027 Summer Embedded SW Engineering Intern | Schaumburg, IL | Company portals | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1) |
-| today | **Securitymetrics** | Software Engineer Intern | Orem, UT | vanshb03 | [apply](https://go.vansh.nyc/1vg) |
-| today | **Sherwin-Williams** | 2027 R&D Product Engineering Co-Op | Brecksville, OH, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-sherwin-williams-2629003?s=gh-internships-2027) |
-| — | **Airbnb** | Advanced Analytics Intern | United States (+1 more) | Company portals | [apply](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) |
-| — | **Formlabs** | Hardware Systems Integration Intern (Summer 2027) | Somerville, MA | Company portals | [apply](https://job-boards.greenhouse.io/formlabsinternships/jobs/8381595) |
+| today | **Bloom Energy** | Data Science Intern | San Jose, CA (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1vm) |
+| today | **MKS Instruments** | Software Engineer Co-op | Andover, MA | vanshb03 | [apply](https://go.vansh.nyc/1vn) |
+| today | **Northrop Grumman** | 2027 Industrial Engineering Intern - Elkridge MD | United States-Maryland-Elkridge | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260314?s=gh-internships-2027) |
+| — | **Samsung** | Intern, AI System Architecture Research Scientist | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003) |
 
 ## Watched company portals
 
