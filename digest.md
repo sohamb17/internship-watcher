@@ -1,12 +1,28 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 05:31 UTC · 1 new listing_
+_Updated 2026-11-11 06:01 UTC · 17 new listings_
 
-## New listings (1) — newest first
+## New listings (17) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Daimler Truck** | Heavy Duty Engine Assembly Industrial Engineer Intern | Detroit, MI US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20655?s=gh-internships-2027) |
+| 1d ago | **Eightfold AI** | Intern Software Developer (University) | Santa Monica, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3e759fee40b4fffbdca62?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Haskell** | AI Engineering Design Intern | Jacksonville, FL | vanshb03 | [apply](https://go.vansh.nyc/1tj) |
+| 20d ago | **Ursa Major** | IT Infrastructure & Automation Intern | Berthoud, CO | vanshb03 | [apply](https://go.vansh.nyc/1tM) |
+| 22d ago | **Bosch** | Embedded AI Software Engineering Co-op | Fountain Inn, SC | vanshb03 | [apply](https://go.vansh.nyc/1tK) |
+| 22d ago | **Nintendo** | Business Intelligence Intern | Redmond, WA | vanshb03 | [apply](https://go.vansh.nyc/1tL) |
+| 27d ago | **Indie** | Design Verification Engineer Intern | Aliso Viejo, CA | vanshb03 | [apply](https://go.vansh.nyc/1td) |
+| 27d ago | **Interstates** | Cyber Security Intern | Sioux Falls, SD | vanshb03 | [apply](https://go.vansh.nyc/1tI) |
+| 28d ago | **Wing** | Machine Learning Engineering Intern | Palo Alto, CA | vanshb03 | [apply](https://go.vansh.nyc/1tH) |
+| 29d ago | **Wing** | Data Infrastructure Software Engineering Intern | Palo Alto, CA | vanshb03 | [apply](https://go.vansh.nyc/1tD) |
+| 33d ago | **Wing** | Data Scientist Intern | Palo Alto, CA | vanshb03 | [apply](https://go.vansh.nyc/1tB) |
+| 47d ago | **Arista Networks** | Hardware Engineering Intern | Nashua, NH | vanshb03 | [apply](https://go.vansh.nyc/1tu) |
+| 53d ago | **LLNL** | Computing Undergraduate Intern - DevOps | Livermore, CA | vanshb03 | [apply](https://go.vansh.nyc/1ts) |
+| 54d ago | **American Equity Investment Life Insurance Company** | IT Intern - Information Security | Des Moines, IA | vanshb03 | [apply](https://go.vansh.nyc/1tq) |
+| 54d ago | **American Equity Investment Life Insurance Company** | IT Intern - SAP Security | Des Moines, IA | vanshb03 | [apply](https://go.vansh.nyc/1tr) |
+| 56d ago | **LLNL** | Data Science Institute Undergraduate Intern | Livermore, CA | vanshb03 | [apply](https://go.vansh.nyc/1tp) |
+| 173d ago | **Apple** | Hardware Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1tl) |
+| 173d ago | **Apple** | Hardware Technologies Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1tk) |
 
 ## Watched company portals
 
