@@ -1,18 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 18:31 UTC · 7 new listings_
+_Updated 2026-11-11 19:01 UTC · 4 new listings_
 
-## New listings (7) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bose** | Data Engineer Co-Op | US MA   Framingham (+1 more) | Company portals | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270) |
-| today | **Genentech** | 2027 Summer Intern - Biostatistics and Analytical Data Sciences | South San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-128787?s=gh-internships-2027) |
-| today | **Genentech** | 2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments | South San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-128790?s=gh-internships-2027) |
-| today | **IBM** | AI deployment and foundry enablement engineering - Intern 2027 | Albany, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aecb098ab48a7079381d613?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Research Intern 2027 – GPU Acceleration for Quantum Computing Applications | Yorktown Heights, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ada18e603d2da7528911a17?utm_campaign=1079&utm_source=git) |
-| today | **Northrop Grumman** | 2027 Propulsion Engineering Intern - Promontory UT | United States Utah Corinne | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260223?s=gh-internships-2027) |
-| — | **Arcesium** | Technology Operations Intern | New York (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007) |
+| today | **ICF** | Data Analytics Intern | Reston, VA / Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1uQ) |
+| today | **Riot Games** | Machine Learning Engineering Intern (Masters/PhD) - Summer 2027 | Los Angeles, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-riotgames-8356771?s=gh-internships-2027) |
+| today | **RTX** | Electrical (FCS Hardware) Engineering Intern (Summer 2027)(Onsite) | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815) |
+| 1d ago | **7-Eleven** | Enterprise Technology Intern | Irving, TX | vanshb03 | [apply](https://go.vansh.nyc/1uR) |
 
 ## Watched company portals
 
