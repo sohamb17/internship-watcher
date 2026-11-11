@@ -1,14 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 04:31 UTC · 3 new listings_
+_Updated 2026-11-11 05:01 UTC · 1 new listing_
 
-## New listings (3) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Classifiedy** | Software QA Engineer - Unpaid Internship (Email us) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3d25e769e9374033c9f32?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Encore** | IT Application Development Intern – Summer 2027 | Schiller Park, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3ceecf6053e296fc80180?utm_campaign=1079&utm_source=git) |
-| — | **Astranis** | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | Company portals | [apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
+| — | **General Dynamics Mission Systems** | Linux Automation Intern, Linux Integration and Test Engineer | San Antonio | nointernship.com | [apply](https://go.vansh.nyc/1qr?s=y) |
 
 ## Watched company portals
 
