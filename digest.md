@@ -1,25 +1,27 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 00:01 UTC · 14 new listings_
+_Updated 2026-11-11 00:31 UTC · 16 new listings_
 
-## New listings (14) — newest first
+## New listings (16) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Meta** | Research Intern - Neural Network Training and Hardware-Software Co-Design | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1560905132724186) |
-| today | **NVIDIA** | Financial Analyst Intern, Hardware FP&A - Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029523?s=gh-internships-2027) |
-| today | **McDonald's** | Software Development Engineer Intern | Chicago, IL (+2 more) | SimplifyJobs | [apply](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors) |
-| today | **Philips** | Intern –Systems Engineering, Oral Healthcare – Bothell, WA – Summer 2027 | Bothell, Washington, United States | Company portals | [apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bothell-Washington-United-States/Intern--Systems-Engineering--Oral-Healthcare---Bothell--WA---Summer-2027_592938) |
-| today | **Riot Games** | Motion Graphics Art Intern - Summer 2027 | Los Angeles, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-riotgames-8356815?s=gh-internships-2027) |
-| today | **Texas Instruments** | Product Marketing Engineer Intern - Marketing | Dallas, TX | SimplifyJobs | [apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019924) |
-| 1d ago | **Entegris** | Filtration Portfolio Automation Intern | Billerica, MA | SimplifyJobs | [apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Filtration-Portfolio-Automation-Intern_REQ-15840) |
-| 1d ago | **Eversource Energy** | GIS Intern | Manchester, NH | SimplifyJobs | [apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer--GIS-Intern--NH-_R-032537) |
-| 1d ago | **General Motors** | Software Engineer Intern - Machine Learning Engineer - Embodied AI | Sunnyvale, CA | SimplifyJobs | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) |
-| 1d ago | **Jabil** | AI Agent Developer Intern - Supply Chain IT - AI & Enablement | St. Petersburg, FL | SimplifyJobs | [apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
-| 1d ago | **McDonald's** | Software Engineer Intern | Chicago, IL (+1 more) | SimplifyJobs | [apply](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors) |
-| 1d ago | **PACCAR** | 2027 Summer Internship: Engineering Systems | Denton, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3964880020ca3a89772ae?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Walmart** | Data Science & Data Analytics Intern, Last Mile Delivery | Bentonville, AR | vanshb03 | [apply](https://go.vansh.nyc/1sh) |
-| 54d ago | **Centene** | Analytics Intern | Florida | SimplifyJobs | [apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
+| today | **Allen Lund Company** | Customer Service Systems and Process Audit Intern | Orlando, FL | SimplifyJobs | [apply](https://allenlundcompany.applytojob.com/apply/At334EGZh0/Customer-Service-Systems-Intern) |
+| today | **Art of Problem Solving** | Data Science Intern | San Diego, CA | SimplifyJobs | [apply](https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003) |
+| today | **ASML** | Internship - Electromechanical Engineer | Wilton, CT, USA (+1 more) | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Internship---Electromechanical-Engineer_J-00356069) |
+| today | **DwyerOmega** | Applied AI Intern | Remote in USA | SimplifyJobs | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662) |
+| today | **General Dynamics Information Technology** | AI/ML Business Intelligence Development Intern | Bossier City, LA | SimplifyJobs | [apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) |
+| today | **International** | Artificial Intelligence/Machine Learning Intern | Lisle, IL | SimplifyJobs | [apply](https://careers.international.com/jobs/60456?icims=1&lang=en-us) |
+| today | **Motorola Solutions** | IT M&A Integration Analyst - 2027 Summer Internship (Chicago Hybrid) | Chicago, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70464?s=gh-internships-2027) |
+| today | **Northrop Grumman** | 2027 Optics/Photonic Engineering Intern - Apopka FL | United States-Florida-Apopka | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260049?s=gh-internships-2027) |
+| 1d ago | **Echo Global Logistics** | Software Engineer Intern | United States | SimplifyJobs | [apply](https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1) |
+| 1d ago | **JMP Statistical Discovery** | C++ Software Development Intern | Cary, NC | SimplifyJobs | [apply](https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false) |
+| 1d ago | **Rambus** | Product Engineer Intern | San Jose, CA | SimplifyJobs | [apply](https://careers-rambus.icims.com/jobs/23119/job?mobile=true&needsRedirect=false) |
+| 1d ago | **Vizient** | Spend Management Insights Intern | Irving, TX | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Spend-Management-Insights_36212R) |
+| 13d ago | **Micron Technology** | Data Scientist New Grad - AI for Business Functions | Boise, ID | SimplifyJobs | [apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682) |
+| 19d ago | **Toyota Research Institute** | Robotics Intern, Human Aware Interactions and Learning | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/71e99c38-aa29-4414-956d-cc526644b9b7) |
+| 25d ago | **CenturyLink** | AI & Automation Builders Internship | Remote in USA | SimplifyJobs | [apply](https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors) |
+| 56d ago | **Elire** | AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data | Remote in USA / Minneapolis, MN | SimplifyJobs | [apply](https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false) |
 
 ## Watched company portals
 
