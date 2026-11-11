@@ -1,17 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 16:31 UTC · 6 new listings_
+_Updated 2026-11-11 17:01 UTC · 4 new listings_
 
-## New listings (6) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AstraZeneca** | Biologics Engineering, Computational and Experimental Design of Multispecific Antibodies Intern | Gaithersburg - MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264042?s=gh-internships-2027) |
-| today | **Bose** | Digital Signal Processing ML Software Development Co-op | US, MA - Framingham | Company portals | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372) |
-| today | **Dow Chemical Company** | Infrastructure Mapping & Data Quality Co-op | Midland, MI | SimplifyJobs | [apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169) |
-| today | **Hitachi** | Intern - Component Engineering | Pittsburgh, Pennsylvania,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0149585?s=gh-internships-2027) |
-| today | **The Marzetti Company** | AI Solutions Intern - Human Resources | Columbus, OH | SimplifyJobs | [apply](https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us) |
-| — | **Brex** | Software Engineer, Intern  (Summer 2027) | San Francisco, California, United States | Company portals | [apply](https://www.brex.com/careers/8936403002?gh_jid=8936403002) |
+| today | **RTX** | Aftermarket & Sustainment Engineering Methods Engineering Intern (Summer 2027)(Onsite) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01887864) |
+| today | **RTX** | Operations Engineering Intern (Summer 2027) | US-NM-FARMINGTON-426S ~ 10059 Hwy 371 S ~ SOUTH BLDG | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570) |
+| today | **Vontier** | Engineering Intern - Software Engineering (Summer 2027) | Simsbury, CT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea8a48897466e69e31ff6d?utm_campaign=1079&utm_source=git) |
+| today | **Vontier** | Engineering Intern - Software Quality Assurance Engineering (Summer 2027) | Greensboro, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad8015b54bbabbab07049e3?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
