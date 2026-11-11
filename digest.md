@@ -1,13 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 03:01 UTC · 2 new listings_
+_Updated 2026-11-11 03:31 UTC · 3 new listings_
 
-## New listings (2) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Tesla** | Software Developer Intern - IT Apps | Fremont, CA | SimplifyJobs | [apply](https://www.tesla.com/careers/search/job/289683) |
-| today | **Bask Health** | AI Product Intern | Remote in USA | SimplifyJobs | [apply](https://apply.workable.com/bask-health-1/j/9D7E69054E/apply) |
+| today | **TikTok** | Platform Campaign Project Intern<br>Master's | Seattle, WA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7706422460086159669) |
+| 1d ago | **Liebherr USA** | Software Development Intern | Newport News, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3c4d080020ca3a8978f0e?utm_campaign=1079&utm_source=git) |
+| 3d ago | **Formulary Financial** | Software Engineer Intern | NYC | SimplifyJobs | [apply](https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true) |
 
 ## Watched company portals
 
