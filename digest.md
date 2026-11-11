@@ -1,14 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 15:31 UTC · 3 new listings_
+_Updated 2026-11-11 16:01 UTC · 6 new listings_
 
-## New listings (3) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Eaton** | Design Engineer Internship (Summer 2027) | Beltsville, Maryland, USA, 20705 | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-eaton-687240116405?s=gh-internships-2027) |
-| today | **GlobalFoundries** | AI Processor Hardware/Software Integration Engineer Intern (Summer 2027) | USA - Texas - Richardson | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028) |
-| today | **ICF** | 2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA) | Reston, VA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603312?s=gh-internships-2027) |
+| today | **Celestica** | Student Intern, Software Testing Job Details / Celestica International LP | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adb9561c5c64fa3d9cb02d4?utm_campaign=1079&utm_source=git) |
+| today | **Greystone** | Full Stack Engineer Intern - Summer 2027 | Warrenton, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad77e2c54bbabbab06fee62?utm_campaign=1079&utm_source=git) |
+| today | **Piedmont Airlines** | Safety Data Analytics Intern | Charlotte, NC | SimplifyJobs | [apply](https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014574) |
+| today | **Rockwell Automation** | Software Developer/Engineering Intern | Mequon, WI | SimplifyJobs | [apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2) |
+| today | **Siemens** | Software Engineer Intern - Summer 2027 | United States | Jobright | [apply](https://jobright.ai/jobs/info/6ada0900e4b94611ab8587fd?utm_campaign=1079&utm_source=git) |
+| today | **State of Wisconsin Investment Board** | Data Analytics Engineering Intern | Madison, WI | vanshb03 | [apply](https://go.vansh.nyc/1uG) |
 
 ## Watched company portals
 
