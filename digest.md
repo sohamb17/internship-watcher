@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 05:01 UTC · 1 new listing_
+_Updated 2026-11-11 05:31 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| — | **General Dynamics Mission Systems** | Linux Automation Intern, Linux Integration and Test Engineer | San Antonio | nointernship.com | [apply](https://go.vansh.nyc/1qr?s=y) |
+| today | **Daimler Truck** | Heavy Duty Engine Assembly Industrial Engineer Intern | Detroit, MI US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20655?s=gh-internships-2027) |
 
 ## Watched company portals
 
