@@ -1,8 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 02:01 UTC · 0 new listings_
+_Updated 2026-11-11 02:31 UTC · 3 new listings_
 
-Nothing new this run.
+## New listings (3) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Aerospace** | 2027 Enterprise Performance Modeling and Simulation Graduate Intern | Colorado Springs, CO (+1 more) | Company portals | [apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/Colorado-Springs-CO/XMLNAME-2027-Enterprise-Performance-Modeling-and-Simulation-Graduate-Intern_R016942) |
+| 1d ago | **Aggregate Resource Industries, Inc.** | Business Technology & AI Intern | Springfield, OR, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3b78c80020ca3a8978910?utm_campaign=1079&utm_source=git) |
+| 1d ago | **SAS** | JMP 2027 Summer Internship; C++ Software Development | Cary, NC, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af3b73ef6053e296fc7f76a?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
