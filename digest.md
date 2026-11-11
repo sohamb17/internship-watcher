@@ -1,15 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 22:31 UTC · 4 new listings_
+_Updated 2026-11-11 23:01 UTC · 7 new listings_
 
-## New listings (4) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bloom Energy** | Data Science Intern | San Jose, CA (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1vm) |
-| today | **MKS Instruments** | Software Engineer Co-op | Andover, MA | vanshb03 | [apply](https://go.vansh.nyc/1vn) |
-| today | **Northrop Grumman** | 2027 Industrial Engineering Intern - Elkridge MD | United States-Maryland-Elkridge | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260314?s=gh-internships-2027) |
-| — | **Samsung** | Intern, AI System Architecture Research Scientist | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003) |
+| today | **Bask Health** | Backend Engineering Intern | United States (Remote) | zshah101 | [apply](https://apply.workable.com/bask-health-1/j/98DB106D88/) |
+| today | **Bask Health** | Software Engineering Intern | United States (Remote) | zshah101 | [apply](https://apply.workable.com/bask-health-1/j/E81C7F7D3B/) |
+| today | **HUB International** | AI Engineering Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1vr) |
+| today | **Minitab** | Software Quality Engineer Intern | State College, Pennsylvania, United States | zshah101 | [apply](https://job-boards.greenhouse.io/minitab/jobs/8200698003) |
+| today | **NISC** | Intern - Software Development | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a98601b11f73b6462c8e4cb?utm_campaign=1079&utm_source=git) |
+| today | **Shive-Hattery** | Internship - Software Development | Iowa City, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4cd5b2278454e18c386d5?utm_campaign=1079&utm_source=git) |
+| today | **Vertiv** | Software Engineering Intern (Graduate) (Summer 2027) | Huntsville, AL, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-vertiv-20284817?s=gh-internships-2027) |
 
 ## Watched company portals
 
