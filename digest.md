@@ -1,31 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 19:31 UTC · 20 new listings_
+_Updated 2026-11-11 20:01 UTC · 2 new listings_
 
-## New listings (20) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Danfoss** | Software Engineering Intern | Minneapolis, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af49b07cd7be4db20d86af0?utm_campaign=1079&utm_source=git) |
-| today | **HiArc** | Intern - Software Engineering- Summer 2027 | Merrimack, NH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af49ba9cbd2ee75d155b592?utm_campaign=1079&utm_source=git) |
-| today | **omniXM** | Intern - Software Engineer | Orem, UT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af49a831b2c5dcbbcd6250f?utm_campaign=1079&utm_source=git) |
-| today | **Riot Games** | Anti-Cheat Engineering Intern (Masters/PhD) - Summer 2027 | Los Angeles, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-riotgames-8356789?s=gh-internships-2027) |
-| today | **Riot Games** | Rendering Technical Art Intern (Lighting), League of Legends - Summer 2027 | Los Angeles, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-riotgames-8356807?s=gh-internships-2027) |
-| 1d ago | **BETA Technologies Summer 2027** | Software, Controls & Autonomy Intern | South Burlington, VT | vanshb03 | [apply](https://go.vansh.nyc/1v3) |
-| 1d ago | **New York Life Insurance** | IBM i Developer Intern | Tampa, FL | vanshb03 | [apply](https://go.vansh.nyc/1v1) |
-| 1d ago | **Penn Engineering** | AI & Data Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1v0) |
-| 1d ago | **SAS** | Summer 2027 - EVAAS Instructional Design e-Learning Developer Intern | Cary, NC (+1 more) | speedyapply | [apply](https://careers-sas.icims.com/jobs/42765/summer-2027---evaas-instructional-design-e-learning-developer-intern/job) |
-| 2d ago | **Trilogy Health Services** | Information Systems Developer of AI Intern | Louisville, KY | speedyapply | [apply](https://trilogycareers-trilogyhs.icims.com/jobs/214624/job) |
-| 13d ago | **Systems Planning and Analysis** | UI/UX Software Intern - Summer 2027 | Alexandria, VA | speedyapply | [apply](https://careers-spa.icims.com/jobs/23699/job) |
-| 23d ago | **Keysight Technologies** | Intern - Photonics Design Software & Automation Engineer - PhD Level | Santa Clara, CA | speedyapply | [apply](https://careers-keysight.icims.com/jobs/54619/job) |
-| 32d ago | **Rivian** | Electrical & Software Systems - Summer 2027 Internships | Palo Alto, CA | speedyapply | [apply](https://us-careers-rivian.icims.com/jobs/34308/job) |
-| 33d ago | **Rivian** | Controls - Automation & Embedded Software - Summer 2027 Internships | Palo Alto, CA | speedyapply | [apply](https://us-careers-rivian.icims.com/jobs/34310/job) |
-| 33d ago | **Rivian** | Software Engineering - Summer 2027 Internships | Palo Alto, CA | speedyapply | [apply](https://us-careers-rivian.icims.com/jobs/34303/job) |
-| 70d ago | **GPC** | Software Engineer - QA Analyst Intern | Birmingham, AL (+1 more) | speedyapply | [apply](https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235) |
-| 70d ago | **GPC** | Web Developer Intern | Birmingham, AL | speedyapply | [apply](https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238) |
-| 71d ago | **GPC** | Cloud SRE Intern | Birmingham, AL | speedyapply | [apply](https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134) |
-| 71d ago | **GPC** | Customer Software Development Intern | Birmingham, AL | speedyapply | [apply](https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135) |
-| 72d ago | **Target** | Store Executive Intern - Store Leadership Intern - St. Cloud - MN - Starting Summer 2027 ​ ​ | Saint Cloud, MN +11 | speedyapply | [apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4201-W-Division-St-Saint-CloudMN-56301-6601/Store-Executive-Intern--Store-Leadership-Intern----St-Cloud--MN--Starting-Summer-2027------_R0000449255) |
+| today | **Genentech** | 2027 Summer Intern - Product Development Data Sciences | Boston | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-128802?s=gh-internships-2027) |
+| today | **Riot Games** | Rendering Technical Art Intern, League of Legends - Summer 2027 | Los Angeles, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-riotgames-8356830?s=gh-internships-2027) |
 
 ## Watched company portals
 
