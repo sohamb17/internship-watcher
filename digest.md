@@ -1,11 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 06:01 UTC · 17 new listings_
+_Updated 2026-11-11 06:31 UTC · 19 new listings_
 
-## New listings (17) — newest first
+## New listings (19) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **Welltower** | Cyber Security Intern | Frisco, TX | vanshb03 | [apply](https://go.vansh.nyc/1uw) |
 | 1d ago | **Eightfold AI** | Intern Software Developer (University) | Santa Monica, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3e759fee40b4fffbdca62?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Haskell** | AI Engineering Design Intern | Jacksonville, FL | vanshb03 | [apply](https://go.vansh.nyc/1tj) |
 | 20d ago | **Ursa Major** | IT Infrastructure & Automation Intern | Berthoud, CO | vanshb03 | [apply](https://go.vansh.nyc/1tM) |
@@ -21,8 +22,9 @@ _Updated 2026-11-11 06:01 UTC · 17 new listings_
 | 54d ago | **American Equity Investment Life Insurance Company** | IT Intern - Information Security | Des Moines, IA | vanshb03 | [apply](https://go.vansh.nyc/1tq) |
 | 54d ago | **American Equity Investment Life Insurance Company** | IT Intern - SAP Security | Des Moines, IA | vanshb03 | [apply](https://go.vansh.nyc/1tr) |
 | 56d ago | **LLNL** | Data Science Institute Undergraduate Intern | Livermore, CA | vanshb03 | [apply](https://go.vansh.nyc/1tp) |
-| 173d ago | **Apple** | Hardware Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1tl) |
-| 173d ago | **Apple** | Hardware Technologies Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1tk) |
+| 63d ago | **Navy Federal** | Associate Information Security Analyst Intern | Vienna, VA | vanshb03 | [apply](https://go.vansh.nyc/1us) |
+| 63d ago | **Navy Federal** | Associate Product Security Engineer Intern | Vienna, VA | vanshb03 | [apply](https://go.vansh.nyc/1ur) |
+| 63d ago | **Navy Federal** | Associate Zero Trust Information Security Analyst Intern | Vienna, VA | vanshb03 | [apply](https://go.vansh.nyc/1uq) |
 
 ## Watched company portals
 
