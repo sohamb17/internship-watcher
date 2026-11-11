@@ -1,15 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 01:31 UTC · 4 new listings_
+_Updated 2026-11-11 02:00 UTC · 0 new listings_
 
-## New listings (4) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Cisco** | Software Engineer Embedded Systems I Intern | San Jose, CA / Austin, TX / Research Triangle Park, NC | vanshb03 | [apply](https://go.vansh.nyc/1sE) |
-| 1d ago | **Epic** | Software Development Intern | Madison, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3a49610c7aed77861ce54?utm_campaign=1079&utm_source=git) |
-| 1d ago | **JMP** | JMP 2027 Summer Internship; C++ Software Development | Cary, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3a080769e9374033c89e2?utm_campaign=1079&utm_source=git) |
-| 1d ago | **SAP** | SAP iXp Intern - Full-Stack Software Engineer | Palo Alto, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3a2e5f6053e296fc7ef0b?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
