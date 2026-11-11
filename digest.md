@@ -1,12 +1,25 @@
 # Internship watcher — latest
 
-_Updated 2026-11-10 23:31 UTC · 1 new listing_
+_Updated 2026-11-11 00:01 UTC · 14 new listings_
 
-## New listings (1) — newest first
+## New listings (14) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Hook Music** | Machine Learning Engineering Intern, Recommendation Systems | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1sf) |
+| today | **Meta** | Research Intern - Neural Network Training and Hardware-Software Co-Design | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1560905132724186) |
+| today | **NVIDIA** | Financial Analyst Intern, Hardware FP&A - Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029523?s=gh-internships-2027) |
+| today | **McDonald's** | Software Development Engineer Intern | Chicago, IL (+2 more) | SimplifyJobs | [apply](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors) |
+| today | **Philips** | Intern –Systems Engineering, Oral Healthcare – Bothell, WA – Summer 2027 | Bothell, Washington, United States | Company portals | [apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bothell-Washington-United-States/Intern--Systems-Engineering--Oral-Healthcare---Bothell--WA---Summer-2027_592938) |
+| today | **Riot Games** | Motion Graphics Art Intern - Summer 2027 | Los Angeles, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-riotgames-8356815?s=gh-internships-2027) |
+| today | **Texas Instruments** | Product Marketing Engineer Intern - Marketing | Dallas, TX | SimplifyJobs | [apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019924) |
+| 1d ago | **Entegris** | Filtration Portfolio Automation Intern | Billerica, MA | SimplifyJobs | [apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Filtration-Portfolio-Automation-Intern_REQ-15840) |
+| 1d ago | **Eversource Energy** | GIS Intern | Manchester, NH | SimplifyJobs | [apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer--GIS-Intern--NH-_R-032537) |
+| 1d ago | **General Motors** | Software Engineer Intern - Machine Learning Engineer - Embodied AI | Sunnyvale, CA | SimplifyJobs | [apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) |
+| 1d ago | **Jabil** | AI Agent Developer Intern - Supply Chain IT - AI & Enablement | St. Petersburg, FL | SimplifyJobs | [apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) |
+| 1d ago | **McDonald's** | Software Engineer Intern | Chicago, IL (+1 more) | SimplifyJobs | [apply](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors) |
+| 1d ago | **PACCAR** | 2027 Summer Internship: Engineering Systems | Denton, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3964880020ca3a89772ae?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Walmart** | Data Science & Data Analytics Intern, Last Mile Delivery | Bentonville, AR | vanshb03 | [apply](https://go.vansh.nyc/1sh) |
+| 54d ago | **Centene** | Analytics Intern | Florida | SimplifyJobs | [apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
 
 ## Watched company portals
 
