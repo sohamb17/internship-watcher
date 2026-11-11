@@ -1,14 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 07:31 UTC · 19 new listings_
+_Updated 2026-11-11 08:01 UTC · 21 new listings_
 
-## New listings (19) — newest first
+## New listings (21) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **BAE Systems** | Hardware Engineering Intern III, Summer 2027 (Onsite) | San Diego, California | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-129896BR?s=gh-internships-2027) |
 | today | **Welltower** | Cyber Security Intern | Frisco, TX | vanshb03 | [apply](https://go.vansh.nyc/1uw) |
 | 1d ago | **Eightfold AI** | Intern Software Developer (University) | Santa Monica, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3e759fee40b4fffbdca62?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Haskell** | AI Engineering Design Intern | Jacksonville, FL | vanshb03 | [apply](https://go.vansh.nyc/1tj) |
+| 1d ago | **Syncere** | SLAM Engineer | Palo Alto, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4055939bc2e330fdbd01d?utm_campaign=1079&utm_source=git) |
 | 20d ago | **Ursa Major** | IT Infrastructure & Automation Intern | Berthoud, CO | vanshb03 | [apply](https://go.vansh.nyc/1tM) |
 | 22d ago | **Bosch** | Embedded AI Software Engineering Co-op | Fountain Inn, SC | vanshb03 | [apply](https://go.vansh.nyc/1tK) |
 | 22d ago | **Nintendo** | Business Intelligence Intern | Redmond, WA | vanshb03 | [apply](https://go.vansh.nyc/1tL) |
