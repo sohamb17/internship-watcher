@@ -1,17 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 16:01 UTC · 6 new listings_
+_Updated 2026-11-11 16:31 UTC · 6 new listings_
 
 ## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Celestica** | Student Intern, Software Testing Job Details / Celestica International LP | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adb9561c5c64fa3d9cb02d4?utm_campaign=1079&utm_source=git) |
-| today | **Greystone** | Full Stack Engineer Intern - Summer 2027 | Warrenton, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad77e2c54bbabbab06fee62?utm_campaign=1079&utm_source=git) |
-| today | **Piedmont Airlines** | Safety Data Analytics Intern | Charlotte, NC | SimplifyJobs | [apply](https://aaregional.wd503.myworkdayjobs.com/search/job/Charlotte-NC/Safety-Data-Analytics-Intern_R1014574) |
-| today | **Rockwell Automation** | Software Developer/Engineering Intern | Mequon, WI | SimplifyJobs | [apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2) |
-| today | **Siemens** | Software Engineer Intern - Summer 2027 | United States | Jobright | [apply](https://jobright.ai/jobs/info/6ada0900e4b94611ab8587fd?utm_campaign=1079&utm_source=git) |
-| today | **State of Wisconsin Investment Board** | Data Analytics Engineering Intern | Madison, WI | vanshb03 | [apply](https://go.vansh.nyc/1uG) |
+| today | **AstraZeneca** | Biologics Engineering, Computational and Experimental Design of Multispecific Antibodies Intern | Gaithersburg - MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264042?s=gh-internships-2027) |
+| today | **Bose** | Digital Signal Processing ML Software Development Co-op | US, MA - Framingham | Company portals | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372) |
+| today | **Dow Chemical Company** | Infrastructure Mapping & Data Quality Co-op | Midland, MI | SimplifyJobs | [apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169) |
+| today | **Hitachi** | Intern - Component Engineering | Pittsburgh, Pennsylvania,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0149585?s=gh-internships-2027) |
+| today | **The Marzetti Company** | AI Solutions Intern - Human Resources | Columbus, OH | SimplifyJobs | [apply](https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us) |
+| — | **Brex** | Software Engineer, Intern  (Summer 2027) | San Francisco, California, United States | Company portals | [apply](https://www.brex.com/careers/8936403002?gh_jid=8936403002) |
 
 ## Watched company portals
 
