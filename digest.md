@@ -1,14 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 03:31 UTC · 3 new listings_
+_Updated 2026-11-11 04:01 UTC · 3 new listings_
 
 ## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **TikTok** | Platform Campaign Project Intern<br>Master's | Seattle, WA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7706422460086159669) |
-| 1d ago | **Liebherr USA** | Software Development Intern | Newport News, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3c4d080020ca3a8978f0e?utm_campaign=1079&utm_source=git) |
-| 3d ago | **Formulary Financial** | Software Engineer Intern | NYC | SimplifyJobs | [apply](https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true) |
+| today | **MITRE** | Intel Policy, Strategy, and Analyst Intern | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R118015?s=gh-internships-2027) |
+| today | **Riot Games** | Data Engineering Intern - Summer 2027 | Los Angeles, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-riotgames-8356716?s=gh-internships-2027) |
+| — | **Royal Bank of Canada** | Capital Markets Quant Summer Associate Intern - Quantitative Technology Services | Remote | nointernship.com | [apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-3) |
 
 ## Watched company portals
 
