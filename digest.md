@@ -1,15 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 17:01 UTC · 4 new listings_
+_Updated 2026-11-11 17:31 UTC · 4 new listings_
 
 ## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **RTX** | Aftermarket & Sustainment Engineering Methods Engineering Intern (Summer 2027)(Onsite) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01887864) |
-| today | **RTX** | Operations Engineering Intern (Summer 2027) | US-NM-FARMINGTON-426S ~ 10059 Hwy 371 S ~ SOUTH BLDG | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570) |
-| today | **Vontier** | Engineering Intern - Software Engineering (Summer 2027) | Simsbury, CT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea8a48897466e69e31ff6d?utm_campaign=1079&utm_source=git) |
-| today | **Vontier** | Engineering Intern - Software Quality Assurance Engineering (Summer 2027) | Greensboro, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad8015b54bbabbab07049e3?utm_campaign=1079&utm_source=git) |
+| today | **BorgWarner** | Enterprise Learning & Development Intern | Auburn Hills - Michigan - USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-borgwarner-borgwarner-careers-R2026-4469?s=gh-internships-2027) |
+| today | **Cigna** | Product Analytics Summer Intern - Start Date: May 24, 2027 | Morris Plains, NJ | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cigna-cignacareers-26010180?s=gh-internships-2027) |
+| today | **Cummins** | Information Technology Co-op Positions | Columbus, IN, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-cummins-2442195?s=gh-internships-2027) |
+| today | **WSP** | Traffic Engineering Intern- Summer 2027 | Chicago, IL, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-wsp-97028?s=gh-internships-2027) |
 
 ## Watched company portals
 
