@@ -1,42 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 14:01 UTC · 31 new listings_
+_Updated 2026-11-11 14:31 UTC · 3 new listings_
 
-## New listings (31) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **BAE Systems** | Hardware Engineering Intern III, Summer 2027 (Onsite) | San Diego, California | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-129896BR?s=gh-internships-2027) |
-| today | **ICF International** | 2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA) | Reston, VA | Company portals | [apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1) |
-| today | **Lowe's Companies, Inc.** | Quality Assurance Engineering - Undergrad Internship - Summer 2027 | Mooresville, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aba86741acb8fc6f09c0052?utm_campaign=1079&utm_source=git) |
-| today | **REGENT** | State Estimation Intern | North Kingstown, RI | SimplifyJobs | [apply](https://jobs.ashbyhq.com/regent/8c76e568-34ce-49d0-ade8-fcc6bdf656cf/application?embed=true) |
-| today | **SHOPLINE** | AI Skill Developer Intern | United States | SimplifyJobs | [apply](https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern) |
-| today | **Welltower** | Cyber Security Intern | Frisco, TX | vanshb03 | [apply](https://go.vansh.nyc/1uw) |
-| 1d ago | **ECZ Management Partners** | Technology Internship | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af41b0ee841cc0145ad767b?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Eightfold AI** | Intern Software Developer (University) | Santa Monica, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3e759fee40b4fffbdca62?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Haskell** | AI Engineering Design Intern | Jacksonville, FL | vanshb03 | [apply](https://go.vansh.nyc/1tj) |
-| 1d ago | **Syncere** | SLAM Engineer | Palo Alto, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4055939bc2e330fdbd01d?utm_campaign=1079&utm_source=git) |
-| 2d ago | **BAE Systems** | Software Developer Intern III, Summer 2027 (Onsite) | Rome, New York | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-129774BR?s=gh-internships-2027) |
-| 5d ago | **BAE Systems** | Electronic Systems Finance Intern III, Summer 2027 | Nashua, New Hampshire | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-129972BR?s=gh-internships-2027) |
-| 8d ago | **Trilogy Health Services** | Value Based Care Finance Intern | Louisville, KY | SimplifyJobs | [apply](https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us) |
-| 20d ago | **Ursa Major** | IT Infrastructure & Automation Intern | Berthoud, CO | vanshb03 | [apply](https://go.vansh.nyc/1tM) |
-| 22d ago | **Bosch** | Embedded AI Software Engineering Co-op | Fountain Inn, SC | vanshb03 | [apply](https://go.vansh.nyc/1tK) |
-| 22d ago | **Nintendo** | Business Intelligence Intern | Redmond, WA | vanshb03 | [apply](https://go.vansh.nyc/1tL) |
-| 27d ago | **Indie** | Design Verification Engineer Intern | Aliso Viejo, CA | vanshb03 | [apply](https://go.vansh.nyc/1td) |
-| 27d ago | **Interstates** | Cyber Security Intern | Sioux Falls, SD | vanshb03 | [apply](https://go.vansh.nyc/1tI) |
-| 28d ago | **Wing** | Machine Learning Engineering Intern | Palo Alto, CA | vanshb03 | [apply](https://go.vansh.nyc/1tH) |
-| 29d ago | **Wing** | Data Infrastructure Software Engineering Intern | Palo Alto, CA | vanshb03 | [apply](https://go.vansh.nyc/1tD) |
-| 33d ago | **Wing** | Data Scientist Intern | Palo Alto, CA | vanshb03 | [apply](https://go.vansh.nyc/1tB) |
-| 47d ago | **Arista Networks** | Hardware Engineering Intern | Nashua, NH | vanshb03 | [apply](https://go.vansh.nyc/1tu) |
-| 53d ago | **LLNL** | Computing Undergraduate Intern - DevOps | Livermore, CA | vanshb03 | [apply](https://go.vansh.nyc/1ts) |
-| 54d ago | **American Equity Investment Life Insurance Company** | IT Intern - Information Security | Des Moines, IA | vanshb03 | [apply](https://go.vansh.nyc/1tq) |
-| 54d ago | **American Equity Investment Life Insurance Company** | IT Intern - SAP Security | Des Moines, IA | vanshb03 | [apply](https://go.vansh.nyc/1tr) |
-| 56d ago | **Elire** | AI Software Developer Intern - Multiple Teams | Remote in USA / Minneapolis, MN | SimplifyJobs | [apply](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false) |
-| 56d ago | **LLNL** | Data Science Institute Undergraduate Intern | Livermore, CA | vanshb03 | [apply](https://go.vansh.nyc/1tp) |
-| 63d ago | **Navy Federal** | Associate Data Scientist Intern | Vienna, VA | vanshb03 | [apply](https://go.vansh.nyc/1ux) |
-| 63d ago | **Navy Federal** | Associate Information Security Analyst Intern | Vienna, VA | vanshb03 | [apply](https://go.vansh.nyc/1us) |
-| 63d ago | **Navy Federal** | Associate Product Security Engineer Intern | Vienna, VA | vanshb03 | [apply](https://go.vansh.nyc/1ur) |
-| 63d ago | **Navy Federal** | Associate Zero Trust Information Security Analyst Intern | Vienna, VA | vanshb03 | [apply](https://go.vansh.nyc/1uq) |
+| today | **RTX** | Software Engineering Intern (ISET-IN-2) | US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017) |
+| 2d ago | **BAE Systems** | Engineering Intern III, Summer 2027 | Endicott, New York | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-129873BR?s=gh-internships-2027) |
+| 5d ago | **BAE Systems** | Business Analyst Intern III, Summer 2027 (Remote) | Endicott, New York | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-129379BR?s=gh-internships-2027) |
 
 ## Watched company portals
 
