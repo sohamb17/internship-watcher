@@ -1,19 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 21:01 UTC · 8 new listings_
+_Updated 2026-11-11 21:31 UTC · 6 new listings_
 
-## New listings (8) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bloom Energy** | Utilities Analyst Intern | San Jose, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25348?s=gh-internships-2027) |
-| today | **Deutsche Bank** | Deutsche Bank Internship Programme - Technology, Data and Innovation (TDI) – Cary 2027 | Cary, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a83b5519b859b22776706eb?utm_campaign=1079&utm_source=git) |
-| today | **Punch Through** | Cloud Software Engineer Intern | Greater Minneapolis–St. Paul Area, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4b0033a9a26aee709fb68?utm_campaign=1079&utm_source=git) |
-| today | **Riot Games** | Insights Analyst Intern, League of Legends - Summer 2027 | Los Angeles, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-riotgames-8356372?s=gh-internships-2027) |
-| today | **Riot Games** | Technical Game Design Intern, League of Legends and Teamfight Tactics - Summer 2027 | Los Angeles, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-riotgames-8356525?s=gh-internships-2027) |
-| today | **Zotec Partners** | Software Engineer Intern | Carmel, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4b2252278454e18c37a2e?utm_campaign=1079&utm_source=git) |
-| today | **Zotec Partners** | Software Engineer Intern, RCI | Carmel, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4b2242278454e18c37a2b?utm_campaign=1079&utm_source=git) |
-| — | **Farmers Mutual Hail** | AI Intern | West Des Moines, IA | Company portals | [apply](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404387009) |
+| today | **Microsoft** | Applied Science: PhD Internship Opportunities - Multiple Locations | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200053343?s=gh-internships-2027) |
+| today | **Lightmatter** | Laser Firmware Intern - Summer 2027 | Boston, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lightmatter-5479596008?s=gh-internships-2027) |
+| today | **Lightmatter** | Photonics Engineer Intern - Summer 2027 | Boston, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lightmatter-5479605008?s=gh-internships-2027) |
+| today | **Moog** | Intern, Design Engineering | Blacksburg, VA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-21242?s=gh-internships-2027) |
+| today | **PTC** | Creo Graphics Engineering Intern (Summer 2027) | Boston, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ptc-ptc-JR112970?s=gh-internships-2027) |
+| — | **Parsons** | Fire Protection Engineer Intern - Summer 2027 | CA, Pasadena, R188315 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-parsons-search-R188315?s=gh-internships-2027) |
 
 ## Watched company portals
 
