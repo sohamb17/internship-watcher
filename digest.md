@@ -1,18 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 23:01 UTC · 7 new listings_
+_Updated 2026-11-11 23:31 UTC · 5 new listings_
 
-## New listings (7) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bask Health** | Backend Engineering Intern | United States (Remote) | zshah101 | [apply](https://apply.workable.com/bask-health-1/j/98DB106D88/) |
-| today | **Bask Health** | Software Engineering Intern | United States (Remote) | zshah101 | [apply](https://apply.workable.com/bask-health-1/j/E81C7F7D3B/) |
-| today | **HUB International** | AI Engineering Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1vr) |
-| today | **Minitab** | Software Quality Engineer Intern | State College, Pennsylvania, United States | zshah101 | [apply](https://job-boards.greenhouse.io/minitab/jobs/8200698003) |
-| today | **NISC** | Intern - Software Development | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a98601b11f73b6462c8e4cb?utm_campaign=1079&utm_source=git) |
-| today | **Shive-Hattery** | Internship - Software Development | Iowa City, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4cd5b2278454e18c386d5?utm_campaign=1079&utm_source=git) |
-| today | **Vertiv** | Software Engineering Intern (Graduate) (Summer 2027) | Huntsville, AL, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-vertiv-20284817?s=gh-internships-2027) |
+| today | **Bristol Myers Squibb** | Data & Quantitative Sciences Intern-Summer 2027 | Princeton NJ US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608215?s=gh-internships-2027) |
+| today | **RTX** | Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite) | US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316) |
+| today | **Toyota Research Institute** | Future Product Innovation Research Intern, Human Computer Interaction | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/e01def2d-0ee0-4f24-bf38-0b52a8047ea7) |
+| today | **Toyota Research Institute** | Future Product Innovation Research Intern, Human-AI Computational Design | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2) |
+| today | **Zotec Partners** | Database Engineer Intern | Carmel, IN | vanshb03 | [apply](https://go.vansh.nyc/1vs) |
 
 ## Watched company portals
 
