@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 13:31 UTC · 30 new listings_
+_Updated 2026-11-11 14:01 UTC · 31 new listings_
 
-## New listings (30) — newest first
+## New listings (31) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **BAE Systems** | Hardware Engineering Intern III, Summer 2027 (Onsite) | San Diego, California | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-129896BR?s=gh-internships-2027) |
+| today | **ICF International** | 2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA) | Reston, VA | Company portals | [apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1) |
 | today | **Lowe's Companies, Inc.** | Quality Assurance Engineering - Undergrad Internship - Summer 2027 | Mooresville, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aba86741acb8fc6f09c0052?utm_campaign=1079&utm_source=git) |
 | today | **REGENT** | State Estimation Intern | North Kingstown, RI | SimplifyJobs | [apply](https://jobs.ashbyhq.com/regent/8c76e568-34ce-49d0-ade8-fcc6bdf656cf/application?embed=true) |
 | today | **SHOPLINE** | AI Skill Developer Intern | United States | SimplifyJobs | [apply](https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern) |
