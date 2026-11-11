@@ -1,14 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 14:31 UTC · 3 new listings_
+_Updated 2026-11-11 15:01 UTC · 3 new listings_
 
 ## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **RTX** | Software Engineering Intern (ISET-IN-2) | US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017) |
-| 2d ago | **BAE Systems** | Engineering Intern III, Summer 2027 | Endicott, New York | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-129873BR?s=gh-internships-2027) |
-| 5d ago | **BAE Systems** | Business Analyst Intern III, Summer 2027 (Remote) | Endicott, New York | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-129379BR?s=gh-internships-2027) |
+| today | **Blizzard Entertainment** | Blizzard 2027 Summer Internships - Animation & Cinematic Tools Engineering | Irvine, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4602674e9e877adee4557?utm_campaign=1079&utm_source=git) |
+| today | **Johnson Controls** | Software Engineering Co-Op | Burlington-Massachusetts-United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jci-jci-EB00075408?s=gh-internships-2027) |
+| today | **Unisys** | Software Engineer Intern | Eagan, MN (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1uC) |
 
 ## Watched company portals
 
