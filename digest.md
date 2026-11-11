@@ -1,14 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 04:01 UTC · 3 new listings_
+_Updated 2026-11-11 04:31 UTC · 3 new listings_
 
 ## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **MITRE** | Intel Policy, Strategy, and Analyst Intern | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R118015?s=gh-internships-2027) |
-| today | **Riot Games** | Data Engineering Intern - Summer 2027 | Los Angeles, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-riotgames-8356716?s=gh-internships-2027) |
-| — | **Royal Bank of Canada** | Capital Markets Quant Summer Associate Intern - Quantitative Technology Services | Remote | nointernship.com | [apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-3) |
+| 1d ago | **Classifiedy** | Software QA Engineer - Unpaid Internship (Email us) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3d25e769e9374033c9f32?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Encore** | IT Application Development Intern – Summer 2027 | Schiller Park, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3ceecf6053e296fc80180?utm_campaign=1079&utm_source=git) |
+| — | **Astranis** | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | Company portals | [apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
 
 ## Watched company portals
 
