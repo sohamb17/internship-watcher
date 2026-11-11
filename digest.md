@@ -1,16 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 01:01 UTC · 5 new listings_
+_Updated 2026-11-11 01:31 UTC · 4 new listings_
 
-## New listings (5) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 13d ago | **Syntiant** | Internship - DevOps Machine Learning Infrastructure Engineer | Irvine, California, United States | zshah101 | [apply](https://apply.workable.com/syntiant/j/468B53B345/) |
-| — | **Sedaro** | Compiler Intern, Simulator | Arlington, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/bamboohr-sedarotech-95?s=gh-internships-2027) |
-| — | **Sedaro** | DevOps Intern | Arlington, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/bamboohr-sedarotech-96?s=gh-internships-2027) |
-| — | **Sedaro** | Modeling & Simulation Intern | Arlington, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/bamboohr-sedarotech-94?s=gh-internships-2027) |
-| — | **Sedaro** | Software Engineer Intern | Arlington, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/bamboohr-sedarotech-97?s=gh-internships-2027) |
+| today | **Cisco** | Software Engineer Embedded Systems I Intern | San Jose, CA / Austin, TX / Research Triangle Park, NC | vanshb03 | [apply](https://go.vansh.nyc/1sE) |
+| 1d ago | **Epic** | Software Development Intern | Madison, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3a49610c7aed77861ce54?utm_campaign=1079&utm_source=git) |
+| 1d ago | **JMP** | JMP 2027 Summer Internship; C++ Software Development | Cary, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3a080769e9374033c89e2?utm_campaign=1079&utm_source=git) |
+| 1d ago | **SAP** | SAP iXp Intern - Full-Stack Software Engineer | Palo Alto, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3a2e5f6053e296fc7ef0b?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
