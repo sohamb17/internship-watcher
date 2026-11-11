@@ -1,12 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 18:01 UTC · 1 new listing_
+_Updated 2026-11-11 18:31 UTC · 7 new listings_
 
-## New listings (1) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ICF** | 2027 Summer Intern, Data Analytics (Reston, VA or Remote) | Reston, VA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603382?s=gh-internships-2027) |
+| today | **Bose** | Data Engineer Co-Op | US MA   Framingham (+1 more) | Company portals | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270) |
+| today | **Genentech** | 2027 Summer Intern - Biostatistics and Analytical Data Sciences | South San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-128787?s=gh-internships-2027) |
+| today | **Genentech** | 2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments | South San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-128790?s=gh-internships-2027) |
+| today | **IBM** | AI deployment and foundry enablement engineering - Intern 2027 | Albany, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aecb098ab48a7079381d613?utm_campaign=1079&utm_source=git) |
+| today | **IBM** | Research Intern 2027 – GPU Acceleration for Quantum Computing Applications | Yorktown Heights, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ada18e603d2da7528911a17?utm_campaign=1079&utm_source=git) |
+| today | **Northrop Grumman** | 2027 Propulsion Engineering Intern - Promontory UT | United States Utah Corinne | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260223?s=gh-internships-2027) |
+| — | **Arcesium** | Technology Operations Intern | New York (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007) |
 
 ## Watched company portals
 
