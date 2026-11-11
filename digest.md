@@ -1,14 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 15:01 UTC · 3 new listings_
+_Updated 2026-11-11 15:31 UTC · 3 new listings_
 
 ## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Blizzard Entertainment** | Blizzard 2027 Summer Internships - Animation & Cinematic Tools Engineering | Irvine, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4602674e9e877adee4557?utm_campaign=1079&utm_source=git) |
-| today | **Johnson Controls** | Software Engineering Co-Op | Burlington-Massachusetts-United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jci-jci-EB00075408?s=gh-internships-2027) |
-| today | **Unisys** | Software Engineer Intern | Eagan, MN (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1uC) |
+| today | **Eaton** | Design Engineer Internship (Summer 2027) | Beltsville, Maryland, USA, 20705 | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-eaton-687240116405?s=gh-internships-2027) |
+| today | **GlobalFoundries** | AI Processor Hardware/Software Integration Engineer Intern (Summer 2027) | USA - Texas - Richardson | Company portals | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028) |
+| today | **ICF** | 2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA) | Reston, VA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603312?s=gh-internships-2027) |
 
 ## Watched company portals
 
