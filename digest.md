@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 08:01 UTC · 21 new listings_
+_Updated 2026-11-11 08:31 UTC · 25 new listings_
 
-## New listings (21) — newest first
+## New listings (25) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **BAE Systems** | Hardware Engineering Intern III, Summer 2027 (Onsite) | San Diego, California | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-129896BR?s=gh-internships-2027) |
+| today | **REGENT** | State Estimation Intern | North Kingstown, RI | SimplifyJobs | [apply](https://jobs.ashbyhq.com/regent/8c76e568-34ce-49d0-ade8-fcc6bdf656cf/application?embed=true) |
+| today | **SHOPLINE** | AI Skill Developer Intern | United States | SimplifyJobs | [apply](https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern) |
 | today | **Welltower** | Cyber Security Intern | Frisco, TX | vanshb03 | [apply](https://go.vansh.nyc/1uw) |
 | 1d ago | **Eightfold AI** | Intern Software Developer (University) | Santa Monica, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af3e759fee40b4fffbdca62?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Haskell** | AI Engineering Design Intern | Jacksonville, FL | vanshb03 | [apply](https://go.vansh.nyc/1tj) |
@@ -23,7 +25,9 @@ _Updated 2026-11-11 08:01 UTC · 21 new listings_
 | 53d ago | **LLNL** | Computing Undergraduate Intern - DevOps | Livermore, CA | vanshb03 | [apply](https://go.vansh.nyc/1ts) |
 | 54d ago | **American Equity Investment Life Insurance Company** | IT Intern - Information Security | Des Moines, IA | vanshb03 | [apply](https://go.vansh.nyc/1tq) |
 | 54d ago | **American Equity Investment Life Insurance Company** | IT Intern - SAP Security | Des Moines, IA | vanshb03 | [apply](https://go.vansh.nyc/1tr) |
+| 56d ago | **Elire** | AI Software Developer Intern - Multiple Teams | Remote in USA / Minneapolis, MN | SimplifyJobs | [apply](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false) |
 | 56d ago | **LLNL** | Data Science Institute Undergraduate Intern | Livermore, CA | vanshb03 | [apply](https://go.vansh.nyc/1tp) |
+| 63d ago | **Navy Federal** | Associate Data Scientist Intern | Vienna, VA | vanshb03 | [apply](https://go.vansh.nyc/1ux) |
 | 63d ago | **Navy Federal** | Associate Information Security Analyst Intern | Vienna, VA | vanshb03 | [apply](https://go.vansh.nyc/1us) |
 | 63d ago | **Navy Federal** | Associate Product Security Engineer Intern | Vienna, VA | vanshb03 | [apply](https://go.vansh.nyc/1ur) |
 | 63d ago | **Navy Federal** | Associate Zero Trust Information Security Analyst Intern | Vienna, VA | vanshb03 | [apply](https://go.vansh.nyc/1uq) |
