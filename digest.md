@@ -1,15 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 17:31 UTC · 4 new listings_
+_Updated 2026-11-11 17:57 UTC · 1 new listing_
 
-## New listings (4) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **BorgWarner** | Enterprise Learning & Development Intern | Auburn Hills - Michigan - USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-borgwarner-borgwarner-careers-R2026-4469?s=gh-internships-2027) |
-| today | **Cigna** | Product Analytics Summer Intern - Start Date: May 24, 2027 | Morris Plains, NJ | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cigna-cignacareers-26010180?s=gh-internships-2027) |
-| today | **Cummins** | Information Technology Co-op Positions | Columbus, IN, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-cummins-2442195?s=gh-internships-2027) |
-| today | **WSP** | Traffic Engineering Intern- Summer 2027 | Chicago, IL, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-wsp-97028?s=gh-internships-2027) |
+| today | **ICF International** | 2027 Summer Intern, Data Analytics (Reston, VA or Remote) | Reston, VA | Company portals | [apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) |
 
 ## Watched company portals
 
