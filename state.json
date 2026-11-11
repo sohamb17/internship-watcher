@@ -852,6 +852,50 @@
 "sk": "13b29357-a7a9-4adb-9977-8687dd2a79b9",
 "src": "vansh",
 "url": "https://go.vansh.nyc/1ux"
+},
+{
+"company": "Trilogy Health Services",
+"degrees": [
+"Bachelor's"
+],
+"dk": "trilogyhealthservices|based care finance value",
+"found": 20768,
+"loc": "Louisville, KY",
+"more": null,
+"night": true,
+"posted": 20760,
+"role": "Value Based Care Finance Intern",
+"sk": "76a595e0-ce67-4310-b97a-58c8e96f4b04",
+"src": "simplify",
+"url": "https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us"
+},
+{
+"company": "BAE Systems",
+"degrees": [],
+"dk": "bae|developer iii onsite software",
+"found": 20768,
+"loc": "Rome, New York",
+"more": null,
+"night": true,
+"posted": 20766,
+"role": "Software Developer Intern III, Summer 2027 (Onsite)",
+"sk": "https://zapply.jobs/l/d/phenom-bae-systems-129774BR",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/phenom-bae-systems-129774BR?s=gh-internships-2027"
+},
+{
+"company": "ECZ Management Partners",
+"degrees": [],
+"dk": "eczmanagementpartners|technology",
+"found": 20768,
+"loc": "New York, NY, United States",
+"more": null,
+"night": true,
+"posted": 20767,
+"role": "Technology Internship",
+"sk": "jobright:6af41b0ee841cc0145ad767b",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6af41b0ee841cc0145ad767b?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -1623,6 +1667,7 @@
 "badgermeter|engineer firmware test": 20768,
 "badgermeter|engineering software": 20768,
 "bae|based engineering model space systems": 20768,
+"bae|developer iii onsite software": 20768,
 "bae|electrical engineering": 20759,
 "bae|embedded engineer software": 20768,
 "bae|engineering hardware iii onsite": 20768,
@@ -2656,6 +2701,7 @@
 "ecmtek|developer development python": 20768,
 "ecolab|ai digital technology": 20768,
 "economypolymerschemicals|ai automation business systems": 20768,
+"eczmanagementpartners|technology": 20768,
 "edfenergy|chemistry industrial placement": 20759,
 "edisoninternational|analytics applied data math science": 20768,
 "edisoninternational|computer science": 20768,
@@ -6828,6 +6874,7 @@
 "triafederal|growth operations": 20768,
 "trihydro|developer software": 20763,
 "trilogyhealthservices|ai automated developer information solutions systems": 20768,
+"trilogyhealthservices|based care finance value": 20768,
 "trimble|ai automation": 20768,
 "trimble|ai developer": 20768,
 "trimble|ai development digital learning people": 20768,
@@ -11068,7 +11115,8 @@
 "jobright:6af3e759fee40b4fffbdca62": 20768,
 "jobright:6af3ec1fe841cc0145ad64f6": 20768,
 "jobright:6af4055939bc2e330fdbd01d": 20768,
-"jobright:6af408ed50da4f72009244ab": 20768
+"jobright:6af408ed50da4f72009244ab": 20768,
+"jobright:6af41b0ee841cc0145ad767b": 20768
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -11959,7 +12007,7 @@
 "39f01228-39ab-4e88-b966-1d902f06e97b": 20768,
 "39fa3b6e-c238-4958-a741-72035b1798f4": 20768,
 "3a44b244-cc3e-47ea-9428-137c843acca3": 20763,
-"3a491712-efae-41c7-9cf5-9e0c3367e9e1": 20761,
+"3a491712-efae-41c7-9cf5-9e0c3367e9e1": 20768,
 "3a53411a-544e-46b8-bdcb-b481c9421c49": 20768,
 "3a5ca7be-fe69-4dc6-90df-9bdae4a796cc": 20768,
 "3a86764d-e47b-4475-98c1-ec31081f9a2f": 20768,
@@ -12669,6 +12717,7 @@
 "76662f8c-6f4c-47a6-ac45-6a867a9c86be": 20759,
 "766ce2a6-a1bc-495a-8a83-df65504622c6": 20759,
 "768502d1-3bb6-48fe-8605-2c02c23d8e9e": 20768,
+"76a595e0-ce67-4310-b97a-58c8e96f4b04": 20768,
 "76a9adb2-de1f-4c13-8134-c6ae9614a37d": 20766,
 "76c67bd8-fe68-4164-844f-a009b786af36": 20760,
 "76cd5351-c440-48c5-b2c0-d6cf8f24b499": 20768,
@@ -17660,6 +17709,7 @@
 "https://zapply.jobs/l/d/oracle-wsp-98556": 20759,
 "https://zapply.jobs/l/d/oracle-wsp-98684": 20759,
 "https://zapply.jobs/l/d/phenom-ascension-2026-465181": 20763,
+"https://zapply.jobs/l/d/phenom-bae-systems-129774BR": 20768,
 "https://zapply.jobs/l/d/phenom-bae-systems-129896BR": 20768,
 "https://zapply.jobs/l/d/phenom-bae-systems-130781BR": 20768,
 "https://zapply.jobs/l/d/phenom-bae-systems-132094BR": 20759,
