@@ -1,13 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 04:31 UTC · 2 new listings_
+_Updated 2026-11-12 05:01 UTC · 2 new listings_
 
 ## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| — | **Motorola Solutions** | Embedded Software Engineer Intern | Schaumburg | nointernship.com | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1) |
-| — | **Northrop Grumman** | Optics/Photonic Engineering Intern | Apopka | nointernship.com | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049) |
+| 1d ago | **CHAMP** | Frontend Engineer Intern | Cleveland, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af51dfc1b2c5dcbbcd66b95?utm_campaign=1079&utm_source=git) |
+| 1d ago | **CHAMP** | Intern, Backend Engineering | Cleveland, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af521f82278454e18c3af80?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 

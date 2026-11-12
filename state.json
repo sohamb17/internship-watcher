@@ -1278,7 +1278,7 @@
 "bae|developer iii onsite software": 20769,
 "bae|electrical engineering": 20759,
 "bae|electronic finance iii systems": 20769,
-"bae|embedded engineer software": 20768,
+"bae|embedded engineer software": 20769,
 "bae|engineering hardware iii onsite": 20769,
 "bae|engineering iii": 20769,
 "bae|engineering iii onsite software": 20769,
@@ -1824,6 +1824,8 @@
 "cfsenergy|electrical electromechanical engineer": 20759,
 "cfsenergy|engineer software": 20762,
 "chainlink|research": 20761,
+"champ|backend engineering": 20769,
+"champ|engineer frontend": 20769,
 "charlesriveranalytics|ai scientist": 20761,
 "charlesriveranalytics|scientist": 20761,
 "chartahealth|engineer fde platform software": 20769,
@@ -11003,7 +11005,9 @@
 "jobright:6af4fce8cbd2ee75d155ef73": 20769,
 "jobright:6af502f2cd7be4db20d8a6fa": 20769,
 "jobright:6af50669cbd2ee75d155f30a": 20769,
-"jobright:6af50eca3a9a26aee70a2c84": 20769
+"jobright:6af50eca3a9a26aee70a2c84": 20769,
+"jobright:6af51dfc1b2c5dcbbcd66b95": 20769,
+"jobright:6af521f82278454e18c3af80": 20769
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -17818,7 +17822,7 @@
 "https://zapply.jobs/l/d/phenom-bae-systems-129873BR": 20769,
 "https://zapply.jobs/l/d/phenom-bae-systems-129896BR": 20769,
 "https://zapply.jobs/l/d/phenom-bae-systems-129972BR": 20769,
-"https://zapply.jobs/l/d/phenom-bae-systems-130781BR": 20768,
+"https://zapply.jobs/l/d/phenom-bae-systems-130781BR": 20769,
 "https://zapply.jobs/l/d/phenom-bae-systems-132094BR": 20759,
 "https://zapply.jobs/l/d/phenom-bae-systems-132378BR": 20769,
 "https://zapply.jobs/l/d/phenom-cisco-2024552": 20769,
