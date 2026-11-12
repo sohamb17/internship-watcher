@@ -1,12 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 15:01 UTC · 1 new listing_
+_Updated 2026-11-12 15:31 UTC · 6 new listings_
 
-## New listings (1) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **BAE Systems** | Systems Engineer Intern (Mechanical Focus), Summer 2027 | Rockville, Maryland | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-130026BR?s=gh-internships-2027) |
+| today | **Entegris** | Embedded Software Engineering Intern | Bloomington, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15870?s=gh-internships-2027) |
+| today | **Entegris** | Formulation Scientist, Intern - Summer 2027 | Aurora, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15876?s=gh-internships-2027) |
+| today | **GE Vernova** | Services Internship - Engineering-1 | Remote | Company portals | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Remote/Services-Internship---Engineering-1_R5058534-2) |
+| today | **IBM** | ServiceNow - Intern Application Developer 2027 | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab7020639fd8792cb73d1b6?utm_campaign=1079&utm_source=git) |
+| today | **Johnson Controls** | Computer Science/CAD Intern | Waynesboro-Pennsylvania-United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jci-jci-WD30285046?s=gh-internships-2027) |
+| today | **SharkNinja** | Data Science Intern | Needham, MA | vanshb03 | [apply](https://go.vansh.nyc/1wu) |
 
 ## Watched company portals
 
