@@ -1,21 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 00:31 UTC · 10 new listings_
+_Updated 2026-11-12 00:51 UTC · 2 new listings_
 
-## New listings (10) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bloom Energy** | AI Solutions Engineer Intern | San Jose, CA (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1vK) |
-| today | **Riot Games** | Machine Learning Engineer Intern<br>Master's/PhD | Remote in USA | SimplifyJobs | [apply](https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771) |
-| today | **Shive-Hattery** | Software Developer Intern - Software Development | Iowa City, IA | SimplifyJobs | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619793) |
-| today | **Zotec Partners** | Business Intelligence Intern | Carmel, IN | SimplifyJobs | [apply](https://zotecpartners.applytojob.com/apply/csKRdla8ap/Business-Intelligence-Intern) |
-| 1d ago | **Panera Bread** | Data Science & AI Analytics Intern | Newton, MA | SimplifyJobs | [apply](https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082) |
-| 1d ago | **PTC** | Creo Core Geometry Intern | Boston, MA | SimplifyJobs | [apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Core-Geometry-Intern--Summer-2027-_JR112959) |
-| 1d ago | **San Francisco Data** | Engineer Intern | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/sfdata/20f37c79-b892-46d9-98d9-3588ab45542c/application?embed=true) |
-| 1d ago | **Shield AI** | Engineer 2 New Grad - Software - Autonomy Capabilities | United States | SimplifyJobs | [apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true) |
-| 36d ago | **ICF International** | Data Analytics Intern | Reston, VA | SimplifyJobs | [apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) |
-| — | **SharkNinja** | Summer 2027: Control Systems & Algorithms Intern (May to August) | Needham, MA, United States (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006) |
+| today | **Shive-Hattery** | Software Developer Intern | Iowa City, IA | vanshb03 | [apply](https://go.vansh.nyc/1vU) |
+| today | **StepStone Group** | AI Quant Analyst Intern | La Jolla, CA / San Diego, CA | vanshb03 | [apply](https://go.vansh.nyc/1vT) |
 
 ## Watched company portals
 
