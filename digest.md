@@ -1,14 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 17:31 UTC · 3 new listings_
+_Updated 2026-11-12 18:01 UTC · 11 new listings_
 
-## New listings (3) — newest first
+## New listings (11) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CME Group** | Client Development & Sale Intern - Summer 2027 | New York | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-35042?s=gh-internships-2027) |
-| today | **The Federal Reserve System** | 2027 Summer Internship Program - ASO Professional Development Intern | Atlanta, GA | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---ASO-Professional-Development-Intern_R-0000033893) |
-| today | **Toyota Research Institute** | Robotics Intern, Prototyping and Research Operations | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628) |
+| today | **CME Group** | Software Engineering Fellowship - Summer 2027 | Chicago | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-34824?s=gh-internships-2027) |
+| today | **Elevated Web Design** | Founding Software Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af5e00b80054650a5e799ec?utm_campaign=1079&utm_source=git) |
+| today | **Entegris** | Materials Solutions Engineering Intern - Summer 2027 | Aurora, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15860?s=gh-internships-2027) |
+| today | **Entegris** | Product Development Engineering Intern | Chaska, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15875?s=gh-internships-2027) |
+| today | **Federal Reserve System** | 2027 Summer Internship Program - ASO Professional Development Intern | Atlanta, GA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000033893?s=gh-internships-2027) |
+| today | **KLA** | Electrical Design Engineering Intern | Ann Arbor, MI | Company portals | [apply](https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641709) |
+| today | **Motorola Solutions** | North America (NA) Systems Engineering Operations Internship  - 2027 | Chicago, IL, More... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70657?s=gh-internships-2027) |
+| today | **Partly** | Solutions Engineer Intern, US | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abdd7d9064da25272dff39e?utm_campaign=1079&utm_source=git) |
+| today | **PTC** | Onshape Site Reliability Engineering Intern (Summer 2027) | Boston, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ptc-ptc-JR112926?s=gh-internships-2027) |
+| today | **RTX** | Cryogenic Engineering Intern (Summer 2027) | US-AZ-TUCSON-811A ~ 1151 E Hermans Rd ~ BLDG 811A (External  (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-811A--1151-E-Hermans-Rd--BLDG-811A-External-Site/Cryogenic-Engineering-Intern--Summer-2027-_01888586) |
+| today | **Safran Defense & Space, Inc.** | Enterprise Systems Internship Job Details / Safran DSI | Bedford, NH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ada438d950ef68d51855a82?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
