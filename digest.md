@@ -1,12 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 03:01 UTC · 1 new listing_
+_Updated 2026-11-12 03:31 UTC · 7 new listings_
 
-## New listings (1) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AMAX** | R&D Engineering Intern | Fremont, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workable-amax-1-19B39953E1?s=gh-internships-2027) |
+| today | **Hewlett Packard Enterprise** | Research Associate Intern, Systems Architecture Lab | Milpitas, CA | vanshb03 | [apply](https://go.vansh.nyc/1w1) |
+| today | **ServiceNow** | Associate AI Engineering Intern, Cloud Security Automation | Santa Clara, CA | vanshb03 | [apply](https://go.vansh.nyc/1vZ) |
+| today | **ServiceNow** | Associate Detection Engineering Intern | Kirkland, WA | vanshb03 | [apply](https://go.vansh.nyc/1w0) |
+| today | **ServiceNow** | Associate Information Security Engineer Intern | San Diego, CA | vanshb03 | [apply](https://go.vansh.nyc/1vY) |
+| today | **ServiceNow** | Associate Security Engineering & Automation Intern | Santa Clara, CA | vanshb03 | [apply](https://go.vansh.nyc/1vX) |
+| — | **Capital de Recherche Tower** | IT Intern - SAP Security | Des Moines | nointernship.com | [apply](https://go.vansh.nyc/1tr?s=y) |
+| — | **Versant3** | Technology, Product, Design & Engineering Intern | Remote | nointernship.com | [apply](https://go.vansh.nyc/1tA?s=y) |
 
 ## Watched company portals
 
