@@ -1,14 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 22:01 UTC · 3 new listings_
+_Updated 2026-11-12 22:31 UTC · 8 new listings_
 
-## New listings (3) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AstraZeneca** | Summer 2027 Quantitative Intern PhD | Boston - MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264278?s=gh-internships-2027) |
-| today | **Boston Scientific** | R&D Leads Sustaining Engineer Intern | Arden Hills US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813547676?s=gh-internships-2027) |
-| today | **ServiceNow** | Product Security Intern | San Diego, CALIFORNIA, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161385779) |
+| today | **AstraZeneca** | Global Technical Operations (GTO) Summer Internships | Gaithersburg, MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264280?s=gh-internships-2027) |
+| today | **Brady Corporation** | Software Engineer Intern | Milwaukee, WI, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af620bc79862a378dcf0f26?utm_campaign=1079&utm_source=git) |
+| today | **Eversource Energy** | 2027 Summer:  Grid Operations Technology Intern | Windsor, CT | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032516?s=gh-internships-2027) |
+| today | **Eversource Energy** | 2027 Summer: Distribution Engineering Intern-NH | Portsmouth, NH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032406?s=gh-internships-2027) |
+| today | **Horizon Lane** | Digital Client Engineering Intern | Mequon, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af61fdb79862a378dcf0ec6?utm_campaign=1079&utm_source=git) |
+| today | **Lockheed Martin** | Network Infrastructure Engineer - Intern | Moorestown, NJ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4b4802278454e18c37b57?utm_campaign=1079&utm_source=git) |
+| today | **Lockheed Martin** | Software Engineer (AMMM) - Intern | Marietta, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af1e3bd905985ccaa406787?utm_campaign=1079&utm_source=git) |
+| today | **Lockheed Martin** | sUAS/Drone Software Engineer - Intern | San Luis Obispo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae4b859d7424a2a828e7de5?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
