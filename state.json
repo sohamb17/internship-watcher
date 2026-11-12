@@ -720,6 +720,20 @@
 "sk": "jobright:6ab2d58d78c69ff506c40d1b",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6ab2d58d78c69ff506c40d1b?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "BAE Systems",
+"degrees": [],
+"dk": "bae|engineering iii onsite research",
+"found": 20769,
+"loc": "Merrimack, New Hampshire",
+"more": null,
+"night": true,
+"posted": 20767,
+"role": "Research Engineering Intern III, Summer 2027 (Onsite)",
+"sk": "https://zapply.jobs/l/d/phenom-bae-systems-131389BR",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/phenom-bae-systems-131389BR?s=gh-internships-2027"
 }
 ],
 "roles": {
@@ -1506,6 +1520,7 @@
 "bae|embedded engineer software": 20769,
 "bae|engineering hardware iii onsite": 20769,
 "bae|engineering iii": 20769,
+"bae|engineering iii onsite research": 20769,
 "bae|engineering iii onsite software": 20769,
 "baiduusa|deployed engineer forward": 20769,
 "baird|ai automation it": 20769,
@@ -18139,6 +18154,7 @@
 "https://zapply.jobs/l/d/phenom-bae-systems-129896BR": 20769,
 "https://zapply.jobs/l/d/phenom-bae-systems-129972BR": 20769,
 "https://zapply.jobs/l/d/phenom-bae-systems-130781BR": 20769,
+"https://zapply.jobs/l/d/phenom-bae-systems-131389BR": 20769,
 "https://zapply.jobs/l/d/phenom-bae-systems-132094BR": 20759,
 "https://zapply.jobs/l/d/phenom-bae-systems-132378BR": 20769,
 "https://zapply.jobs/l/d/phenom-cisco-2024552": 20769,
@@ -18255,6 +18271,7 @@
 "https://zapply.jobs/l/d/workday-analogdevices-external-R266128": 20769,
 "https://zapply.jobs/l/d/workday-analogdevices-external-R267479": 20769,
 "https://zapply.jobs/l/d/workday-analogdevices-external-R268371": 20769,
+"https://zapply.jobs/l/d/workday-analogdevices-external-R268505": 20769,
 "https://zapply.jobs/l/d/workday-analogdevices-external-R268506": 20769,
 "https://zapply.jobs/l/d/workday-analogdevices-external-R268534": 20766,
 "https://zapply.jobs/l/d/workday-analogdevices-external-R268545": 20766,

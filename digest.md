@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 12:31 UTC · 15 new listings_
+_Updated 2026-11-12 13:01 UTC · 16 new listings_
 
-## New listings (15) — newest first
+## New listings (16) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@ _Updated 2026-11-12 12:31 UTC · 15 new listings_
 | today | **Collins Aerospace** | 2027 Spring/Summer Co-Op - Systems - AVI MIL FMS/DAS | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa176b93272060a8e3efe37?utm_campaign=1079&utm_source=git) |
 | today | **Southern Farm Bureau Life Insurance Company** | Applications Development Intern | Jackson, MS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab2d58d78c69ff506c40d1b?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Bask Health** | Creative Engineering Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af54ca2cbd2ee75d1560b05?utm_campaign=1079&utm_source=git) |
+| 2d ago | **BAE Systems** | Research Engineering Intern III, Summer 2027 (Onsite) | Merrimack, New Hampshire | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-131389BR?s=gh-internships-2027) |
 | 19d ago | **CARIAD** | Engineer 1 Intern - VLA Model Development<br>Master's/PhD | Mountain View, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/cariadinc/jobs/5462798008) |
 | 19d ago | **CARIAD** | Engineer 1 Intern - VLA Planning and Control Deployment | Mountain View, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/cariadinc/jobs/5462886008) |
 | 23d ago | **The Aerospace Corporation** | Enterprise Performance Modeling and Simulation Graduate Intern<br>Master's/PhD | Colorado Springs, CO | SimplifyJobs | [apply](https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2027-Enterprise-Performance-Modeling-and-Simulation-Graduate-Intern_R016942) |
