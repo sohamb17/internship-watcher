@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 18:26 UTC · 2 new listings_
+_Updated 2026-11-12 18:31 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **KION Group** | A.I. Engineering Intern | Grand Rapids, MI, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0096963?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Systems Engineering Intern - Graduate Level - Plymouth MN | United States-Minnesota-Plymouth | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260431?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
