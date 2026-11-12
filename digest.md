@@ -1,17 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 21:31 UTC · 6 new listings_
+_Updated 2026-11-12 22:01 UTC · 3 new listings_
 
-## New listings (6) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Dell Technologies** | User Experience (UX) Research Intern | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-dell-technologies-302635?s=gh-internships-2027) |
-| today | **General Dynamics Mission Systems** | Software/Systems Engineering Intern (Summer 2027) | Middletown, RI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af60f538cc703bba47af819?utm_campaign=1079&utm_source=git) |
-| today | **Marketeq Digital Solutions** | AI Product Software Engineering Intern (U.S.A) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6081ca4a5218a07e82986?utm_campaign=1079&utm_source=git) |
-| today | **Northrop Grumman** | 2027 Aeronautical Engineering Intern - Sunnyvale CA | United States-California-Sunnyvale | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260488?s=gh-internships-2027) |
-| today | **Shield AI** | 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541) | San Diego, California (+1 more) | Company portals | [apply](https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca) |
-| today | **ZS** | Business Technology Solutions Associate - Intern (North America - University Students) | Evanston, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af60a88f10ae27369e160f7?utm_campaign=1079&utm_source=git) |
+| today | **AstraZeneca** | Summer 2027 Quantitative Intern PhD | Boston - MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264278?s=gh-internships-2027) |
+| today | **Boston Scientific** | R&D Leads Sustaining Engineer Intern | Arden Hills US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813547676?s=gh-internships-2027) |
+| today | **ServiceNow** | Product Security Intern | San Diego, CALIFORNIA, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161385779) |
 
 ## Watched company portals
 
