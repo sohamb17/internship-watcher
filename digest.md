@@ -1,16 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-11-11 23:31 UTC · 5 new listings_
+_Updated 2026-11-12 00:01 UTC · 9 new listings_
 
-## New listings (5) — newest first
+## New listings (9) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bristol Myers Squibb** | Data & Quantitative Sciences Intern-Summer 2027 | Princeton NJ US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608215?s=gh-internships-2027) |
-| today | **RTX** | Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite) | US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316) |
-| today | **Toyota Research Institute** | Future Product Innovation Research Intern, Human Computer Interaction | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/e01def2d-0ee0-4f24-bf38-0b52a8047ea7) |
-| today | **Toyota Research Institute** | Future Product Innovation Research Intern, Human-AI Computational Design | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2) |
-| today | **Zotec Partners** | Database Engineer Intern | Carmel, IN | vanshb03 | [apply](https://go.vansh.nyc/1vs) |
+| today | **Meta** | Research Scientist Intern - LLM Memory and Skills | Seattle, WA / NYC / Bellevue, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1676116714093186) |
+| today | **Bask Health** | Product Engineering Intern | Remote in USA (+1 more) | SimplifyJobs | [apply](https://apply.workable.com/bask-health-1/j/1C108B16E2/apply) |
+| today | **Bloom Energy** | RMCC Data Science Intern | San Jose, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25362?s=gh-internships-2027) |
+| today | **Bloom Energy** | RMCC Systems Engineering Intern | San Jose, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25363?s=gh-internships-2027) |
+| today | **HUB International** | Security Architect Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1vD) |
+| today | **McDonald's** | Global Tech Infrastructure & Operations Intern | Chicago, IL (+1 more) | SimplifyJobs | [apply](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) |
+| today | **Woolpert** | Aviation Modeling & Simulation Intern | San Rafael, CA / Berkeley, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/woolpert/jobs/4430700009) |
+| 1d ago | **Bose** | Agentic AI Engineering Co-op - Active Noise Cancellation<br>Master's/PhD | Framingham, MA | SimplifyJobs | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391) |
+| 1d ago | **Vanderlande Industries** | Supply Chain Data & Analytics Intern | Remote in USA / Marietta, GA | SimplifyJobs | [apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708) |
 
 ## Watched company portals
 
