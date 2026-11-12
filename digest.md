@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 13:31 UTC · 21 new listings_
+_Updated 2026-11-12 14:01 UTC · 22 new listings_
 
-## New listings (21) — newest first
+## New listings (22) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@ _Updated 2026-11-12 13:31 UTC · 21 new listings_
 | today | **CNH** | Software Engineer Intern - Python | Sioux Falls, SD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa0e3233b5aa83237b0b425?utm_campaign=1079&utm_source=git) |
 | today | **CNH** | Software Test Engineer Intern | Oak Brook, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa17f63ef23570cae244153?utm_campaign=1079&utm_source=git) |
 | today | **Collins Aerospace** | 2027 Spring/Summer Co-Op - Systems - AVI MIL FMS/DAS | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa176b93272060a8e3efe37?utm_campaign=1079&utm_source=git) |
+| today | **Fidelity Investments** | Strategic Advisers Research Associate (summer 2027 start) | Boston, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2138214?s=gh-internships-2027) |
 | today | **IDEMIA** | Full Stack Software Engineering Internship | Eden Prairie, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae3d028d45dc30fb7d2cc60?utm_campaign=1079&utm_source=git) |
 | today | **LyondellBasell** | National Society of Black Engineers - Digital Technology Intern 2027 | Houston, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af58042b5bf2486e273b83c?utm_campaign=1079&utm_source=git) |
 | today | **Northrop Grumman** | 2027 Electronics Engineering Intern - Elkridge MD | United States-Maryland-Elkridge | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260310?s=gh-internships-2027) |
