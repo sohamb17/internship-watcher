@@ -1,16 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 12:01 UTC · 9 new listings_
+_Updated 2026-11-12 12:31 UTC · 15 new listings_
 
-## New listings (9) — newest first
+## New listings (15) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **TikTok** | AI Infrastructure Engineer Intern (Algorithm Infrastructure) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a7284dc45b6af1c30dbf066?utm_campaign=1079&utm_source=git) |
+| today | **TikTok** | Research Engineer Intern (Agentic Systems & AI Infrastructure - TikTok-Generalized Arch) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a71a41ee2b7476e7b20ed8b?utm_campaign=1079&utm_source=git) |
 | today | **TikTok** | Software Engineer - Intern (TikTok Search) - 2027 Start | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af578b436c61b4fbd770b3f?utm_campaign=1079&utm_source=git) |
 | today | **TikTok** | Software Engineer Intern - TikTok Search<br>Master's | San Jose, CA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7704696088079010053) |
+| today | **Amway** | Digital Engineer Intern, Summer 2027 (REQ#43459) | Ada, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af589fd3df34a231cf562c9?utm_campaign=1079&utm_source=git) |
+| today | **Analog Devices** | Mechanical Engineer - Advanced Robotics Intern | US, MA, Wilmington | Company portals | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mechanical-Engineer---Advanced-Robotics-Intern_R268505) |
 | today | **Bask** | Frontend Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1wc) |
 | today | **CNH** | IT Salesforce CRM Business Analytics Intern | New Holland, PA 17557, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abd2b2f8ff3fb9b3bc6eb9e?utm_campaign=1079&utm_source=git) |
 | today | **CNH** | Software Engineer Intern - Python | Sioux Falls, SD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa0e3233b5aa83237b0b425?utm_campaign=1079&utm_source=git) |
+| today | **Collins Aerospace** | 2027 Spring/Summer Co-Op - Systems - AVI MIL FMS/DAS | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa176b93272060a8e3efe37?utm_campaign=1079&utm_source=git) |
+| today | **Southern Farm Bureau Life Insurance Company** | Applications Development Intern | Jackson, MS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab2d58d78c69ff506c40d1b?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Bask Health** | Creative Engineering Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af54ca2cbd2ee75d1560b05?utm_campaign=1079&utm_source=git) |
 | 19d ago | **CARIAD** | Engineer 1 Intern - VLA Model Development<br>Master's/PhD | Mountain View, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/cariadinc/jobs/5462798008) |
 | 19d ago | **CARIAD** | Engineer 1 Intern - VLA Planning and Control Deployment | Mountain View, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/cariadinc/jobs/5462886008) |
