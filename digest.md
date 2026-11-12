@@ -1,14 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 02:01 UTC · 3 new listings_
+_Updated 2026-11-12 02:31 UTC · 2 new listings_
 
-## New listings (3) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ServiceNow** | Assoc AI Engineering (Cloud Security Automation) Intern | Santa Clara, CALIFORNIA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161209600) |
-| today | **ServiceNow** | Assoc Information Security Engineer Intern | San Diego, CALIFORNIA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161204235) |
-| today | **ServiceNow** | Assoc Security Engineering & Automation Intern | Santa Clara, CALIFORNIA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161209810) |
+| today | **ServiceNow** | Assoc Detection Engineering Intern | Kirkland, Washington, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161210069) |
+| 1d ago | **Georg Fischer** | Quality Assurance Engineering Intern | Apple Valley, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af502f2cd7be4db20d8a6fa?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
