@@ -1,11 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 08:01 UTC · 3 new listings_
+_Updated 2026-11-12 08:31 UTC · 5 new listings_
 
-## New listings (3) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **TikTok** | Software Engineer Intern - TikTok Search<br>Master's | San Jose, CA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7704696088079010053) |
+| today | **Bask** | Frontend Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1wc) |
 | 1d ago | **Bask Health** | Creative Engineering Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af54ca2cbd2ee75d1560b05?utm_campaign=1079&utm_source=git) |
 | 19d ago | **CARIAD** | Engineer 1 Intern - VLA Model Development<br>Master's/PhD | Mountain View, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/cariadinc/jobs/5462798008) |
 | 19d ago | **CARIAD** | Engineer 1 Intern - VLA Planning and Control Deployment | Mountain View, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/cariadinc/jobs/5462886008) |
