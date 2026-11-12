@@ -1,12 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 01:01 UTC · 1 new listing_
+_Updated 2026-11-12 01:31 UTC · 6 new listings_
 
-## New listings (1) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Rhoda ai** | Research Intern | Mountain View | Company portals | [apply](https://jobs.ashbyhq.com/rhoda-ai/20056166-79de-420b-8569-d0b15ee83599) |
+| today | **FOX** | Summer 2027 FOX Sports - Big Ten Network - Internship Program - Chicago, IL | Chicago, Illinois, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-fox-domestic-R50033970?s=gh-internships-2027) |
+| today | **Hewlett Packard Enterprise** | HPE Labs - Systems Architecture Lab Research Associate Intern | Milpitas, California, United States of America | Company portals | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Systems-Architecture-Lab-Research-Associate-Intern_1218728) |
+| today | **Hewlett Packard Enterprise** | Large-Scale Integrated Photonics Lab Research Associate Intern | Milpitas California United States of America | Company portals | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Milpitas-California-United-States-of-America/Large-Scale-Integrated-Photonics-Lab-Research-Associate-Intern_1218729) |
+| 1d ago | **AV** | Software Engineering Intern | Melbourne, FL, United States (+2 more) | Jobright | [apply](https://jobright.ai/jobs/info/6aa4ef1e82e82a31997bb486?utm_campaign=1079&utm_source=git) |
+| 1d ago | **MKS Inc.** | 2027 Summer Software Engineer Co-op | Andover, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4e4859144106c56a22564?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Valstad Shipworks** | Software Engineering Intern, 3D & Manufacturing Applications | Austin | Jobright | [apply](https://jobright.ai/jobs/info/6a7269d6cb96192a3684dfd2?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
