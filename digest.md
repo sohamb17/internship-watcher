@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 02:31 UTC · 2 new listings_
+_Updated 2026-11-12 03:01 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ServiceNow** | Assoc Detection Engineering Intern | Kirkland, Washington, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161210069) |
-| 1d ago | **Georg Fischer** | Quality Assurance Engineering Intern | Apple Valley, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af502f2cd7be4db20d8a6fa?utm_campaign=1079&utm_source=git) |
+| today | **AMAX** | R&D Engineering Intern | Fremont, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workable-amax-1-19B39953E1?s=gh-internships-2027) |
 
 ## Watched company portals
 
