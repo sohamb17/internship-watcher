@@ -1,33 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 14:01 UTC · 22 new listings_
+_Updated 2026-11-12 14:31 UTC · 1 new listing_
 
-## New listings (22) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ByteDance** | Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start | San Jose, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6ac362b0064da25272e0e179?utm_campaign=1079&utm_source=git) |
-| today | **TikTok** | AI Infrastructure Engineer Intern (Algorithm Infrastructure) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a7284dc45b6af1c30dbf066?utm_campaign=1079&utm_source=git) |
-| today | **TikTok** | Research Engineer Intern (Agentic Systems & AI Infrastructure - TikTok-Generalized Arch) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a71a41ee2b7476e7b20ed8b?utm_campaign=1079&utm_source=git) |
-| today | **TikTok** | Software Engineer - Intern (TikTok Search) - 2027 Start | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af578b436c61b4fbd770b3f?utm_campaign=1079&utm_source=git) |
-| today | **TikTok** | Software Engineer Intern - TikTok Search<br>Master's | San Jose, CA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7704696088079010053) |
-| today | **Amway** | Digital Engineer Intern, Summer 2027 (REQ#43459) | Ada, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af589fd3df34a231cf562c9?utm_campaign=1079&utm_source=git) |
-| today | **Analog Devices** | Mechanical Engineer - Advanced Robotics Intern | US, MA, Wilmington | Company portals | [apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mechanical-Engineer---Advanced-Robotics-Intern_R268505) |
-| today | **Bask** | Frontend Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1wc) |
-| today | **CNH** | IT Salesforce CRM Business Analytics Intern | New Holland, PA 17557, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abd2b2f8ff3fb9b3bc6eb9e?utm_campaign=1079&utm_source=git) |
-| today | **CNH** | Software Engineer Intern - Python | Sioux Falls, SD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa0e3233b5aa83237b0b425?utm_campaign=1079&utm_source=git) |
-| today | **CNH** | Software Test Engineer Intern | Oak Brook, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa17f63ef23570cae244153?utm_campaign=1079&utm_source=git) |
-| today | **Collins Aerospace** | 2027 Spring/Summer Co-Op - Systems - AVI MIL FMS/DAS | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa176b93272060a8e3efe37?utm_campaign=1079&utm_source=git) |
-| today | **Fidelity Investments** | Strategic Advisers Research Associate (summer 2027 start) | Boston, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2138214?s=gh-internships-2027) |
-| today | **IDEMIA** | Full Stack Software Engineering Internship | Eden Prairie, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae3d028d45dc30fb7d2cc60?utm_campaign=1079&utm_source=git) |
-| today | **LyondellBasell** | National Society of Black Engineers - Digital Technology Intern 2027 | Houston, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af58042b5bf2486e273b83c?utm_campaign=1079&utm_source=git) |
-| today | **Northrop Grumman** | 2027 Electronics Engineering Intern - Elkridge MD | United States-Maryland-Elkridge | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260310?s=gh-internships-2027) |
-| today | **Southern Farm Bureau Life Insurance Company** | Applications Development Intern | Jackson, MS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab2d58d78c69ff506c40d1b?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Bask Health** | Creative Engineering Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af54ca2cbd2ee75d1560b05?utm_campaign=1079&utm_source=git) |
-| 2d ago | **BAE Systems** | Research Engineering Intern III, Summer 2027 (Onsite) | Merrimack, New Hampshire | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-131389BR?s=gh-internships-2027) |
-| 19d ago | **CARIAD** | Engineer 1 Intern - VLA Model Development<br>Master's/PhD | Mountain View, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/cariadinc/jobs/5462798008) |
-| 19d ago | **CARIAD** | Engineer 1 Intern - VLA Planning and Control Deployment | Mountain View, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/cariadinc/jobs/5462886008) |
-| 23d ago | **The Aerospace Corporation** | Enterprise Performance Modeling and Simulation Graduate Intern<br>Master's/PhD | Colorado Springs, CO | SimplifyJobs | [apply](https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2027-Enterprise-Performance-Modeling-and-Simulation-Graduate-Intern_R016942) |
+| — | **SharkNinja** | Summer 2027: Data Science Intern (May to August) | Needham, MA, United States | Company portals | [apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006) |
 
 ## Watched company portals
 
