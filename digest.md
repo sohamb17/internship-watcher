@@ -1,15 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 04:01 UTC · 4 new listings_
+_Updated 2026-11-12 04:31 UTC · 2 new listings_
 
-## New listings (4) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bask Health** | Frontend Engineering Intern | United States (Remote) | zshah101 | [apply](https://apply.workable.com/bask-health-1/j/9C2964C7CD/) |
-| today | **Leland** | AI Education Intern | Leland HQ - Lehi, UT | zshah101 | [apply](https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633) |
-| 1d ago | **Huron** | Internal Audit and Risk Management - Data Analytics & AI (Summer 2027 Internship - Washington, D.C.) | Washington DC - 1800 M Street, NW | zshah101 | [apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Washington-DC---1800-M-Street-NW/Internal-Audit-and-Risk-Management---Data-Analytics---AI--Summer-2027-Internship-_JR-0017165) |
-| 1d ago | **SK hynix memory solutions America Inc.** | Embedded Software Engineer Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af50eca3a9a26aee70a2c84?utm_campaign=1079&utm_source=git) |
+| — | **Motorola Solutions** | Embedded Software Engineer Intern | Schaumburg | nointernship.com | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1) |
+| — | **Northrop Grumman** | Optics/Photonic Engineering Intern | Apopka | nointernship.com | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049) |
 
 ## Watched company portals
 
