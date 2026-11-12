@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 07:31 UTC · 1 new listing_
+_Updated 2026-11-12 08:01 UTC · 3 new listings_
 
-## New listings (1) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | 1d ago | **Bask Health** | Creative Engineering Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af54ca2cbd2ee75d1560b05?utm_campaign=1079&utm_source=git) |
+| 19d ago | **CARIAD** | Engineer 1 Intern - VLA Model Development<br>Master's/PhD | Mountain View, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/cariadinc/jobs/5462798008) |
+| 19d ago | **CARIAD** | Engineer 1 Intern - VLA Planning and Control Deployment | Mountain View, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/cariadinc/jobs/5462886008) |
 
 ## Watched company portals
 
