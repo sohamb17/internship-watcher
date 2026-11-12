@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 00:51 UTC · 2 new listings_
+_Updated 2026-11-12 01:01 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Shive-Hattery** | Software Developer Intern | Iowa City, IA | vanshb03 | [apply](https://go.vansh.nyc/1vU) |
-| today | **StepStone Group** | AI Quant Analyst Intern | La Jolla, CA / San Diego, CA | vanshb03 | [apply](https://go.vansh.nyc/1vT) |
+| today | **Rhoda ai** | Research Intern | Mountain View | Company portals | [apply](https://jobs.ashbyhq.com/rhoda-ai/20056166-79de-420b-8569-d0b15ee83599) |
 
 ## Watched company portals
 
