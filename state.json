@@ -619,6 +619,23 @@
 "sk": "jobright:6aa0e3233b5aa83237b0b425",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6aa0e3233b5aa83237b0b425?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "The Aerospace Corporation",
+"degrees": [
+"Master's",
+"PhD"
+],
+"dk": "theaerospace|enterprise modeling performance simulation",
+"found": 20769,
+"loc": "Colorado Springs, CO",
+"more": null,
+"night": true,
+"posted": 20746,
+"role": "Enterprise Performance Modeling and Simulation Graduate Intern",
+"sk": "712b2630-73fb-450b-a8c8-955e1d5180dd",
+"src": "simplify",
+"url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2027-Enterprise-Performance-Modeling-and-Simulation-Graduate-Intern_R016942"
 }
 ],
 "roles": {
@@ -6394,6 +6411,7 @@
 "theaerospace|assurance engineering software tools": 20769,
 "theaerospace|embedded engineer multiple software teams": 20767,
 "theaerospace|engineering software": 20769,
+"theaerospace|enterprise modeling performance simulation": 20769,
 "theaerospace|network systems": 20769,
 "theboeing|analytics data": 20768,
 "thebrattle|analyst economics energy": 20769,
@@ -12768,6 +12786,7 @@
 "7103d806-4eb2-4d9a-9d3d-14938fbaffa2": 20769,
 "7116355b-7504-4a7e-bd3e-a2309d10544a": 20769,
 "7119d05b-82f8-4636-8a9f-426c89f7a8c5": 20769,
+"712b2630-73fb-450b-a8c8-955e1d5180dd": 20769,
 "7136a7a6-b9b6-47d9-be27-85bb3d354b11": 20769,
 "714db6c7-2c31-4e99-a0b1-4968cf3e0c58": 20769,
 "71573abd-2d22-4f73-b614-94625aa6bdfe": 20769,
@@ -17027,6 +17046,7 @@
 "a7c5f639-9b1c-43b8-8951-eaa3afbd09c3": 20769,
 "a7c7a74d-f1fc-4075-99c8-2f7f87c6aa84": 20769,
 "a7cb7dcb-cebf-4446-8ad0-f851c0b256c7": 20769,
+"a7ece1d7-457b-4996-86ff-666aa9b7490a": 20769,
 "a804defd-dd4a-412e-b016-a12150317c69": 20766,
 "a81207cd-7173-43c4-838a-2ff0c4ca4848": 20769,
 "a8462776-6762-4f6a-8ec7-85f12ab83d75": 20759,
