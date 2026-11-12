@@ -1,12 +1,34 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 19:31 UTC · 1 new listing_
+_Updated 2026-11-12 20:01 UTC · 23 new listings_
 
-## New listings (1) — newest first
+## New listings (23) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| — | **Stratolaunch** | Business Intelligence & Systems Analyst Intern 2027 | Mojave, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008) |
+| today | **CACI** | Embedded Software Development Intern - Summer 2027 | Denver, CO, US | Company portals | [apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) |
+| today | **CarGurus** | Data Analytics Engineer Intern | Boston, MA | vanshb03 | [apply](https://go.vansh.nyc/1xc) |
+| today | **Diversified Gas & Oil Corporation** | Information Technology Intern | Birmingham, AL | vanshb03 | [apply](https://go.vansh.nyc/1xe) |
+| today | **Encore Global** | IT Security Intern | Coppell, TX | vanshb03 | [apply](https://go.vansh.nyc/1xr) |
+| today | **General Dynamics Information Technology** | Professional Programmer - Intern | USA NC Raleigh | Company portals | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-NC-Raleigh/Professional-Programmer---Intern_RQ232030) |
+| today | **Intermountain Healthcare** | AI/ML Engineer Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1xt) |
+| today | **Intermountain Healthcare** | Machine Learning Operations (MLOps) Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1xu) |
+| today | **International Motors** | IT Security Intern | Lisle, IL | vanshb03 | [apply](https://go.vansh.nyc/1xa) |
+| today | **Johns Hopkins Applied Physics Laboratory** | Reverse Engineer Intern, Systems Exploitation | United States | vanshb03 | [apply](https://go.vansh.nyc/1xg) |
+| today | **Northrop Grumman** | SkillBridge Internship Opportunity - Seeking Enlisted-Active Military Applicants - Engineering... | United States-Arizona-Chandler | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260399?s=gh-internships-2027) |
+| today | **POZzlePiece Inc** | Q&A Tester/Developer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af601daa4a5218a07e823eb?utm_campaign=1079&utm_source=git) |
+| today | **US Internships Public Careers Site** | Undergraduate Frontend Software Engineering Intern | Los Angeles, CA / San Mateo, CA | vanshb03 | [apply](https://go.vansh.nyc/1xb) |
+| 1d ago | **CarGurus** | Data Governance Engineer Intern | Boston, MA | vanshb03 | [apply](https://go.vansh.nyc/1wX) |
+| 1d ago | **CarGurus** | Data Platform Engineer Intern | Boston, MA | vanshb03 | [apply](https://go.vansh.nyc/1x3) |
+| 1d ago | **CarGurus** | Software Development Engineer Intern | Boston, MA | vanshb03 | [apply](https://go.vansh.nyc/1wZ) |
+| 1d ago | **CarGurus** | Software Development Engineer Intern, Full Stack | Boston, MA | vanshb03 | [apply](https://go.vansh.nyc/1wW) |
+| 1d ago | **Ingersoll Rand** | AI Engineer Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1x4) |
+| 1d ago | **Koniag Cyber Solutions** | AI Operations Intern | Minneapolis, MN | vanshb03 | [apply](https://go.vansh.nyc/1x7) |
+| 1d ago | **Lynco Products** | Front End Development Intern | West Milan, IL | vanshb03 | [apply](https://go.vansh.nyc/1x8) |
+| 1d ago | **Mum Industries** | Business Intelligence & Data Analytics Intern | Mentor, OH | vanshb03 | [apply](https://go.vansh.nyc/1x5) |
+| 1d ago | **US Internships Public Careers Site** | Undergraduate Software Engineering Intern | San Diego, CA (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1x1) |
+| 72d ago | **GPC** | Software Developer Intern | Birmingham, AL | speedyapply | [apply](https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140) |
+| — | **Impulse Space** | RF Test Engineering Intern (Summer 2027) | Redondo Beach, California | zapplyjobs | [apply](https://zapply.jobs/l/d/pinpoint-impulsespace-568599?s=gh-internships-2027) |
 
 ## Watched company portals
 
