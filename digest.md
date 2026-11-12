@@ -1,20 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 00:01 UTC · 9 new listings_
+_Updated 2026-11-12 00:31 UTC · 10 new listings_
 
-## New listings (9) — newest first
+## New listings (10) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Meta** | Research Scientist Intern - LLM Memory and Skills | Seattle, WA / NYC / Bellevue, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1676116714093186) |
-| today | **Bask Health** | Product Engineering Intern | Remote in USA (+1 more) | SimplifyJobs | [apply](https://apply.workable.com/bask-health-1/j/1C108B16E2/apply) |
-| today | **Bloom Energy** | RMCC Data Science Intern | San Jose, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25362?s=gh-internships-2027) |
-| today | **Bloom Energy** | RMCC Systems Engineering Intern | San Jose, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25363?s=gh-internships-2027) |
-| today | **HUB International** | Security Architect Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1vD) |
-| today | **McDonald's** | Global Tech Infrastructure & Operations Intern | Chicago, IL (+1 more) | SimplifyJobs | [apply](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) |
-| today | **Woolpert** | Aviation Modeling & Simulation Intern | San Rafael, CA / Berkeley, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/woolpert/jobs/4430700009) |
-| 1d ago | **Bose** | Agentic AI Engineering Co-op - Active Noise Cancellation<br>Master's/PhD | Framingham, MA | SimplifyJobs | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Agentic-AI-Engineering-Co-op---Active-Noise-Cancellation---Fall-2027_R29391) |
-| 1d ago | **Vanderlande Industries** | Supply Chain Data & Analytics Intern | Remote in USA / Marietta, GA | SimplifyJobs | [apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708) |
+| today | **Bloom Energy** | AI Solutions Engineer Intern | San Jose, CA (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1vK) |
+| today | **Riot Games** | Machine Learning Engineer Intern<br>Master's/PhD | Remote in USA | SimplifyJobs | [apply](https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771) |
+| today | **Shive-Hattery** | Software Developer Intern - Software Development | Iowa City, IA | SimplifyJobs | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619793) |
+| today | **Zotec Partners** | Business Intelligence Intern | Carmel, IN | SimplifyJobs | [apply](https://zotecpartners.applytojob.com/apply/csKRdla8ap/Business-Intelligence-Intern) |
+| 1d ago | **Panera Bread** | Data Science & AI Analytics Intern | Newton, MA | SimplifyJobs | [apply](https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082) |
+| 1d ago | **PTC** | Creo Core Geometry Intern | Boston, MA | SimplifyJobs | [apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Core-Geometry-Intern--Summer-2027-_JR112959) |
+| 1d ago | **San Francisco Data** | Engineer Intern | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/sfdata/20f37c79-b892-46d9-98d9-3588ab45542c/application?embed=true) |
+| 1d ago | **Shield AI** | Engineer 2 New Grad - Software - Autonomy Capabilities | United States | SimplifyJobs | [apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true) |
+| 36d ago | **ICF International** | Data Analytics Intern | Reston, VA | SimplifyJobs | [apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) |
+| — | **SharkNinja** | Summer 2027: Control Systems & Algorithms Intern (May to August) | Needham, MA, United States (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006) |
 
 ## Watched company portals
 
