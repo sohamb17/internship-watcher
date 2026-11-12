@@ -1,11 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 09:31 UTC · 5 new listings_
+_Updated 2026-11-12 09:58 UTC · 6 new listings_
 
-## New listings (5) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **TikTok** | Software Engineer - Intern (TikTok Search) - 2027 Start | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af578b436c61b4fbd770b3f?utm_campaign=1079&utm_source=git) |
 | today | **TikTok** | Software Engineer Intern - TikTok Search<br>Master's | San Jose, CA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7704696088079010053) |
 | today | **Bask** | Frontend Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1wc) |
 | 1d ago | **Bask Health** | Creative Engineering Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6af54ca2cbd2ee75d1560b05?utm_campaign=1079&utm_source=git) |
