@@ -1,17 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 01:31 UTC · 6 new listings_
+_Updated 2026-11-12 02:01 UTC · 3 new listings_
 
-## New listings (6) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **FOX** | Summer 2027 FOX Sports - Big Ten Network - Internship Program - Chicago, IL | Chicago, Illinois, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-fox-domestic-R50033970?s=gh-internships-2027) |
-| today | **Hewlett Packard Enterprise** | HPE Labs - Systems Architecture Lab Research Associate Intern | Milpitas, California, United States of America | Company portals | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Systems-Architecture-Lab-Research-Associate-Intern_1218728) |
-| today | **Hewlett Packard Enterprise** | Large-Scale Integrated Photonics Lab Research Associate Intern | Milpitas California United States of America | Company portals | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Milpitas-California-United-States-of-America/Large-Scale-Integrated-Photonics-Lab-Research-Associate-Intern_1218729) |
-| 1d ago | **AV** | Software Engineering Intern | Melbourne, FL, United States (+2 more) | Jobright | [apply](https://jobright.ai/jobs/info/6aa4ef1e82e82a31997bb486?utm_campaign=1079&utm_source=git) |
-| 1d ago | **MKS Inc.** | 2027 Summer Software Engineer Co-op | Andover, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af4e4859144106c56a22564?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Valstad Shipworks** | Software Engineering Intern, 3D & Manufacturing Applications | Austin | Jobright | [apply](https://jobright.ai/jobs/info/6a7269d6cb96192a3684dfd2?utm_campaign=1079&utm_source=git) |
+| today | **ServiceNow** | Assoc AI Engineering (Cloud Security Automation) Intern | Santa Clara, CALIFORNIA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161209600) |
+| today | **ServiceNow** | Assoc Information Security Engineer Intern | San Diego, CALIFORNIA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161204235) |
+| today | **ServiceNow** | Assoc Security Engineering & Automation Intern | Santa Clara, CALIFORNIA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161209810) |
 
 ## Watched company portals
 
