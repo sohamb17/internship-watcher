@@ -1,18 +1,20 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 16:01 UTC · 7 new listings_
+_Updated 2026-11-12 16:31 UTC · 9 new listings_
 
-## New listings (7) — newest first
+## New listings (9) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CareSource** | Software Engineer Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1wz) |
-| today | **Entegris** | IC Metals Slurry Development Intern - Summer 2027 | Aurora, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15863?s=gh-internships-2027) |
-| today | **State Farm** | Property and Casualty Underwriting Intern - Knowledge Management | Richardson, TX / Bloomington, IL | SimplifyJobs | [apply](https://jobs.statefarm.com/jobs/46442?icims=1&lang=en-us) |
-| today | **T-Mobile** | Summer 2027 Data Product Internship | Bellevue, Washington | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212) |
-| today | **Vizient** | Contract Operations Intern - Analytics | Irving, TX | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1) |
-| today | **Walmart** | Summer 2027 Corporate Intern: APD Automation Engineer | (USA) Together Building AR Bentonville Home Office | Company portals | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--APD-Automation-Engineer_R-2630170) |
-| 9d ago | **Orange County Transportation Authority** | Bus Operations & Scheduling Intern | Orange, CA | SimplifyJobs | [apply](https://wd1.myworkdaysite.com/recruiting/octa/OCTA_Careers/job/Orange-CA/Intern--Bus-Operations---Scheduling_JR309-1) |
+| today | **Allison Transmission** | Sustainability Analyst Intern | Indianapolis, IN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008364?s=gh-internships-2027) |
+| today | **Bosch** | AI Research Intern – Time Series Foundation Models | Sunnyvale, California, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000161339309) |
+| today | **Cardinal Health** | Technology Internship (Summer 2027) | Dublin, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20189610?s=gh-internships-2027) |
+| today | **Cigna Group** | The Cigna Group's Technology Development Program  - Software Engineering Track Summer Internship | St Louis MO | Company portals | [apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527) |
+| today | **Entegris** | Research Associate Intern - Summer 2027 | Aurora, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15849?s=gh-internships-2027) |
+| today | **Fresenius Medical Care** | Agentic AI Analytics Co-op | Lawrence, MA | SimplifyJobs | [apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797) |
+| 9d ago | **Martin Marietta** | Telematics Intern | Dallas, TX | SimplifyJobs | [apply](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Dallas-TX/Intern--Telematics--Summer-2027-_JR024021-1) |
+| 16d ago | **Trinity Life Sciences** | Data Science Intern | Waltham, MA / NYC | SimplifyJobs | [apply](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881) |
+| 21d ago | **Martin Marietta** | Geographic Information Systems Intern | Raleigh, NC | SimplifyJobs | [apply](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Geographic-Information-Systems--Summer-2027-_JR023605) |
 
 ## Watched company portals
 
