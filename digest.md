@@ -1,18 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 03:31 UTC · 7 new listings_
+_Updated 2026-11-12 04:01 UTC · 4 new listings_
 
-## New listings (7) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Hewlett Packard Enterprise** | Research Associate Intern, Systems Architecture Lab | Milpitas, CA | vanshb03 | [apply](https://go.vansh.nyc/1w1) |
-| today | **ServiceNow** | Associate AI Engineering Intern, Cloud Security Automation | Santa Clara, CA | vanshb03 | [apply](https://go.vansh.nyc/1vZ) |
-| today | **ServiceNow** | Associate Detection Engineering Intern | Kirkland, WA | vanshb03 | [apply](https://go.vansh.nyc/1w0) |
-| today | **ServiceNow** | Associate Information Security Engineer Intern | San Diego, CA | vanshb03 | [apply](https://go.vansh.nyc/1vY) |
-| today | **ServiceNow** | Associate Security Engineering & Automation Intern | Santa Clara, CA | vanshb03 | [apply](https://go.vansh.nyc/1vX) |
-| — | **Capital de Recherche Tower** | IT Intern - SAP Security | Des Moines | nointernship.com | [apply](https://go.vansh.nyc/1tr?s=y) |
-| — | **Versant3** | Technology, Product, Design & Engineering Intern | Remote | nointernship.com | [apply](https://go.vansh.nyc/1tA?s=y) |
+| today | **Bask Health** | Frontend Engineering Intern | United States (Remote) | zshah101 | [apply](https://apply.workable.com/bask-health-1/j/9C2964C7CD/) |
+| today | **Leland** | AI Education Intern | Leland HQ - Lehi, UT | zshah101 | [apply](https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633) |
+| 1d ago | **Huron** | Internal Audit and Risk Management - Data Analytics & AI (Summer 2027 Internship - Washington, D.C.) | Washington DC - 1800 M Street, NW | zshah101 | [apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Washington-DC---1800-M-Street-NW/Internal-Audit-and-Risk-Management---Data-Analytics---AI--Summer-2027-Internship-_JR-0017165) |
+| 1d ago | **SK hynix memory solutions America Inc.** | Embedded Software Engineer Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af50eca3a9a26aee70a2c84?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
