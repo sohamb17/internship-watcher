@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 14:31 UTC · 1 new listing_
+_Updated 2026-11-12 15:01 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| — | **SharkNinja** | Summer 2027: Data Science Intern (May to August) | Needham, MA, United States | Company portals | [apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006) |
+| today | **BAE Systems** | Systems Engineer Intern (Mechanical Focus), Summer 2027 | Rockville, Maryland | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-130026BR?s=gh-internships-2027) |
 
 ## Watched company portals
 
