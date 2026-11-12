@@ -1,18 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 19:01 UTC · 7 new listings_
+_Updated 2026-11-12 19:31 UTC · 1 new listing_
 
-## New listings (7) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Acuity Insurance** | Software Engineer Intern | Sheboygan, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad92a9354bbabbab070d69c?utm_campaign=1079&utm_source=git) |
-| today | **Daimler Truck** | Project Analyst Intern | Portland, OR US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20671?s=gh-internships-2027) |
-| today | **IBM** | Intern Application Developer – Azure and Microsoft - 2027 | Baton Rouge, Louisiana, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9e2d6e27c94c3d5a1cb637?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Research Intern 2027 – Quantum-HPC Integration | Yorktown Heights, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ada18d354bbabbab071287f?utm_campaign=1079&utm_source=git) |
-| today | **Lean TECHniques** | Software Engineer Intern - Hybrid | Johnston, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af5eb4a79862a378dceed27?utm_campaign=1079&utm_source=git) |
-| today | **Linde Gas & Equipment** | Software Developer Intern | Tonawanda, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abc4815d6acfd3dd29fd082?utm_campaign=1079&utm_source=git) |
-| today | **Owl Cyber Defense** | Software Engineering Intern | Columbia, MD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af5ec7f8cc703bba47ae146?utm_campaign=1079&utm_source=git) |
+| — | **Stratolaunch** | Business Intelligence & Systems Analyst Intern 2027 | Mojave, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008) |
 
 ## Watched company portals
 
