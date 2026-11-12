@@ -1,18 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 20:31 UTC · 7 new listings_
+_Updated 2026-11-12 21:01 UTC · 3 new listings_
 
-## New listings (7) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Applied Science: Internship Opportunities - Redmond | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200053346?s=gh-internships-2027) |
-| today | **Bask Health** | AI Engineering Intern | United States (Remote) | zshah101 | [apply](https://apply.workable.com/bask-health-1/j/F0E122E877/) |
-| today | **Bask Health** | Machine Learning Engineering Intern | United States (Remote) | zshah101 | [apply](https://apply.workable.com/bask-health-1/j/71AEBBCADE/) |
-| today | **NREL** | Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis | Golden, CO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nrel-nlr-R14510?s=gh-internships-2027) |
-| 1d ago | **Martin Marietta** | Intern, IS Infrastructure (Summer 2027) | Raleigh, NC | zshah101 | [apply](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723) |
-| 9d ago | **Shield AI** | 2027 June Co-op - Hardware Test - #6426 | Dallas, Texas | Company portals | [apply](https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a) |
-| — | **Blue Cross Blue Shield of Michigan** | Summer 2027 Intern - Data Science / Biostatistician | Detroit, MI, United States | zshah101 | [apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837) |
+| today | **AstraZeneca** | Summer 2027 Analytical Development & Quality Control Intern | New Haven - CT | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264277?s=gh-internships-2027) |
+| today | **Eversource Energy** | 2027 Gas Systems Engineering Co-op | MA Westborough Technology Dr | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032513?s=gh-internships-2027) |
+| today | **Eversource Energy** | 2027 Summer Grid Ops Technology Intern (NH) | Manchester, NH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032518?s=gh-internships-2027) |
 
 ## Watched company portals
 
