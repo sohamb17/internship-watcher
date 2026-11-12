@@ -1,17 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 15:31 UTC · 6 new listings_
+_Updated 2026-11-12 16:01 UTC · 7 new listings_
 
-## New listings (6) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Entegris** | Embedded Software Engineering Intern | Bloomington, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15870?s=gh-internships-2027) |
-| today | **Entegris** | Formulation Scientist, Intern - Summer 2027 | Aurora, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15876?s=gh-internships-2027) |
-| today | **GE Vernova** | Services Internship - Engineering-1 | Remote | Company portals | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Remote/Services-Internship---Engineering-1_R5058534-2) |
-| today | **IBM** | ServiceNow - Intern Application Developer 2027 | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab7020639fd8792cb73d1b6?utm_campaign=1079&utm_source=git) |
-| today | **Johnson Controls** | Computer Science/CAD Intern | Waynesboro-Pennsylvania-United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jci-jci-WD30285046?s=gh-internships-2027) |
-| today | **SharkNinja** | Data Science Intern | Needham, MA | vanshb03 | [apply](https://go.vansh.nyc/1wu) |
+| today | **CareSource** | Software Engineer Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1wz) |
+| today | **Entegris** | IC Metals Slurry Development Intern - Summer 2027 | Aurora, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15863?s=gh-internships-2027) |
+| today | **State Farm** | Property and Casualty Underwriting Intern - Knowledge Management | Richardson, TX / Bloomington, IL | SimplifyJobs | [apply](https://jobs.statefarm.com/jobs/46442?icims=1&lang=en-us) |
+| today | **T-Mobile** | Summer 2027 Data Product Internship | Bellevue, Washington | Company portals | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212) |
+| today | **Vizient** | Contract Operations Intern - Analytics | Irving, TX | SimplifyJobs | [apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1) |
+| today | **Walmart** | Summer 2027 Corporate Intern: APD Automation Engineer | (USA) Together Building AR Bentonville Home Office | Company portals | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--APD-Automation-Engineer_R-2630170) |
+| 9d ago | **Orange County Transportation Authority** | Bus Operations & Scheduling Intern | Orange, CA | SimplifyJobs | [apply](https://wd1.myworkdaysite.com/recruiting/octa/OCTA_Careers/job/Orange-CA/Intern--Bus-Operations---Scheduling_JR309-1) |
 
 ## Watched company portals
 
