@@ -498,7 +498,22 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20769,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20769
 },
-"held": [],
+"held": [
+{
+"company": "Bask Health",
+"degrees": [],
+"dk": "baskhealth|creative engineering",
+"found": 20769,
+"loc": "United States",
+"more": null,
+"night": true,
+"posted": 20768,
+"role": "Creative Engineering Intern",
+"sk": "jobright:6af54ca2cbd2ee75d1560b05",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6af54ca2cbd2ee75d1560b05?utm_campaign=1079&utm_source=git"
+}
+],
 "roles": {
 "10a|engineering fellow": 20769,
 "1password|brokering credential developer": 20759,
@@ -1320,6 +1335,7 @@
 "baskhealth|backend engineer": 20769,
 "baskhealth|backend engineer engineering": 20769,
 "baskhealth|backend engineering": 20769,
+"baskhealth|creative engineering": 20769,
 "baskhealth|engineer software": 20769,
 "baskhealth|engineering frontend": 20769,
 "baskhealth|engineering product": 20769,
@@ -10136,6 +10152,7 @@
 "jobright:6a95d646f28891320e85e544": 20767,
 "jobright:6a95d647cabc9f6703e1a496": 20767,
 "jobright:6a95d65b9fcec5442372f84c": 20767,
+"jobright:6a95fec94c22023a07937674": 20769,
 "jobright:6a9603269fcec54423730d31": 20767,
 "jobright:6a962810c8763a3a87ffec45": 20762,
 "jobright:6a965e6c4c22023a07939065": 20766,
@@ -11008,7 +11025,10 @@
 "jobright:6af50669cbd2ee75d155f30a": 20769,
 "jobright:6af50eca3a9a26aee70a2c84": 20769,
 "jobright:6af51dfc1b2c5dcbbcd66b95": 20769,
-"jobright:6af521f82278454e18c3af80": 20769
+"jobright:6af521f82278454e18c3af80": 20769,
+"jobright:6af5431acbd2ee75d15602a0": 20769,
+"jobright:6af54ca2cbd2ee75d1560b05": 20769,
+"jobright:6af54ca7cd7be4db20d8c0ac": 20769
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -18526,7 +18546,8 @@
 "https://zapply.jobs/l/d/workday-tmobile-external-REQ380886": 20761,
 "https://zapply.jobs/l/d/workday-tmobile-external-REQ380916": 20767,
 "https://zapply.jobs/l/d/workday-tmobile-external-REQ380917": 20767,
-"https://zapply.jobs/l/d/workday-tmobile-external-REQ381194": 20767,
+"https://zapply.jobs/l/d/workday-tmobile-external-REQ381194": 20769,
+"https://zapply.jobs/l/d/workday-tmobile-external-REQ381198": 20769,
 "https://zapply.jobs/l/d/workday-tmobile-external-REQ381219": 20769,
 "https://zapply.jobs/l/d/workday-tmobile-external-REQ381225": 20769,
 "https://zapply.jobs/l/d/workday-tmobile-external-REQ381234": 20763,
