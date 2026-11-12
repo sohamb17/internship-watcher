@@ -1,19 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 17:01 UTC · 8 new listings_
+_Updated 2026-11-12 17:31 UTC · 3 new listings_
 
-## New listings (8) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Arthrex** | Technical Artist Intern | Naples, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abdd0500e027c0f3b39739e?utm_campaign=1079&utm_source=git) |
-| today | **BAE Systems** | Systems Engineering Internship - Summer 2027 | Hudson, New Hampshire | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-132795BR?s=gh-internships-2027) |
-| today | **Cigna** | Software Engineering Intern | St. Louis, MO / Austin, TX / Morris Plains, NJ / Bloomfield, | vanshb03 | [apply](https://go.vansh.nyc/1wH) |
-| today | **Foremost Farms USA** | IT Integration and Process Analyst Internship (Summer 2027) | Madison, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abc0803d6acfd3dd29fbab5?utm_campaign=1079&utm_source=git) |
-| today | **Highmark Health** | Summer 2027 Business Analysis and AI enGen Undergraduate Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place | Company portals | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Business-Analysis-and-AI-enGen-Undergraduate-Intern_J291552) |
-| today | **Northrop Grumman** | 2027 Wafer Processing Engineering Internship - Saint Charles MO | United States-Missouri-Saint... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260401?s=gh-internships-2027) |
-| today | **STMicroelectronics** | Software Algorithm Embedded Intern | Santa Clara, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abc262bb23c6fb2b81a57e2?utm_campaign=1079&utm_source=git) |
-| 28d ago | **Pattern** | Data Science Intern | Lehi, UT, US | Company portals | [apply](https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7) |
+| today | **CME Group** | Client Development & Sale Intern - Summer 2027 | New York | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-35042?s=gh-internships-2027) |
+| today | **The Federal Reserve System** | 2027 Summer Internship Program - ASO Professional Development Intern | Atlanta, GA | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---ASO-Professional-Development-Intern_R-0000033893) |
+| today | **Toyota Research Institute** | Robotics Intern, Prototyping and Research Operations | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628) |
 
 ## Watched company portals
 
