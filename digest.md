@@ -1,36 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 14:01 UTC · 25 new listings_
+_Updated 2026-11-13 14:31 UTC · 5 new listings_
 
-## New listings (25) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **TikTok** | Machine Learning Scientist Intern - Local Services<br>Master's | San Jose, CA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7703925583541979445) |
-| today | **TikTok** | Solutions Engineer Intern (Advertisement Team) - 2027 Summer | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a856a3de12474455273e1cd?utm_campaign=1079&utm_source=git) |
-| today | **Epic Games** | UI Programmer Intern | Cary, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa204740ffb3d4fea6b843b?utm_campaign=1079&utm_source=git) |
-| today | **Hidden Level** | Embedded Software Engineering Intern – Summer 2027 | Syracuse, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adb10d59e3e874dbfb9e1b7?utm_campaign=1079&utm_source=git) |
-| today | **Jobs at UHS** | Information Security Analyst Intern | Tredyffrin, PA | vanshb03 | [apply](https://go.vansh.nyc/1yv) |
-| today | **LabCorp** | Intern - Assay Development & Validation | Torrance CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-labcorp-external-2640398?s=gh-internships-2027) |
-| today | **Nominal** | Mission Dev Engineer - Internship (Summer 2027) | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aaf5c676956574eac8b9e87?utm_campaign=1079&utm_source=git) |
-| today | **Nominal** | Software Engineer - Internship (Summer 2027) | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa3c87e626f9945308b32b9?utm_campaign=1079&utm_source=git) |
-| today | **Reviora** | Programmer Analyst Intern | Waller, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6dadfd0eefb7d11b87d9d?utm_campaign=1079&utm_source=git) |
-| today | **Shield AI** | Human Machine Teaming Intern | Washington, DC | SimplifyJobs | [apply](https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply) |
-| today | **Sony Interactive Entertainment** | Backend Software Engineering Intern - Undergraduate | San Mateo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7bcd0eefb7d11b87d56?utm_campaign=1079&utm_source=git) |
-| today | **Sony Interactive Entertainment** | Frontend Software Engineering Intern - Undergraduate | Los Angeles, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7c2e3d8d612bf41eefc?utm_campaign=1079&utm_source=git) |
-| today | **Sony Interactive Entertainment** | Software Development Engineer in Test Intern (AI/ML) - Undergraduate | San Mateo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7bbd0eefb7d11b87d55?utm_campaign=1079&utm_source=git) |
-| today | **Sony Interactive Entertainment** | Software Development Engineer in Test Intern - Master's | San Mateo, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7d241166cab75646dea?utm_campaign=1079&utm_source=git) |
-| today | **Sony Interactive Entertainment** | Software Development Engineer in Test Intern - Undergraduate | San Mateo, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7d0e3d8d612bf41ef09?utm_campaign=1079&utm_source=git) |
-| today | **Sony Interactive Entertainment** | Software Engineering Intern (Compilers) - Undergraduate | San Mateo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7c3e3d8d612bf41eefd?utm_campaign=1079&utm_source=git) |
-| today | **Sony Interactive Entertainment** | Software Engineering Intern - Master's | Los Angeles, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7d341166cab75646dec?utm_campaign=1079&utm_source=git) |
-| today | **Sony Interactive Entertainment** | Software Engineering Intern – Undergraduate | San Mateo, CA, United States (+7 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7d341166cab75646deb?utm_campaign=1079&utm_source=git) |
-| today | **The Toro Company** | CX and Customer Lifetime Value Intern - Operations Analyst | Bloomington, MN | SimplifyJobs | [apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819) |
-| 1d ago | **GenPark** | Frontend Developer Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6a472af034cc4ddad1cb4?utm_campaign=1079&utm_source=git) |
-| 8d ago | **Maxinsights** | Data Operations Intern | Santa Clara, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc/application?embed=true) |
-| 11d ago | **JSX** | Commercial Intern | Dallas, TX | SimplifyJobs | [apply](https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729) |
-| 18d ago | **Federal Home Loan Bank of Dallas** | Accounting Tech Solutions Intern | Irving, TX | SimplifyJobs | [apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444) |
-| — | **Olsson** | Engineering Internship - Building Automation Systems | Omaha, NE | Company portals | [apply](https://job-boards.greenhouse.io/olsson/jobs/5399497008) |
-| — | **Samsung** | Intern, Compiler Engineer | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) |
+| today | **IPConfigure Inc.** | Software Development Internship for Video Surveillance Software | Norfolk, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad908ad950ef68d5184d330?utm_campaign=1079&utm_source=git) |
+| today | **Optum** | Infrastructure & Engineering Development Program Internship | Eden Prairie, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7025ae3d8d612bf41f8f0?utm_campaign=1079&utm_source=git) |
+| today | **PulseSync Pte Ltd** | Intern (Software Development) – SG | Lane County, Oregon, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7014641166cab756477c6?utm_campaign=1079&utm_source=git) |
+| today | **Rocket Companies** | Financial Systems Intern - Summer 2027 | Detroit, MI | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-084978?s=gh-internships-2027) |
+| today | **Rocket Companies** | Technology Risk Assurance Intern - Summer 2027 | Detroit, MI | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-084815?s=gh-internships-2027) |
 
 ## Watched company portals
 
