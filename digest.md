@@ -1,24 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 20:02 UTC · 13 new listings_
+_Updated 2026-11-13 20:33 UTC · 3 new listings_
 
-## New listings (13) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CrowdStrike** | Insider Risk Engineering Intern - Summer 2027 | Arlington, VA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30718?s=gh-internships-2027) |
-| today | **L3Harris Technologies** | Software Engineering Intern (Carlsbad, CA) | Carlsbad, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae24655eb7e8f715a60c389?utm_campaign=1079&utm_source=git) |
-| today | **L3Harris Technologies** | Software Engineering Intern (Carlsbad, CA) Job Details / L3HHCM20 | Carlsbad, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae49725eab1f9673097afde?utm_campaign=1079&utm_source=git) |
-| today | **L3Harris Technologies** | Software Engineering Intern (Melbourne, FL) | Melbourne, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa4cb8e654b2a9424cf1523?utm_campaign=1079&utm_source=git) |
-| today | **L3Harris Technologies** | Software Engineering Intern (Melbourne, FL) Job Details / L3HHCM20 | Melbourne, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adffa0f5dc7953215a44d88?utm_campaign=1079&utm_source=git) |
-| today | **L3Harris Technologies** | Software Engineering Intern (Rochester, NY) | Rochester, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa4f910a77a53f5a156ed56?utm_campaign=1079&utm_source=git) |
-| today | **Lockheed Martin** | Computer Engineer - Intern | Liverpool, New York, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af62f78323c531f31e30cb6?utm_campaign=1079&utm_source=git) |
-| today | **Macquarie Group** | 2027 Technology Summer Internship Program | Greater Houston, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abf30f3372c01f6cd727658?utm_campaign=1079&utm_source=git) |
-| today | **NexusOne** | Data Engineering Intern | Atlanta, GA | vanshb03 | [apply](https://go.vansh.nyc/1z2) |
-| today | **One Oak Flow** | Software Development Intern | Scottsdale, AZ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7563bd0eefb7d11b8b54c?utm_campaign=1079&utm_source=git) |
-| today | **Reliable Robotics Corporation** | Flight Software Engineer Intern | Mountain View, CA | vanshb03 | [apply](https://go.vansh.nyc/1z1) |
-| today | **Seagate Technology** | Intern - Embedded Firmware in Seagate Research Group | Longmont, CO, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af7400541166cab7564962f?utm_campaign=1079&utm_source=git) |
-| today | **Spoonified** | AI & Hardware QA Micro-Intern | Dallas, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af754a3e3d8d612bf42240d?utm_campaign=1079&utm_source=git) |
+| today | **Envita Solutions** | Data Scientist Intern, Applied AI | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1z8) |
+| today | **Toyota Research Institute** | Research Intern, Continual Adaptation for Robotics | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac) |
+| today | **Veolia Environnement SA** | Intern - Project Engineer | Glen Allen, VA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161567349?s=gh-internships-2027) |
 
 ## Watched company portals
 
