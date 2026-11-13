@@ -1,15 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 22:02 UTC · 4 new listings_
+_Updated 2026-11-13 22:31 UTC · 5 new listings_
 
-## New listings (4) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bristol Myers Squibb** | Data & Quantitative Sciences Statistical Programming Intern - Summer 2027 | Princeton NJ US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608542?s=gh-internships-2027) |
-| today | **Lightmatter** | Hardware Test Engineering, Intern (Summer 2027) | Mountain View, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lightmatter-5473869008?s=gh-internships-2027) |
-| today | **Reliable Robotics Corporation** | FPGA Engineering Intern | Mountain View, CA | vanshb03 | [apply](https://go.vansh.nyc/1za) |
-| today | **Solidigm** | NAND Development Business Operations Intern | Rancho Cordova, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-solidigm-744000161579529?s=gh-internships-2027) |
+| today | **Marketeq Digital Solutions** | AI Full Stack Engineer Intern (U.S.A) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af76904e3d8d612bf4231cb?utm_campaign=1079&utm_source=git) |
+| today | **Martin Marietta** | Data Scientist Intern | Raleigh, NC (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1ze) |
+| today | **Martin Marietta** | Software Data Integration Engineer Intern | Raleigh, NC (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1zf) |
+| today | **RTX** | Composite Engineering Intern (Summer 2027)(Onsite) | CT-MIDDLETOWN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887784?s=gh-internships-2027) |
+| 43d ago | **Aurora Innovation** | Embedded Software Engineer Intern — Lidar | Bozeman, MT | zshah101 | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868) |
 
 ## Watched company portals
 
