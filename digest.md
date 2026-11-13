@@ -1,15 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 15:31 UTC · 4 new listings_
+_Updated 2026-11-13 16:01 UTC · 2 new listings_
 
-## New listings (4) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Amazon** | Software Development Engineer Apprentice - Military Veterans | Bellevue, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a550e634119652ff3862f49?utm_campaign=1079&utm_source=git) |
-| today | **Entegris** | Product Engineering Intern | Chaska, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15848?s=gh-internships-2027) |
-| today | **Leidos** | Radar Engineering Intern | Huntsville, AL | Company portals | [apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Radar-Engineering-Intern_R-00196931-1) |
-| today | **Rocket Companies** | Data Analyst Intern - Summer 2027 | Detroit, MI | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-083832?s=gh-internships-2027) |
+| today | **Minitab** | Research & Design Intern | State College, PA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/minitab/jobs/8200707003) |
+| today | **Verisk** | Data Science/AI Intern | Lehi, UT (+1 more) | SimplifyJobs | [apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184) |
 
 ## Watched company portals
 
