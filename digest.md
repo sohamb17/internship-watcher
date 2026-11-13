@@ -1,17 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 16:31 UTC · 6 new listings_
+_Updated 2026-11-13 17:01 UTC · 6 new listings_
 
 ## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Intuitive Surgical** | Clinical Research Intern | Sunnyvale, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Intuitive/744000161532709) |
-| today | **Merrick** | GIS Analyst Intern | Greenwood Village, CO | SimplifyJobs | [apply](https://careers.merrick.com/jobs/8476?icims=1&lang=en-us) |
-| today | **Rocket Mortgage** | Customer Correspondence Analyst Intern | Detroit, MI | SimplifyJobs | [apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Customer-Correspondence-Analyst---Summer-2027_R-085167-1) |
-| today | **Rocket Mortgage** | Data Analyst Intern | Detroit, MI | SimplifyJobs | [apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832) |
-| today | **WTW** | Data Analyst Intern | NYC | SimplifyJobs | [apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277) |
-| — | **Trace3** | Security Intern | Irvine, CA, United States | Company portals | [apply](https://job-boards.greenhouse.io/trace3/jobs/8274792) |
+| today | **BAE Systems** | AI/ML Engineer Intern, Summer 2027 | Rockville, Maryland | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-132319BR?s=gh-internships-2027) |
+| today | **Daimler Truck** | IT Developer Analyst Intern | Mount Holly, NC US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20681?s=gh-internships-2027) |
+| today | **Fresenius Medical Care** | Analytics and AI Business Analyst Co-op | Lawrence, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277519?s=gh-internships-2027) |
+| today | **Valeo** | Software Engineer Intern (Year-Round) | Troy, MI | zshah101 | [apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794) |
+| 1d ago | **BAE Systems** | C4ISR - Software Engineering Intern, Summer 2027 (Onsite) | Wayne, New Jersey | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-131375BR?s=gh-internships-2027) |
+| 71d ago | **Corteva** | R & D Intern - Computer & Data Science | Indianapolis, Indiana, United States | zshah101 | [apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W) |
 
 ## Watched company portals
 
