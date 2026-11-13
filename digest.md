@@ -1,17 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 17:01 UTC · 6 new listings_
+_Updated 2026-11-13 17:31 UTC · 1 new listing_
 
-## New listings (6) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **BAE Systems** | AI/ML Engineer Intern, Summer 2027 | Rockville, Maryland | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-132319BR?s=gh-internships-2027) |
-| today | **Daimler Truck** | IT Developer Analyst Intern | Mount Holly, NC US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20681?s=gh-internships-2027) |
-| today | **Fresenius Medical Care** | Analytics and AI Business Analyst Co-op | Lawrence, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277519?s=gh-internships-2027) |
-| today | **Valeo** | Software Engineer Intern (Year-Round) | Troy, MI | zshah101 | [apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794) |
-| 1d ago | **BAE Systems** | C4ISR - Software Engineering Intern, Summer 2027 (Onsite) | Wayne, New Jersey | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-131375BR?s=gh-internships-2027) |
-| 71d ago | **Corteva** | R & D Intern - Computer & Data Science | Indianapolis, Indiana, United States | zshah101 | [apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W) |
+| today | **Cigna Group** | Graduate AI/Machine Learning Engineer Intern (TX, NJ, MO) | Austin TX | Company portals | [apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Austin-TX/AI-ML-Engineer-Intern_26010877) |
 
 ## Watched company portals
 
