@@ -540,6 +540,38 @@
 "sk": "jobright:6af6a472af034cc4ddad1cb4",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6af6a472af034cc4ddad1cb4?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "Federal Home Loan Bank of Dallas",
+"degrees": [
+"Bachelor's"
+],
+"dk": "federalhomeloanbankofdallas|accounting solutions tech",
+"found": 20770,
+"loc": "Irving, TX",
+"more": null,
+"night": true,
+"posted": 20752,
+"role": "Accounting Tech Solutions Intern",
+"sk": "82e09811-c21f-4f33-87de-90a940f52865",
+"src": "simplify",
+"url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444"
+},
+{
+"company": "JSX",
+"degrees": [
+"Bachelor's"
+],
+"dk": "jsx|commercial",
+"found": 20770,
+"loc": "Dallas, TX",
+"more": null,
+"night": true,
+"posted": 20759,
+"role": "Commercial Intern",
+"sk": "3776b303-0849-4822-8f8b-efd9d1b813dc",
+"src": "simplify",
+"url": "https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729"
 }
 ],
 "roles": {
@@ -2668,6 +2700,7 @@
 "farmersmutualhail|automation engineer qa": 20767,
 "farmersmutualhail|developer software": 20770,
 "fdbfirstdatabank|engineering software": 20763,
+"federalhomeloanbankofdallas|accounting solutions tech": 20770,
 "federalhomeloanbankofindianapolis|analytics data mpp": 20770,
 "federalhomeloanbankofindianapolis|business intelligence": 20770,
 "federalreserveboard|add application design development r s": 20762,
@@ -3867,6 +3900,7 @@
 "jpmorganchase|associate learning machine nlp": 20770,
 "jpmorganchase|code engineer good hackathon software states united": 20770,
 "jpmorganchase|learning machine nlp": 20770,
+"jsx|commercial": 20770,
 "judihealth|ai solutions": 20770,
 "judihealth|data engineer": 20770,
 "judihealth|data engineering part time": 20770,
@@ -12423,6 +12457,7 @@
 "36f067d2-5ba6-440a-9dcf-1e2fd5f4ba50": 20770,
 "371c8592-d416-40cf-88fb-3f95ac049ad3": 20770,
 "377048f7-30b7-4b39-9f96-8465dcf9369b": 20770,
+"3776b303-0849-4822-8f8b-efd9d1b813dc": 20770,
 "379d14c1-45c0-457b-8346-c24ef16b6d2e": 20770,
 "37c49cf0-32b3-401f-a00e-3f878679c268": 20770,
 "37fdec6d-3460-4884-9a67-c3563730d3cf": 20770,
@@ -13346,6 +13381,7 @@
 "82aec07a-0fa9-4cd0-8404-4c493e5561c9": 20770,
 "82b6632f-b168-481a-8a24-958666999060": 20770,
 "82d52f8a-60a6-470b-abc6-feb1c6b7df89": 20768,
+"82e09811-c21f-4f33-87de-90a940f52865": 20770,
 "82f904be-26cf-4cbf-9612-5a99c8771fd0": 20759,
 "83133578-6408-4a24-9cc0-147a8b2c15e9": 20770,
 "832f0b01-5885-457c-a203-369c9da9818e": 20759,
