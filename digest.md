@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 01:01 UTC · 2 new listings_
+_Updated 2026-11-13 01:13 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **TikTok** | Machine Learning Engineer Intern, Data-Global E-Commerce-Search | San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1ym) |
-| 52d ago | **Amazon** | Security Engineer Internship – 2027 (US) | Seattle, Washington, USA | Company portals | [apply](https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us) |
+Nothing new this run.
 
 ## Watched company portals
 
