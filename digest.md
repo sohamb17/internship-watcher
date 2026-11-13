@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 03:31 UTC · 1 new listing_
+_Updated 2026-11-13 04:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| — | **Honeywell Aerospace** | Software AI Intern | Remote | nointernship.com | [apply](https://go.vansh.nyc/1wr?s=y) |
+Nothing new this run.
 
 ## Watched company portals
 
