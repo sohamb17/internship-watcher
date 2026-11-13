@@ -1,30 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-12 23:31 UTC · 19 new listings_
+_Updated 2026-11-13 00:01 UTC · 7 new listings_
 
-## New listings (19) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Ancestry** | Software Engineer – Observability, Co-op | Draper, Utah | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ancestry-careers-R003434?s=gh-internships-2027) |
-| today | **Bloom Energy** | NPI Engineering Development Intern | San Jose, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25334?s=gh-internships-2027) |
-| today | **Cboe Global Markets** | DevOps Intern | Overland Park, KS | vanshb03 | [apply](https://go.vansh.nyc/1xz) |
-| today | **Clyde Companies** | Application Development Intern | Orem, UT | vanshb03 | [apply](https://go.vansh.nyc/1xW) |
-| today | **Clyde Companies** | Cyber Security Intern | Orem, UT | vanshb03 | [apply](https://go.vansh.nyc/1xY) |
-| today | **Encore Global** | IT Data Analyst Intern | Schiller Park, IL | vanshb03 | [apply](https://go.vansh.nyc/1xN) |
-| today | **Eversource Energy** | 2027 Summer: Distribution Engineering Intern (Hooksett, NH-Hybrid Schedule) | Hooksett, NH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032404?s=gh-internships-2027) |
-| today | **Keysight Technologies** | Software Development Intern | Pleasant Grove, UT | vanshb03 | [apply](https://go.vansh.nyc/1xV) |
-| today | **Marketeq Digital Solutions** | AI Product Software Engineering Intern (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af62e2580054650a5e7ce46?utm_campaign=1079&utm_source=git) |
-| today | **Ready to?** | Software Development Intern | Idaho Falls, ID | vanshb03 | [apply](https://go.vansh.nyc/1xQ) |
-| 1d ago | **CarGurus** | Product Data Analyst Intern | Boston, MA | vanshb03 | [apply](https://go.vansh.nyc/1xI) |
-| 1d ago | **CarGurus** | Site Reliability Engineer Intern | Boston, MA | vanshb03 | [apply](https://go.vansh.nyc/1xJ) |
-| 3d ago | **US Internships Public Careers Site** | Undergraduate Software Engineering Intern, Compilers | San Mateo, CA | vanshb03 | [apply](https://go.vansh.nyc/1xH) |
-| 10d ago | **ISO New England** | Operations Process Automation Developer Intern | Holyoke, MA | vanshb03 | [apply](https://go.vansh.nyc/1xG) |
-| 10d ago | **US Internships Public Careers Site** | Undergraduate Backend Software Engineering Intern | San Mateo, CA | vanshb03 | [apply](https://go.vansh.nyc/1xF) |
-| 10d ago | **US Internships Public Careers Site** | Undergraduate Software Development Engineer in Test Intern | San Mateo, CA | vanshb03 | [apply](https://go.vansh.nyc/1xD) |
-| 10d ago | **US Internships Public Careers Site** | Undergraduate Software Development Engineer in Test Intern, AI/ML | San Mateo, CA | vanshb03 | [apply](https://go.vansh.nyc/1xE) |
-| — | **Muon Space** | Security Engineering Intern (Summer 2027) | Mountain View, CA (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5294028007) |
-| — | **Muon Space** | Software Engineering Intern-Information Systems (Summer 2027) | San Jose, CA (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5293973007) |
+| today | **ASML** | Internship - Data Scientist | Wilton, CT, USA | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462) |
+| 1d ago | **Austal USA** | Information Technology Intern | Mobile, AL | vanshb03 | [apply](https://go.vansh.nyc/1y0) |
+| 1d ago | **General Dynamics Information Technology** | Programmer Intern | Raleigh, NC | SimplifyJobs | [apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NC-Raleigh/Professional-Programmer---Intern_RQ232030) |
+| 1d ago | **KION Group** | AI Engineer Intern | Grand Rapids, MI (+1 more) | SimplifyJobs | [apply](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/AI-Engineering-Intern_JR-0096963) |
+| 1d ago | **Motorola Solutions** | Systems Engineering Intern | Chicago, IL | SimplifyJobs | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657) |
+| 1d ago | **National Laboratory of the Rockies** | Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling | Remote in USA | SimplifyJobs | [apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589) |
+| 1d ago | **Wolters Kluwer** | Product Software Engineer Intern | Waltham, MA (+1 more) | SimplifyJobs | [apply](https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Product-Software-Engineer_R0061394) |
 
 ## Watched company portals
 
