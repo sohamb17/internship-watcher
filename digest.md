@@ -1,13 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 10:31 UTC · 8 new listings_
+_Updated 2026-11-13 11:01 UTC · 17 new listings_
 
-## New listings (8) — newest first
+## New listings (17) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **TikTok** | Machine Learning Scientist Intern - Local Services<br>Master's | San Jose, CA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7703925583541979445) |
+| today | **Epic Games** | UI Programmer Intern | Cary, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa204740ffb3d4fea6b843b?utm_campaign=1079&utm_source=git) |
 | today | **Jobs at UHS** | Information Security Analyst Intern | Tredyffrin, PA | vanshb03 | [apply](https://go.vansh.nyc/1yv) |
+| today | **Sony Interactive Entertainment** | Backend Software Engineering Intern - Undergraduate | San Mateo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7bcd0eefb7d11b87d56?utm_campaign=1079&utm_source=git) |
+| today | **Sony Interactive Entertainment** | Frontend Software Engineering Intern - Undergraduate | Los Angeles, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7c2e3d8d612bf41eefc?utm_campaign=1079&utm_source=git) |
+| today | **Sony Interactive Entertainment** | Software Development Engineer in Test Intern (AI/ML) - Undergraduate | San Mateo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7bbd0eefb7d11b87d55?utm_campaign=1079&utm_source=git) |
+| today | **Sony Interactive Entertainment** | Software Development Engineer in Test Intern - Master's | San Mateo, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7d241166cab75646dea?utm_campaign=1079&utm_source=git) |
+| today | **Sony Interactive Entertainment** | Software Development Engineer in Test Intern - Undergraduate | San Mateo, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7d0e3d8d612bf41ef09?utm_campaign=1079&utm_source=git) |
+| today | **Sony Interactive Entertainment** | Software Engineering Intern (Compilers) - Undergraduate | San Mateo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7c3e3d8d612bf41eefd?utm_campaign=1079&utm_source=git) |
+| today | **Sony Interactive Entertainment** | Software Engineering Intern - Master's | Los Angeles, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7d341166cab75646dec?utm_campaign=1079&utm_source=git) |
+| today | **Sony Interactive Entertainment** | Software Engineering Intern – Undergraduate | San Mateo, CA, United States (+7 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7d341166cab75646deb?utm_campaign=1079&utm_source=git) |
 | today | **The Toro Company** | CX and Customer Lifetime Value Intern - Operations Analyst | Bloomington, MN | SimplifyJobs | [apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819) |
 | 1d ago | **GenPark** | Frontend Developer Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6a472af034cc4ddad1cb4?utm_campaign=1079&utm_source=git) |
 | 8d ago | **Maxinsights** | Data Operations Intern | Santa Clara, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc/application?embed=true) |
