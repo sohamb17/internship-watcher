@@ -789,6 +789,20 @@
 "sk": "jobright:6af6dadfd0eefb7d11b87d9d",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6af6dadfd0eefb7d11b87d9d?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "LabCorp",
+"degrees": [],
+"dk": "labcorp|assay development validation",
+"found": 20770,
+"loc": "Torrance CA",
+"more": null,
+"night": true,
+"posted": 20770,
+"role": "Intern - Assay Development & Validation",
+"sk": "https://zapply.jobs/l/d/workday-labcorp-external-2640398",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/workday-labcorp-external-2640398?s=gh-internships-2027"
 }
 ],
 "roles": {
@@ -4262,6 +4276,7 @@
 "l3harris|engineer software": 20770,
 "l3harris|engineering software": 20768,
 "labcorp|agentic ai developer": 20770,
+"labcorp|assay development validation": 20770,
 "labcorp|engineer full life sciences software stack": 20770,
 "labcorp|engineer full life sciences stack": 20770,
 "labcorp|engineer mechanical": 20759,
@@ -19347,6 +19362,7 @@
 "https://zapply.jobs/l/d/workday-labcorp-external-2632739": 20759,
 "https://zapply.jobs/l/d/workday-labcorp-external-2639083": 20760,
 "https://zapply.jobs/l/d/workday-labcorp-external-2639201": 20760,
+"https://zapply.jobs/l/d/workday-labcorp-external-2640398": 20770,
 "https://zapply.jobs/l/d/workday-leidos-external-R-00190764": 20761,
 "https://zapply.jobs/l/d/workday-leidos-external-R-00193282": 20770,
 "https://zapply.jobs/l/d/workday-leidos-external-R-00195576": 20766,
