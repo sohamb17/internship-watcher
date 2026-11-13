@@ -1,15 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 21:02 UTC · 4 new listings_
+_Updated 2026-11-13 21:31 UTC · 1 new listing_
 
-## New listings (4) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Jabil** | Industrial Engineering Intern | St. Petersburg/Tampa, FL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2470894?s=gh-internships-2027) |
-| today | **Oshkosh** | Autonomy Engineering Intern | Frederick, Maryland, United States (+1 more) | Company portals | [apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/Autonomy-Engineering-Intern_R49418) |
-| today | **Texas Instruments** | Test Engineering intern - PhD | United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-texas-instruments-25019536?s=gh-internships-2027) |
-| 1d ago | **BAE Systems** | Industrial Engineering Intern II, Summer 2027 - Austin, TX | Austin, Texas | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-131671BR?s=gh-internships-2027) |
+| today | **InComm Payments** | Software Engineering Intern | Sandy, UT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae3d98c77c09cb3bd4a98e1?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
