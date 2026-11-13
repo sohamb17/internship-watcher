@@ -1,14 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 20:33 UTC · 3 new listings_
+_Updated 2026-11-13 21:02 UTC · 4 new listings_
 
-## New listings (3) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Envita Solutions** | Data Scientist Intern, Applied AI | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1z8) |
-| today | **Toyota Research Institute** | Research Intern, Continual Adaptation for Robotics | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac) |
-| today | **Veolia Environnement SA** | Intern - Project Engineer | Glen Allen, VA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161567349?s=gh-internships-2027) |
+| today | **Jabil** | Industrial Engineering Intern | St. Petersburg/Tampa, FL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2470894?s=gh-internships-2027) |
+| today | **Oshkosh** | Autonomy Engineering Intern | Frederick, Maryland, United States (+1 more) | Company portals | [apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Frederick-Maryland-United-States/Autonomy-Engineering-Intern_R49418) |
+| today | **Texas Instruments** | Test Engineering intern - PhD | United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-texas-instruments-25019536?s=gh-internships-2027) |
+| 1d ago | **BAE Systems** | Industrial Engineering Intern II, Summer 2027 - Austin, TX | Austin, Texas | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-131671BR?s=gh-internships-2027) |
 
 ## Watched company portals
 
