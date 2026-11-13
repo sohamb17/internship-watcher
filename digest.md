@@ -1,16 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 23:31 UTC · 5 new listings_
+_Updated 2026-11-13 23:42 UTC · 5 new listings_
 
 ## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CoStar Group** | Security Engineer Intern - Arlington, VA | VA Arlington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-costar-costar-campus-R39727?s=gh-internships-2027) |
-| today | **CoStar Group** | Security Engineer Intern - Richmond, VA | VA Richmond | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-costar-costar-campus-R39726?s=gh-internships-2027) |
-| today | **Electric Power Engineers** | Software Power Systems Engineering Intern | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af77bb3c7349029d709648a?utm_campaign=1079&utm_source=git) |
-| today | **Postman** | AI Engineer, Intern | San Francisco, CA, US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-postman-careers-JR1000055?s=gh-internships-2027) |
-| today | **ServiceNow** | Security Engineer Intern | Kirkland, Washington, United States | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161592679) |
+| today | **Addepar** | Product Analyst Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) |
+| today | **Amgen** | AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern<br>Master's/PhD | Remote in USA | SimplifyJobs | [apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625) |
+| today | **FieldPulse** | AI Intern | Dallas, TX | SimplifyJobs | [apply](https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d) |
+| today | **ServiceNow** | AI Identity Intern | Kirkland, Washington, United States | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161594249) |
+| today | **StepStone Group** | Junior Analyst Intern - Client Services | Cleveland, OH | SimplifyJobs | [apply](https://boards.greenhouse.io/embed/job_app?token=8386648) |
 
 ## Watched company portals
 
