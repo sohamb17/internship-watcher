@@ -1,16 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 22:31 UTC · 5 new listings_
+_Updated 2026-11-13 23:01 UTC · 3 new listings_
 
-## New listings (5) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Marketeq Digital Solutions** | AI Full Stack Engineer Intern (U.S.A) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af76904e3d8d612bf4231cb?utm_campaign=1079&utm_source=git) |
-| today | **Martin Marietta** | Data Scientist Intern | Raleigh, NC (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1ze) |
-| today | **Martin Marietta** | Software Data Integration Engineer Intern | Raleigh, NC (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1zf) |
-| today | **RTX** | Composite Engineering Intern (Summer 2027)(Onsite) | CT-MIDDLETOWN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887784?s=gh-internships-2027) |
-| 43d ago | **Aurora Innovation** | Embedded Software Engineer Intern — Lidar | Bozeman, MT | zshah101 | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868) |
+| today | **Bloom Energy** | Automation Engineering Intern | Fremont, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25265?s=gh-internships-2027) |
+| today | **Bloom Energy** | Process Development Engineering Intern | San Jose, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25333?s=gh-internships-2027) |
+| today | **Texas Instruments** | Product Engineering Failure Analysis Intern | Dallas, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-texas-instruments-25016015?s=gh-internships-2027) |
 
 ## Watched company portals
 
