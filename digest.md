@@ -1,19 +1,24 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 19:31 UTC · 8 new listings_
+_Updated 2026-11-13 20:02 UTC · 13 new listings_
 
-## New listings (8) — newest first
+## New listings (13) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Carrier Global** | Data Analytics Intern - Summer | CAI23: Carrier-Indianapolis,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-carrier-jobs-30220000?s=gh-internships-2027) |
-| today | **Muon** | Software Engineering Intern-Information Systems - Summer 2027 | San Jose, CA | speedyapply | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5293973007) |
-| today | **Samsung** | 2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams | 3900 N Capital of Texas Hwy Austin TX USA | Company portals | [apply](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122243) |
-| 1d ago | **PODS** | Operations Data Science Intern | Clearwater, FL | vanshb03 | [apply](https://go.vansh.nyc/1yX) |
-| 73d ago | **GPC** | Cloud Developer Intern | Birmingham, AL | speedyapply | [apply](https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133) |
-| — | **Flagship Pioneering** | Pioneering Medicines: Research Co-Op, Mechanism of Action – Metabolic Disease | Cambridge, MA USA | Company portals | [apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8936932002) |
-| — | **Samsung** | Intern, AI Systems Performance Engineer | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003) |
-| — | **Samsung** | Intern, ML Compiler (Kernel Auto-Tuning) | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003) |
+| today | **CrowdStrike** | Insider Risk Engineering Intern - Summer 2027 | Arlington, VA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30718?s=gh-internships-2027) |
+| today | **L3Harris Technologies** | Software Engineering Intern (Carlsbad, CA) | Carlsbad, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae24655eb7e8f715a60c389?utm_campaign=1079&utm_source=git) |
+| today | **L3Harris Technologies** | Software Engineering Intern (Carlsbad, CA) Job Details / L3HHCM20 | Carlsbad, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae49725eab1f9673097afde?utm_campaign=1079&utm_source=git) |
+| today | **L3Harris Technologies** | Software Engineering Intern (Melbourne, FL) | Melbourne, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa4cb8e654b2a9424cf1523?utm_campaign=1079&utm_source=git) |
+| today | **L3Harris Technologies** | Software Engineering Intern (Melbourne, FL) Job Details / L3HHCM20 | Melbourne, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adffa0f5dc7953215a44d88?utm_campaign=1079&utm_source=git) |
+| today | **L3Harris Technologies** | Software Engineering Intern (Rochester, NY) | Rochester, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa4f910a77a53f5a156ed56?utm_campaign=1079&utm_source=git) |
+| today | **Lockheed Martin** | Computer Engineer - Intern | Liverpool, New York, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af62f78323c531f31e30cb6?utm_campaign=1079&utm_source=git) |
+| today | **Macquarie Group** | 2027 Technology Summer Internship Program | Greater Houston, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abf30f3372c01f6cd727658?utm_campaign=1079&utm_source=git) |
+| today | **NexusOne** | Data Engineering Intern | Atlanta, GA | vanshb03 | [apply](https://go.vansh.nyc/1z2) |
+| today | **One Oak Flow** | Software Development Intern | Scottsdale, AZ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7563bd0eefb7d11b8b54c?utm_campaign=1079&utm_source=git) |
+| today | **Reliable Robotics Corporation** | Flight Software Engineer Intern | Mountain View, CA | vanshb03 | [apply](https://go.vansh.nyc/1z1) |
+| today | **Seagate Technology** | Intern - Embedded Firmware in Seagate Research Group | Longmont, CO, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6af7400541166cab7564962f?utm_campaign=1079&utm_source=git) |
+| today | **Spoonified** | AI & Hardware QA Micro-Intern | Dallas, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af754a3e3d8d612bf42240d?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
