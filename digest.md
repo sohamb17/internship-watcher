@@ -1,14 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 23:01 UTC · 3 new listings_
+_Updated 2026-11-13 23:31 UTC · 5 new listings_
 
-## New listings (3) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bloom Energy** | Automation Engineering Intern | Fremont, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25265?s=gh-internships-2027) |
-| today | **Bloom Energy** | Process Development Engineering Intern | San Jose, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25333?s=gh-internships-2027) |
-| today | **Texas Instruments** | Product Engineering Failure Analysis Intern | Dallas, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-texas-instruments-25016015?s=gh-internships-2027) |
+| today | **CoStar Group** | Security Engineer Intern - Arlington, VA | VA Arlington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-costar-costar-campus-R39727?s=gh-internships-2027) |
+| today | **CoStar Group** | Security Engineer Intern - Richmond, VA | VA Richmond | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-costar-costar-campus-R39726?s=gh-internships-2027) |
+| today | **Electric Power Engineers** | Software Power Systems Engineering Intern | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af77bb3c7349029d709648a?utm_campaign=1079&utm_source=git) |
+| today | **Postman** | AI Engineer, Intern | San Francisco, CA, US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-postman-careers-JR1000055?s=gh-internships-2027) |
+| today | **ServiceNow** | Security Engineer Intern | Kirkland, Washington, United States | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161592679) |
 
 ## Watched company portals
 
