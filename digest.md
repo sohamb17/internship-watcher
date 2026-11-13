@@ -1,12 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 17:31 UTC · 1 new listing_
+_Updated 2026-11-13 17:53 UTC · 8 new listings_
 
-## New listings (1) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Cigna Group** | Graduate AI/Machine Learning Engineer Intern (TX, NJ, MO) | Austin TX | Company portals | [apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Austin-TX/AI-ML-Engineer-Intern_26010877) |
+| today | **CACI** | Configuration Control/Data Management Co-op - Spring & Summer 2027 | Danbury, CT, US | Company portals | [apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_334005) |
+| today | **Cigna Group** | Healthcare Analytics Summer Intern - Start Date: May 24, 2027 | Morris Plains, NJ | Company portals | [apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Start-Date--May-24--2027_26009857) |
+| today | **Constellation** | 2027 IT Development Intern - San Diego, CA | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeb6757f40efa43f4a16fcc?utm_campaign=1079&utm_source=git) |
+| today | **Magna International** | Intern - Engineering Software | Southfield, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa8aabe3387a3d9b67d243b?utm_campaign=1079&utm_source=git) |
+| today | **ServiceNow** | AI Security Engineer Intern | San Diego, California, United States | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161548289) |
+| today | **ServiceNow** | Security Engineering & Automation Intern | Kirkland, Washington, United States | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161548528) |
+| — | **Vertex Pharmaceuticals** | Summer Intern 2027, Material Science | Boston, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31308?s=gh-internships-2027) |
+| — | **Vertex Pharmaceuticals** | Summer Intern 2027, OSD Process Data Analytics | Boston, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31312?s=gh-internships-2027) |
 
 ## Watched company portals
 
