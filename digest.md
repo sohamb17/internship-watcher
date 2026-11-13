@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 05:01 UTC · 1 new listing_
+_Updated 2026-11-13 05:31 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **BAE Systems** | Learning and Development/HR Intern - Summer 2027 | Fort Wayne, Indiana | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-132187BR?s=gh-internships-2027) |
+| 1d ago | **Aurora** | Software Engineer Intern, Vehicle Platforms | Mountain View, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af67b1b8a9bd36b08993786?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Hakkōda, an IBM Company** | IBM Z Engineering System Test QA/Test Developer Intern - Poughkeepsie, NY - 2027 | Poughkeepsie, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af67c5f8cc703bba47b2f48?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
