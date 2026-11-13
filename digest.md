@@ -1,16 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 13:01 UTC · 21 new listings_
+_Updated 2026-11-13 13:31 UTC · 25 new listings_
 
-## New listings (21) — newest first
+## New listings (25) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **TikTok** | Machine Learning Scientist Intern - Local Services<br>Master's | San Jose, CA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7703925583541979445) |
 | today | **TikTok** | Solutions Engineer Intern (Advertisement Team) - 2027 Summer | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a856a3de12474455273e1cd?utm_campaign=1079&utm_source=git) |
 | today | **Epic Games** | UI Programmer Intern | Cary, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa204740ffb3d4fea6b843b?utm_campaign=1079&utm_source=git) |
+| today | **Hidden Level** | Embedded Software Engineering Intern – Summer 2027 | Syracuse, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adb10d59e3e874dbfb9e1b7?utm_campaign=1079&utm_source=git) |
 | today | **Jobs at UHS** | Information Security Analyst Intern | Tredyffrin, PA | vanshb03 | [apply](https://go.vansh.nyc/1yv) |
 | today | **LabCorp** | Intern - Assay Development & Validation | Torrance CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-labcorp-external-2640398?s=gh-internships-2027) |
+| today | **Nominal** | Mission Dev Engineer - Internship (Summer 2027) | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aaf5c676956574eac8b9e87?utm_campaign=1079&utm_source=git) |
+| today | **Nominal** | Software Engineer - Internship (Summer 2027) | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa3c87e626f9945308b32b9?utm_campaign=1079&utm_source=git) |
 | today | **Reviora** | Programmer Analyst Intern | Waller, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6dadfd0eefb7d11b87d9d?utm_campaign=1079&utm_source=git) |
 | today | **Shield AI** | Human Machine Teaming Intern | Washington, DC | SimplifyJobs | [apply](https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply) |
 | today | **Sony Interactive Entertainment** | Backend Software Engineering Intern - Undergraduate | San Mateo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7bcd0eefb7d11b87d56?utm_campaign=1079&utm_source=git) |
@@ -26,6 +29,7 @@ _Updated 2026-11-13 13:01 UTC · 21 new listings_
 | 8d ago | **Maxinsights** | Data Operations Intern | Santa Clara, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc/application?embed=true) |
 | 11d ago | **JSX** | Commercial Intern | Dallas, TX | SimplifyJobs | [apply](https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729) |
 | 18d ago | **Federal Home Loan Bank of Dallas** | Accounting Tech Solutions Intern | Irving, TX | SimplifyJobs | [apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444) |
+| — | **Olsson** | Engineering Internship - Building Automation Systems | Omaha, NE | Company portals | [apply](https://job-boards.greenhouse.io/olsson/jobs/5399497008) |
 | — | **Samsung** | Intern, Compiler Engineer | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) |
 
 ## Watched company portals
