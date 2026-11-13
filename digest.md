@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 06:01 UTC · 0 new listings_
+_Updated 2026-11-13 06:31 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Jobs at UHS** | Information Security Analyst Intern | Tredyffrin, PA | vanshb03 | [apply](https://go.vansh.nyc/1yv) |
+| — | **Samsung** | Intern, Compiler Engineer | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) |
 
 ## Watched company portals
 
