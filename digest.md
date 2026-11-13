@@ -1,14 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 11:31 UTC · 18 new listings_
+_Updated 2026-11-13 12:01 UTC · 20 new listings_
 
-## New listings (18) — newest first
+## New listings (20) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **TikTok** | Machine Learning Scientist Intern - Local Services<br>Master's | San Jose, CA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7703925583541979445) |
+| today | **TikTok** | Solutions Engineer Intern (Advertisement Team) - 2027 Summer | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a856a3de12474455273e1cd?utm_campaign=1079&utm_source=git) |
 | today | **Epic Games** | UI Programmer Intern | Cary, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa204740ffb3d4fea6b843b?utm_campaign=1079&utm_source=git) |
 | today | **Jobs at UHS** | Information Security Analyst Intern | Tredyffrin, PA | vanshb03 | [apply](https://go.vansh.nyc/1yv) |
+| today | **Reviora** | Programmer Analyst Intern | Waller, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6dadfd0eefb7d11b87d9d?utm_campaign=1079&utm_source=git) |
 | today | **Shield AI** | Human Machine Teaming Intern | Washington, DC | SimplifyJobs | [apply](https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply) |
 | today | **Sony Interactive Entertainment** | Backend Software Engineering Intern - Undergraduate | San Mateo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7bcd0eefb7d11b87d56?utm_campaign=1079&utm_source=git) |
 | today | **Sony Interactive Entertainment** | Frontend Software Engineering Intern - Undergraduate | Los Angeles, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6d7c2e3d8d612bf41eefc?utm_campaign=1079&utm_source=git) |
