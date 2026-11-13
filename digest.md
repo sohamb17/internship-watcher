@@ -1,13 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 16:01 UTC · 2 new listings_
+_Updated 2026-11-13 16:31 UTC · 6 new listings_
 
-## New listings (2) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Minitab** | Research & Design Intern | State College, PA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/minitab/jobs/8200707003) |
-| today | **Verisk** | Data Science/AI Intern | Lehi, UT (+1 more) | SimplifyJobs | [apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184) |
+| today | **Intuitive Surgical** | Clinical Research Intern | Sunnyvale, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Intuitive/744000161532709) |
+| today | **Merrick** | GIS Analyst Intern | Greenwood Village, CO | SimplifyJobs | [apply](https://careers.merrick.com/jobs/8476?icims=1&lang=en-us) |
+| today | **Rocket Mortgage** | Customer Correspondence Analyst Intern | Detroit, MI | SimplifyJobs | [apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Customer-Correspondence-Analyst---Summer-2027_R-085167-1) |
+| today | **Rocket Mortgage** | Data Analyst Intern | Detroit, MI | SimplifyJobs | [apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832) |
+| today | **WTW** | Data Analyst Intern | NYC | SimplifyJobs | [apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277) |
+| — | **Trace3** | Security Intern | Irvine, CA, United States | Company portals | [apply](https://job-boards.greenhouse.io/trace3/jobs/8274792) |
 
 ## Watched company portals
 
