@@ -1,15 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 15:01 UTC · 4 new listings_
+_Updated 2026-11-13 15:31 UTC · 4 new listings_
 
 ## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Intel** | Power Integrity Intern Worker Engineer | Costa Rica, San Jose | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/Power-Integrity-Intern-Worker-Engineer_JR0289171) |
-| today | **Micron Technology** | Intern - DRAM Device Engineer | Boise, ID - ID1 (+1 more) | Company portals | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---DRAM-Device-Engineer_JR114109) |
-| today | **Northrop Grumman** | 2027 Materials & Process Engineering Intern - Northridge CA | United States-California-Northridge | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260526?s=gh-internships-2027) |
-| today | **Valeo** | Software Engineer Intern | Troy, MI | vanshb03 | [apply](https://go.vansh.nyc/1yC) |
+| today | **Amazon** | Software Development Engineer Apprentice - Military Veterans | Bellevue, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a550e634119652ff3862f49?utm_campaign=1079&utm_source=git) |
+| today | **Entegris** | Product Engineering Intern | Chaska, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15848?s=gh-internships-2027) |
+| today | **Leidos** | Radar Engineering Intern | Huntsville, AL | Company portals | [apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Radar-Engineering-Intern_R-00196931-1) |
+| today | **Rocket Companies** | Data Analyst Intern - Summer 2027 | Detroit, MI | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-083832?s=gh-internships-2027) |
 
 ## Watched company portals
 
