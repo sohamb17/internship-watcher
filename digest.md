@@ -1,16 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 14:31 UTC · 5 new listings_
+_Updated 2026-11-13 15:01 UTC · 4 new listings_
 
-## New listings (5) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **IPConfigure Inc.** | Software Development Internship for Video Surveillance Software | Norfolk, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad908ad950ef68d5184d330?utm_campaign=1079&utm_source=git) |
-| today | **Optum** | Infrastructure & Engineering Development Program Internship | Eden Prairie, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7025ae3d8d612bf41f8f0?utm_campaign=1079&utm_source=git) |
-| today | **PulseSync Pte Ltd** | Intern (Software Development) – SG | Lane County, Oregon, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7014641166cab756477c6?utm_campaign=1079&utm_source=git) |
-| today | **Rocket Companies** | Financial Systems Intern - Summer 2027 | Detroit, MI | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-084978?s=gh-internships-2027) |
-| today | **Rocket Companies** | Technology Risk Assurance Intern - Summer 2027 | Detroit, MI | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-084815?s=gh-internships-2027) |
+| today | **Intel** | Power Integrity Intern Worker Engineer | Costa Rica, San Jose | Company portals | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Costa-Rica-San-Jose/Power-Integrity-Intern-Worker-Engineer_JR0289171) |
+| today | **Micron Technology** | Intern - DRAM Device Engineer | Boise, ID - ID1 (+1 more) | Company portals | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---DRAM-Device-Engineer_JR114109) |
+| today | **Northrop Grumman** | 2027 Materials & Process Engineering Intern - Northridge CA | United States-California-Northridge | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260526?s=gh-internships-2027) |
+| today | **Valeo** | Software Engineer Intern | Troy, MI | vanshb03 | [apply](https://go.vansh.nyc/1yC) |
 
 ## Watched company portals
 
