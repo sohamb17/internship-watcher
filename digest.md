@@ -1,12 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 18:31 UTC · 1 new listing_
+_Updated 2026-11-13 19:01 UTC · 5 new listings_
 
-## New listings (1) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ServiceNow** | Information Security Analyst Intern | San Diego, CALIFORNIA, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161550869) |
+| today | **ASML** | Internship - EUV Data Science and Analytics | Austin, TX, USA | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717) |
+| today | **BAE Systems** | Embedded Software Engineering Co-Op II (Summer/Fall 2027) , Navigation and Sensor Systems | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab3f36b64816213f2d96284?utm_campaign=1079&utm_source=git) |
+| today | **BAE Systems** | Software Engineering Intern IV, (Summer 2027) Onsite | Nashua, New Hampshire | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-128055BR?s=gh-internships-2027) |
+| today | **Tractian** | Software Engineering Intern | Atlanta, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a84f407e459fa3baa861666?utm_campaign=1079&utm_source=git) |
+| — | **Samsung** | Intern, SSD Firmware Development | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003) |
 
 ## Watched company portals
 
