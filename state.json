@@ -604,6 +604,20 @@
 "sk": "0a8f361d-eac9-4e93-9219-0611e828cf85",
 "src": "simplify",
 "url": "https://lifeattiktok.com/search/7703925583541979445"
+},
+{
+"company": "Maxinsights",
+"degrees": [],
+"dk": "maxinsights|data operations",
+"found": 20770,
+"loc": "Santa Clara, CA",
+"more": null,
+"night": true,
+"posted": 20762,
+"role": "Data Operations Intern",
+"sk": "23f85879-e285-4e75-bd3a-3c82bd6304e5",
+"src": "simplify",
+"url": "https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc/application?embed=true"
 }
 ],
 "roles": {
@@ -4369,6 +4383,7 @@
 "mativ|analytics business data science": 20770,
 "matrixdesign|embedded engineering software systems": 20760,
 "maxinsights|agentic ai engineer foundation learning machine models video": 20770,
+"maxinsights|data operations": 20770,
 "mayoclinic|ai ml oncology radiation": 20770,
 "mayoclinic|ai neurology": 20770,
 "mayoclinic|development engineer software": 20770,
@@ -12270,6 +12285,7 @@
 "23e12460-dde2-43ba-9921-b229626b3d25": 20759,
 "23e73d43-3b98-441f-abc3-9363e7f5d4aa": 20759,
 "23f42855-d656-4288-b470-cbc2fb8f3bbd": 20770,
+"23f85879-e285-4e75-bd3a-3c82bd6304e5": 20770,
 "24255193-3808-4715-852f-52963f5a98c1": 20759,
 "24381402-1346-48ef-9e6d-909cd81ca7d5": 20770,
 "2447c030-f0b3-45ba-8dd4-df6ca2b82259": 20770,

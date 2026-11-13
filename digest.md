@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 09:31 UTC · 7 new listings_
+_Updated 2026-11-13 09:44 UTC · 8 new listings_
 
-## New listings (7) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@ _Updated 2026-11-13 09:31 UTC · 7 new listings_
 | today | **Jobs at UHS** | Information Security Analyst Intern | Tredyffrin, PA | vanshb03 | [apply](https://go.vansh.nyc/1yv) |
 | today | **The Toro Company** | CX and Customer Lifetime Value Intern - Operations Analyst | Bloomington, MN | SimplifyJobs | [apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819) |
 | 1d ago | **GenPark** | Frontend Developer Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6a472af034cc4ddad1cb4?utm_campaign=1079&utm_source=git) |
+| 8d ago | **Maxinsights** | Data Operations Intern | Santa Clara, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc/application?embed=true) |
 | 11d ago | **JSX** | Commercial Intern | Dallas, TX | SimplifyJobs | [apply](https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729) |
 | 18d ago | **Federal Home Loan Bank of Dallas** | Accounting Tech Solutions Intern | Irving, TX | SimplifyJobs | [apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Accounting-Tech-Solutions-Intern_REQ-444) |
 | — | **Samsung** | Intern, Compiler Engineer | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) |
