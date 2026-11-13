@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 03:01 UTC · 2 new listings_
+_Updated 2026-11-13 03:31 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **CoStar Group** | Vision & Learning Intern | Sunnyvale, CA | SimplifyJobs | [apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196) |
-| 1d ago | **Origin Bank** | Salesforce Systems Development Intern | Ruston, LA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af635ff80054650a5e7d249?utm_campaign=1079&utm_source=git) |
+| — | **Honeywell Aerospace** | Software AI Intern | Remote | nointernship.com | [apply](https://go.vansh.nyc/1wr?s=y) |
 
 ## Watched company portals
 
