@@ -1,12 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 21:31 UTC · 1 new listing_
+_Updated 2026-11-13 22:02 UTC · 4 new listings_
 
-## New listings (1) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **InComm Payments** | Software Engineering Intern | Sandy, UT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae3d98c77c09cb3bd4a98e1?utm_campaign=1079&utm_source=git) |
+| today | **Bristol Myers Squibb** | Data & Quantitative Sciences Statistical Programming Intern - Summer 2027 | Princeton NJ US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608542?s=gh-internships-2027) |
+| today | **Lightmatter** | Hardware Test Engineering, Intern (Summer 2027) | Mountain View, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lightmatter-5473869008?s=gh-internships-2027) |
+| today | **Reliable Robotics Corporation** | FPGA Engineering Intern | Mountain View, CA | vanshb03 | [apply](https://go.vansh.nyc/1za) |
+| today | **Solidigm** | NAND Development Business Operations Intern | Rancho Cordova, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-solidigm-744000161579529?s=gh-internships-2027) |
 
 ## Watched company portals
 
