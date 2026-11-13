@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 18:01 UTC · 0 new listings_
+_Updated 2026-11-13 18:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **ServiceNow** | Information Security Analyst Intern | San Diego, CALIFORNIA, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161550869) |
 
 ## Watched company portals
 
