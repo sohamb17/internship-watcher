@@ -526,6 +526,20 @@
 "sk": "aad7957d-702c-4a2b-81f5-6ff539782828",
 "src": "vansh",
 "url": "https://go.vansh.nyc/1yv"
+},
+{
+"company": "GenPark",
+"degrees": [],
+"dk": "genpark|developer frontend",
+"found": 20770,
+"loc": "San Jose, CA, United States",
+"more": null,
+"night": true,
+"posted": 20769,
+"role": "Frontend Developer Intern",
+"sk": "jobright:6af6a472af034cc4ddad1cb4",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6af6a472af034cc4ddad1cb4?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -2980,6 +2994,7 @@
 "geniusai|engineer software": 20759,
 "geniusai|engineering": 20770,
 "genmd|ai applied member staff technical": 20770,
+"genpark|developer frontend": 20770,
 "genscript|agent ai development enterprise": 20770,
 "genuineparts|analyst engineer qa software": 20766,
 "genuineparts|cloud developer": 20762,
@@ -11404,7 +11419,7 @@
 "jobright:6af578b436c61b4fbd770b3f": 20770,
 "jobright:6af58042b5bf2486e273b83c": 20770,
 "jobright:6af589fd3df34a231cf562c9": 20769,
-"jobright:6af5d384f10ae27369e13e00": 20769,
+"jobright:6af5d384f10ae27369e13e00": 20770,
 "jobright:6af5e00b80054650a5e799ec": 20769,
 "jobright:6af5e4978cc703bba47adc6d": 20770,
 "jobright:6af5e5cea4a5218a07e811a9": 20770,
@@ -11433,11 +11448,13 @@
 "jobright:6af645ae80054650a5e7de40": 20770,
 "jobright:6af6477f79862a378dcf2a7f": 20770,
 "jobright:6af65221a4a5218a07e85644": 20770,
+"jobright:6af65df5a4a5218a07e85a3d": 20770,
 "jobright:6af6627a323c531f31e327a0": 20770,
 "jobright:6af6638279862a378dcf3586": 20770,
 "jobright:6af6697c323c531f31e32a25": 20770,
 "jobright:6af67b1b8a9bd36b08993786": 20770,
-"jobright:6af67c5f8cc703bba47b2f48": 20770
+"jobright:6af67c5f8cc703bba47b2f48": 20770,
+"jobright:6af6a472af034cc4ddad1cb4": 20770
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -16604,6 +16621,7 @@
 "42f64404-dea8-4b8c-8169-345dea50dc6b": 20770,
 "430284bb-725b-4793-972e-985d86ba3596": 20770,
 "430be2d5-00b3-4ddd-960c-b31e912d664b": 20769,
+"430bf849-7f63-416a-b80e-efd8af8e98f7": 20770,
 "4318869c-0ccc-4170-b2c3-7d2eddeb162a": 20767,
 "433bc58d-1ee0-4ead-98af-d08dae367cbb": 20770,
 "43486151-ac6b-4962-8b19-7199f8d7e45c": 20770,

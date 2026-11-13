@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 07:01 UTC · 2 new listings_
+_Updated 2026-11-13 07:31 UTC · 3 new listings_
 
-## New listings (2) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Jobs at UHS** | Information Security Analyst Intern | Tredyffrin, PA | vanshb03 | [apply](https://go.vansh.nyc/1yv) |
+| 1d ago | **GenPark** | Frontend Developer Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6a472af034cc4ddad1cb4?utm_campaign=1079&utm_source=git) |
 | — | **Samsung** | Intern, Compiler Engineer | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) |
 
 ## Watched company portals
