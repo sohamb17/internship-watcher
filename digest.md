@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 02:01 UTC · 2 new listings_
+_Updated 2026-11-13 02:31 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Zoox** | Systems & Safety Engineering Intern [Summer 2027] | Foster City, CA | Company portals | [apply](https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f) |
-| 1d ago | **Rockwell Automation** | Intern, Software Engineering | Milwaukee, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af65221a4a5218a07e85644?utm_campaign=1079&utm_source=git) |
+| today | **AstraZeneca** | Summer 2027 Pharmaceutical Development Summer Intern PhD | New Haven - CT | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264287?s=gh-internships-2027) |
 
 ## Watched company portals
 
