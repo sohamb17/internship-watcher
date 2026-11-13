@@ -1,16 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 19:01 UTC · 5 new listings_
+_Updated 2026-11-13 19:31 UTC · 8 new listings_
 
-## New listings (5) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ASML** | Internship - EUV Data Science and Analytics | Austin, TX, USA | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717) |
-| today | **BAE Systems** | Embedded Software Engineering Co-Op II (Summer/Fall 2027) , Navigation and Sensor Systems | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab3f36b64816213f2d96284?utm_campaign=1079&utm_source=git) |
-| today | **BAE Systems** | Software Engineering Intern IV, (Summer 2027) Onsite | Nashua, New Hampshire | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-128055BR?s=gh-internships-2027) |
-| today | **Tractian** | Software Engineering Intern | Atlanta, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a84f407e459fa3baa861666?utm_campaign=1079&utm_source=git) |
-| — | **Samsung** | Intern, SSD Firmware Development | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003) |
+| today | **Carrier Global** | Data Analytics Intern - Summer | CAI23: Carrier-Indianapolis,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-carrier-jobs-30220000?s=gh-internships-2027) |
+| today | **Muon** | Software Engineering Intern-Information Systems - Summer 2027 | San Jose, CA | speedyapply | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5293973007) |
+| today | **Samsung** | 2027 SARC/ACL R&D Internship Program – Multiple Engineering Teams | 3900 N Capital of Texas Hwy Austin TX USA | Company portals | [apply](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122243) |
+| 1d ago | **PODS** | Operations Data Science Intern | Clearwater, FL | vanshb03 | [apply](https://go.vansh.nyc/1yX) |
+| 73d ago | **GPC** | Cloud Developer Intern | Birmingham, AL | speedyapply | [apply](https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133) |
+| — | **Flagship Pioneering** | Pioneering Medicines: Research Co-Op, Mechanism of Action – Metabolic Disease | Cambridge, MA USA | Company portals | [apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8936932002) |
+| — | **Samsung** | Intern, AI Systems Performance Engineer | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003) |
+| — | **Samsung** | Intern, ML Compiler (Kernel Auto-Tuning) | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003) |
 
 ## Watched company portals
 
