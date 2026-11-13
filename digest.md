@@ -1,14 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 01:31 UTC · 3 new listings_
+_Updated 2026-11-13 02:01 UTC · 2 new listings_
 
-## New listings (3) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **E2 Consulting Engineers** | Data Analyst Intern | San Diego, CA | vanshb03 | [apply](https://go.vansh.nyc/1yp) |
-| today | **Lightmatter** | Quality & Reliability, Intern Summer 2027 | Mountain View, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lightmatter-5474812008?s=gh-internships-2027) |
-| 52d ago | **Amazon** | Security Engineer Intern | Seattle, WA | vanshb03 | [apply](https://go.vansh.nyc/1yo) |
+| today | **Zoox** | Systems & Safety Engineering Intern [Summer 2027] | Foster City, CA | Company portals | [apply](https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f) |
+| 1d ago | **Rockwell Automation** | Intern, Software Engineering | Milwaukee, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af65221a4a5218a07e85644?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
