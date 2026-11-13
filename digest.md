@@ -1,8 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 04:01 UTC · 0 new listings_
+_Updated 2026-11-13 04:31 UTC · 4 new listings_
 
-Nothing new this run.
+## New listings (4) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Bask** | AI Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1yt) |
+| today | **Bask** | Machine Learning Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1ys) |
+| — | **Capital Power** | Student Intern - Data Science | Edmonton | nointernship.com | [apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1) |
+| — | **Shield AI** | Hardware Test Engineering Co-op | Dallas | nointernship.com | [apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d/application?embed=true) |
 
 ## Watched company portals
 
