@@ -1,18 +1,25 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 00:01 UTC · 7 new listings_
+_Updated 2026-11-13 00:31 UTC · 14 new listings_
 
-## New listings (7) — newest first
+## New listings (14) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ASML** | Internship - Data Scientist | Wilton, CT, USA | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462) |
-| 1d ago | **Austal USA** | Information Technology Intern | Mobile, AL | vanshb03 | [apply](https://go.vansh.nyc/1y0) |
-| 1d ago | **General Dynamics Information Technology** | Programmer Intern | Raleigh, NC | SimplifyJobs | [apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NC-Raleigh/Professional-Programmer---Intern_RQ232030) |
-| 1d ago | **KION Group** | AI Engineer Intern | Grand Rapids, MI (+1 more) | SimplifyJobs | [apply](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/AI-Engineering-Intern_JR-0096963) |
-| 1d ago | **Motorola Solutions** | Systems Engineering Intern | Chicago, IL | SimplifyJobs | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657) |
-| 1d ago | **National Laboratory of the Rockies** | Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling | Remote in USA | SimplifyJobs | [apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589) |
-| 1d ago | **Wolters Kluwer** | Product Software Engineer Intern | Waltham, MA (+1 more) | SimplifyJobs | [apply](https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Product-Software-Engineer_R0061394) |
+| today | **Cintas** | IT OT Software Engineer Intern | Mason, OH (+1 more) | SimplifyJobs | [apply](https://careers.cintas.com/job/Mason-IT-Intern-OT-Software-Engineer-OH-45040/1450367200/?ats=successfactors) |
+| today | **Octant Bio** | Software Engineering Intern | Emeryville, CA | SimplifyJobs | [apply](https://www.octant.bio/jobs?gh_jid=6260895004) |
+| 1d ago | **Atalanta** | Forward Deployed Engineer Intern | Washington, DC | SimplifyJobs | [apply](https://jobs.ashbyhq.com/atalanta/732425ff-3461-49e6-9022-5b0cd732e6c1/application?embed=true) |
+| 1d ago | **Atalanta** | Software Engineer Intern | Washington, DC | SimplifyJobs | [apply](https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335/application?embed=true) |
+| 1d ago | **CareSource** | Clinical Operations Business Analyst Intern | Remote in USA | SimplifyJobs | [apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353) |
+| 1d ago | **CareSource** | Summer Internship Program – Provider Analytics AI Intern | Remote in USA | SimplifyJobs | [apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481) |
+| 1d ago | **Environmental Defense Fund** | Consumer Energy Analytics Intern | Remote in USA / St. Petersburg, FL | SimplifyJobs | [apply](https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752) |
+| 1d ago | **German American Bank** | Technology Services Intern | Whitehall, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af638e68cc703bba47b10c0?utm_campaign=1079&utm_source=git) |
+| 1d ago | **IBM** | IBM Z Engineering System Test QA/Test Developer Intern 2027 | Poughkeepsie, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af627608cc703bba47b06cf?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Intermountain Healthcare** | Machine Learning Operations Intern | Remote in USA | SimplifyJobs | [apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318) |
+| 1d ago | **Stanley Black & Decker** | Data Analyst Intern<br>Master's | Towson, MD | SimplifyJobs | [apply](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481) |
+| 1d ago | **White Cap Supply Holdings** | Product Data Management Intern | Remote in USA | SimplifyJobs | [apply](https://whitecap.wd1.myworkdayjobs.com/careers/job/Corporate-Intern---Product-Data-Management_WCJR-036650) |
+| 2d ago | **Carlisle Companies** | AI & Data Science Intern<br>Master's/PhD | Carlisle, PA | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/Carlisle/3743990016774046) |
+| 56d ago | **CME Group** | Software Engineering Fellow | Chicago, IL | SimplifyJobs | [apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Fellowship---Summer-2027_34824) |
 
 ## Watched company portals
 
