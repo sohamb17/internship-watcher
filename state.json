@@ -6406,6 +6406,7 @@
 "syntiant|devops engineer infrastructure learning machine": 20771,
 "syntiant|devops infrastructure learning machine": 20771,
 "syracuseresearch|design embedded engineer": 20759,
+"sysco|dev engineer software": 20771,
 "syskahennessy|developer innovation software": 20771,
 "taara|optical pll research": 20771,
 "talostrading|dealer engineer software": 20763,
@@ -11138,7 +11139,7 @@
 "jobright:6ae396bafb2cd420ace524e6": 20760,
 "jobright:6ae3c387d7424a2a828e2baa": 20771,
 "jobright:6ae3d028d45dc30fb7d2cc60": 20770,
-"jobright:6ae3d762d45dc30fb7d2d02c": 20770,
+"jobright:6ae3d762d45dc30fb7d2d02c": 20771,
 "jobright:6ae3d98c77c09cb3bd4a98e1": 20771,
 "jobright:6ae3e3fc77c09cb3bd4a9cfa": 20762,
 "jobright:6ae3e669fb2cd420ace54dc7": 20771,
@@ -11306,7 +11307,7 @@
 "jobright:6aea674a913589212b1f6a33": 20761,
 "jobright:6aea67de913589212b1f6abe": 20771,
 "jobright:6aea67e4440b469a1c0adc87": 20761,
-"jobright:6aea67fb4f991d64376cdcb9": 20770,
+"jobright:6aea67fb4f991d64376cdcb9": 20771,
 "jobright:6aea67fcfc85f3a3943337c9": 20771,
 "jobright:6aea73be1ba298c777772f3d": 20761,
 "jobright:6aea7a8b4f991d64376ce48b": 20762,
@@ -11771,7 +11772,10 @@
 "jobright:6af79a2141166cab7564d6ac": 20771,
 "jobright:6af79abbc7349029d7097a40": 20771,
 "jobright:6af7b0ea16215fdeb90d30c2": 20771,
-"jobright:6af7b0fcd0eefb7d11b8ef88": 20771
+"jobright:6af7b0fcd0eefb7d11b8ef88": 20771,
+"jobright:6af7c2c334e2d29dcb751523": 20771,
+"jobright:6af7c323487034fbf7631576": 20771,
+"jobright:6af7ca75cb5a5d4a77fc8740": 20771
 },
 "nointernship": {
 "nointernship:50673": 20760,
