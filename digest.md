@@ -1,17 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 18:01 UTC · 6 new listings_
+_Updated 2026-11-14 18:31 UTC · 0 new listings_
 
-## New listings (6) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **ByteDance** | Software Engineer - Intern (CIS) - 2027 Start | Seattle, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adc7b03c5c64fa3d9cb3b3d?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Microarchitecture / Software Intern 2027 - AI Accelerators Research | Yorktown Heights, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aea6473897466e69e31ea4d?utm_campaign=1079&utm_source=git) |
-| today | **IBM** | Silicon Technology Research and Development Software Engineering Intern - 2027 | Yorktown Heights, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab6a9f69d4843569fe4eb75?utm_campaign=1079&utm_source=git) |
-| today | **ICE** | Summer Internship Program 2027 - Release Engineering Intern | Jacksonville, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adbc329c5c64fa3d9cb10a5?utm_campaign=1079&utm_source=git) |
-| 2d ago | **General Dynamics Mission Systems** | Software Asset Management Intern Administrative | Pittsfield, MA | speedyapply | [apply](https://careers-gdms.icims.com/jobs/76780/software-asset-management-intern-administrative/job) |
-| 8d ago | **Raft** | DevOps Engineering Intern - Summer 2027 | McLean, VA | speedyapply | [apply](https://job-boards.greenhouse.io/raft/jobs/6239819004) |
+Nothing new this run.
 
 ## Watched company portals
 
