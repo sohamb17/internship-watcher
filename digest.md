@@ -1,15 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 14:00 UTC · 4 new listings_
+_Updated 2026-11-14 14:30 UTC · 0 new listings_
 
-## New listings (4) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **CACI International Inc** | Configuration Control/Data Management Co-op - Spring & Summer 2027 | Danbury, CT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af782c6e3d8d612bf4244dd?utm_campaign=1079&utm_source=git) |
-| today | **Ruan Transportation Management Systems** | App Dev Intern - Summer 2027 | Des Moines, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aab0a6a8e1bf0f764af816f?utm_campaign=1079&utm_source=git) |
-| 1d ago | **General Atomics** | Intern - Computer Engineer | Fredericksburg, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7dbff42ae65e2c8f399a4?utm_campaign=1079&utm_source=git) |
-| 1d ago | **RouteOne** | Software Engineer Intern - Java - Summer 2027 | Farmington Hills, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adaf917c5c64fa3d9caccd3?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
