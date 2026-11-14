@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 10:00 UTC · 1 new listing_
+_Updated 2026-11-14 10:30 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | 1d ago | **General Atomics** | Intern - Computer Engineer | Fredericksburg, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7dbff42ae65e2c8f399a4?utm_campaign=1079&utm_source=git) |
+| 1d ago | **RouteOne** | Software Engineer Intern - Java - Summer 2027 | Farmington Hills, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adaf917c5c64fa3d9caccd3?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 

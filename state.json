@@ -512,6 +512,20 @@
 "sk": "jobright:6af7dbff42ae65e2c8f399a4",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6af7dbff42ae65e2c8f399a4?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "RouteOne",
+"degrees": [],
+"dk": "routeone|engineer java software",
+"found": 20771,
+"loc": "Farmington Hills, MI, United States",
+"more": null,
+"night": true,
+"posted": 20770,
+"role": "Software Engineer Intern - Java - Summer 2027",
+"sk": "jobright:6adaf917c5c64fa3d9caccd3",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6adaf917c5c64fa3d9caccd3?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -4046,7 +4060,7 @@
 "l3harris|ca carlsbad details engineering job l3hhcm20 software": 20771,
 "l3harris|ca carlsbad engineering software": 20771,
 "l3harris|city details engineer job l3hhcm20 lake salt software ut": 20762,
-"l3harris|city engineer lake salt software ut": 20770,
+"l3harris|city engineer lake salt software ut": 20771,
 "l3harris|details engineer job l3hhcm20 software": 20771,
 "l3harris|details engineering fl job l3hhcm20 melbourne software": 20771,
 "l3harris|details engineering job l3hhcm20 software": 20771,
@@ -5797,6 +5811,7 @@
 "rosaiclabs|cpu design engineer verification": 20771,
 "rosaiclabs|engineering software": 20771,
 "rothesay|engineer software": 20759,
+"routeone|engineer java software": 20771,
 "royalbankofcanada|amplify data engineer": 20759,
 "royalbankofcanada|amplify developer rbc": 20759,
 "royalbankofcanada|associate capital markets quant quantitative services technology": 20769,
@@ -11087,6 +11102,7 @@
 "jobright:6ada8d64950ef68d51858c56": 20770,
 "jobright:6ada8d654c3adc437cece3bc": 20770,
 "jobright:6ada8d65e4b94611ab85dcfe": 20770,
+"jobright:6adaf917c5c64fa3d9caccd3": 20771,
 "jobright:6adb10cfcb58d64fcd372ba9": 20766,
 "jobright:6adb10d59e3e874dbfb9e1b7": 20770,
 "jobright:6adb3a7c5dc7953215a31bf5": 20761,
@@ -11795,7 +11811,8 @@
 "jobright:6af7c2c334e2d29dcb751523": 20771,
 "jobright:6af7c323487034fbf7631576": 20771,
 "jobright:6af7ca75cb5a5d4a77fc8740": 20771,
-"jobright:6af7dbff42ae65e2c8f399a4": 20771
+"jobright:6af7dbff42ae65e2c8f399a4": 20771,
+"jobright:6af8232342ae65e2c8f3b18c": 20771
 },
 "nointernship": {
 "nointernship:50673": 20760,
