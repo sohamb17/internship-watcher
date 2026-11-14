@@ -1,13 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 17:01 UTC · 2 new listings_
+_Updated 2026-11-14 17:31 UTC · 2 new listings_
 
 ## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Amway** | Technology Integration Solutions Intern, Summer 2027 (REQ#43549) | Ada, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa3803b626f9945308b10fb?utm_campaign=1079&utm_source=git) |
-| today | **Hubbell Incorporated** | 2027 Summer Intern: Engineering - PLM Transformation | Shelton, CT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af82c2b35427cce9bb2bf51?utm_campaign=1079&utm_source=git) |
+| today | **SAS** | Software Developer Intern, Go/Golang | Cary, NC | vanshb03 | [apply](https://go.vansh.nyc/1zC) |
+| 1d ago | **Camping World** | AI Security Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1zF) |
 
 ## Watched company portals
 
