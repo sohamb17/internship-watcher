@@ -1,16 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 01:30 UTC · 5 new listings_
+_Updated 2026-11-14 02:00 UTC · 0 new listings_
 
-## New listings (5) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Amazon** | Data Center Infrastructure Engineer Intern, Summer 2027 - East | Herndon, Virginia, USA | Company portals | [apply](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east) |
-| today | **NetApp** | Software Engineer Intern, Cloud | San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1zr) |
-| today | **NetApp** | Software Engineer Intern, Systems | San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1zs) |
-| 1d ago | **Holland America Line** | Intern, Ecommerce Engineering | Fort Lauderdale, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af795a2d0eefb7d11b8e378?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Realm Alliance** | Software Engineer - Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6a8f11a2d7c91d0cf446d5e1?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
