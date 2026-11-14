@@ -1,15 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 00:01 UTC · 4 new listings_
+_Updated 2026-11-14 00:30 UTC · 8 new listings_
 
-## New listings (4) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Activision Blizzard** | Game Systems Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1zl) |
-| today | **Horizon3.ai** | Research Intern, Adversarial Intelligence | Chicago, IL / West Lafayette, IN | vanshb03 | [apply](https://go.vansh.nyc/1zk) |
-| 1d ago | **Addepar** | Product Analyst Intern, Navigator | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1zh) |
-| 1d ago | **TC Energy** | Intelligent Operations Technology Intern | Spokane, WA | vanshb03 | [apply](https://go.vansh.nyc/1zi) |
+| today | **NextEra Energy** | Software Engineering Intern - Technical | St Paul, MN | SimplifyJobs | [apply](https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors) |
+| today | **Nike** | NIKE, Inc. Product Graphics Design Internship | Beaverton, Oregon | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nike-nke-R-97437?s=gh-internships-2027) |
+| 1d ago | **Capital Group** | Global Technology Summer Associate Intern | Irvine, CA | SimplifyJobs | [apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) |
+| 1d ago | **Carnival Corporation** | Intern, Ecommerce Engineering | Fort Lauderdale, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af78276c7349029d709695c?utm_campaign=1079&utm_source=git) |
+| 1d ago | **International** | Digital & AI Intern for Service Solutions | Lisle, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af78b128242286400646640?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Navistar Inc** | Digital & AI Intern for Service Solutions | Lisle, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af788ed41166cab7564c8c5?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Nexus Cognitive Technologies** | Data Engineer Intern | Atlanta, GA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true) |
+| 1d ago | **Princess Cruises** | Intern, Ecommerce Engineering | Fort Lauderdale, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af782683ba46d7b6c1678e8?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
