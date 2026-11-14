@@ -1,14 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 03:00 UTC · 3 new listings_
+_Updated 2026-11-14 03:30 UTC · 3 new listings_
 
 ## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **BAE Systems, Inc.** | Programmer Analyst Intern - Summer 2027 | Fort Wayne, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7b0ea16215fdeb90d30c2?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Hemlock Semiconductor** | Manufacturing Systems Software Developer Intern | Hemlock, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7b0fcd0eefb7d11b8ef88?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Roche** | 2027 Summer Intern - Computational Science | Santa Clara, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af77bc4d0eefb7d11b8d04a?utm_campaign=1079&utm_source=git) |
+| today | **KBR Wyle Services** | Computer Science Intern, Defense & Intel (D&I) | Chantilly, VA / Ann Arbor, MI / Lexington, MA / Kihei, HI /  | vanshb03 | [apply](https://go.vansh.nyc/1zy) |
+| today | **KBR Wyle Services** | Image Processing Software Engineer Intern | Sioux Falls, SD | vanshb03 | [apply](https://go.vansh.nyc/1zx) |
+| today | **KBR Wyle Services** | Software Engineering Intern, Defense & Intel (D&I) | Chantilly, VA / Ann Arbor, MI / Lexington, MA / Kihei, HI /  | vanshb03 | [apply](https://go.vansh.nyc/1zz) |
 
 ## Watched company portals
 
