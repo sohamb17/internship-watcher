@@ -1,14 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 15:00 UTC · 3 new listings_
+_Updated 2026-11-14 15:12 UTC · 0 new listings_
 
-## New listings (3) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Toyota Automated Logistics** | Software Engineer Intern | Meridian, ID, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac96b62fe8f33a85d503cfc?utm_campaign=1079&utm_source=git) |
-| today | **Toyota Automated Logistics** | Software Project Engineer Intern (Summer 2027) | Louisville, KY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aaafffe8e1bf0f764af7cb7?utm_campaign=1079&utm_source=git) |
-| today | **Toyota Automated Logistics** | Software QA Co-op (Summer 2027) | Louisville, Kentucky, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac96b61d4a5a037074124b2?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
