@@ -1,16 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-13 23:42 UTC · 5 new listings_
+_Updated 2026-11-14 00:01 UTC · 4 new listings_
 
-## New listings (5) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Addepar** | Product Analyst Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) |
-| today | **Amgen** | AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern<br>Master's/PhD | Remote in USA | SimplifyJobs | [apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625) |
-| today | **FieldPulse** | AI Intern | Dallas, TX | SimplifyJobs | [apply](https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d) |
-| today | **ServiceNow** | AI Identity Intern | Kirkland, Washington, United States | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161594249) |
-| today | **StepStone Group** | Junior Analyst Intern - Client Services | Cleveland, OH | SimplifyJobs | [apply](https://boards.greenhouse.io/embed/job_app?token=8386648) |
+| today | **Activision Blizzard** | Game Systems Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1zl) |
+| today | **Horizon3.ai** | Research Intern, Adversarial Intelligence | Chicago, IL / West Lafayette, IN | vanshb03 | [apply](https://go.vansh.nyc/1zk) |
+| 1d ago | **Addepar** | Product Analyst Intern, Navigator | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1zh) |
+| 1d ago | **TC Energy** | Intelligent Operations Technology Intern | Spokane, WA | vanshb03 | [apply](https://go.vansh.nyc/1zi) |
 
 ## Watched company portals
 
