@@ -1,12 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 16:00 UTC · 1 new listing_
+_Updated 2026-11-14 16:31 UTC · 4 new listings_
 
-## New listings (1) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Hydromenta Systems** | Digital Client Engineering Intern | Mequon, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af865ab34e2d29dcb7551b9?utm_campaign=1079&utm_source=git) |
+| today | **SAS** | Software Developer Intern - Go/Golang Experience | Cary, NC | SimplifyJobs | [apply](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) |
+| 1d ago | **Camping World** | Data Analyst Intern - AI & Machine Learning Focus<br>Master's | Chicago, IL / Lincolnshire, IL | SimplifyJobs | [apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300) |
+| 1d ago | **Camping World** | Data Engineering Intern<br>Master's | Chicago, IL / Lincolnshire, IL | SimplifyJobs | [apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297) |
+| 1d ago | **Camping World** | Software Engineer Intern | Chicago, IL | SimplifyJobs | [apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080) |
 
 ## Watched company portals
 
