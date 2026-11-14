@@ -498,7 +498,22 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20770,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20770
 },
-"held": [],
+"held": [
+{
+"company": "General Atomics",
+"degrees": [],
+"dk": "generalatomics|computer engineer",
+"found": 20771,
+"loc": "Fredericksburg, VA, United States",
+"more": null,
+"night": true,
+"posted": 20770,
+"role": "Intern - Computer Engineer",
+"sk": "jobright:6af7dbff42ae65e2c8f399a4",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6af7dbff42ae65e2c8f399a4?utm_campaign=1079&utm_source=git"
+}
+],
 "roles": {
 "10a|engineering fellow": 20771,
 "1password|brokering credential developer": 20759,
@@ -2860,6 +2875,7 @@
 "genentech|data development product sciences": 20771,
 "generac|ai engineering": 20771,
 "generac|engineering grid micro systems": 20771,
+"generalatomics|computer engineer": 20771,
 "generaldynamicselectricboat|assurance engineering quality": 20761,
 "generaldynamicsinformation|ai business development gdit intelligence ml": 20770,
 "generaldynamicsinformation|ai business development intelligence ml": 20771,
@@ -5923,7 +5939,7 @@
 "samsung|engineer power simulation software thermal": 20771,
 "samsung|engineer software systems": 20771,
 "samsung|engineering software systems": 20771,
-"sandhillsglobal|development software": 20767,
+"sandhillsglobal|development software": 20771,
 "sanfranciscodata|engineer": 20771,
 "sanofi|advanced analytics": 20762,
 "sanofi|advanced analytics us": 20762,
@@ -10527,6 +10543,7 @@
 "jobright:6a0f8d9b72b52f7225f3ef02": 20768,
 "jobright:6a1de8459111f771d1a1be26": 20771,
 "jobright:6a257019dedf78312c7b0196": 20760,
+"jobright:6a28dbfd40ac8e32932a401f": 20771,
 "jobright:6a3c3915d261407de97fce46": 20767,
 "jobright:6a3e325f78237a036d5e388a": 20768,
 "jobright:6a3ebf1cce7cce40b3421996": 20769,
@@ -10792,6 +10809,7 @@
 "jobright:6aa3ec1df7baf881567cc1c2": 20771,
 "jobright:6aa426f4c1928370a285cc61": 20769,
 "jobright:6aa42bc9c1928370a285cd93": 20769,
+"jobright:6aa4721bf3aa936e2cdb144a": 20771,
 "jobright:6aa48832422289703bd66f17": 20771,
 "jobright:6aa4cb8e654b2a9424cf1523": 20771,
 "jobright:6aa4d736654b2a9424cf1869": 20771,
@@ -11775,7 +11793,8 @@
 "jobright:6af7b0fcd0eefb7d11b8ef88": 20771,
 "jobright:6af7c2c334e2d29dcb751523": 20771,
 "jobright:6af7c323487034fbf7631576": 20771,
-"jobright:6af7ca75cb5a5d4a77fc8740": 20771
+"jobright:6af7ca75cb5a5d4a77fc8740": 20771,
+"jobright:6af7dbff42ae65e2c8f399a4": 20771
 },
 "nointernship": {
 "nointernship:50673": 20760,

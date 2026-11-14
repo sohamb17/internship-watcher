@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 05:31 UTC · 0 new listings_
+_Updated 2026-11-14 06:00 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **General Atomics** | Intern - Computer Engineer | Fredericksburg, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7dbff42ae65e2c8f399a4?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
