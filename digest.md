@@ -1,8 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 18:31 UTC · 0 new listings_
+_Updated 2026-11-14 19:01 UTC · 5 new listings_
 
-Nothing new this run.
+## New listings (5) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **IBM** | Software Developer Intern-Rochester, MN | Rochester, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af890b335427cce9bb2e3f3?utm_campaign=1079&utm_source=git) |
+| today | **ICE** | Summer Internship Program 2027 - Quantitative Engineer Intern | Atlanta, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adbc327c5c64fa3d9cb10a3?utm_campaign=1079&utm_source=git) |
+| today | **ICE** | Summer Internship Program 2027 - Software Development Engineer in Test Intern | Atlanta, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adbc327389e06bb41ad3ae4?utm_campaign=1079&utm_source=git) |
+| today | **ICE** | Summer Internship Program 2027 - Software Engineering Intern | Jacksonville, FL, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6adbc3285dc7953215a3451b?utm_campaign=1079&utm_source=git) |
+| today | **Tractian** | Research and Development Intern, PhD Track | Atlanta, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abed9e48ff3fb9b3bc7649f?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
