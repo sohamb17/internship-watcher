@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 02:30 UTC · 1 new listing_
+_Updated 2026-11-14 03:00 UTC · 3 new listings_
 
-## New listings (1) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern - AI Coding Agents | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200067371?s=gh-internships-2027) |
+| 1d ago | **BAE Systems, Inc.** | Programmer Analyst Intern - Summer 2027 | Fort Wayne, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7b0ea16215fdeb90d30c2?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Hemlock Semiconductor** | Manufacturing Systems Software Developer Intern | Hemlock, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7b0fcd0eefb7d11b8ef88?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Roche** | 2027 Summer Intern - Computational Science | Santa Clara, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af77bc4d0eefb7d11b8d04a?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
