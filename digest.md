@@ -1,16 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 20:31 UTC · 5 new listings_
+_Updated 2026-11-14 20:48 UTC · 0 new listings_
 
-## New listings (5) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **ICE** | Summer Internship Program 2027 - Infrastructure Development & Automation Intern | Atlanta, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adbc326c5c64fa3d9cb10a0?utm_campaign=1079&utm_source=git) |
-| today | **ICE** | Summer Internship Program 2027 - Software Developer Intern | Jacksonville, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adbc3289e3e874dbfba196b?utm_campaign=1079&utm_source=git) |
-| today | **ICE** | Summer Internship Program 2027 - Trading System Development Intern | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adbc329c5c64fa3d9cb10a7?utm_campaign=1079&utm_source=git) |
-| today | **NetApp** | Intern - Software Engineer (Cloud) Job Details / NetApp, Inc. | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af8620dcb5a5d4a77fcbc32?utm_campaign=1079&utm_source=git) |
-| today | **NetApp** | Intern - Software Engineer (Systems) Job Details / NetApp, Inc. | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af8621186a9b19681af9861?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
