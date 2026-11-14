@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 22:01 UTC · 0 new listings_
+_Updated 2026-11-14 22:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **ByteDance** | Research Intern (AI-Native Databases) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adc7b1446a8cabdc1ff7471?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
