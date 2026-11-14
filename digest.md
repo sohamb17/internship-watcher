@@ -1,14 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 04:00 UTC · 3 new listings_
+_Updated 2026-11-14 04:30 UTC · 0 new listings_
 
-## New listings (3) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| — | **Amazon** | Robotics Applied Scientist 2 Intern - Robotics | Seattle, Reading, Bellevue, Sunnyvale, Westborough | nointernship.com | [apply](https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states) |
-| — | **Reliable Robotics** | Hardware Test Engineer Intern | Mountain View | nointernship.com | [apply](https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e/application?embed=true) |
-| — | **W.W. Grainger** | GCAN Field Operations Analyst Intern | Thornhill | nointernship.com | [apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/) |
+Nothing new this run.
 
 ## Watched company portals
 
