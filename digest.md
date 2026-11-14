@@ -1,19 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 00:30 UTC · 8 new listings_
+_Updated 2026-11-14 01:01 UTC · 4 new listings_
 
-## New listings (8) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **NextEra Energy** | Software Engineering Intern - Technical | St Paul, MN | SimplifyJobs | [apply](https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors) |
-| today | **Nike** | NIKE, Inc. Product Graphics Design Internship | Beaverton, Oregon | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nike-nke-R-97437?s=gh-internships-2027) |
-| 1d ago | **Capital Group** | Global Technology Summer Associate Intern | Irvine, CA | SimplifyJobs | [apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) |
-| 1d ago | **Carnival Corporation** | Intern, Ecommerce Engineering | Fort Lauderdale, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af78276c7349029d709695c?utm_campaign=1079&utm_source=git) |
-| 1d ago | **International** | Digital & AI Intern for Service Solutions | Lisle, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af78b128242286400646640?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Navistar Inc** | Digital & AI Intern for Service Solutions | Lisle, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af788ed41166cab7564c8c5?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Nexus Cognitive Technologies** | Data Engineer Intern | Atlanta, GA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true) |
-| 1d ago | **Princess Cruises** | Intern, Ecommerce Engineering | Fort Lauderdale, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af782683ba46d7b6c1678e8?utm_campaign=1079&utm_source=git) |
+| today | **Amazon** | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | Umatilla, Oregon, USA | Company portals | [apply](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) |
+| today | **Microsoft** | Research Intern - MSR Software-Hardware Co-design | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200067399?s=gh-internships-2027) |
+| today | **ASML** | Internship - Engineer (Defectivity, Materials & Contamination Analysis) | Wilton, CT, USA (+1 more) | Company portals | [apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/Internship---Engineer--Defectivity--Materials---Contamination-Analysis-_J-00357005) |
+| today | **USAA** | Technology Intern | San Antonio | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-usaa-usaajobswd-R0120133?s=gh-internships-2027) |
 
 ## Watched company portals
 
