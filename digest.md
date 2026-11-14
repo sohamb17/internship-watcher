@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 15:30 UTC · 0 new listings_
+_Updated 2026-11-14 16:00 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Hydromenta Systems** | Digital Client Engineering Intern | Mequon, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af865ab34e2d29dcb7551b9?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
