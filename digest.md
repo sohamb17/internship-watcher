@@ -1,15 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 16:31 UTC · 4 new listings_
+_Updated 2026-11-14 17:01 UTC · 2 new listings_
 
-## New listings (4) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **SAS** | Software Developer Intern - Go/Golang Experience | Cary, NC | SimplifyJobs | [apply](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) |
-| 1d ago | **Camping World** | Data Analyst Intern - AI & Machine Learning Focus<br>Master's | Chicago, IL / Lincolnshire, IL | SimplifyJobs | [apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300) |
-| 1d ago | **Camping World** | Data Engineering Intern<br>Master's | Chicago, IL / Lincolnshire, IL | SimplifyJobs | [apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297) |
-| 1d ago | **Camping World** | Software Engineer Intern | Chicago, IL | SimplifyJobs | [apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080) |
+| today | **Amway** | Technology Integration Solutions Intern, Summer 2027 (REQ#43549) | Ada, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa3803b626f9945308b10fb?utm_campaign=1079&utm_source=git) |
+| today | **Hubbell Incorporated** | 2027 Summer Intern: Engineering - PLM Transformation | Shelton, CT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af82c2b35427cce9bb2bf51?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
