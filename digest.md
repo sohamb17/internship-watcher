@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-15 21:01 UTC · 0 new listings_
+_Updated 2026-11-15 21:31 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Midrex Technologies** | IT Cyber Security Intern | Charlotte, NC | vanshb03 | [apply](https://go.vansh.nyc/1zU) |
+| 1d ago | **NetApp** | Data Analyst Intern | Research Triangle Park, NC | vanshb03 | [apply](https://go.vansh.nyc/1zX) |
 
 ## Watched company portals
 
