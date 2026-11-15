@@ -498,7 +498,22 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20772,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20772
 },
-"held": [],
+"held": [
+{
+"company": "MITRE",
+"degrees": [],
+"dk": "mitre|analysis modeling simulation",
+"found": 20772,
+"loc": "McLean, Virginia",
+"more": null,
+"night": true,
+"posted": 20772,
+"role": "Modeling, Simulation, and Analysis Intern",
+"sk": "https://zapply.jobs/l/d/phenom-mitre-R117401",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/phenom-mitre-R117401?s=gh-internships-2027"
+}
+],
 "roles": {
 "10a|engineering fellow": 20772,
 "1password|brokering credential developer": 20759,
@@ -4655,6 +4670,7 @@
 "missionadivisionofhii|30069 details division engineer hii job levels mission multiple s software technologies": 20762,
 "mitre|ai architect solutions": 20762,
 "mitre|ai trustworthy": 20772,
+"mitre|analysis modeling simulation": 20772,
 "mitre|analyst intel policy strategy": 20769,
 "mitre|autonomous systems": 20772,
 "mitre|computer engineering in or science software": 20768,
@@ -11189,6 +11205,7 @@
 "jobright:6adc7b1446a8cabdc1ff7471": 20771,
 "jobright:6adc8a63c5c64fa3d9cb3e4c": 20771,
 "jobright:6adc9a689e3e874dbfba4b76": 20764,
+"jobright:6adcfbc50a4cc7090f978bd3": 20772,
 "jobright:6adf13419e3e874dbfbaa425": 20761,
 "jobright:6adfa4d20a4cc7090f9818ee": 20767,
 "jobright:6adfac209e3e874dbfbaefa7": 20761,
@@ -19154,8 +19171,10 @@
 "https://zapply.jobs/l/d/phenom-cisco-2024757": 20761,
 "https://zapply.jobs/l/d/phenom-cisco-2025375": 20760,
 "https://zapply.jobs/l/d/phenom-cisco-2025378": 20772,
+"https://zapply.jobs/l/d/phenom-cisco-2027214": 20772,
 "https://zapply.jobs/l/d/phenom-danaher-R1321509": 20769,
 "https://zapply.jobs/l/d/phenom-mitre-R117315": 20768,
+"https://zapply.jobs/l/d/phenom-mitre-R117401": 20772,
 "https://zapply.jobs/l/d/phenom-mitre-R117632": 20772,
 "https://zapply.jobs/l/d/phenom-mitre-R117661": 20768,
 "https://zapply.jobs/l/d/phenom-mitre-R117733": 20762,

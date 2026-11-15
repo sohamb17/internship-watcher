@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-15 05:31 UTC · 1 new listing_
+_Updated 2026-11-15 06:01 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Eight Sleep** | Firmware Intern | San Francisco, CA / New York, NY / Washington, DC / Austin,  | vanshb03 | [apply](https://go.vansh.nyc/1zP) |
+| today | **MITRE** | Modeling, Simulation, and Analysis Intern | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117401?s=gh-internships-2027) |
 
 ## Watched company portals
 
