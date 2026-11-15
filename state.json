@@ -540,6 +540,20 @@
 "sk": "jobright:6af957725c0a9086f3614ae7",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6af957725c0a9086f3614ae7?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "Airlock",
+"degrees": [],
+"dk": "airlock|member staff technical",
+"found": 20772,
+"loc": "San Francisco, CA, United States",
+"more": null,
+"night": true,
+"posted": 20772,
+"role": "Member of Technical Staff Intern",
+"sk": "jobright:6af96881a68705504beb9d99",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6af96881a68705504beb9d99?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -719,6 +733,7 @@
 "aiinterntotheceo|engineering ml software swe": 20772,
 "airbnb|advanced analytics": 20772,
 "airliquide|engineering non": 20769,
+"airlock|member staff technical": 20772,
 "akeshyaprivatelimited|developer flutter": 20767,
 "akeshyaprivatelimited|developer full stack": 20767,
 "akunacapital|engineer platform": 20772,
@@ -11962,7 +11977,8 @@
 "jobright:6af890b335427cce9bb2e3f3": 20772,
 "jobright:6af89ea086a9b19681afa84b": 20772,
 "jobright:6af90c0f1465de0d45f83a28": 20772,
-"jobright:6af957725c0a9086f3614ae7": 20772
+"jobright:6af957725c0a9086f3614ae7": 20772,
+"jobright:6af96881a68705504beb9d99": 20772
 },
 "nointernship": {
 "nointernship:50673": 20760,
