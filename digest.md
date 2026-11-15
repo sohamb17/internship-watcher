@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-15 03:33 UTC · 0 new listings_
+_Updated 2026-11-15 04:01 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Highmark Blue Cross Blue Shield of Western New York** | Summer 2027 Enterprise Architecture Software Engineer & Architect enGen Undergradute Intern | Pittsburgh, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af90c0f1465de0d45f83a28?utm_campaign=1079&utm_source=git) |
+| — | **Ericsson** | AI Software Engineer Intern | Plano | nointernship.com | [apply](https://go.vansh.nyc/1zB?s=y) |
 
 ## Watched company portals
 

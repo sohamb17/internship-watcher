@@ -2622,6 +2622,7 @@
 "equitablebank|ai engineer lending retail": 20759,
 "equitablebank|engineer software": 20759,
 "ergotron|engineer software": 20772,
+"ericsson|ai engineer software": 20772,
 "ericsson|ai technology": 20762,
 "erieinsurance|2 data": 20772,
 "ernstyoung|americas group other tax technology": 20772,
@@ -3329,6 +3330,7 @@
 "hiddenlevel|engineering full software stack": 20766,
 "hiebing|agent ai developer": 20772,
 "highgate|data services": 20772,
+"highmarkbluecrossblueshieldofwesternnewyork|architect architecture engen engineer enterprise software undergradute": 20772,
 "highmarkhealth|ai analysis business engen": 20772,
 "highmarkhealth|ai analyst engen epic systems": 20772,
 "highmarkhealth|ai applied data gen scientist": 20762,
@@ -11909,7 +11911,8 @@
 "jobright:6af8724586a9b19681af9f9f": 20771,
 "jobright:6af8742386a9b19681af9fc6": 20772,
 "jobright:6af890b335427cce9bb2e3f3": 20772,
-"jobright:6af89ea086a9b19681afa84b": 20772
+"jobright:6af89ea086a9b19681afa84b": 20772,
+"jobright:6af90c0f1465de0d45f83a28": 20772
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -12261,7 +12264,21 @@
 "nointernship:51992": 20772,
 "nointernship:51993": 20772,
 "nointernship:51994": 20771,
-"nointernship:52006": 20771
+"nointernship:52006": 20771,
+"nointernship:52013": 20772,
+"nointernship:52014": 20772,
+"nointernship:52015": 20772,
+"nointernship:52016": 20772,
+"nointernship:52017": 20772,
+"nointernship:52019": 20772,
+"nointernship:52020": 20772,
+"nointernship:52021": 20772,
+"nointernship:52022": 20772,
+"nointernship:52023": 20772,
+"nointernship:52024": 20772,
+"nointernship:52027": 20772,
+"nointernship:52028": 20772,
+"nointernship:52033": 20772
 },
 "simplify": {
 "00026218-6b9b-420f-a490-b3b29742cf17": 20772,
