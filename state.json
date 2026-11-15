@@ -1750,7 +1750,7 @@
 "bytedance|data engineer learning machine project security": 20772,
 "bytedance|data engineer project security software": 20772,
 "bytedance|database distributed engineer nosql software systems": 20772,
-"bytedance|database distributed nosql phd research scientist start systems": 20761,
+"bytedance|database distributed nosql phd research scientist start systems": 20772,
 "bytedance|database engineer relational software": 20772,
 "bytedance|developer engineer infrastructure project software": 20772,
 "bytedance|development engineer network observation software": 20772,
@@ -10881,6 +10881,7 @@
 "jobright:6aa48832422289703bd66f17": 20771,
 "jobright:6aa48a46f7baf881567cf15f": 20772,
 "jobright:6aa4aa451d92e2d05d115a9b": 20772,
+"jobright:6aa4b8f6654b2a9424cf0fd9": 20772,
 "jobright:6aa4c54ea77a53f5a156dfdc": 20772,
 "jobright:6aa4cb8e654b2a9424cf1523": 20771,
 "jobright:6aa4d736654b2a9424cf1869": 20771,
@@ -11040,6 +11041,7 @@
 "jobright:6ac021ee372c01f6cd72ad37": 20763,
 "jobright:6ac021f1372c01f6cd72ad3a": 20770,
 "jobright:6ac028e90e027c0f3b3a02a9": 20772,
+"jobright:6ac249754ac55253f5d6b45f": 20772,
 "jobright:6ac29dcf372c01f6cd72fef0": 20759,
 "jobright:6ac29dd2064da25272e0d2d0": 20772,
 "jobright:6ac2b125064da25272e0d3f5": 20771,
@@ -11946,7 +11948,9 @@
 "jobright:6af90c0f1465de0d45f83a28": 20772,
 "jobright:6af957725c0a9086f3614ae7": 20772,
 "jobright:6af96881a68705504beb9d99": 20772,
-"jobright:6af9e5591465de0d45f84ef2": 20772
+"jobright:6af9e5591465de0d45f84ef2": 20772,
+"jobright:6af9fdd61465de0d45f853f5": 20772,
+"jobright:6af9ff0b48f3528e5a730408": 20772
 },
 "nointernship": {
 "nointernship:50673": 20760,
