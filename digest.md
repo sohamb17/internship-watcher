@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-15 01:31 UTC · 0 new listings_
+_Updated 2026-11-15 01:59 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **RTX** | Lean & Continuous Improvement Industrial Engineering Co-Op (Summer/Fall 2027) | US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200 (+1 more) | Company portals | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Lean---Continuous-Improvement-Industrial-Engineering-Co-Op--Summer-Fall-2027-_01888251) |
 
 ## Watched company portals
 
