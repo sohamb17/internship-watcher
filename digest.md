@@ -1,11 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-15 11:01 UTC · 4 new listings_
+_Updated 2026-11-15 11:31 UTC · 5 new listings_
 
-## New listings (4) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **ByteDance** | GPU/AI Application Platform Engineer Intern (Server Platform) - 2027 Start (PhD) | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abffad98ff3fb9b3bc79f93?utm_campaign=1079&utm_source=git) |
 | today | **Airlock** | Member of Technical Staff Intern | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af96881a68705504beb9d99?utm_campaign=1079&utm_source=git) |
 | today | **MITRE** | Modeling, Simulation, and Analysis Intern | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117401?s=gh-internships-2027) |
 | 1d ago | **Lord Abbett** | Technology Associate, Internship - Summer 2027 | Jersey City, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af957725c0a9086f3614ae7?utm_campaign=1079&utm_source=git) |
