@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-15 16:01 UTC · 0 new listings_
+_Updated 2026-11-15 16:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Fanatics** | People Intelligence Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009) |
 
 ## Watched company portals
 
