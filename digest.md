@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-15 17:01 UTC · 0 new listings_
+_Updated 2026-11-15 17:17 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Rodriguez Services** | Software Engineer Intern | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1zS) |
 
 ## Watched company portals
 
