@@ -1,8 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-15 00:01 UTC · 0 new listings_
+_Updated 2026-11-15 00:31 UTC · 3 new listings_
 
-Nothing new this run.
+## New listings (3) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Eight Sleep** | Short-Term Firmware Intern | San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-eightsleep-8da94996-2820-4964-b2b8-0ed151dd4f1b?s=gh-internships-2027) |
+| 1d ago | **Ascension** | Intern Managed Care Analytics | Saint Louis, MO | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-ascension-15636?s=gh-internships-2027) |
+| 1d ago | **BAE Systems** | Customer Analyst Intern - Summer 2027 | Fort Wayne, Indiana | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-bae-systems-132613BR?s=gh-internships-2027) |
 
 ## Watched company portals
 
