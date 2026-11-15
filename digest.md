@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-15 21:31 UTC · 2 new listings_
+_Updated 2026-11-15 22:01 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Midrex Technologies** | IT Cyber Security Intern | Charlotte, NC | vanshb03 | [apply](https://go.vansh.nyc/1zU) |
-| 1d ago | **NetApp** | Data Analyst Intern | Research Triangle Park, NC | vanshb03 | [apply](https://go.vansh.nyc/1zX) |
+| 2d ago | **Rocket Companies** | Customer Correspondence Analyst - Summer 2027 | Detroit, MI | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-085167?s=gh-internships-2027) |
 
 ## Watched company portals
 
