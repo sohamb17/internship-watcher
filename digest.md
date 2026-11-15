@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-15 05:01 UTC · 0 new listings_
+_Updated 2026-11-15 05:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Eight Sleep** | Firmware Intern | San Francisco, CA / New York, NY / Washington, DC / Austin,  | vanshb03 | [apply](https://go.vansh.nyc/1zP) |
 
 ## Watched company portals
 
