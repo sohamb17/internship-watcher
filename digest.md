@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-14 23:31 UTC · 1 new listing_
+_Updated 2026-11-15 00:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **RouteOne** | Software Engineer Intern -.NET - Summer 2027 | Farmington Hills, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aba71507220f52e62ae6465?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
