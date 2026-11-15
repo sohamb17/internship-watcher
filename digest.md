@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-15 08:31 UTC · 1 new listing_
+_Updated 2026-11-15 09:01 UTC · 3 new listings_
 
-## New listings (1) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **MITRE** | Modeling, Simulation, and Analysis Intern | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117401?s=gh-internships-2027) |
+| 1d ago | **Lord Abbett** | Technology Associate, Internship - Summer 2027 | Jersey City, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af957725c0a9086f3614ae7?utm_campaign=1079&utm_source=git) |
+| — | **Northwell Health** | Emerging Technology & AI Internship | New Hyde Park, Nassau, United States | zshah101 | [apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203746) |
 
 ## Watched company portals
 

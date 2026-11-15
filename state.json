@@ -512,6 +512,34 @@
 "sk": "https://zapply.jobs/l/d/phenom-mitre-R117401",
 "src": "zapply",
 "url": "https://zapply.jobs/l/d/phenom-mitre-R117401?s=gh-internships-2027"
+},
+{
+"company": "Northwell Health",
+"degrees": [],
+"dk": "northwellhealth|ai emerging technology",
+"found": 20772,
+"loc": "New Hyde Park, Nassau, United States",
+"more": null,
+"night": true,
+"posted": null,
+"role": "Emerging Technology & AI Internship",
+"sk": "zshah:oracle:eppr.fa.us2.oraclecloud.com:203746",
+"src": "zshah",
+"url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203746"
+},
+{
+"company": "Lord Abbett",
+"degrees": [],
+"dk": "lordabbett|associate technology",
+"found": 20772,
+"loc": "Jersey City, United States",
+"more": null,
+"night": true,
+"posted": 20771,
+"role": "Technology Associate, Internship - Summer 2027",
+"sk": "jobright:6af957725c0a9086f3614ae7",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6af957725c0a9086f3614ae7?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -4256,6 +4284,7 @@
 "lockheedmartin|engineering software": 20771,
 "logiqal|architecture correction error quantum": 20772,
 "londoncomputer|developer software": 20772,
+"lordabbett|associate technology": 20772,
 "louisianablue|analyst based operations value": 20759,
 "louisianablue|data healthcare science": 20759,
 "louisianaeconomicdevelopment|application developer oracle": 20765,
@@ -5118,6 +5147,7 @@
 "northropgrumman|engineering roy software ut": 20767,
 "northtexasfamilyhealth|engineering software": 20772,
 "northwaysports|data science": 20772,
+"northwellhealth|ai emerging technology": 20772,
 "northwesternmutual|analytics enterprise impact modeling sustainability": 20763,
 "northwesternmutual|application development": 20772,
 "northwoodspace|analytics chain data supply": 20772,
@@ -11931,7 +11961,8 @@
 "jobright:6af8742386a9b19681af9fc6": 20772,
 "jobright:6af890b335427cce9bb2e3f3": 20772,
 "jobright:6af89ea086a9b19681afa84b": 20772,
-"jobright:6af90c0f1465de0d45f83a28": 20772
+"jobright:6af90c0f1465de0d45f83a28": 20772,
+"jobright:6af957725c0a9086f3614ae7": 20772
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -20351,6 +20382,7 @@
 "zshah:oracle:eofe.fa.us2.oraclecloud.com:81252": 20772,
 "zshah:oracle:eofe.fa.us2.oraclecloud.com:81253": 20772,
 "zshah:oracle:eofe.fa.us2.oraclecloud.com:81254": 20772,
+"zshah:oracle:eppr.fa.us2.oraclecloud.com:203746": 20772,
 "zshah:oracle:epyc.fa.us2.oraclecloud.com:167672": 20772,
 "zshah:oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com:1104": 20772,
 "zshah:oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com:391876": 20772,
