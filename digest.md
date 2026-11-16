@@ -1,13 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 13:31 UTC · 6 new listings_
+_Updated 2026-11-16 13:37 UTC · 7 new listings_
 
-## New listings (6) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Altec** | Information Services Software Development Internship Summer 2027 | Birmingham, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adbee095dc7953215a3575b?utm_campaign=1079&utm_source=git) |
 | today | **Enervexa PowerLabs** | Intern, Software Engineering (R20319) | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afabe46932361ec3b6e52bb?utm_campaign=1079&utm_source=git) |
+| today | **Motorola Solutions** | COEE Presales System Engineer (2027 Internship) | Chicago, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68359?s=gh-internships-2027) |
 | today | **National Interstate Insurance** | Predictive Analytics Intern - Summer 2027 | Cincinnati, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9904?s=gh-internships-2027) |
 | today | **Octaura** | Data Engineer Intern | NYC (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/octaura/jobs/4662934007) |
 | 1d ago | **Snaphomz** | Full Stack Engineer - Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6afa95639331e23f79cdd71f?utm_campaign=1079&utm_source=git) |

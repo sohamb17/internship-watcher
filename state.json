@@ -584,6 +584,20 @@
 "sk": "https://zapply.jobs/l/d/workday-gaig-gaig-external-R9904",
 "src": "zapply",
 "url": "https://zapply.jobs/l/d/workday-gaig-gaig-external-R9904?s=gh-internships-2027"
+},
+{
+"company": "Motorola Solutions",
+"degrees": [],
+"dk": "motorolasolutions|coee engineer presales system",
+"found": 20773,
+"loc": "Chicago, IL",
+"more": null,
+"night": true,
+"posted": 20773,
+"role": "COEE Presales System Engineer (2027 Internship)",
+"sk": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68359",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68359?s=gh-internships-2027"
 }
 ],
 "roles": {
@@ -4826,6 +4840,7 @@
 "motorolasolutions|america engineering na north operations systems": 20773,
 "motorolasolutions|analyst chicago hybrid integration it m": 20769,
 "motorolasolutions|android engineering platform software": 20766,
+"motorolasolutions|coee engineer presales system": 20773,
 "motorolasolutions|cybersecurity engineer services software": 20766,
 "motorolasolutions|digital dsp engineering processing signal software": 20773,
 "motorolasolutions|digital engineer soc": 20763,
@@ -19966,6 +19981,7 @@
 "https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-21312": 20770,
 "https://zapply.jobs/l/d/workday-mosaic-mosaic-65420": 20762,
 "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R67741": 20773,
+"https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68359": 20773,
 "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69250": 20766,
 "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70179": 20773,
 "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70228": 20766,
