@@ -1,29 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 20:01 UTC · 18 new listings_
+_Updated 2026-11-16 20:31 UTC · 2 new listings_
 
-## New listings (18) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Boehringer Ingelheim** | Co-op IT Advanced Applications, AI - 2 roles | Athens, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af7ec5e42ae65e2c8f3a42c?utm_campaign=1079&utm_source=git) |
-| today | **CACI** | AI Prompt Engineering Trainee (High School) - Summer 2027 | Ashburn, VA, US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-caci-external-332816?s=gh-internships-2027) |
-| today | **Caterpillar** | 2027 Summer Corporate Intern – Product Support Engineering | Peoria Illinois | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000391403?s=gh-internships-2027) |
-| today | **Clarios** | Engineering Intern - Toledo, OH (Summer 2027) | OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD51206?s=gh-internships-2027) |
-| today | **Entegris** | Research Scientist Intern - Summer 2027 | Aurora, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15836?s=gh-internships-2027) |
-| today | **ICF** | 2027 Summer Intern, AI Engineer | Reston, VA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603518?s=gh-internships-2027) |
-| today | **Leidos** | Integration and Test Engineer Intern | Atlantic City, NJ | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-leidos-external-R-00196657?s=gh-internships-2027) |
-| today | **RTX** | Systems Engineering Intern - Open Systems Solutions - Summer 2027 - Onsite | IA-CEDAR RAPIDS (+2 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887900?s=gh-internships-2027) |
-| today | **S&P Global** | Machine Learning Engineer - Summer Intern 2027 | Cambridge, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-spgi-spgi-careers-331714?s=gh-internships-2027) |
-| today | **Sierra Nevada Corporation** | Digital Engineering Intern | Wichita, KS | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031381?s=gh-internships-2027) |
-| today | **TransUnion** | Data Analysis Internship - Summer 2027 | Chicago, Illinois | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-transunion-transunion-19042654?s=gh-internships-2027) |
-| today | **WebstaurantStore** | Front-End Developer Intern (Remote) | Alaska, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb3fd7317abe715a26259a?utm_campaign=1079&utm_source=git) |
-| today | **WebstaurantStore** | Front-End Developer Intern - Marketing Sites (Remote) | Alaska, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb3fc77d1820d918c2819c?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Michaels Stores** | Intern - Digital eCommerce Engineering | Irving, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb3fbb7d1820d918c28194?utm_campaign=1079&utm_source=git) |
-| — | **Pacific Fusion** | Summer 2027 HPC/DevOps Engineering Intern | San Leandro, CA (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009) |
-| — | **Pacific Fusion** | Summer 2027 Materials Science Internship | San Leandro, CA | Company portals | [apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505488009) |
-| — | **Pacific Fusion** | Summer 2027 Modeling and Simulation Intern | San Leandro, CA (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505730009) |
-| — | **Pacific Fusion** | Summer 2027 Vacuum Systems Engineering Internship | San Leandro, CA (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505556009) |
+| today | **Northrop Grumman** | 2027 Cyber Software Engineer Intern - San Antonio TX | United States-Texas-San Antonio | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257311?s=gh-internships-2027) |
+| today | **Northrop Grumman** | 2027 Engineering Intern - Warner Robins GA | United States-Georgia-Warner Robins | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260895?s=gh-internships-2027) |
 
 ## Watched company portals
 
