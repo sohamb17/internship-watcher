@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 11:01 UTC · 1 new listing_
+_Updated 2026-11-16 11:31 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Enervexa PowerLabs** | Intern, Software Engineering (R20319) | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afabe46932361ec3b6e52bb?utm_campaign=1079&utm_source=git) |
+| today | **Octaura** | Data Engineer Intern | NYC (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/octaura/jobs/4662934007) |
 
 ## Watched company portals
 

@@ -512,6 +512,22 @@
 "sk": "jobright:6afabe46932361ec3b6e52bb",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6afabe46932361ec3b6e52bb?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "Octaura",
+"degrees": [
+"Bachelor's"
+],
+"dk": "octaura|data engineer",
+"found": 20773,
+"loc": "NYC",
+"more": 1,
+"night": true,
+"posted": 20773,
+"role": "Data Engineer Intern",
+"sk": "3ea65aaa-0297-4b8f-9378-51e35478fb95",
+"src": "simplify",
+"url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007"
 }
 ],
 "roles": {
@@ -5238,6 +5254,7 @@
 "octantbio|engineer software": 20771,
 "octantbio|engineering software": 20773,
 "octant|engineer software": 20770,
+"octaura|data engineer": 20773,
 "odysaviation|embedded robotics systems": 20773,
 "oldmission|engineer june software start": 20773,
 "oldmission|engineer software": 20773,
@@ -10737,6 +10754,7 @@
 "jobright:6a86675174e02153f145bc5b": 20770,
 "jobright:6a866758d34f700f87fc1a2a": 20770,
 "jobright:6a866763d34f700f87fc1a2d": 20771,
+"jobright:6a88ee4725fc4e7ae3db2e8c": 20773,
 "jobright:6a8ca19725fc4e7ae3db985e": 20770,
 "jobright:6a8ca25725fc4e7ae3db98a8": 20769,
 "jobright:6a8ca4ca25fc4e7ae3db9993": 20769,
@@ -13098,6 +13116,7 @@
 "3e1eb658-735d-4768-9b73-ba22a1206ce2": 20773,
 "3e259f32-7be5-402d-8da6-25f9525347e2": 20773,
 "3e3542da-92e1-4fce-8d59-ea40698747be": 20773,
+"3ea65aaa-0297-4b8f-9378-51e35478fb95": 20773,
 "3eaaacce-8988-4a88-a792-9f62a91ffac5": 20773,
 "3ec7973e-c745-483e-915e-feb7d89804d2": 20759,
 "3ecc98e5-8773-49d5-bc52-d82191e50a8e": 20759,
@@ -18793,6 +18812,7 @@
 "f0474179-c4cc-4f01-b2bb-eb90c303180a": 20772,
 "f06ea3bf-d8d3-4ab0-bd7d-f0990a1a8a4b": 20773,
 "f07c417b-6525-4088-a30e-156071ec9b88": 20759,
+"f09a3fbd-19b1-4959-8046-c369341f2772": 20773,
 "f09b2588-1484-48b7-b209-4e326158cba3": 20767,
 "f09ce418-abc9-4aa1-aa21-9436909f9bc6": 20773,
 "f09f3274-b47a-448c-b7c6-debbe56316f7": 20773,
