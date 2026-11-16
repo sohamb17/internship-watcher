@@ -1,16 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 21:31 UTC · 5 new listings_
+_Updated 2026-11-16 22:01 UTC · 6 new listings_
 
-## New listings (5) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bloomberg Industry Group** | Data Analyst Intern | Arlington, VA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomberg-bloombergindustrygroup-externa-145487?s=gh-internships-2027) |
-| today | **LabCorp** | Intern - People Analytics | Durham NC | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-labcorp-external-2640527?s=gh-internships-2027) |
-| today | **Nokia** | Optoelectronics Test Development Coop | United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-nokia-41124?s=gh-internships-2027) |
-| today | **PTC** | Onshape Performance Engineering Intern (Summer 2027) | Boston, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ptc-ptc-JR112929?s=gh-internships-2027) |
-| today | **Toyota Research Institute** | Robotics Intern, World Models, Multimodal Sensing | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3) |
+| today | **Analog Devices** | Embedded Hardware & Firmware Intern (Health Solutions) | US, MA, Wilmington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-analogdevices-external-R269166?s=gh-internships-2027) |
+| today | **Fiserv** | 2027 Technology Internship Program - Cybersecurity (Berkeley Heights, NJ) | Berkeley Heights, New Jersey | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-fiserv-ext-R-10407189?s=gh-internships-2027) |
+| today | **Fiserv** | 2027 Technology Internship Program - Cybersecurity (Columbus, OH) | Columbus, Ohio | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-fiserv-ext-R-10407190?s=gh-internships-2027) |
+| 4d ago | **Argonne National Laboratory** | Intern - Business Information Systems - Enterprise Software Solutions | Lemont, IL | speedyapply | [apply](https://argonne.wd1.myworkdayjobs.com/en-US/edu_pub/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702) |
+| 5d ago | **Raytheon** | Electrical - Firmware Engineering Intern - Summer 2027- Onsite | Ft Wayne, IN | speedyapply | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316) |
+| 5d ago | **Raytheon** | Software Engineering Intern - ISET-IN-2 | Sterling, VA | speedyapply | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017) |
 
 ## Watched company portals
 
