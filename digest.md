@@ -1,17 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 22:01 UTC · 6 new listings_
+_Updated 2026-11-16 22:31 UTC · 3 new listings_
 
-## New listings (6) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Analog Devices** | Embedded Hardware & Firmware Intern (Health Solutions) | US, MA, Wilmington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-analogdevices-external-R269166?s=gh-internships-2027) |
-| today | **Fiserv** | 2027 Technology Internship Program - Cybersecurity (Berkeley Heights, NJ) | Berkeley Heights, New Jersey | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-fiserv-ext-R-10407189?s=gh-internships-2027) |
-| today | **Fiserv** | 2027 Technology Internship Program - Cybersecurity (Columbus, OH) | Columbus, Ohio | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-fiserv-ext-R-10407190?s=gh-internships-2027) |
-| 4d ago | **Argonne National Laboratory** | Intern - Business Information Systems - Enterprise Software Solutions | Lemont, IL | speedyapply | [apply](https://argonne.wd1.myworkdayjobs.com/en-US/edu_pub/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702) |
-| 5d ago | **Raytheon** | Electrical - Firmware Engineering Intern - Summer 2027- Onsite | Ft Wayne, IN | speedyapply | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316) |
-| 5d ago | **Raytheon** | Software Engineering Intern - ISET-IN-2 | Sterling, VA | speedyapply | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017) |
+| today | **DISH TV** | Software Engineering Intern | Englewood, CO, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6afb5f0e317abe715a263ebb?utm_campaign=1079&utm_source=git) |
+| today | **Hughes** | Software Engineering Intern | Englewood, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb5fe9484fef921e04b03e?utm_campaign=1079&utm_source=git) |
+| today | **Quest Analytics®,LLC** | Software Engineer Intern - C#, ASP.NET - Summer 2027 in Kansas City | Overland Park, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb613304af1c9f075c7654?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
