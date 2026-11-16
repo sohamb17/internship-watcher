@@ -570,6 +570,20 @@
 "sk": "jobright:6afa95639331e23f79cdd71f",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6afa95639331e23f79cdd71f?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "National Interstate Insurance",
+"degrees": [],
+"dk": "nationalinterstateinsurance|analytics predictive",
+"found": 20773,
+"loc": "Cincinnati, OH",
+"more": null,
+"night": true,
+"posted": 20773,
+"role": "Predictive Analytics Intern - Summer 2027",
+"sk": "https://zapply.jobs/l/d/workday-gaig-gaig-external-R9904",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/workday-gaig-gaig-external-R9904?s=gh-internships-2027"
 }
 ],
 "roles": {
@@ -4873,6 +4887,7 @@
 "nationalinformationsolutionscooperative|it services technical": 20759,
 "nationalinterstateinsurance|analyst business": 20763,
 "nationalinterstateinsurance|analyst claims technical": 20769,
+"nationalinterstateinsurance|analytics predictive": 20773,
 "nationalinterstateinsurance|analytics predictive telematics": 20769,
 "nationalinterstateinsurance|application data development": 20773,
 "nationalinterstateinsurance|automation data": 20773,
@@ -19689,6 +19704,7 @@
 "https://zapply.jobs/l/d/workday-gaig-gaig-external-R9843": 20773,
 "https://zapply.jobs/l/d/workday-gaig-gaig-external-R9868": 20769,
 "https://zapply.jobs/l/d/workday-gaig-gaig-external-R9873": 20769,
+"https://zapply.jobs/l/d/workday-gaig-gaig-external-R9904": 20773,
 "https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232323": 20773,
 "https://zapply.jobs/l/d/workday-generac-external-JR17736": 20762,
 "https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621636": 20770,
