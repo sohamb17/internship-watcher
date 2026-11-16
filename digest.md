@@ -1,15 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 21:01 UTC · 4 new listings_
+_Updated 2026-11-16 21:31 UTC · 5 new listings_
 
-## New listings (4) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Carnegie Mellon SEI** | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | Pittsburgh, PA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cmu-sei-2025364?s=gh-internships-2027) |
-| today | **Colliers** | Information Technology/Application Development Internship | Minneapolis, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb48647d1820d918c286e9?utm_campaign=1079&utm_source=git) |
-| today | **Marvell** | Ph.D. Intern - Architecture, DSP & Systems Architecture | Santa Clara, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604415?s=gh-internships-2027) |
-| today | **Michaels Stores** | Intern - Software Engineering | Irving, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb539e484fef921e04a4ba?utm_campaign=1079&utm_source=git) |
+| today | **Bloomberg Industry Group** | Data Analyst Intern | Arlington, VA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomberg-bloombergindustrygroup-externa-145487?s=gh-internships-2027) |
+| today | **LabCorp** | Intern - People Analytics | Durham NC | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-labcorp-external-2640527?s=gh-internships-2027) |
+| today | **Nokia** | Optoelectronics Test Development Coop | United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-nokia-41124?s=gh-internships-2027) |
+| today | **PTC** | Onshape Performance Engineering Intern (Summer 2027) | Boston, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ptc-ptc-JR112929?s=gh-internships-2027) |
+| today | **Toyota Research Institute** | Robotics Intern, World Models, Multimodal Sensing | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3) |
 
 ## Watched company portals
 
