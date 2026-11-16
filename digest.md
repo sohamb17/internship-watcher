@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 01:31 UTC · 1 new listing_
+_Updated 2026-11-16 02:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Milliman** | Data Analytics Intern, IntelliScript | Brookfield, WI | vanshb03 | [apply](https://go.vansh.nyc/1A2) |
+Nothing new this run.
 
 ## Watched company portals
 
