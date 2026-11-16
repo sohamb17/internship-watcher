@@ -1,14 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 17:01 UTC · 3 new listings_
+_Updated 2026-11-16 17:31 UTC · 1 new listing_
 
-## New listings (3) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Intuitive Surgical** | Clinical Research Engineering Intern | Sunnyvale, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Intuitive/744000161861679) |
-| today | **Irradiant Technologies** | Software Engineering Intern | Waltham, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb0d31317abe715a26025f?utm_campaign=1079&utm_source=git) |
-| today | **Optimum** | Intern - Software Developer | Bethpage, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb186d04af1c9f075c3d36?utm_campaign=1079&utm_source=git) |
+| today | **Federal Reserve System** | 2027 Summer Internship Program - IT Portfolio Analyst Intern | Atlanta, GA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000034092?s=gh-internships-2027) |
 
 ## Watched company portals
 
