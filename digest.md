@@ -1,13 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 20:31 UTC · 2 new listings_
+_Updated 2026-11-16 21:01 UTC · 4 new listings_
 
-## New listings (2) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Northrop Grumman** | 2027 Cyber Software Engineer Intern - San Antonio TX | United States-Texas-San Antonio | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10257311?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Engineering Intern - Warner Robins GA | United States-Georgia-Warner Robins | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260895?s=gh-internships-2027) |
+| today | **Carnegie Mellon SEI** | AI Engineer Intern - Mission Innovation Lab (Summer 2027) | Pittsburgh, PA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cmu-sei-2025364?s=gh-internships-2027) |
+| today | **Colliers** | Information Technology/Application Development Internship | Minneapolis, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb48647d1820d918c286e9?utm_campaign=1079&utm_source=git) |
+| today | **Marvell** | Ph.D. Intern - Architecture, DSP & Systems Architecture | Santa Clara, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604415?s=gh-internships-2027) |
+| today | **Michaels Stores** | Intern - Software Engineering | Irving, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb539e484fef921e04a4ba?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
