@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 00:31 UTC · 1 new listing_
+_Updated 2026-11-16 01:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 20d ago | **Inspire Brands** | Digital Experience Performance Intern | Atlanta, GA | SimplifyJobs | [apply](https://inspirebrands.wd5.myworkdayjobs.com/InspireCareers/job/Atlanta-Support-Center/Digital-Experience-Performance-Intern---Summer-2027_JR42022) |
+Nothing new this run.
 
 ## Watched company portals
 
