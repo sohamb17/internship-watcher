@@ -1,14 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 22:31 UTC · 3 new listings_
+_Updated 2026-11-16 23:01 UTC · 3 new listings_
 
 ## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **DISH TV** | Software Engineering Intern | Englewood, CO, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6afb5f0e317abe715a263ebb?utm_campaign=1079&utm_source=git) |
-| today | **Hughes** | Software Engineering Intern | Englewood, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb5fe9484fef921e04b03e?utm_campaign=1079&utm_source=git) |
-| today | **Quest Analytics®,LLC** | Software Engineer Intern - C#, ASP.NET - Summer 2027 in Kansas City | Overland Park, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb613304af1c9f075c7654?utm_campaign=1079&utm_source=git) |
+| today | **Boston Scientific** | Process Development Engineering Co-op | Arden Hills US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813964898?s=gh-internships-2027) |
+| today | **Carnival Corporation** | Data Analytics Intern | Miami, FL | vanshb03 | [apply](https://go.vansh.nyc/1Av) |
+| 81d ago | **CesiumAstro** | Summer 2027 - Software Engineering Internship | Austin, TX | Company portals | [apply](https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411) |
 
 ## Watched company portals
 
