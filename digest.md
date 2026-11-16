@@ -1,14 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 15:01 UTC · 3 new listings_
+_Updated 2026-11-16 16:01 UTC · 7 new listings_
 
-## New listings (3) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Boston Scientific** | AI Acceleration Intern | Marlborough US-MA, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813862390?s=gh-internships-2027) |
-| today | **Boston Scientific** | AI Engineering Intern (Generative & Agentic AI) | Marlborough US-MA, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813827837?s=gh-internships-2027) |
-| today | **Boston Scientific** | Product Data Analyst Intern | Marlborough US-MA, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813864319?s=gh-internships-2027) |
+| today | **Bosch** | Research Intern: Multimodal Foundation Models for Healthcare | Pittsburgh, PA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000161844052) |
+| today | **Bosch** | Research Intern: Multimodal Sensor Foundation Models | Pittsburgh, PA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000161841434) |
+| today | **Clark Associates** | Front-End Developer Intern (Remote) | Alaska, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb057a04af1c9f075c33ec?utm_campaign=1079&utm_source=git) |
+| today | **Clark Associates** | Front-End Developer Intern - Marketing Sites (Remote) | Alaska, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb05897f9ead6668e9d9bc?utm_campaign=1079&utm_source=git) |
+| today | **Clark Associates** | Platform Internship (Summer 2027) | Lititz, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb056d484fef921e046f61?utm_campaign=1079&utm_source=git) |
+| today | **Dell Technologies** | User Research Graduate Intern | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-dell-technologies-302688?s=gh-internships-2027) |
+| today | **Toyota Research Institute** | Research Intern, Spatial Intelligence for Robotics | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e) |
 
 ## Watched company portals
 
