@@ -1,12 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 17:31 UTC · 1 new listing_
+_Updated 2026-11-16 18:02 UTC · 7 new listings_
 
-## New listings (1) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Federal Reserve System** | 2027 Summer Internship Program - IT Portfolio Analyst Intern | Atlanta, GA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000034092?s=gh-internships-2027) |
+| today | **ASML** | Internship-Generative AI developer | San Jose, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355346?s=gh-internships-2027) |
+| today | **Bread Financial** | Intern - Business Intelligence | Columbus, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-alliancedata-breadfinancial-us-R1013383?s=gh-internships-2027) |
+| today | **Bread Financial** | Intern - Rewards Development & Delivery | Columbus, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-alliancedata-breadfinancial-us-R1013392?s=gh-internships-2027) |
+| today | **Bread Financial** | Intern - Software Engineering | Columbus, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-alliancedata-breadfinancial-us-R1013421?s=gh-internships-2027) |
+| today | **Elevated Web Design** | Python Software Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb26be317abe715a2610a7?utm_campaign=1079&utm_source=git) |
+| today | **Momentive** | Summer 2027 Intern – Agriculture (Technology/R&D) | NY Pearl River | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-momentive-mc-R9764?s=gh-internships-2027) |
+| today | **Northrop Grumman** | 2027 Systems Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251094?s=gh-internships-2027) |
 
 ## Watched company portals
 
