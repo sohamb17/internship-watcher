@@ -1,18 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 16:01 UTC · 7 new listings_
+_Updated 2026-11-16 16:27 UTC · 5 new listings_
 
-## New listings (7) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bosch** | Research Intern: Multimodal Foundation Models for Healthcare | Pittsburgh, PA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000161844052) |
-| today | **Bosch** | Research Intern: Multimodal Sensor Foundation Models | Pittsburgh, PA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000161841434) |
-| today | **Clark Associates** | Front-End Developer Intern (Remote) | Alaska, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb057a04af1c9f075c33ec?utm_campaign=1079&utm_source=git) |
-| today | **Clark Associates** | Front-End Developer Intern - Marketing Sites (Remote) | Alaska, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb05897f9ead6668e9d9bc?utm_campaign=1079&utm_source=git) |
-| today | **Clark Associates** | Platform Internship (Summer 2027) | Lititz, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb056d484fef921e046f61?utm_campaign=1079&utm_source=git) |
-| today | **Dell Technologies** | User Research Graduate Intern | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-dell-technologies-302688?s=gh-internships-2027) |
-| today | **Toyota Research Institute** | Research Intern, Spatial Intelligence for Robotics | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e) |
+| today | **Boston Scientific** | Research & Development Engineering Co-op | Maple Grove US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813515928?s=gh-internships-2027) |
+| today | **Carrier Global** | Systems Engineering Intern - Summer | CAI23: Carrier-Indianapolis,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-carrier-jobs-30220210?s=gh-internships-2027) |
+| today | **JP Morgan Chase** | Consumer & Community Banking Intern<br>Master's/PhD | Palo Alto, CA / Columbus, OH / NYC | SimplifyJobs | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923) |
+| today | **RTX** | FPGA Engineering Intern (Summer 2027)(Onsite) | TX-MCKINNEY | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01880037?s=gh-internships-2027) |
+| today | **Shopify** | Data Intern | Montreal, QC, Canada / Toronto, ON, Canada / NYC / Ottawa, O (+1 more) | SimplifyJobs | [apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) |
 
 ## Watched company portals
 
