@@ -1,15 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 18:42 UTC · 4 new listings_
+_Updated 2026-11-16 19:01 UTC · 3 new listings_
 
-## New listings (4) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **NVIDIA** | Applied Research Scientist Intern, Agentic Biology - Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029307?s=gh-internships-2027) |
-| today | **Entegris** | Process Engineering Co-Op | Rockrimmon, Colorado Springs, CO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14485?s=gh-internships-2027) |
-| today | **Micron Technology** | Intern - Data Science, SMAI | Boise, ID - Main Site | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-micron-external-JR117444?s=gh-internships-2027) |
-| today | **Toyota Research Institute** | Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge) | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476) |
+| today | **Clark National Accounts** | Platform Internship (Summer 2027) | Lititz, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb385e484fef921e049038?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Altice USA** | Intern - Software Developer | Bethpage, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb349a04af1c9f075c52d2?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Genuine Parts Company** | Technology Intern 2027 | Atlanta, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb36f37d1820d918c27b1a?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
