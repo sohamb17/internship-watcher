@@ -1,16 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 18:31 UTC · 5 new listings_
+_Updated 2026-11-16 18:42 UTC · 4 new listings_
 
-## New listings (5) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Carnival Corporation** | Data & AI Solutions Intern | Miami, FL | vanshb03 | [apply](https://go.vansh.nyc/1Ag) |
-| today | **Carnival Corporation** | Revenue Data Science Intern | Miami, FL | vanshb03 | [apply](https://go.vansh.nyc/1Ah) |
-| today | **RTX** | Hardware in the Loop Engineering Intern - (Summer 2027) | AZ-TUCSON | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882927?s=gh-internships-2027) |
-| — | **Impulse Space** | Digital Design (FPGA/ASIC) Engineering Internship (Summer 2027) | Redondo Beach, California | zapplyjobs | [apply](https://zapply.jobs/l/d/pinpoint-impulsespace-620470?s=gh-internships-2027) |
-| — | **Impulse Space** | Digital Signal Processing Graduate Engineering Internship (Summer 2027) | Redondo Beach, California | zapplyjobs | [apply](https://zapply.jobs/l/d/pinpoint-impulsespace-620468?s=gh-internships-2027) |
+| today | **NVIDIA** | Applied Research Scientist Intern, Agentic Biology - Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029307?s=gh-internships-2027) |
+| today | **Entegris** | Process Engineering Co-Op | Rockrimmon, Colorado Springs, CO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14485?s=gh-internships-2027) |
+| today | **Micron Technology** | Intern - Data Science, SMAI | Boise, ID - Main Site | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-micron-external-JR117444?s=gh-internships-2027) |
+| today | **Toyota Research Institute** | Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge) | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476) |
 
 ## Watched company portals
 
