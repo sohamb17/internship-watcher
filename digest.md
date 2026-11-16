@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 00:01 UTC · 1 new listing_
+_Updated 2026-11-16 00:31 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Viavi Solutions** | Software Engineering Co-op | Germantown, MD USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005308?s=gh-internships-2027) |
+| 20d ago | **Inspire Brands** | Digital Experience Performance Intern | Atlanta, GA | SimplifyJobs | [apply](https://inspirebrands.wd5.myworkdayjobs.com/InspireCareers/job/Atlanta-Support-Center/Digital-Experience-Performance-Intern---Summer-2027_JR42022) |
 
 ## Watched company portals
 
