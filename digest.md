@@ -1,14 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 19:01 UTC · 3 new listings_
+_Updated 2026-11-16 19:31 UTC · 2 new listings_
 
-## New listings (3) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Clark National Accounts** | Platform Internship (Summer 2027) | Lititz, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb385e484fef921e049038?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Altice USA** | Intern - Software Developer | Bethpage, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb349a04af1c9f075c52d2?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Genuine Parts Company** | Technology Intern 2027 | Atlanta, GA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb36f37d1820d918c27b1a?utm_campaign=1079&utm_source=git) |
+| — | **Astera Labs** | Hardware Lab Engineer Intern | San Jose, CA | Company portals | [apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729020005) |
+| — | **Schonfeld** | 2027 Platform Engineering Intern | New York, New York, United States | Company portals | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
 
 ## Watched company portals
 
