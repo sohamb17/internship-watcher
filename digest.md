@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-15 23:31 UTC · 0 new listings_
+_Updated 2026-11-16 00:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Viavi Solutions** | Software Engineering Co-op | Germantown, MD USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005308?s=gh-internships-2027) |
 
 ## Watched company portals
 
