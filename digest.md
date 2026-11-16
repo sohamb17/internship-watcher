@@ -1,6 +1,6 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 13:37 UTC · 7 new listings_
+_Updated 2026-11-16 14:01 UTC · 7 new listings_
 
 ## New listings (7) — newest first
 
