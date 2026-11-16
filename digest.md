@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 05:31 UTC · 1 new listing_
+_Updated 2026-11-16 06:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **GDIT** | Summer 2027 Engineering (General) Internship | VA Falls Church | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232323?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
