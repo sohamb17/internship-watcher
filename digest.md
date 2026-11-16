@@ -1,18 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 14:01 UTC · 7 new listings_
+_Updated 2026-11-16 14:31 UTC · 4 new listings_
 
-## New listings (7) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Altec** | Information Services Software Development Internship Summer 2027 | Birmingham, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6adbee095dc7953215a3575b?utm_campaign=1079&utm_source=git) |
-| today | **Enervexa PowerLabs** | Intern, Software Engineering (R20319) | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afabe46932361ec3b6e52bb?utm_campaign=1079&utm_source=git) |
-| today | **Motorola Solutions** | COEE Presales System Engineer (2027 Internship) | Chicago, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68359?s=gh-internships-2027) |
-| today | **National Interstate Insurance** | Predictive Analytics Intern - Summer 2027 | Cincinnati, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9904?s=gh-internships-2027) |
-| today | **Octaura** | Data Engineer Intern | NYC (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/octaura/jobs/4662934007) |
-| 1d ago | **Snaphomz** | Full Stack Engineer - Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6afa95639331e23f79cdd71f?utm_campaign=1079&utm_source=git) |
-| — | **Parsons** | Electrical / Hardware Engineering Intern Summer 2027 | MD, Columbia, R188502 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-parsons-search-R188502?s=gh-internships-2027) |
+| today | **Analog Devices** | Software Engineering Intern (Medical Device & Healthcare Integration) | US, MA, Wilmington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-analogdevices-external-R269165?s=gh-internships-2027) |
+| today | **Curtiss-Wright** | Design Engineering Intern | NY-East Farmingdale | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR14250?s=gh-internships-2027) |
+| today | **Oshkosh Corporation** | Autonomy Intern | Oshkosh, Wisconsin, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R52031?s=gh-internships-2027) |
+| today | **Qualcomm** | Modular Engineering Internship – Summer 2027 | Los Altos, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac0262f8ff3fb9b3bc7b04a?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
