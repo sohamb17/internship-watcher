@@ -1,14 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 23:01 UTC · 3 new listings_
+_Updated 2026-11-16 23:31 UTC · 5 new listings_
 
-## New listings (3) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Boston Scientific** | Process Development Engineering Co-op | Arden Hills US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813964898?s=gh-internships-2027) |
-| today | **Carnival Corporation** | Data Analytics Intern | Miami, FL | vanshb03 | [apply](https://go.vansh.nyc/1Av) |
-| 81d ago | **CesiumAstro** | Summer 2027 - Software Engineering Internship | Austin, TX | Company portals | [apply](https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411) |
+| today | **LinkedIn** | Systems & Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA) | Mountain View, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000161930950) |
+| today | **ASML** | Internship - Tool Center Engineer (Co-op) | Wilton, CT, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358223?s=gh-internships-2027) |
+| today | **Boston Scientific** | Supplier Engineering Intern | Arden Hills US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813964277?s=gh-internships-2027) |
+| today | **Cognizant** | Software Engineering Internship | Teaneck, NJ, United States (+2 more) | Jobright | [apply](https://jobright.ai/jobs/info/6afb6e3fb2e06df25797424f?utm_campaign=1079&utm_source=git) |
+| today | **Minitab** | Software Engineering Intern | State College, PA | vanshb03 | [apply](https://go.vansh.nyc/1Ax) |
 
 ## Watched company portals
 
