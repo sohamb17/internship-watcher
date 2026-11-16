@@ -1,8 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 16:31 UTC · 0 new listings_
+_Updated 2026-11-16 17:01 UTC · 3 new listings_
 
-Nothing new this run.
+## New listings (3) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Intuitive Surgical** | Clinical Research Engineering Intern | Sunnyvale, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Intuitive/744000161861679) |
+| today | **Irradiant Technologies** | Software Engineering Intern | Waltham, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb0d31317abe715a26025f?utm_campaign=1079&utm_source=git) |
+| today | **Optimum** | Intern - Software Developer | Bethpage, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb186d04af1c9f075c3d36?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
