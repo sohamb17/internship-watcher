@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 09:31 UTC · 0 new listings_
+_Updated 2026-11-16 10:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Enervexa PowerLabs** | Intern, Software Engineering (R20319) | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afabe46932361ec3b6e52bb?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 

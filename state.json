@@ -498,7 +498,22 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20773,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20773
 },
-"held": [],
+"held": [
+{
+"company": "Enervexa PowerLabs",
+"degrees": [],
+"dk": "enervexapowerlabs|engineering r20319 software",
+"found": 20773,
+"loc": "New York, NY, United States",
+"more": null,
+"night": true,
+"posted": 20773,
+"role": "Intern, Software Engineering (R20319)",
+"sk": "jobright:6afabe46932361ec3b6e52bb",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6afabe46932361ec3b6e52bb?utm_campaign=1079&utm_source=git"
+}
+],
 "roles": {
 "10a|engineering fellow": 20773,
 "1password|brokering credential developer": 20759,
@@ -1715,7 +1730,7 @@
 "bytedance|ai compute engineer infra software": 20773,
 "bytedance|ai compute engineer infrastructure software": 20773,
 "bytedance|ai compute phd research start": 20760,
-"bytedance|ai databases native phd research start": 20771,
+"bytedance|ai databases native phd research start": 20773,
 "bytedance|ai engineer platform software": 20773,
 "bytedance|ai foundation infra infrastructure models researcher seed": 20773,
 "bytedance|ai foundation infrastructure model models researcher seed": 20759,
@@ -2550,6 +2565,7 @@
 "encoreglobal|application development it": 20773,
 "encoreglobal|it security": 20773,
 "encore|application development it": 20769,
+"enervexapowerlabs|engineering r20319 software": 20773,
 "enfos|engineer software": 20773,
 "engramme|back end engineer extended software": 20761,
 "engramme|back end engineer software": 20773,
@@ -11056,7 +11072,9 @@
 "jobright:6ac021f1372c01f6cd72ad3a": 20770,
 "jobright:6ac028e90e027c0f3b3a02a9": 20773,
 "jobright:6ac12f568ff3fb9b3bc7d2ce": 20773,
+"jobright:6ac13bd98ff3fb9b3bc7d397": 20773,
 "jobright:6ac140820e027c0f3b3a268d": 20773,
+"jobright:6ac199e18ff3fb9b3bc7d91b": 20773,
 "jobright:6ac249754ac55253f5d6b45f": 20773,
 "jobright:6ac29dcf372c01f6cd72fef0": 20773,
 "jobright:6ac29dd2064da25272e0d2d0": 20772,
@@ -11968,7 +11986,8 @@
 "jobright:6af9e5591465de0d45f84ef2": 20773,
 "jobright:6af9fdd61465de0d45f853f5": 20773,
 "jobright:6af9ff0b48f3528e5a730408": 20773,
-"jobright:6afaabb61460f8021289cbc7": 20773
+"jobright:6afaabb61460f8021289cbc7": 20773,
+"jobright:6afabe46932361ec3b6e52bb": 20773
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -19278,7 +19297,7 @@
 "https://zapply.jobs/l/d/sr-NBCUniversal3-744000160653439": 20773,
 "https://zapply.jobs/l/d/sr-NBCUniversal3-744000160654878": 20772,
 "https://zapply.jobs/l/d/sr-NBCUniversal3-744000160659379": 20768,
-"https://zapply.jobs/l/d/sr-NBCUniversal3-744000160659459": 20772,
+"https://zapply.jobs/l/d/sr-NBCUniversal3-744000160659459": 20773,
 "https://zapply.jobs/l/d/sr-NBCUniversal3-744000161179529": 20773,
 "https://zapply.jobs/l/d/sr-RESPECInc-744000158767659": 20759,
 "https://zapply.jobs/l/d/sr-ServiceNow-744000157919529": 20762,
