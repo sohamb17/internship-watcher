@@ -1,15 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 14:31 UTC · 4 new listings_
+_Updated 2026-11-16 15:01 UTC · 3 new listings_
 
-## New listings (4) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Analog Devices** | Software Engineering Intern (Medical Device & Healthcare Integration) | US, MA, Wilmington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-analogdevices-external-R269165?s=gh-internships-2027) |
-| today | **Curtiss-Wright** | Design Engineering Intern | NY-East Farmingdale | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR14250?s=gh-internships-2027) |
-| today | **Oshkosh Corporation** | Autonomy Intern | Oshkosh, Wisconsin, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-oshkoshcorporation-oshkosh-R52031?s=gh-internships-2027) |
-| today | **Qualcomm** | Modular Engineering Internship – Summer 2027 | Los Altos, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac0262f8ff3fb9b3bc7b04a?utm_campaign=1079&utm_source=git) |
+| today | **Boston Scientific** | AI Acceleration Intern | Marlborough US-MA, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813862390?s=gh-internships-2027) |
+| today | **Boston Scientific** | AI Engineering Intern (Generative & Agentic AI) | Marlborough US-MA, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813827837?s=gh-internships-2027) |
+| today | **Boston Scientific** | Product Data Analyst Intern | Marlborough US-MA, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813864319?s=gh-internships-2027) |
 
 ## Watched company portals
 
