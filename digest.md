@@ -1,16 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 16:27 UTC · 5 new listings_
+_Updated 2026-11-16 16:31 UTC · 0 new listings_
 
-## New listings (5) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Boston Scientific** | Research & Development Engineering Co-op | Maple Grove US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813515928?s=gh-internships-2027) |
-| today | **Carrier Global** | Systems Engineering Intern - Summer | CAI23: Carrier-Indianapolis,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-carrier-jobs-30220210?s=gh-internships-2027) |
-| today | **JP Morgan Chase** | Consumer & Community Banking Intern<br>Master's/PhD | Palo Alto, CA / Columbus, OH / NYC | SimplifyJobs | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807923) |
-| today | **RTX** | FPGA Engineering Intern (Summer 2027)(Onsite) | TX-MCKINNEY | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01880037?s=gh-internships-2027) |
-| today | **Shopify** | Data Intern | Montreal, QC, Canada / Toronto, ON, Canada / NYC / Ottawa, O (+1 more) | SimplifyJobs | [apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) |
+Nothing new this run.
 
 ## Watched company portals
 
