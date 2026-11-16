@@ -1,18 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 18:02 UTC · 7 new listings_
+_Updated 2026-11-16 18:31 UTC · 5 new listings_
 
-## New listings (7) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ASML** | Internship-Generative AI developer | San Jose, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355346?s=gh-internships-2027) |
-| today | **Bread Financial** | Intern - Business Intelligence | Columbus, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-alliancedata-breadfinancial-us-R1013383?s=gh-internships-2027) |
-| today | **Bread Financial** | Intern - Rewards Development & Delivery | Columbus, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-alliancedata-breadfinancial-us-R1013392?s=gh-internships-2027) |
-| today | **Bread Financial** | Intern - Software Engineering | Columbus, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-alliancedata-breadfinancial-us-R1013421?s=gh-internships-2027) |
-| today | **Elevated Web Design** | Python Software Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb26be317abe715a2610a7?utm_campaign=1079&utm_source=git) |
-| today | **Momentive** | Summer 2027 Intern – Agriculture (Technology/R&D) | NY Pearl River | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-momentive-mc-R9764?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Systems Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251094?s=gh-internships-2027) |
+| today | **Carnival Corporation** | Data & AI Solutions Intern | Miami, FL | vanshb03 | [apply](https://go.vansh.nyc/1Ag) |
+| today | **Carnival Corporation** | Revenue Data Science Intern | Miami, FL | vanshb03 | [apply](https://go.vansh.nyc/1Ah) |
+| today | **RTX** | Hardware in the Loop Engineering Intern - (Summer 2027) | AZ-TUCSON | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882927?s=gh-internships-2027) |
+| — | **Impulse Space** | Digital Design (FPGA/ASIC) Engineering Internship (Summer 2027) | Redondo Beach, California | zapplyjobs | [apply](https://zapply.jobs/l/d/pinpoint-impulsespace-620470?s=gh-internships-2027) |
+| — | **Impulse Space** | Digital Signal Processing Graduate Engineering Internship (Summer 2027) | Redondo Beach, California | zapplyjobs | [apply](https://zapply.jobs/l/d/pinpoint-impulsespace-620468?s=gh-internships-2027) |
 
 ## Watched company portals
 
