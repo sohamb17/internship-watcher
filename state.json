@@ -574,6 +574,36 @@
 "sk": "a73d65d0-ef99-4368-9bb7-6e1a8095fa49",
 "src": "simplify",
 "url": "https://birdseyeaccount.bamboohr.com/careers/290/"
+},
+{
+"company": "FPWA",
+"degrees": [
+"Bachelor's"
+],
+"dk": "fpwa|data fiscal policy",
+"found": 20774,
+"loc": "NYC",
+"more": null,
+"night": true,
+"posted": 20774,
+"role": "Data & Fiscal Policy Intern",
+"sk": "daab2dc3-35f3-4f40-9c50-fa0865d78d39",
+"src": "simplify",
+"url": "https://fpwa.bamboohr.com/careers/61/"
+},
+{
+"company": "ENGIE North America Inc.",
+"degrees": [],
+"dk": "engienorthamerica|application development gis grid renewables scale",
+"found": 20774,
+"loc": "Houston, TX, United States",
+"more": null,
+"night": true,
+"posted": 20773,
+"role": "Intern - Application Development (Grid Scale Renewables GIS)",
+"sk": "jobright:6afbf99f07bef169f5fff49f",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6afbf99f07bef169f5fff49f?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -2681,6 +2711,7 @@
 "encore|application development it": 20769,
 "enervexapowerlabs|engineering r20319 software": 20773,
 "enfos|engineer software": 20774,
+"engienorthamerica|application development gis grid renewables scale": 20774,
 "engie|application development gis grid renewables scale": 20774,
 "engramme|back end engineer extended software": 20761,
 "engramme|back end engineer software": 20774,
@@ -2954,6 +2985,7 @@
 "foundenergy|data engineer": 20774,
 "fox|angeles ca fox los technology": 20768,
 "fox|big chicago fox il network sports ten": 20770,
+"fpwa|data fiscal policy": 20774,
 "framatome|ai innovation software": 20774,
 "franklinelectric|business development global strategy": 20774,
 "franklinelectric|electrical engineering software": 20774,
@@ -4238,7 +4270,7 @@
 "l3harris|details engineering job l3hhcm20 software": 20771,
 "l3harris|engineer image processing": 20774,
 "l3harris|engineer software": 20774,
-"l3harris|engineering fl melbourne software": 20773,
+"l3harris|engineering fl melbourne software": 20774,
 "l3harris|engineering integration test": 20773,
 "l3harris|engineering ny rochester software": 20774,
 "l3harris|engineering software": 20774,
@@ -11320,6 +11352,7 @@
 "jobright:6ac13bd98ff3fb9b3bc7d397": 20773,
 "jobright:6ac140820e027c0f3b3a268d": 20773,
 "jobright:6ac147940e027c0f3b3a2779": 20774,
+"jobright:6ac14c45372c01f6cd72d38a": 20774,
 "jobright:6ac14e1ad9621c5b28398f77": 20774,
 "jobright:6ac199e18ff3fb9b3bc7d91b": 20773,
 "jobright:6ac249754ac55253f5d6b45f": 20773,
@@ -12316,7 +12349,8 @@
 "jobright:6afbe06d40b855eb290c809b": 20774,
 "jobright:6afbe3341c71d952627ef970": 20774,
 "jobright:6afbe4c240b855eb290c8622": 20774,
-"jobright:6afbe79040b855eb290c8a52": 20774
+"jobright:6afbe79040b855eb290c8a52": 20774,
+"jobright:6afbf99f07bef169f5fff49f": 20774
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -15385,6 +15419,7 @@
 "da988f75-9e9a-499e-b213-c3f9c3db52e5": 20762,
 "da999960-efdd-44de-9632-cb4db8868203": 20773,
 "daa90d5b-5345-4efa-a41c-9939aa72f4da": 20759,
+"daab2dc3-35f3-4f40-9c50-fa0865d78d39": 20774,
 "dab6f443-d39a-4bca-acad-451c8b347549": 20773,
 "dabc8ae4-5aec-4b6c-9ccd-12444c1f39c6": 20759,
 "dabca611-fa12-4b6e-9215-8952a2c58c16": 20759,
