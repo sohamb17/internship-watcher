@@ -1,15 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 17:31 UTC · 4 new listings_
+_Updated 2026-11-17 18:01 UTC · 0 new listings_
 
-## New listings (4) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **NXP Semiconductors** | Automotive Systems & Applications Engineer Intern - Summer 2027 | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc6a8240b855eb290caa60?utm_campaign=1079&utm_source=git) |
-| today | **Toyota Research Institute** | Robotics Intern, Agentic Robotics | Cambridge, MA | Company portals | [apply](https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49) |
-| 1d ago | **Bank of America** | Analyst I - Tech Delivery | Pennington, New Jersey, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc69da7df9c4ceafeb9dfa?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Sallie Mae** | IT Architecture & Cloud Intern | Indianapolis, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc74b840b855eb290caf51?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
