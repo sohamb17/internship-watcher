@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 12:01 UTC · 14 new listings_
+_Updated 2026-11-17 12:31 UTC · 16 new listings_
 
-## New listings (14) — newest first
+## New listings (16) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -15,10 +15,12 @@ _Updated 2026-11-17 12:01 UTC · 14 new listings_
 | today | **SurePoint Ag Systems** | Drone Imaging Agronomy Intern | Manhattan, KS | SimplifyJobs | [apply](https://surepoint.bamboohr.com/careers/109/) |
 | 1d ago | **ENGIE** | Intern - Application Development (Grid Scale Renewables GIS) | Houston, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afbdb398074edef8dd60ccc?utm_campaign=1079&utm_source=git) |
 | 1d ago | **ENGIE North America Inc.** | Intern - Application Development (Grid Scale Renewables GIS) | Houston, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afbf99f07bef169f5fff49f?utm_campaign=1079&utm_source=git) |
+| 1d ago | **General Atomics** | Intern - Systems Engineer | Englewood, Colorado (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/brassring-general-atomics-5238036?s=gh-internships-2027) |
 | 1d ago | **Marketeq Digital Solutions** | AI Full Stack Engineer Internship (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afbd714755d7cdf657fd7c6?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Q-Block Computing** | Embedded Systems Developer Intern | AB, CA | Jobright | [apply](https://jobright.ai/jobs/info/692efc3c4c474121999dba3b?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Sports Excitement** | Full Stack software Engineer Non Paid internship | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afbe79040b855eb290c8a52?utm_campaign=1079&utm_source=git) |
 | 1d ago | **youbloom** | React Developer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc047a40b855eb290c8fa9?utm_campaign=1079&utm_source=git) |
+| 4d ago | **General Atomics** | Intern - Software Engineer | Herndon, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/brassring-general-atomics-5238044?s=gh-internships-2027) |
 | 47d ago | **Zipline** | Zip Motion Planning Intern | South SF | SimplifyJobs | [apply](https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003) |
 
 ## Watched company portals
