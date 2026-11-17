@@ -1,13 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 19:31 UTC · 2 new listings_
+_Updated 2026-11-17 20:01 UTC · 6 new listings_
 
-## New listings (2) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| — | **Anduril** | 2027 Machine Learning Engineer Intern | Santa Ana, California, United States | Company portals | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) |
-| — | **Anduril** | 2027 Product Data Quality Co-op | Santa Ana, California, United States | Company portals | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007) |
+| today | **Lightmatter** | Product & Test Engineering, Intern Summer 2027 | Mountain View, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc8ab493c0a36328a8c82e?utm_campaign=1079&utm_source=git) |
+| today | **Marvell** | AI Infrastructure Engineer Intern, MS - Summer 2027 | Santa Clara, CA (+1 more) | Company portals | [apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829) |
+| today | **Nexorant LLC** | Software Engineer Intern | Phoenix, AZ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc903893c0a36328a8cabe?utm_campaign=1079&utm_source=git) |
+| today | **SAP** | SAP iXp Intern - Full-Stack AI Developer | Palo Alto, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc8c537df9c4ceafebafd2?utm_campaign=1079&utm_source=git) |
+| today | **Walmart** | Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mile Delivery | (USA) Together Building AR Bentonville Home Office | Company portals | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2706199) |
+| 1d ago | **Regency Centers** | Software Engineering Intern | Jacksonville, Florida, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc91ba3786d28f2145a40e?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
