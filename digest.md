@@ -1,16 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 12:31 UTC · 16 new listings_
+_Updated 2026-11-17 13:01 UTC · 18 new listings_
 
-## New listings (16) — newest first
+## New listings (18) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **AeroNex Systems** | Software Engineering Intern | Rochester, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc1bc77df9c4ceafeb864d?utm_campaign=1079&utm_source=git) |
 | today | **Birdseye Security Solutions** | AI Systems Intern<br>Master's/PhD | Dallas, TX | SimplifyJobs | [apply](https://birdseyeaccount.bamboohr.com/careers/288/) |
 | today | **Birdseye Security Solutions** | Computer Vision Intern<br>Master's/PhD | Dallas, TX | SimplifyJobs | [apply](https://birdseyeaccount.bamboohr.com/careers/290/) |
+| today | **CACI International Inc** | Embedded Software Development Intern - Summer 2027 | Denver, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afb394d484fef921e0490b6?utm_campaign=1079&utm_source=git) |
 | today | **FPWA** | Data & Fiscal Policy Intern | NYC | SimplifyJobs | [apply](https://fpwa.bamboohr.com/careers/61/) |
 | today | **Idaho National Laboratory** | Electric Vehicle Charging Data Analysis Intern | Idaho Falls, ID | vanshb03 | [apply](https://go.vansh.nyc/1B6) |
+| today | **Lowe's Companies, Inc.** | Software Engineer – Undergrad Internship – Summer 2027 | Charlotte, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa863d182e82a31997c5b12?utm_campaign=1079&utm_source=git) |
 | today | **Road Commission for Oakland County** | Geographic Information Systems Intern | Michigan | SimplifyJobs | [apply](https://rcoc.bamboohr.com/careers/314/) |
 | today | **SurePoint Ag Systems** | Drone Imaging Agronomy Intern | Manhattan, KS | SimplifyJobs | [apply](https://surepoint.bamboohr.com/careers/109/) |
 | 1d ago | **ENGIE** | Intern - Application Development (Grid Scale Renewables GIS) | Houston, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afbdb398074edef8dd60ccc?utm_campaign=1079&utm_source=git) |
