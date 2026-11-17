@@ -1,15 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 16:31 UTC · 4 new listings_
+_Updated 2026-11-17 17:01 UTC · 1 new listing_
 
-## New listings (4) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **IBM** | Software Engineering Intern - Quantum Information Science 2027 | Poughkeepsie, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae02ce59e3e874dbfbb2fd3?utm_campaign=1079&utm_source=git) |
-| today | **Progress Rail, A Caterpillar Company** | Summer 2027 Test Engineer Intern, Advanced Rail Technology | Southlake, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9b158cfe45b8490f606c74?utm_campaign=1079&utm_source=git) |
-| today | **Soros Fund Management** | Quantitative Strategist Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1Bj) |
-| 1d ago | **Sallie Mae** | Software Engineering Intern | Indianapolis, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc584740b855eb290ca2f8?utm_campaign=1079&utm_source=git) |
+| today | **Intuitive Surgical** | Clinical Development Engineering Intern | Sunnyvale, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Intuitive/744000162128885) |
 
 ## Watched company portals
 
