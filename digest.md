@@ -1,33 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 22:30 UTC · 22 new listings_
+_Updated 2026-11-17 22:31 UTC · 4 new listings_
 
-## New listings (22) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Aerospace Corporation** | 2027 Machine Learning Engineering Graduate Intern | El Segundo, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aero-external-R016432?s=gh-internships-2027) |
-| today | **Amgen** | Grad Intern - Quantitative Pharmacology (Summer 2027) | California - South San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-amgen-careers-R-261804?s=gh-internships-2027) |
-| today | **Analog Devices** | Analog Design Engineer - Summer 2027 Start | US, AZ, Chandler, East Elliot | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-analogdevices-external-R265973?s=gh-internships-2027) |
-| today | **Analog Devices** | Healthcare Algorithms Research Intern | US, MA, Boston | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-analogdevices-external-R268370?s=gh-internships-2027) |
-| today | **ASML** | Internship – EUV Optical Metrology Engineer | San Diego, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358146?s=gh-internships-2027) |
-| today | **ASML** | Internship-Optical Imaging Product Engineer | San Jose, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355188?s=gh-internships-2027) |
-| today | **Boston Scientific** | Process Development Intern - Arden Hills, MN | United States   N/A | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813563399?s=gh-internships-2027) |
-| today | **Clarios** | Engineering Intern - Florence, KY (Summer 2027) | KY | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD51291?s=gh-internships-2027) |
-| today | **Eversource Energy** | 2027 Summer: Distribution Engineering Intern (Dorchester, MA-Hybrid Schedule) | Dorchester, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032415?s=gh-internships-2027) |
-| today | **Federal Reserve System** | 2027 Summer Internship Program - Business of IT Analyst Intern | Atlanta, GA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rb-frs-R-0000034091?s=gh-internships-2027) |
-| today | **General Motors** | Summer 2027 PhD Battery Research & Development Intern | Warren, Michigan, United States... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624190?s=gh-internships-2027) |
-| today | **Micron Technology** | Intern - DRAM Customer Enablement Engineering | Boise, ID - Main Site (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-micron-external-JR117268?s=gh-internships-2027) |
-| today | **Micron Technology** | Intern - SSD Hardware Engineering | Longmont-MAX- | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-micron-external-JR114232?s=gh-internships-2027) |
-| today | **Nelnet** | Intern - Data Analytics | Lincoln, NE | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nelnet-mynelnet-R23367?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Industrial Engineer Intern - Apopka FL | United States-Florida-Apopka | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261054?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Intern - Human Factors Engineering | United States-Florida-Melbourne | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261097?s=gh-internships-2027) |
-| today | **Regal Rexnord** | Application Engineering Co-Op (Summer 2027) | Fort Wayne, Indiana, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_06206?s=gh-internships-2027) |
-| today | **S&P Global** | Summer Intern, Client Services, Equity Analytics Products | New York, NY | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332606?s=gh-internships-2027) |
-| today | **Thorlabs** | Summer 2027 Information Technology Internship | Jessup, Maryland (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workable-thorlabs-FBC565F7AF?s=gh-internships-2027) |
-| today | **Trane Technologies** | Acoustic Engineer (Intern) | La Crosse, Wisconsin | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-19717?s=gh-internships-2027) |
-| 1d ago | **GlobalFoundries** | AI-Enabled Computational Materials & Device Engineering PhD Intern, (Summer 2027) | USA - New York - Malta | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604435?s=gh-internships-2027) |
-| 1d ago | **GlobalFoundries** | Quantum & Cryogenic Semiconductor Technology PhD Intern (Summer 2027) | USA - New York - Malta | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604436?s=gh-internships-2027) |
+| today | **CrowdStrike** | AI Research Launch Intern | Sunnyvale, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30599?s=gh-internships-2027) |
+| today | **Draper** | Software Engineering & DevOps Intern | Cambridge, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003155?s=gh-internships-2027) |
+| today | **Genentech** | 2027 Summer Intern - Translational Safety (Complex In Vitro Systems) | South San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-129214?s=gh-internships-2027) |
+| today | **Johnson Controls** | Materials Engineering Intern | Milwaukee-Wisconsin-United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jci-jci-WD30285102?s=gh-internships-2027) |
 
 ## Watched company portals
 
