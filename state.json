@@ -512,6 +512,34 @@
 "sk": "jobright:6afbd714755d7cdf657fd7c6",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6afbd714755d7cdf657fd7c6?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "Sports Excitement",
+"degrees": [],
+"dk": "sportsexcitement|engineer full non paid software stack",
+"found": 20774,
+"loc": "New York, NY, United States",
+"more": null,
+"night": true,
+"posted": 20773,
+"role": "Full Stack software Engineer Non Paid internship",
+"sk": "jobright:6afbe79040b855eb290c8a52",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6afbe79040b855eb290c8a52?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "ENGIE",
+"degrees": [],
+"dk": "engie|application development gis grid renewables scale",
+"found": 20774,
+"loc": "Houston, TX, United States",
+"more": null,
+"night": true,
+"posted": 20773,
+"role": "Intern - Application Development (Grid Scale Renewables GIS)",
+"sk": "jobright:6afbdb398074edef8dd60ccc",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6afbdb398074edef8dd60ccc?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -2617,6 +2645,7 @@
 "encore|application development it": 20769,
 "enervexapowerlabs|engineering r20319 software": 20773,
 "enfos|engineer software": 20774,
+"engie|application development gis grid renewables scale": 20774,
 "engramme|back end engineer extended software": 20761,
 "engramme|back end engineer software": 20774,
 "engramme|engineer extended full software stack": 20761,
@@ -6434,6 +6463,7 @@
 "spglobal|engineer learning machine": 20774,
 "spherixglobalinsightsus|insights market research": 20774,
 "spoonified|ai hardware micro qa": 20771,
+"sportsexcitement|engineer full non paid software stack": 20774,
 "springswindowfashions|ai analyst business consumer unit": 20774,
 "springswindowfashions|ai information technology": 20774,
 "springswindowfashions|analyst business consumer data unit": 20774,
@@ -12241,7 +12271,16 @@
 "jobright:6afba7fc06c0aac84dd97e38": 20774,
 "jobright:6afba7fd06c0aac84dd97e3a": 20774,
 "jobright:6afba809b2e06df25797676e": 20774,
-"jobright:6afbd714755d7cdf657fd7c6": 20774
+"jobright:6afbca6f40b855eb290c7747": 20774,
+"jobright:6afbca7040b855eb290c7748": 20774,
+"jobright:6afbd714755d7cdf657fd7c6": 20774,
+"jobright:6afbdb398074edef8dd60ccc": 20774,
+"jobright:6afbe06c1c71d952627ef4ce": 20774,
+"jobright:6afbe06c755d7cdf657fdbdc": 20774,
+"jobright:6afbe06d40b855eb290c809b": 20774,
+"jobright:6afbe3341c71d952627ef970": 20774,
+"jobright:6afbe4c240b855eb290c8622": 20774,
+"jobright:6afbe79040b855eb290c8a52": 20774
 },
 "nointernship": {
 "nointernship:50673": 20760,
