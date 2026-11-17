@@ -1,25 +1,26 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 00:01 UTC · 14 new listings_
+_Updated 2026-11-17 00:31 UTC · 15 new listings_
 
-## New listings (14) — newest first
+## New listings (15) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Meta** | Research Scientist Intern - Intelligent Camera Systems | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/971210335715482) |
-| today | **LinkedIn** | Systems & Infrastructure Engineer Intern<br>Master's | Mountain View, CA | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000161930950) |
-| today | **ASML** | Internship- AI Research and Development | San Jose, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357860?s=gh-internships-2027) |
-| today | **BGE** | GIS Intern | Katy, TX (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/bgeinc/jobs/5483694008) |
-| today | **KLA** | Firmware Intern | Milpitas, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-kla-search-2642154?s=gh-internships-2027) |
-| today | **Quest Analytics** | Software Engineer Intern - C# - ASP.NET | Overland Park, KS | SimplifyJobs | [apply](https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply) |
-| today | **ServiceNow** | Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027) | Santa Clara, CALIFORNIA, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936128) |
-| today | **ServiceNow** | Forward Deployed Solution Engineer Intern (Masters Summer 2027) | Santa Clara, CALIFORNIA, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936020) |
-| today | **T-Mobile** | Summer 2027 Software Engineering AI Intern | Atlanta, Georgia | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tmobile-external-REQ381273?s=gh-internships-2027) |
-| 1d ago | **SAS** | Optimization Intern<br>Master's | Cary, NC | SimplifyJobs | [apply](https://careers-sas.icims.com/jobs/42754/job?mobile=true&needsRedirect=false) |
-| 1d ago | **SAS** | Time Series Foundation Model Intern<br>Master's | Cary, NC | SimplifyJobs | [apply](https://careers-sas.icims.com/jobs/42753/job?mobile=true&needsRedirect=false) |
-| 1d ago | **SRI International** | Software Engineering/Full Stack Development Co-op | Princeton, NJ | SimplifyJobs | [apply](https://careers-sri.icims.com/jobs/6541/job?mobile=true&needsRedirect=false) |
-| 35d ago | **NRDC** | Community Science Partnerships Intern | Santa Monica, CA / Washington, DC / SF / Chicago, IL / NYC | SimplifyJobs | [apply](https://careers-nrdc.icims.com/jobs/6067/job?mobile=true&needsRedirect=false) |
-| — | **Anduril** | 2027 Mission Operations Engineer Intern | Honolulu, Hawaii, United States; Washington, District of Col | Company portals | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007) |
+| today | **Bound** | Engineering Intern | Ames, IA | SimplifyJobs | [apply](https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd) |
+| today | **Duetti** | Data Intern | NYC | SimplifyJobs | [apply](https://jobs.lever.co/duetti/9db49695-8ec8-40ad-b780-c73bb4594567/apply) |
+| today | **Forterra** | Software Engineer Intern | Winter Park, FL / Durham, NC / East Palo Alto, CA / Clarksbu | SimplifyJobs | [apply](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) |
+| today | **GlobalFoundries** | Test Wafer and Qual Automation Engineering (Summer 2027) | USA - Vermont - Essex Junction | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604662?s=gh-internships-2027) |
+| today | **Integration Innovation (i3)** | Embedded Systems Reverse Engineer Intern | Washington, DC | vanshb03 | [apply](https://go.vansh.nyc/1AB) |
+| today | **JLL** | Project and Development Services Summer 2027 Internship - San Francisco, CA | San Francisco, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ544576?s=gh-internships-2027) |
+| today | **NeuroSpark** | AI Hardware Optimization Engineer Intern | Santa Clara, CA | SimplifyJobs | [apply](https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3) |
+| today | **NeuroSpark** | AI Inference & Training Framework Engineer Intern | Santa Clara, CA | SimplifyJobs | [apply](https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea) |
+| today | **ServiceNow** | Associate Forward Deployed Solution Engineer Intern | Santa Clara, CA / NYC (+1 more) | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936128) |
+| today | **ServiceNow** | Forward Deployed Solution Engineer Intern<br>Master's | Santa Clara, CA / NYC | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936020) |
+| today | **The Federal Reserve System** | 2027 Summer Internship Program - IT Portfolio Analyst Intern | Atlanta, GA | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---IT-Portfolio-Analyst-Intern_R-0000034092) |
+| 1d ago | **JMP Statistical Discovery** | JMP Core User Interface Team R&D Intern - Master's/PhD<br>Master's | Cary, NC | SimplifyJobs | [apply](https://jmp-sas.icims.com/jobs/47455/job?mobile=true&needsRedirect=false) |
+| 1d ago | **Reliable Robotics** | Displays Software Engineer Intern | Mountain View, CA (+1 more) | SimplifyJobs | [apply](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true) |
+| 78d ago | **Federal Home Loan Bank of Des Moines** | IT Back Office Co-op | Des Moines, IA | SimplifyJobs | [apply](https://wd5.myworkdaysite.com/recruiting/vhr_fhlbdm/careers/job/Des-Moines/IT-Back-Office-Co-Op_REQ00697) |
+| 81d ago | **Federal Home Loan Bank of Des Moines** | Application Development Co-op | Des Moines, IA | SimplifyJobs | [apply](https://wd5.myworkdaysite.com/recruiting/vhr_fhlbdm/careers/job/Des-Moines/Application-Development-Co-Op_REQ00683) |
 
 ## Watched company portals
 
