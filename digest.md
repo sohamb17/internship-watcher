@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 21:31 UTC · 1 new listing_
+_Updated 2026-11-17 22:01 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Warp Sciences** | Member of Technical Staff Intern, Robotics Learning | South San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1Br) |
+| today | **Toyota Research Institute** | Future Product Innovation Research Intern, Computational Cognitive Science | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/0d74ff26-05cc-4616-bda0-97d821c9452b) |
 
 ## Watched company portals
 
