@@ -540,6 +540,40 @@
 "sk": "jobright:6afbdb398074edef8dd60ccc",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6afbdb398074edef8dd60ccc?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "Birdseye Security Solutions",
+"degrees": [
+"Master's",
+"PhD"
+],
+"dk": "birdseyesecuritysolutions|ai systems",
+"found": 20774,
+"loc": "Dallas, TX",
+"more": null,
+"night": true,
+"posted": 20774,
+"role": "AI Systems Intern",
+"sk": "05799004-d77a-4b48-b797-2b29a38c7087",
+"src": "simplify",
+"url": "https://birdseyeaccount.bamboohr.com/careers/288/"
+},
+{
+"company": "Birdseye Security Solutions",
+"degrees": [
+"Master's",
+"PhD"
+],
+"dk": "birdseyesecuritysolutions|computer vision",
+"found": 20774,
+"loc": "Dallas, TX",
+"more": null,
+"night": true,
+"posted": 20774,
+"role": "Computer Vision Intern",
+"sk": "a73d65d0-ef99-4368-9bb7-6e1a8095fa49",
+"src": "simplify",
+"url": "https://birdseyeaccount.bamboohr.com/careers/290/"
 }
 ],
 "roles": {
@@ -1489,6 +1523,8 @@
 "biogen|information technology": 20765,
 "biomrieux|data science": 20774,
 "birdconstruction|business intelligence": 20759,
+"birdseyesecuritysolutions|ai systems": 20774,
+"birdseyesecuritysolutions|computer vision": 20774,
 "bitgo|custody engineer software": 20759,
 "bitgo|engineer go network settlement software systems": 20759,
 "bitgo|engineer prime software trade": 20759,
@@ -12747,6 +12783,7 @@
 "05453c43-ed26-4599-99c7-54c6dc837e45": 20774,
 "054b254c-cc0b-47dd-a2c2-98cf50c0269f": 20774,
 "054da912-83d7-407d-92b6-28e69322dbf6": 20774,
+"05799004-d77a-4b48-b797-2b29a38c7087": 20774,
 "057bb7a1-e45d-419a-9dce-d6991f31b27d": 20774,
 "05912fa9-0a66-430e-9feb-f3411c4ef531": 20774,
 "059f11e6-0de5-4f66-8a9b-e5b55f76393a": 20774,
@@ -13111,6 +13148,7 @@
 "23d6cc2e-855b-4458-a689-002cda7f4705": 20760,
 "23dd65c5-13d1-4c38-bf1f-afc1366796ee": 20773,
 "23e12460-dde2-43ba-9921-b229626b3d25": 20759,
+"23e36426-bb74-4b8d-9baa-51a102571c69": 20774,
 "23e73d43-3b98-441f-abc3-9363e7f5d4aa": 20759,
 "23f42855-d656-4288-b470-cbc2fb8f3bbd": 20774,
 "23f85879-e285-4e75-bd3a-3c82bd6304e5": 20774,
@@ -14724,6 +14762,7 @@
 "a71102ca-4c4d-4bc3-8084-fcf5d09cf645": 20760,
 "a713c0fc-8fe6-4def-ab15-d55db5742ac4": 20774,
 "a7327377-6839-4afe-a0e7-a1e99135d7b4": 20774,
+"a73d65d0-ef99-4368-9bb7-6e1a8095fa49": 20774,
 "a75290cc-dc2e-4f40-8f0b-ffa8ffba7549": 20774,
 "a75a8632-28d8-4ce0-827f-c75ecb99f4c9": 20774,
 "a767329d-41e2-4902-a15c-d28cb21ad5e1": 20774,
@@ -15099,6 +15138,7 @@
 "c3ead52d-fb95-4b7d-acf2-d1d88814aa89": 20759,
 "c3f214ad-fe6d-4020-9530-249687a4089d": 20759,
 "c416ad28-d7e6-4fca-98ee-f4a2119e49e5": 20759,
+"c445b1f7-56ed-41b7-adcf-488ff0ec20e5": 20774,
 "c44ccf4f-7352-4f14-9f9d-43ce7522c340": 20774,
 "c44cf4ec-db1b-4ee1-9dc0-aefd474d61f6": 20759,
 "c454abc2-a511-45d0-87e5-5aad1b28f7d5": 20774,
@@ -15109,6 +15149,7 @@
 "c5138e81-eb36-45f4-8460-5c616a7abbf5": 20774,
 "c553bd8b-5df6-4e4f-b2aa-ab7731814f81": 20774,
 "c56751ac-6762-423d-9796-8d62264d5cac": 20774,
+"c5774094-54c2-4d78-bb91-86ec4d8cb4a7": 20774,
 "c57ba1d3-0591-408a-a691-b05626be84f0": 20774,
 "c582b6e2-b69e-4277-a7e9-2871a23168c4": 20774,
 "c59a1b99-17f3-442e-99fa-80e233cb39fb": 20759,

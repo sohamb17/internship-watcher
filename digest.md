@@ -1,11 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 07:31 UTC · 3 new listings_
+_Updated 2026-11-17 08:01 UTC · 5 new listings_
 
-## New listings (3) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **Birdseye Security Solutions** | AI Systems Intern<br>Master's/PhD | Dallas, TX | SimplifyJobs | [apply](https://birdseyeaccount.bamboohr.com/careers/288/) |
+| today | **Birdseye Security Solutions** | Computer Vision Intern<br>Master's/PhD | Dallas, TX | SimplifyJobs | [apply](https://birdseyeaccount.bamboohr.com/careers/290/) |
 | 1d ago | **ENGIE** | Intern - Application Development (Grid Scale Renewables GIS) | Houston, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afbdb398074edef8dd60ccc?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Marketeq Digital Solutions** | AI Full Stack Engineer Internship (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afbd714755d7cdf657fd7c6?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Sports Excitement** | Full Stack software Engineer Non Paid internship | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afbe79040b855eb290c8a52?utm_campaign=1079&utm_source=git) |
