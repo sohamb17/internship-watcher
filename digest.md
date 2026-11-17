@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 05:01 UTC · 0 new listings_
+_Updated 2026-11-17 05:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| — | **i3** | Embedded Systems Reverse Engineer Intern | Remote | nointernship.com | [apply](https://go.vansh.nyc/1Af?s=y) |
 
 ## Watched company portals
 
