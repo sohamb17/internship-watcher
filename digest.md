@@ -1,8 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 03:02 UTC · 0 new listings_
+_Updated 2026-11-17 03:31 UTC · 3 new listings_
 
-Nothing new this run.
+## New listings (3) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Fiserv** | Technology Intern, Cybersecurity | Berkeley Heights, NJ (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1AS) |
+| today | **Punchcut** | Design Engineer Intern | SF | SimplifyJobs | [apply](https://punchcut.bamboohr.com/careers/65/) |
+| — | **Ralliant** | Hardware Verification Engineer Co-op | Solon | nointernship.com | [apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10491) |
 
 ## Watched company portals
 
