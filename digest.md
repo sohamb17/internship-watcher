@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 03:00 UTC · 2 new listings_
+_Updated 2026-11-17 03:02 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **HexArmor** | Software Engineer Intern | Atlanta, GA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/hexarmor/jobs/8206200003) |
-| 1d ago | **Soros Fund Management** | Trading, Middle and Back Office Dev – Summer Intern 2027 | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afba45406c0aac84dd97c44?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
