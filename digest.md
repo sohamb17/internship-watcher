@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 04:01 UTC · 1 new listing_
+_Updated 2026-11-17 04:31 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 1d ago | **Jobs at UHS** | Software Engineer Intern* | King of Prussia, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af40539fee40b4fffbdd704?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
