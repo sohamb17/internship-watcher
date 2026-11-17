@@ -1,8 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 15:31 UTC · 0 new listings_
+_Updated 2026-11-17 16:01 UTC · 3 new listings_
 
-Nothing new this run.
+## New listings (3) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Prometheus Group** | Web Development Intern | Raleigh, NC (+1 more) | SimplifyJobs | [apply](https://prometheusgroup.bamboohr.com/careers/97/) |
+| today | **Robert Bosch Venture Capital** | AI Application Intern | Farmington Hills, MI | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000162076254) |
+| today | **SAS** | Econometrics Intern<br>Master's | Cary, NC | SimplifyJobs | [apply](https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false) |
 
 ## Watched company portals
 
