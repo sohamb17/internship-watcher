@@ -1,11 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 11:31 UTC · 13 new listings_
+_Updated 2026-11-17 12:01 UTC · 14 new listings_
 
-## New listings (13) — newest first
+## New listings (14) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **AeroNex Systems** | Software Engineering Intern | Rochester, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc1bc77df9c4ceafeb864d?utm_campaign=1079&utm_source=git) |
 | today | **Birdseye Security Solutions** | AI Systems Intern<br>Master's/PhD | Dallas, TX | SimplifyJobs | [apply](https://birdseyeaccount.bamboohr.com/careers/288/) |
 | today | **Birdseye Security Solutions** | Computer Vision Intern<br>Master's/PhD | Dallas, TX | SimplifyJobs | [apply](https://birdseyeaccount.bamboohr.com/careers/290/) |
 | today | **FPWA** | Data & Fiscal Policy Intern | NYC | SimplifyJobs | [apply](https://fpwa.bamboohr.com/careers/61/) |
