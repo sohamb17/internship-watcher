@@ -1,22 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 21:01 UTC · 11 new listings_
+_Updated 2026-11-17 21:31 UTC · 1 new listing_
 
-## New listings (11) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AeroNex Systems** | Software Engineer Intern, Full-Time | Rochester, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afca230e0cdcfc91142e2d3?utm_campaign=1079&utm_source=git) |
-| today | **Crusoe** | Software Engineering Intern, Summer 2027 | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc9f3394232f5ac42d0079?utm_campaign=1079&utm_source=git) |
-| today | **Forterra** | 2027 Intern - Software | Clarksburg, MD +4 | speedyapply | [apply](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) |
-| today | **i3 Corps** | Embedded Systems Reverse Engineer Intern | Washington, DC | speedyapply | [apply](https://careers-i3-corps.icims.com/jobs/5588/embedded-systems-reverse-engineer-intern/job) |
-| today | **Parsons Corporation** | Software Intern (Summer 2027) | Denver, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc9dedd86c15318a38c58c?utm_campaign=1079&utm_source=git) |
-| today | **The Federal Reserve System** | 2027 Summer Internship Program - Business of IT Analyst Intern | Atlanta, GA | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Business-of-IT-Analyst-Intern_R-0000034091) |
-| 1d ago | **Constellation Brands** | Data and AI Enablement Intern | Rochester, NY / Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1Bp) |
-| 1d ago | **SRI International** | Drexel University Co-op: Embedded Software Engineering | Princeton, NJ | speedyapply | [apply](https://careers-sri.icims.com/jobs/6542/drexel-university-co-op%3a-embedded-software-engineering/job) |
-| 1d ago | **SRI International** | Drexel University Co-op: Software Engineering/Full stack development | Princeton, NJ | speedyapply | [apply](https://careers-sri.icims.com/jobs/6541/drexel-university-co-op%3a-software-engineering-full-stack-development/job) |
-| 32d ago | **Jasper Engines & Transmissions** | IT Full Stack Developer Internship: Summer 2027 | Jasper, IN | speedyapply | [apply](https://jasperholdings.wd504.myworkdayjobs.com/en-US/jet_careers/job/Jasper-IN/IT-Full-Stack-Developer-Internship--Summer-2027_R-100857) |
-| 70d ago | **Amazon** | Operations Engineering MHE Lifecycle Intern Spring and Summer 2027 (Bellevue, WA) | Bellevue, Washington, USA | Company portals | [apply](https://www.amazon.jobs/en/jobs/10532296/operations-engineering-mhe-lifecycle-intern-spring-and-summer-2027-bellevue-wa) |
+| today | **Warp Sciences** | Member of Technical Staff Intern, Robotics Learning | South San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1Br) |
 
 ## Watched company portals
 
