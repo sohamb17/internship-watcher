@@ -1,16 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 18:31 UTC · 5 new listings_
+_Updated 2026-11-17 19:01 UTC · 0 new listings_
 
-## New listings (5) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Bose** | Data Science Co-Op (NLP & GenAI) | US MA   Framingham | Company portals | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP---GenAI-_R29251) |
-| today | **Garmin** | Software Engineer Intern - Real Time Aviation Data | Chanhassen, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc81081e98d304ea7f1520?utm_campaign=1079&utm_source=git) |
-| today | **Health Care Service Corporation** | Early Careers - Infrastructure Engineer Intern | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af6490ea4a5218a07e85307?utm_campaign=1079&utm_source=git) |
-| today | **ZOVU** | Backend Developer Intern (Restaurant OS) — Fully Remote | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad91f20950ef68d5184e3c3?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Manulife** | Summer Intern 2027 - Software Engineering, Security & Operations | Boston, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc829e3786d28f21459b42?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
