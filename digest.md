@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 06:01 UTC · 0 new listings_
+_Updated 2026-11-17 06:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Marketeq Digital Solutions** | AI Full Stack Engineer Internship (U.S.A Only) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afbd714755d7cdf657fd7c6?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
