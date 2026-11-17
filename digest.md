@@ -1,14 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 01:31 UTC · 3 new listings_
+_Updated 2026-11-17 02:01 UTC · 0 new listings_
 
-## New listings (3) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **AstraZeneca** | Finance AI & Data Analytics Intern, Undergraduate - LIFT Program | Wilmington - DE | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264458?s=gh-internships-2027) |
-| today | **Disney** | Data Engineering Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1AL) |
-| today | **Lumentum** | Internship - Data Science & Analytics | USA - CA - San Jose | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-lumentum-lite-20261771?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
