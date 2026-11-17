@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 19:01 UTC · 0 new listings_
+_Updated 2026-11-17 19:31 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| — | **Anduril** | 2027 Machine Learning Engineer Intern | Santa Ana, California, United States | Company portals | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) |
+| — | **Anduril** | 2027 Product Data Quality Co-op | Santa Ana, California, United States | Company portals | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007) |
 
 ## Watched company portals
 
