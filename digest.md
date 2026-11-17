@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 02:01 UTC · 0 new listings_
+_Updated 2026-11-17 02:31 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Clera** | Full-Stack Software Engineering Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1AN) |
+| today | **GlobalFoundries** | Tapeout Engineering Business Products & Engineering Intern (Summer 2027) | USA - Texas - Austin | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604926?s=gh-internships-2027) |
 
 ## Watched company portals
 
