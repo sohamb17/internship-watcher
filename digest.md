@@ -1,26 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 00:31 UTC · 15 new listings_
+_Updated 2026-11-17 01:01 UTC · 0 new listings_
 
-## New listings (15) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Bound** | Engineering Intern | Ames, IA | SimplifyJobs | [apply](https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd) |
-| today | **Duetti** | Data Intern | NYC | SimplifyJobs | [apply](https://jobs.lever.co/duetti/9db49695-8ec8-40ad-b780-c73bb4594567/apply) |
-| today | **Forterra** | Software Engineer Intern | Winter Park, FL / Durham, NC / East Palo Alto, CA / Clarksbu | SimplifyJobs | [apply](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) |
-| today | **GlobalFoundries** | Test Wafer and Qual Automation Engineering (Summer 2027) | USA - Vermont - Essex Junction | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604662?s=gh-internships-2027) |
-| today | **Integration Innovation (i3)** | Embedded Systems Reverse Engineer Intern | Washington, DC | vanshb03 | [apply](https://go.vansh.nyc/1AB) |
-| today | **JLL** | Project and Development Services Summer 2027 Internship - San Francisco, CA | San Francisco, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ544576?s=gh-internships-2027) |
-| today | **NeuroSpark** | AI Hardware Optimization Engineer Intern | Santa Clara, CA | SimplifyJobs | [apply](https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3) |
-| today | **NeuroSpark** | AI Inference & Training Framework Engineer Intern | Santa Clara, CA | SimplifyJobs | [apply](https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea) |
-| today | **ServiceNow** | Associate Forward Deployed Solution Engineer Intern | Santa Clara, CA / NYC (+1 more) | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936128) |
-| today | **ServiceNow** | Forward Deployed Solution Engineer Intern<br>Master's | Santa Clara, CA / NYC | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936020) |
-| today | **The Federal Reserve System** | 2027 Summer Internship Program - IT Portfolio Analyst Intern | Atlanta, GA | Company portals | [apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---IT-Portfolio-Analyst-Intern_R-0000034092) |
-| 1d ago | **JMP Statistical Discovery** | JMP Core User Interface Team R&D Intern - Master's/PhD<br>Master's | Cary, NC | SimplifyJobs | [apply](https://jmp-sas.icims.com/jobs/47455/job?mobile=true&needsRedirect=false) |
-| 1d ago | **Reliable Robotics** | Displays Software Engineer Intern | Mountain View, CA (+1 more) | SimplifyJobs | [apply](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true) |
-| 78d ago | **Federal Home Loan Bank of Des Moines** | IT Back Office Co-op | Des Moines, IA | SimplifyJobs | [apply](https://wd5.myworkdaysite.com/recruiting/vhr_fhlbdm/careers/job/Des-Moines/IT-Back-Office-Co-Op_REQ00697) |
-| 81d ago | **Federal Home Loan Bank of Des Moines** | Application Development Co-op | Des Moines, IA | SimplifyJobs | [apply](https://wd5.myworkdaysite.com/recruiting/vhr_fhlbdm/careers/job/Des-Moines/Application-Development-Co-Op_REQ00683) |
+Nothing new this run.
 
 ## Watched company portals
 
