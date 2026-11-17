@@ -1,15 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 23:01 UTC · 4 new listings_
+_Updated 2026-11-17 23:31 UTC · 7 new listings_
 
-## New listings (4) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Akuna Capital** | Software Engineer Intern - Python, Summer 2027 | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afcc469d86c15318a38e0a6?utm_campaign=1079&utm_source=git) |
-| today | **Lean TECHniques** | Software Intern - Hybrid | Johnston, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afcc466d163750294926822?utm_campaign=1079&utm_source=git) |
-| today | **U.S. AutoForce** | Software Development Intern - Breakthrough | Richmond, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afcacb0d86c15318a38d0bb?utm_campaign=1079&utm_source=git) |
-| today | **Viasat** | Business Support System (BSS) Software Developer Intern | Carlsbad, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6afcbad2e8a9612f4e0daeda?utm_campaign=1079&utm_source=git) |
+| today | **Microsoft** | Research Intern - Frontier Tuning | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200067781?s=gh-internships-2027) |
+| today | **Microsoft** | Security Research: PhD Internship Opportunities | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200067619?s=gh-internships-2027) |
+| today | **Amentum** | Software Programmer Intern | TN-Tullahoma | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0169775?s=gh-internships-2027) |
+| today | **Analog Devices** | Research Science Engineering Intern - Summer 2027 | US, MA, Wilmington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-analogdevices-external-R268072?s=gh-internships-2027) |
+| today | **Motorola Solutions** | Global Customer Data Management Intern (2027 Internship) | Chicago, IL, More... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70600?s=gh-internships-2027) |
+| today | **Motorola Solutions** | Summer 2027 Internship - RFIC Design Engineer | Plantation, FL, More... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70731?s=gh-internships-2027) |
+| today | **RTX** | F135 Engine Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite) | CT-EAST HARTFORD-ETC | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886311?s=gh-internships-2027) |
 
 ## Watched company portals
 
