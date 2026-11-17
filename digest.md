@@ -1,13 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 02:31 UTC · 2 new listings_
+_Updated 2026-11-17 03:00 UTC · 2 new listings_
 
 ## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Clera** | Full-Stack Software Engineering Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1AN) |
-| today | **GlobalFoundries** | Tapeout Engineering Business Products & Engineering Intern (Summer 2027) | USA - Texas - Austin | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604926?s=gh-internships-2027) |
+| today | **HexArmor** | Software Engineer Intern | Atlanta, GA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/hexarmor/jobs/8206200003) |
+| 1d ago | **Soros Fund Management** | Trading, Middle and Back Office Dev – Summer Intern 2027 | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afba45406c0aac84dd97c44?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
