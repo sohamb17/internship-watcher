@@ -776,6 +776,20 @@
 "sk": "https://zapply.jobs/l/d/phenom-mitre-R117611",
 "src": "zapply",
 "url": "https://zapply.jobs/l/d/phenom-mitre-R117611?s=gh-internships-2027"
+},
+{
+"company": "Bosch",
+"degrees": [],
+"dk": "bosch|40 8 ai application hours months per week",
+"found": 20774,
+"loc": "Farmington Hills, MI, United States",
+"more": null,
+"night": true,
+"posted": 20774,
+"role": "AI Application Intern (8 months/40 hours per week)",
+"sk": "smartrecruiters:BoschGroup:744000162076254",
+"src": "ats",
+"url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254"
 }
 ],
 "roles": {
@@ -1883,6 +1897,7 @@
 "boschhomecomfort|engineer software": 20770,
 "boschhomecomfort|research robotics": 20774,
 "bosch|19 engineering hours it per systems week": 20763,
+"bosch|40 8 ai application hours months per week": 20774,
 "bosch|40hrs 8 engineering months per software week": 20771,
 "bosch|6 controls engineering full months powertrain software time": 20774,
 "bosch|action language research vision vla": 20774,
@@ -9363,6 +9378,7 @@
 "smartrecruiters:BoschGroup:744000161339309": 20774,
 "smartrecruiters:BoschGroup:744000161841434": 20774,
 "smartrecruiters:BoschGroup:744000161844052": 20774,
+"smartrecruiters:BoschGroup:744000162076254": 20774,
 "smartrecruiters:CapTechConsulting:744000155019115": 20774,
 "smartrecruiters:CapTechConsulting:744000155023169": 20774,
 "smartrecruiters:CapTechConsulting:744000155060459": 20774,
