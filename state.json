@@ -762,6 +762,20 @@
 "sk": "jobright:6aa863d182e82a31997c5b12",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6aa863d182e82a31997c5b12?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "MITRE",
+"degrees": [],
+"dk": "mitre|engineer systems",
+"found": 20774,
+"loc": "McLean, Virginia",
+"more": null,
+"night": true,
+"posted": 20769,
+"role": "Systems Engineer Intern",
+"sk": "https://zapply.jobs/l/d/phenom-mitre-R117611",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/phenom-mitre-R117611?s=gh-internships-2027"
 }
 ],
 "roles": {
@@ -5045,6 +5059,7 @@
 "mitre|data engineering science": 20768,
 "mitre|data science": 20774,
 "mitre|engineer sensors underwater": 20760,
+"mitre|engineer systems": 20774,
 "mitsubishielectrictraneus|automotive cloud middleware validation": 20763,
 "mksinstruments|applications engineering oregon": 20767,
 "mksinstruments|engineer mechanical": 20759,
@@ -19938,6 +19953,7 @@
 "https://zapply.jobs/l/d/phenom-danaher-R1321509": 20769,
 "https://zapply.jobs/l/d/phenom-mitre-R117315": 20768,
 "https://zapply.jobs/l/d/phenom-mitre-R117401": 20773,
+"https://zapply.jobs/l/d/phenom-mitre-R117611": 20774,
 "https://zapply.jobs/l/d/phenom-mitre-R117632": 20774,
 "https://zapply.jobs/l/d/phenom-mitre-R117661": 20768,
 "https://zapply.jobs/l/d/phenom-mitre-R117733": 20762,
@@ -20823,6 +20839,7 @@
 "https://zapply.jobs/l/d/workday-tmobile-external-REQ381234": 20763,
 "https://zapply.jobs/l/d/workday-tmobile-external-REQ381273": 20774,
 "https://zapply.jobs/l/d/workday-tmobile-external-REQ381279": 20766,
+"https://zapply.jobs/l/d/workday-tmobile-external-REQ381315": 20774,
 "https://zapply.jobs/l/d/workday-tmobile-external-REQ381319": 20774,
 "https://zapply.jobs/l/d/workday-tmobile-external-REQ381357": 20774,
 "https://zapply.jobs/l/d/workday-tmobile-external-REQ381368": 20774,

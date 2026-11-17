@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 13:01 UTC · 18 new listings_
+_Updated 2026-11-17 13:31 UTC · 19 new listings_
 
-## New listings (18) — newest first
+## New listings (19) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@ _Updated 2026-11-17 13:01 UTC · 18 new listings_
 | 1d ago | **Sports Excitement** | Full Stack software Engineer Non Paid internship | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afbe79040b855eb290c8a52?utm_campaign=1079&utm_source=git) |
 | 1d ago | **youbloom** | React Developer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6afc047a40b855eb290c8fa9?utm_campaign=1079&utm_source=git) |
 | 4d ago | **General Atomics** | Intern - Software Engineer | Herndon, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/brassring-general-atomics-5238044?s=gh-internships-2027) |
+| 5d ago | **MITRE** | Systems Engineer Intern | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117611?s=gh-internships-2027) |
 | 47d ago | **Zipline** | Zip Motion Planning Intern | South SF | SimplifyJobs | [apply](https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003) |
 
 ## Watched company portals
