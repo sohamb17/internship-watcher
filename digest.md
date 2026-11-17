@@ -1,16 +1,25 @@
 # Internship watcher — latest
 
-_Updated 2026-11-16 23:31 UTC · 5 new listings_
+_Updated 2026-11-17 00:01 UTC · 14 new listings_
 
-## New listings (5) — newest first
+## New listings (14) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **LinkedIn** | Systems & Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA) | Mountain View, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000161930950) |
-| today | **ASML** | Internship - Tool Center Engineer (Co-op) | Wilton, CT, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358223?s=gh-internships-2027) |
-| today | **Boston Scientific** | Supplier Engineering Intern | Arden Hills US-MN, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813964277?s=gh-internships-2027) |
-| today | **Cognizant** | Software Engineering Internship | Teaneck, NJ, United States (+2 more) | Jobright | [apply](https://jobright.ai/jobs/info/6afb6e3fb2e06df25797424f?utm_campaign=1079&utm_source=git) |
-| today | **Minitab** | Software Engineering Intern | State College, PA | vanshb03 | [apply](https://go.vansh.nyc/1Ax) |
+| today | **Meta** | Research Scientist Intern - Intelligent Camera Systems | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/971210335715482) |
+| today | **LinkedIn** | Systems & Infrastructure Engineer Intern<br>Master's | Mountain View, CA | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000161930950) |
+| today | **ASML** | Internship- AI Research and Development | San Jose, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357860?s=gh-internships-2027) |
+| today | **BGE** | GIS Intern | Katy, TX (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/bgeinc/jobs/5483694008) |
+| today | **KLA** | Firmware Intern | Milpitas, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-kla-search-2642154?s=gh-internships-2027) |
+| today | **Quest Analytics** | Software Engineer Intern - C# - ASP.NET | Overland Park, KS | SimplifyJobs | [apply](https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply) |
+| today | **ServiceNow** | Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027) | Santa Clara, CALIFORNIA, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936128) |
+| today | **ServiceNow** | Forward Deployed Solution Engineer Intern (Masters Summer 2027) | Santa Clara, CALIFORNIA, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936020) |
+| today | **T-Mobile** | Summer 2027 Software Engineering AI Intern | Atlanta, Georgia | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tmobile-external-REQ381273?s=gh-internships-2027) |
+| 1d ago | **SAS** | Optimization Intern<br>Master's | Cary, NC | SimplifyJobs | [apply](https://careers-sas.icims.com/jobs/42754/job?mobile=true&needsRedirect=false) |
+| 1d ago | **SAS** | Time Series Foundation Model Intern<br>Master's | Cary, NC | SimplifyJobs | [apply](https://careers-sas.icims.com/jobs/42753/job?mobile=true&needsRedirect=false) |
+| 1d ago | **SRI International** | Software Engineering/Full Stack Development Co-op | Princeton, NJ | SimplifyJobs | [apply](https://careers-sri.icims.com/jobs/6541/job?mobile=true&needsRedirect=false) |
+| 35d ago | **NRDC** | Community Science Partnerships Intern | Santa Monica, CA / Washington, DC / SF / Chicago, IL / NYC | SimplifyJobs | [apply](https://careers-nrdc.icims.com/jobs/6067/job?mobile=true&needsRedirect=false) |
+| — | **Anduril** | 2027 Mission Operations Engineer Intern | Honolulu, Hawaii, United States; Washington, District of Col | Company portals | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007) |
 
 ## Watched company portals
 
