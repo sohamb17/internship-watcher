@@ -1,15 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 22:31 UTC · 4 new listings_
+_Updated 2026-11-17 23:01 UTC · 4 new listings_
 
 ## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CrowdStrike** | AI Research Launch Intern | Sunnyvale, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30599?s=gh-internships-2027) |
-| today | **Draper** | Software Engineering & DevOps Intern | Cambridge, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003155?s=gh-internships-2027) |
-| today | **Genentech** | 2027 Summer Intern - Translational Safety (Complex In Vitro Systems) | South San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-129214?s=gh-internships-2027) |
-| today | **Johnson Controls** | Materials Engineering Intern | Milwaukee-Wisconsin-United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jci-jci-WD30285102?s=gh-internships-2027) |
+| today | **Akuna Capital** | Software Engineer Intern - Python, Summer 2027 | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afcc469d86c15318a38e0a6?utm_campaign=1079&utm_source=git) |
+| today | **Lean TECHniques** | Software Intern - Hybrid | Johnston, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afcc466d163750294926822?utm_campaign=1079&utm_source=git) |
+| today | **U.S. AutoForce** | Software Development Intern - Breakthrough | Richmond, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afcacb0d86c15318a38d0bb?utm_campaign=1079&utm_source=git) |
+| today | **Viasat** | Business Support System (BSS) Software Developer Intern | Carlsbad, CA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6afcbad2e8a9612f4e0daeda?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
