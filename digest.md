@@ -1,17 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 03:31 UTC · 6 new listings_
+_Updated 2026-11-18 04:01 UTC · 1 new listing_
 
-## New listings (6) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ASML** | Internship - Optical Engineering, Non Product Metrology | San Diego, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355369?s=gh-internships-2027) |
-| today | **Leidos** | Electrical Design Engineering Intern | Huntsville, AL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-leidos-external-R-00195400?s=gh-internships-2027) |
-| — | **All Options** | Graduate Quantitative Trader Intern | Austin | nointernship.com | [apply](https://alloptions.bamboohr.com/careers/85/) |
-| — | **Publicis Groupe** | PhD Data Science Intern | Boston, Chicago, Westminster, Irving, Atlanta | nointernship.com | [apply](https://publicisgroupe.jibeapply.com/jobs/182898?lang=en-us) |
-| — | **Qualcomm** | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham | nointernship.com | [apply](https://qualcomm.eightfold.ai/careers/job/446722176432) |
-| — | **Syntax** | Index Analyst Intern | Remote | nointernship.com | [apply](https://jobs.lever.co/syntax/75c16db8-4cfd-4d7c-98b0-c9153e2034fe/apply) |
+| today | **State Street** | State Street Investment Management - Data Scientist - Summer Internship 2027 | Boston, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-statestreet-global-R-801213?s=gh-internships-2027) |
 
 ## Watched company portals
 
