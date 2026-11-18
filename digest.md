@@ -1,13 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 01:31 UTC · 2 new listings_
+_Updated 2026-11-18 02:01 UTC · 2 new listings_
 
 ## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Lightpath** | Intern - Application Developer | Bethpage, NY, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6afcdcbbe8a9612f4e0dc7d0?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Rakuten International** | Intern - Software Engineer, AI User Experience | Bellevue, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afcbe9ce8a9612f4e0db25e?utm_campaign=1079&utm_source=git) |
+| today | **Amgen** | Grad Intern – Protein Engineering (Summer 2027) | California - Thousand Oaks | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-amgen-careers-R-261826?s=gh-internships-2027) |
+| today | **Bosch** | Robot Learning Research Intern | Pittsburgh, PA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000162212029) |
 
 ## Watched company portals
 
