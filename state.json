@@ -596,6 +596,20 @@
 "sk": "jobright:6aa8ba1410b1cd4f41603b32",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6aa8ba1410b1cd4f41603b32?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "National Interstate Insurance",
+"degrees": [],
+"dk": "nationalinterstateinsurance|data developer engineer",
+"found": 20775,
+"loc": "Cincinnati, OH",
+"more": null,
+"night": true,
+"posted": 20775,
+"role": "Data Engineer Developer Intern \u2013 Summer 2027",
+"sk": "https://zapply.jobs/l/d/workday-gaig-gaig-external-R9919",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/workday-gaig-gaig-external-R9919?s=gh-internships-2027"
 }
 ],
 "roles": {
@@ -5095,6 +5109,7 @@
 "nationalinterstateinsurance|bi business intelligence power": 20775,
 "nationalinterstateinsurance|claims developer lab": 20775,
 "nationalinterstateinsurance|claims technical": 20775,
+"nationalinterstateinsurance|data developer engineer": 20775,
 "nationalinterstateinsurance|data engineering": 20775,
 "nationalinterstateinsurance|data it": 20775,
 "nationalinterstateinsurance|data scientist": 20767,
@@ -20600,6 +20615,7 @@
 "https://zapply.jobs/l/d/workday-gaig-gaig-external-R9868": 20769,
 "https://zapply.jobs/l/d/workday-gaig-gaig-external-R9873": 20769,
 "https://zapply.jobs/l/d/workday-gaig-gaig-external-R9904": 20775,
+"https://zapply.jobs/l/d/workday-gaig-gaig-external-R9919": 20775,
 "https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232323": 20775,
 "https://zapply.jobs/l/d/workday-generac-external-JR17736": 20762,
 "https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621636": 20770,
