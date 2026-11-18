@@ -1,27 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 20:31 UTC · 16 new listings_
+_Updated 2026-11-18 21:01 UTC · 3 new listings_
 
-## New listings (16) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Abridge** | Member of Technical Staff, Intern | SF Office | Company portals | [apply](https://jobs.ashbyhq.com/Abridge/aab11857-7ed3-4fc5-aab3-35256601117e) |
-| today | **AstraZeneca** | Cell Therapy Process Development Intern | Gaithersburg - MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264647?s=gh-internships-2027) |
-| today | **Conifer Health Solutions** | Software Developer Intern - Summer 2027 - Onsite in Dallas, TX | Dallas, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afde4388cffea7c97c8df66?utm_campaign=1079&utm_source=git) |
-| today | **Genentech** | 2027 Summer Intern - Translational Medicine, Oncology Translational Research | South San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-129224?s=gh-internships-2027) |
-| today | **Ixana** | Internship - Embedded Hardware Engineer - On-site. West Lafayette - USA | West Lafayette, IN | speedyapply | [apply](https://app.dover.io/apply/job/030b48dd-85d4-4e24-bee5-48c5005f59f0/) |
-| today | **Ixana** | Internship - Embedded Hardware Engineer FPGA Design - On-site. West Lafayette - USA | West Lafayette, IN | speedyapply | [apply](https://app.dover.io/apply/job/4a34a955-615f-4b8a-8fca-5707d23d9bb4/) |
-| today | **RTX** | Project Engineering Intern (Summer 2027) (Onsite) | CT-MIDDLETOWN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889914?s=gh-internships-2027) |
-| 1d ago | **Falcomm** | AI/ML Software Engineer Graduate Intern - AI/CAD Integration | Atlanta, GA (+1 more) | speedyapply | [apply](https://apply.workable.com/falcomm/j/41F139E6F7/) |
-| 1d ago | **Invitation Homes** | Intern. Software Engineering | Dallas, TX | speedyapply | [apply](https://invitationhomes.wd503.myworkdayjobs.com/en-US/invh/job/Dallas-TX--HQ/Intern-Software-Engineering_R5984) |
-| 1d ago | **SRI International** | Drexel University Co-op: Software Engineering | Princeton, NJ | speedyapply | [apply](https://careers-sri.icims.com/jobs/6540/drexel-university-co-op%3a-software-engineering/job) |
-| 19d ago | **The Bernard Group** | Intern - Software Engineer - Full Stack | Chanhassen, MN | speedyapply | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1c6d33f4-8e70-4489-b6b7-2f1d9ca08e81&jobId=605209) |
-| 41d ago | **Gentuity** | Test Engineer - Software & Systems Co-Op | Sudbury, MA | speedyapply | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4572599) |
-| 49d ago | **Lennar** | Intern - Software Engineering | Miami, FL | speedyapply | [apply](https://lennar.wd1.myworkdayjobs.com/en-US/early_careers/job/Miami-FL-Job-Posting-Location/Intern---Software-Engineering_R26_0000004291) |
-| 58d ago | **Lima One Capital** | Software and Systems Quality Intern | Greenville, SC | speedyapply | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4507721) |
-| 76d ago | **InfiniteQuant** | Quantitative Developer - Internship - Summer 2027 | New York City, NY | speedyapply | [apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879-quantitative-developer-internship-summer-2027?oga=true) |
-| 77d ago | **Dynamic Catholic** | Internship - Front-End UX Intern | Erlanger, KY | speedyapply | [apply](https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad) |
+| today | **Bose** | Software Engineer Co-op | US, MA - Framingham (+1 more) | Company portals | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387) |
+| today | **Daimler Truck** | Financial Planning & Data Analytics Intern | Detroit, MI US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20756?s=gh-internships-2027) |
+| today | **iCapital Network** | Data Solutions - Summer 2027 Intern | Stamford, Connecticut, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-icapitalnetwork-8945261002?s=gh-internships-2027) |
 
 ## Watched company portals
 
