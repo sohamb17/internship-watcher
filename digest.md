@@ -1,18 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-11-17 23:31 UTC · 7 new listings_
+_Updated 2026-11-18 00:01 UTC · 12 new listings_
 
-## New listings (7) — newest first
+## New listings (12) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern - Frontier Tuning | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200067781?s=gh-internships-2027) |
-| today | **Microsoft** | Security Research: PhD Internship Opportunities | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200067619?s=gh-internships-2027) |
-| today | **Amentum** | Software Programmer Intern | TN-Tullahoma | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0169775?s=gh-internships-2027) |
-| today | **Analog Devices** | Research Science Engineering Intern - Summer 2027 | US, MA, Wilmington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-analogdevices-external-R268072?s=gh-internships-2027) |
-| today | **Motorola Solutions** | Global Customer Data Management Intern (2027 Internship) | Chicago, IL, More... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70600?s=gh-internships-2027) |
-| today | **Motorola Solutions** | Summer 2027 Internship - RFIC Design Engineer | Plantation, FL, More... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70731?s=gh-internships-2027) |
-| today | **RTX** | F135 Engine Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite) | CT-EAST HARTFORD-ETC | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886311?s=gh-internships-2027) |
+| today | **Amentum** | DoD SkillBridge Intern - Engineering | TX-Houston | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175562?s=gh-internships-2027) |
+| today | **Amentum** | DoD SkillBridge Internship - Cybersecurity Software and Systems Engineer | TX-Houston | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175558?s=gh-internships-2027) |
+| today | **Attain Partners** | Data Analytics Intern | McLean, VA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/attainpartners/jobs/5485427008) |
+| today | **Pathlabs** | Software and AI Engineering Intern | Missoula, MT | vanshb03 | [apply](https://go.vansh.nyc/1BC) |
+| today | **Raptor Maps** | Software Engineer Intern | Somerville, MA | SimplifyJobs | [apply](https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a) |
+| today | **Starwood Capital Group** | Agentic Engineering Intern | NYC | SimplifyJobs | [apply](https://jobs.jobvite.com/starwoodcapitalgroup/job/okzWAfw9?nl=1&nl=1&fr=false) |
+| today | **Starwood Capital Group** | Data Intern | NYC | SimplifyJobs | [apply](https://jobs.jobvite.com/starwoodcapitalgroup/job/olEYAfwh?nl=1&nl=1&fr=false) |
+| 1d ago | **Basis Research Institute** | Research Intern | Cambridge, MA / NYC | SimplifyJobs | [apply](https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true) |
+| 1d ago | **SAS** | IoT Analytics Intern<br>Master's | Cary, NC | SimplifyJobs | [apply](https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false) |
+| 1d ago | **Texas Instruments** | Analog IC Design (AI/ML) Engineering Intern | Dallas, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-texas-instruments-25020319?s=gh-internships-2027) |
+| 1d ago | **Texas Instruments** | Systems Engineering Intern - Power | Dallas, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-texas-instruments-25016343?s=gh-internships-2027) |
+| 1d ago | **Textron** | 2027 Intern - Software Engineer (Electronic Systems) - Hunt Valley, MD | Hunt Valley, MD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afcd0cae8a9612f4e0dbd38?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
