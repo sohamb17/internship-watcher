@@ -1,16 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 21:31 UTC · 5 new listings_
+_Updated 2026-11-18 22:01 UTC · 4 new listings_
 
-## New listings (5) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Aerospace Corporation** | 2027 Software Tools and Assurance Grad Intern | El Segundo, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aero-external-R017260?s=gh-internships-2027) |
-| today | **Lightmatter** | Photonics Circuit Simulation Intern – Summer 2027 | Mountain View, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lightmatter-5479849008?s=gh-internships-2027) |
-| today | **Marketeq Digital Solutions** | AI Full Stack Internship (U.S.A) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afdf7eff170d82b396700ef?utm_campaign=1079&utm_source=git) |
-| today | **SWIVEL** | Integration Analyst Intern | San Antonio, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae10a171f9d9308370a6fc3?utm_campaign=1079&utm_source=git) |
-| — | **Arc** | Service Engineering Intern | Torrance, CA | Company portals | [apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5477182008) |
+| today | **Crusoe** | AI Applied Research PhD Intern, Summer 2027 | San Francisco, CA - US | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-crusoe-8d1d162e-7bed-44fb-aff8-6af75b62937b?s=gh-internships-2027) |
+| today | **Integra FEC** | Junior Data Scientist (Summer 2027) | Austin, Texas | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-integra-5487065008?s=gh-internships-2027) |
+| today | **Integra FEC** | PhD Research Economist (Summer 2027) | Austin, Texas | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-integra-5487092008?s=gh-internships-2027) |
+| today | **Intel** | Signal integrity AI enabling intern | US, Arizona, Phoenix | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-intel-external-JR0289302?s=gh-internships-2027) |
 
 ## Watched company portals
 
