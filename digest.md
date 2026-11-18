@@ -1,14 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 16:01 UTC · 3 new listings_
+_Updated 2026-11-18 16:31 UTC · 4 new listings_
 
-## New listings (3) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Google** | User Experience Engineer Intern, PhD, Summer 2027 | Mountain View, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa805a02ed333b4ea5ccb47?utm_campaign=1079&utm_source=git) |
-| today | **Sigma** | Software Engineering Intern (Summer 2027) | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac5a7fa0e027c0f3b3afc72?utm_campaign=1079&utm_source=git) |
-| today | **Viavi Solutions** | Robotics Intern | Bothell, WA USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005313?s=gh-internships-2027) |
+| today | **CME Group** | Quantitative Data & AI Analytics Intern - Year Round | New York | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-35061?s=gh-internships-2027) |
+| today | **RTX** | Industrial Engineering Intern - Site Transformation (Summer 2027) | MN-BURNSVILLE-WEST | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889626?s=gh-internships-2027) |
+| today | **RTX** | Reliability and Safety Engineering Co-Op (Summer/Fall 2027) - Onsite | IA-CEDAR RAPIDS | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873642?s=gh-internships-2027) |
+| today | **Sierra Nevada Corporation** | Test Engineer Intern (Summer 2027) | Sparks, NV | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031236?s=gh-internships-2027) |
 
 ## Watched company portals
 
