@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 04:01 UTC · 1 new listing_
+_Updated 2026-11-18 04:31 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **State Street** | State Street Investment Management - Data Scientist - Summer Internship 2027 | Boston, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-statestreet-global-R-801213?s=gh-internships-2027) |
+| 1d ago | **True Rx Health Strategists** | Software Engineer Intern | Washington, Indiana, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afd0b346a51d629d475af29?utm_campaign=1079&utm_source=git) |
+| — | **Birdseye Security Solutions** | Software Developer Intern | Mississauga | nointernship.com | [apply](https://go.vansh.nyc/1AZ?s=y) |
 
 ## Watched company portals
 
