@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 01:01 UTC · 1 new listing_
+_Updated 2026-11-18 01:31 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **T-Mobile** | Summer 2027 Business Intelligence Analyst Internship | New York, New York | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tmobile-external-REQ382847?s=gh-internships-2027) |
+| 1d ago | **Lightpath** | Intern - Application Developer | Bethpage, NY, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6afcdcbbe8a9612f4e0dc7d0?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Rakuten International** | Intern - Software Engineer, AI User Experience | Bellevue, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afcbe9ce8a9612f4e0db25e?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
