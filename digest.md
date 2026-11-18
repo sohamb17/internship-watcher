@@ -1,22 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 14:01 UTC · 11 new listings_
+_Updated 2026-11-18 14:31 UTC · 2 new listings_
 
-## New listings (11) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CACI International Inc** | Software Engineering Intern - Summer 2027 | Sarasota, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae9f2242b0b1eb5805b505e?utm_campaign=1079&utm_source=git) |
-| today | **Emerson** | Software Engineering Intern - ADG System R&D | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa9c3e03387a3d9b67d6b2e?utm_campaign=1079&utm_source=git) |
-| today | **JT4** | JT4 SkillBridge Program - Programmer/Computer Scientist Opportunities at Edwards AFB, CA | Las Vegas, NV, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad473e2ebd52f378af8dcc5?utm_campaign=1079&utm_source=git) |
-| today | **Lowe's Companies, Inc.** | Exploratory Software Engineering - Undergrad Internship - Summer 2027 | Charlotte, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa8ba1410b1cd4f41603b32?utm_campaign=1079&utm_source=git) |
-| today | **National Interstate Insurance** | Data Engineer Developer Intern – Summer 2027 | Cincinnati, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9919?s=gh-internships-2027) |
-| today | **Toyota Research Institute** | Robotics Intern, Prototyping and Robotics Operations | Cambridge, MA (+1 more) | Company portals | [apply](https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8) |
-| 1d ago | **CGI** | Software Developer Intern - Summer Internship Program | Lafayette, LA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afd2c60f1e9f80d47c3367f?utm_campaign=1079&utm_source=git) |
-| 1d ago | **IMT Insurance** | Software Developer Intern (C#) | West Des Moines, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeec0f59f8e479a8bcfa966?utm_campaign=1079&utm_source=git) |
-| 1d ago | **IMT Insurance** | Software Developer Intern (Python) | West Des Moines, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeec04d676e3f91d3269ac8?utm_campaign=1079&utm_source=git) |
-| 1d ago | **PT Indorama Petrochemical** | AI & Full-Stack Development Intern 2027 | Hilton Head Island, SC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afd3077af5227454a93c520?utm_campaign=1079&utm_source=git) |
-| 1d ago | **State of Wisconsin Investment Board** | Information Security Intern | Madison, WI | vanshb03 | [apply](https://go.vansh.nyc/1C9) |
+| today | **Berkshire Hathaway Energy** | Intern (System Planning & Optimization Engineer) | Glen Allen, VA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-berkshire-hathaway-energy-10005980?s=gh-internships-2027) |
+| — | **Legend Biotech** | Research & Development Intern | Somerset, New Jersey, United States | Company portals | [apply](https://job-boards.greenhouse.io/legendcareers/jobs/4755562005) |
 
 ## Watched company portals
 
