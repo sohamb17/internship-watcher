@@ -1,23 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 00:01 UTC · 12 new listings_
+_Updated 2026-11-18 00:31 UTC · 10 new listings_
 
-## New listings (12) — newest first
+## New listings (10) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Amentum** | DoD SkillBridge Intern - Engineering | TX-Houston | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175562?s=gh-internships-2027) |
-| today | **Amentum** | DoD SkillBridge Internship - Cybersecurity Software and Systems Engineer | TX-Houston | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175558?s=gh-internships-2027) |
-| today | **Attain Partners** | Data Analytics Intern | McLean, VA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/attainpartners/jobs/5485427008) |
-| today | **Pathlabs** | Software and AI Engineering Intern | Missoula, MT | vanshb03 | [apply](https://go.vansh.nyc/1BC) |
-| today | **Raptor Maps** | Software Engineer Intern | Somerville, MA | SimplifyJobs | [apply](https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a) |
-| today | **Starwood Capital Group** | Agentic Engineering Intern | NYC | SimplifyJobs | [apply](https://jobs.jobvite.com/starwoodcapitalgroup/job/okzWAfw9?nl=1&nl=1&fr=false) |
-| today | **Starwood Capital Group** | Data Intern | NYC | SimplifyJobs | [apply](https://jobs.jobvite.com/starwoodcapitalgroup/job/olEYAfwh?nl=1&nl=1&fr=false) |
-| 1d ago | **Basis Research Institute** | Research Intern | Cambridge, MA / NYC | SimplifyJobs | [apply](https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true) |
-| 1d ago | **SAS** | IoT Analytics Intern<br>Master's | Cary, NC | SimplifyJobs | [apply](https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false) |
-| 1d ago | **Texas Instruments** | Analog IC Design (AI/ML) Engineering Intern | Dallas, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-texas-instruments-25020319?s=gh-internships-2027) |
-| 1d ago | **Texas Instruments** | Systems Engineering Intern - Power | Dallas, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-texas-instruments-25016343?s=gh-internships-2027) |
-| 1d ago | **Textron** | 2027 Intern - Software Engineer (Electronic Systems) - Hunt Valley, MD | Hunt Valley, MD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afcd0cae8a9612f4e0dbd38?utm_campaign=1079&utm_source=git) |
+| today | **Microsoft** | Research Intern, Firmware Security | Redmond, WA | vanshb03 | [apply](https://go.vansh.nyc/1BR) |
+| today | **Bissell** | AI & Automation Intern | Grand Rapids, MI (+1 more) | SimplifyJobs | [apply](https://careers.bissell.com/jobs/9995?icims=1&lang=en-us) |
+| today | **Blount Fine Foods** | Manufacturing Operations Analytics Intern | Fall River, MA | SimplifyJobs | [apply](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) |
+| today | **Constellation Energy** | IT Software Developer Intern | San Diego, CA | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us) |
+| today | **Genentech** | 2027 Summer Intern - Translational Pharmacokinetics and Pharmacodynamics, Modeling and Simulation | South San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-129384?s=gh-internships-2027) |
+| today | **Paccar** | Data Scientist Intern | Denton, TX (+1 more) | SimplifyJobs | [apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors) |
+| today | **RTX** | Electical Engineer Co-op (Summer/Fall 2027)(Onsite) | TX-RICHARDSON-C17 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888660?s=gh-internships-2027) |
+| 1d ago | **SRI International** | Software Engineering Co-op | Princeton, NJ | SimplifyJobs | [apply](https://careers-sri.icims.com/jobs/6540/job?mobile=true&needsRedirect=false) |
+| 1d ago | **Warp Sciences** | Robot Learning Intern - Robotics Learning | South SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9/application?embed=true) |
+| 77d ago | **Textron** | Software Engineer Intern - Electronic Systems | Hunt Valley, Cockeysville, MD | SimplifyJobs | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688) |
 
 ## Watched company portals
 
