@@ -1,13 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 19:31 UTC · 2 new listings_
+_Updated 2026-11-18 20:01 UTC · 4 new listings_
 
-## New listings (2) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **IBM** | AI Native Hardware & Software Codesign internship 2027 | Yorktown Heights, New York, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afcba3de0cdcfc91142f017?utm_campaign=1079&utm_source=git) |
-| today | **Idaho National Laboratory** | Multitool User Interface Development Intern - Summer 2027 | Idaho Falls, ID, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afdd1fe0324c008a17e1514?utm_campaign=1079&utm_source=git) |
+| today | **Baxter International** | Co-op Engineering R&D | Skaneateles, NY | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-baxter-baxter-JR-211010?s=gh-internships-2027) |
+| today | **RTX** | Military Engines Project Engineer Intern (Summer 2027) (Onsite) | OK-OKLAHOMA CITY | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01879858?s=gh-internships-2027) |
+| today | **Syngenta Group** | Data Science Intern | Greensboro, North Carolina, United States | Company portals | [apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708) |
+| — | **Samsung** | Intern, Architecture Research Engineer (MoE Placement for Serving at Scale) | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208494003) |
 
 ## Watched company portals
 
