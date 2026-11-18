@@ -1,16 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 15:31 UTC · 5 new listings_
+_Updated 2026-11-18 16:01 UTC · 3 new listings_
 
-## New listings (5) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Cummins** | EATON - Electronic Systems Internship (ECJV) | Galesburg, MI, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-cummins-2440079?s=gh-internships-2027) |
-| today | **Eversource Energy** | 2027 Summer: GIS Engineering Intern | Berlin, CT | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032643?s=gh-internships-2027) |
-| today | **Johnson Controls** | Air Handling Application & Project Engineering Intern | York-Pennsylvania-United States... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jci-jci-WD30285140?s=gh-internships-2027) |
-| — | **DriveWealth** | AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027 | Office - Chicago; Office - NYC | Company portals | [apply](https://boards.greenhouse.io/drivewealth/jobs/8200548003?gh_jid=8200548003) |
-| — | **Mytra** | Software Engineer Intern | Brisbane, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/rippling-mytra-5e479468-c622-4d2b-8789-89fbc14f3292?s=gh-internships-2027) |
+| today | **Google** | User Experience Engineer Intern, PhD, Summer 2027 | Mountain View, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa805a02ed333b4ea5ccb47?utm_campaign=1079&utm_source=git) |
+| today | **Sigma** | Software Engineering Intern (Summer 2027) | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac5a7fa0e027c0f3b3afc72?utm_campaign=1079&utm_source=git) |
+| today | **Viavi Solutions** | Robotics Intern | Bothell, WA USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005313?s=gh-internships-2027) |
 
 ## Watched company portals
 
