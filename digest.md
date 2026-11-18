@@ -1,15 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 16:31 UTC · 4 new listings_
+_Updated 2026-11-18 17:01 UTC · 5 new listings_
 
-## New listings (4) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CME Group** | Quantitative Data & AI Analytics Intern - Year Round | New York | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-35061?s=gh-internships-2027) |
-| today | **RTX** | Industrial Engineering Intern - Site Transformation (Summer 2027) | MN-BURNSVILLE-WEST | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889626?s=gh-internships-2027) |
-| today | **RTX** | Reliability and Safety Engineering Co-Op (Summer/Fall 2027) - Onsite | IA-CEDAR RAPIDS | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873642?s=gh-internships-2027) |
-| today | **Sierra Nevada Corporation** | Test Engineer Intern (Summer 2027) | Sparks, NV | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031236?s=gh-internships-2027) |
+| today | **BAE Systems** | Technical Intern 3 | Fort Wayne, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afdbd8df170d82b3966d82a?utm_campaign=1079&utm_source=git) |
+| today | **Hubbell Incorporated** | 2027 Summer Intern: Engineering - Embedded Systems | Portsmouth, NH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af82c2186a9b19681af8066?utm_campaign=1079&utm_source=git) |
+| today | **Starkey México** | Advanced Development Intern | Eden Prairie, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afdac52cc8c7a4631ddf49c?utm_campaign=1079&utm_source=git) |
+| today | **Trimble** | QA Engineer Intern | NH, Portsmouth | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R57945?s=gh-internships-2027) |
+| — | **Anduril** | 2027 Business Systems Engineer Intern | Costa Mesa, California, United States | Company portals | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) |
 
 ## Watched company portals
 
