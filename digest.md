@@ -1,21 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 00:31 UTC · 10 new listings_
+_Updated 2026-11-18 01:01 UTC · 1 new listing_
 
-## New listings (10) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern, Firmware Security | Redmond, WA | vanshb03 | [apply](https://go.vansh.nyc/1BR) |
-| today | **Bissell** | AI & Automation Intern | Grand Rapids, MI (+1 more) | SimplifyJobs | [apply](https://careers.bissell.com/jobs/9995?icims=1&lang=en-us) |
-| today | **Blount Fine Foods** | Manufacturing Operations Analytics Intern | Fall River, MA | SimplifyJobs | [apply](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false) |
-| today | **Constellation Energy** | IT Software Developer Intern | San Diego, CA | SimplifyJobs | [apply](https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us) |
-| today | **Genentech** | 2027 Summer Intern - Translational Pharmacokinetics and Pharmacodynamics, Modeling and Simulation | South San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-129384?s=gh-internships-2027) |
-| today | **Paccar** | Data Scientist Intern | Denton, TX (+1 more) | SimplifyJobs | [apply](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors) |
-| today | **RTX** | Electical Engineer Co-op (Summer/Fall 2027)(Onsite) | TX-RICHARDSON-C17 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888660?s=gh-internships-2027) |
-| 1d ago | **SRI International** | Software Engineering Co-op | Princeton, NJ | SimplifyJobs | [apply](https://careers-sri.icims.com/jobs/6540/job?mobile=true&needsRedirect=false) |
-| 1d ago | **Warp Sciences** | Robot Learning Intern - Robotics Learning | South SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/warp-sciences/addb09af-18ab-4aa1-a7b5-861f8485e9a9/application?embed=true) |
-| 77d ago | **Textron** | Software Engineer Intern - Electronic Systems | Hunt Valley, Cockeysville, MD | SimplifyJobs | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688) |
+| today | **T-Mobile** | Summer 2027 Business Intelligence Analyst Internship | New York, New York | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tmobile-external-REQ382847?s=gh-internships-2027) |
 
 ## Watched company portals
 
