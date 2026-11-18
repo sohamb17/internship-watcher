@@ -1,15 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 22:01 UTC · 4 new listings_
+_Updated 2026-11-18 22:32 UTC · 3 new listings_
 
-## New listings (4) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Crusoe** | AI Applied Research PhD Intern, Summer 2027 | San Francisco, CA - US | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-crusoe-8d1d162e-7bed-44fb-aff8-6af75b62937b?s=gh-internships-2027) |
-| today | **Integra FEC** | Junior Data Scientist (Summer 2027) | Austin, Texas | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-integra-5487065008?s=gh-internships-2027) |
-| today | **Integra FEC** | PhD Research Economist (Summer 2027) | Austin, Texas | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-integra-5487092008?s=gh-internships-2027) |
-| today | **Intel** | Signal integrity AI enabling intern | US, Arizona, Phoenix | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-intel-external-JR0289302?s=gh-internships-2027) |
+| today | **Microsoft** | Research Intern - Data Center and AI Networking | Mountain View, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200067920?s=gh-internships-2027) |
+| today | **Carrier Global** | General Engineering Intern - Summer | CAI31: ALC - Indiana, 117 North... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-carrier-jobs-30222053?s=gh-internships-2027) |
+| today | **Mercury Systems** | 2027 Information & Engineering Systems Intern | Andover, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abd67414ac55253f5d5d3de?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
