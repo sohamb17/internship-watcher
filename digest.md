@@ -1,8 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 06:31 UTC · 0 new listings_
+_Updated 2026-11-18 07:01 UTC · 4 new listings_
 
-Nothing new this run.
+## New listings (4) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **CGI** | Software Developer Intern - Summer Internship Program | Lafayette, LA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afd2c60f1e9f80d47c3367f?utm_campaign=1079&utm_source=git) |
+| 1d ago | **IMT Insurance** | Software Developer Intern (C#) | West Des Moines, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeec0f59f8e479a8bcfa966?utm_campaign=1079&utm_source=git) |
+| 1d ago | **IMT Insurance** | Software Developer Intern (Python) | West Des Moines, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aeec04d676e3f91d3269ac8?utm_campaign=1079&utm_source=git) |
+| 1d ago | **PT Indorama Petrochemical** | AI & Full-Stack Development Intern 2027 | Hilton Head Island, SC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afd3077af5227454a93c520?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
