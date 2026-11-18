@@ -1,14 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 21:01 UTC · 3 new listings_
+_Updated 2026-11-18 21:31 UTC · 5 new listings_
 
-## New listings (3) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bose** | Software Engineer Co-op | US, MA - Framingham (+1 more) | Company portals | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387) |
-| today | **Daimler Truck** | Financial Planning & Data Analytics Intern | Detroit, MI US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20756?s=gh-internships-2027) |
-| today | **iCapital Network** | Data Solutions - Summer 2027 Intern | Stamford, Connecticut, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-icapitalnetwork-8945261002?s=gh-internships-2027) |
+| today | **Aerospace Corporation** | 2027 Software Tools and Assurance Grad Intern | El Segundo, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aero-external-R017260?s=gh-internships-2027) |
+| today | **Lightmatter** | Photonics Circuit Simulation Intern – Summer 2027 | Mountain View, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lightmatter-5479849008?s=gh-internships-2027) |
+| today | **Marketeq Digital Solutions** | AI Full Stack Internship (U.S.A) | Miami, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afdf7eff170d82b396700ef?utm_campaign=1079&utm_source=git) |
+| today | **SWIVEL** | Integration Analyst Intern | San Antonio, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae10a171f9d9308370a6fc3?utm_campaign=1079&utm_source=git) |
+| — | **Arc** | Service Engineering Intern | Torrance, CA | Company portals | [apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5477182008) |
 
 ## Watched company portals
 
