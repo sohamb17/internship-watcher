@@ -582,6 +582,20 @@
 "sk": "jobright:6ad473e2ebd52f378af8dcc5",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6ad473e2ebd52f378af8dcc5?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "Lowe's Companies, Inc.",
+"degrees": [],
+"dk": "lowescompanies|engineering exploratory software",
+"found": 20775,
+"loc": "Charlotte, NC, United States",
+"more": null,
+"night": true,
+"posted": 20775,
+"role": "Exploratory Software Engineering - Undergrad Internship - Summer 2027",
+"sk": "jobright:6aa8ba1410b1cd4f41603b32",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6aa8ba1410b1cd4f41603b32?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -4509,6 +4523,7 @@
 "louisianaeconomicdevelopment|crewed engineer la land slidell software": 20761,
 "lowescompanies|assurance engineering quality": 20768,
 "lowescompanies|engineer software": 20775,
+"lowescompanies|engineering exploratory software": 20775,
 "lowes|engineer exploratory software": 20775,
 "lowes|engineer software": 20775,
 "lowes|facilities operations retail store support": 20775,
@@ -11371,6 +11386,7 @@
 "jobright:6aa8aabe3387a3d9b67d243b": 20771,
 "jobright:6aa8b51d17ddad6a8a47cd5c": 20770,
 "jobright:6aa8b7af83a6750b1adf9d85": 20768,
+"jobright:6aa8ba1410b1cd4f41603b32": 20775,
 "jobright:6aa95da028e24cb38513a038": 20769,
 "jobright:6aa9a81b28e24cb38513b47d": 20768,
 "jobright:6aa9b7033387a3d9b67d646f": 20769,
