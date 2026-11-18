@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 02:01 UTC · 2 new listings_
+_Updated 2026-11-18 02:31 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Amgen** | Grad Intern – Protein Engineering (Summer 2027) | California - Thousand Oaks | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-amgen-careers-R-261826?s=gh-internships-2027) |
-| today | **Bosch** | Robot Learning Research Intern | Pittsburgh, PA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000162212029) |
+| today | **State Street** | Data Scientist Intern | Boston, MA | vanshb03 | [apply](https://go.vansh.nyc/1C1) |
 
 ## Watched company portals
 
