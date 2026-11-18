@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 14:31 UTC · 2 new listings_
+_Updated 2026-11-18 15:01 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Berkshire Hathaway Energy** | Intern (System Planning & Optimization Engineer) | Glen Allen, VA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-berkshire-hathaway-energy-10005980?s=gh-internships-2027) |
-| — | **Legend Biotech** | Research & Development Intern | Somerset, New Jersey, United States | Company portals | [apply](https://job-boards.greenhouse.io/legendcareers/jobs/4755562005) |
+| today | **Micron Technology** | Intern - Yield Enhancement  Engineer | Boise, ID - ID1 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-micron-external-JR114471?s=gh-internships-2027) |
 
 ## Watched company portals
 
