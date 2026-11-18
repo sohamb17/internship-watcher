@@ -1,13 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 17:31 UTC · 2 new listings_
+_Updated 2026-11-18 18:01 UTC · 3 new listings_
 
-## New listings (2) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CrowdStrike** | Product Engineering Intern - Falcon Guardian | Sunnyvale, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30622?s=gh-internships-2027) |
-| today | **General Atomics** | Intern - Research & Development | Poway, California | zapplyjobs | [apply](https://zapply.jobs/l/d/brassring-general-atomics-5238167?s=gh-internships-2027) |
+| today | **Airbus** | 2027 Summer Internship - Quality Assurance Engineering | Kinston, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa868cb654b2a9424cfca6c?utm_campaign=1079&utm_source=git) |
+| today | **LCRA** | Software Applications Development Intern (Summer 2027) | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae1277bde23f466ec8bcbd6?utm_campaign=1079&utm_source=git) |
+| today | **Power Device Corporation** | Engineering Intern - Software | Poway, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afdcf258cffea7c97c8cfd0?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
