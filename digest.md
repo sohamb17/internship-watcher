@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 05:01 UTC · 1 new listing_
+_Updated 2026-11-18 05:31 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| — | **Airbnb** | Software Engineering Intern (BS/MS) | San Francisco, California | Company portals | [apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
+| 1d ago | **Oakridge** | Software Engineering Intern for OAKRIDGE HOLDINGS the parent company of danieldeboulay.com & phonesheet.org | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afd1f47661724f2a358be9b?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
