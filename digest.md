@@ -1,14 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 22:32 UTC · 3 new listings_
+_Updated 2026-11-18 23:01 UTC · 8 new listings_
 
-## New listings (3) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern - Data Center and AI Networking | Mountain View, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200067920?s=gh-internships-2027) |
-| today | **Carrier Global** | General Engineering Intern - Summer | CAI31: ALC - Indiana, 117 North... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-carrier-jobs-30222053?s=gh-internships-2027) |
-| today | **Mercury Systems** | 2027 Information & Engineering Systems Intern | Andover, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abd67414ac55253f5d5d3de?utm_campaign=1079&utm_source=git) |
+| today | **Microsoft** | Research Intern - Computer Vision and Deep Learning | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200067940?s=gh-internships-2027) |
+| today | **Bloom Energy** | Commercial Business Intelligence Intern | San Jose, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25464?s=gh-internships-2027) |
+| today | **Nike** | NIKE Inc. Nike Sports Research Lab, Innovation, Researcher Graduate Internship | Beaverton, Oregon | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nike-nke-R-97644?s=gh-internships-2027) |
+| today | **Vibrantz Technologies** | Applied AI & Automation Intern | Houston, TX | vanshb03 | [apply](https://go.vansh.nyc/1Ct) |
+| — | **Samsung** | Intern, Architecture Research Engineer (Agentic AI Workload Characterization) | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003) |
+| — | **Samsung** | Intern, Architecture Research Engineer (Resilient Collective Communications) | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8207759003) |
+| — | **Samsung** | Intern, LLM Inference Acceleration Architecture (Distributed Memory-Centric Accelerators) | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208641003) |
+| — | **Samsung** | Intern, SSD Firmware Engineer | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) |
 
 ## Watched company portals
 
