@@ -1,15 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 18:31 UTC · 4 new listings_
+_Updated 2026-11-18 19:01 UTC · 0 new listings_
 
-## New listings (4) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern - Self-Improving & Secure AI Agents - Microsoft Research | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200067811?s=gh-internships-2027) |
-| today | **AstraZeneca** | Portfolio, Capacity & AI-Enabled Business Operations Intern | Gaithersburg - MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264635?s=gh-internships-2027) |
-| today | **General Atomics** | Intern - Spacecraft Test Engineering | Centennial, Colorado | zapplyjobs | [apply](https://zapply.jobs/l/d/brassring-general-atomics-5238040?s=gh-internships-2027) |
-| today | **RTX** | Senior Software Security Intern (Summer 2027) | IA-CEDAR RAPIDS | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890095?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
