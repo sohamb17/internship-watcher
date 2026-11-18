@@ -1,16 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 17:01 UTC · 5 new listings_
+_Updated 2026-11-18 17:22 UTC · 2 new listings_
 
-## New listings (5) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **BAE Systems** | Technical Intern 3 | Fort Wayne, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afdbd8df170d82b3966d82a?utm_campaign=1079&utm_source=git) |
-| today | **Hubbell Incorporated** | 2027 Summer Intern: Engineering - Embedded Systems | Portsmouth, NH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af82c2186a9b19681af8066?utm_campaign=1079&utm_source=git) |
-| today | **Starkey México** | Advanced Development Intern | Eden Prairie, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afdac52cc8c7a4631ddf49c?utm_campaign=1079&utm_source=git) |
-| today | **Trimble** | QA Engineer Intern | NH, Portsmouth | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R57945?s=gh-internships-2027) |
-| — | **Anduril** | 2027 Business Systems Engineer Intern | Costa Mesa, California, United States | Company portals | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) |
+| today | **Bristol Myers Squibb** | Data Science Intern (Undergrad)-Summer 2027 | Remote - United States - US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608665?s=gh-internships-2027) |
+| today | **Veolia Environnement SA** | Instrumentation & Equipment Engineering Intern | Cary, NC | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000162356599?s=gh-internships-2027) |
 
 ## Watched company portals
 
