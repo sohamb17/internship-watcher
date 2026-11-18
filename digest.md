@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 04:31 UTC · 2 new listings_
+_Updated 2026-11-18 05:01 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **True Rx Health Strategists** | Software Engineer Intern | Washington, Indiana, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afd0b346a51d629d475af29?utm_campaign=1079&utm_source=git) |
-| — | **Birdseye Security Solutions** | Software Developer Intern | Mississauga | nointernship.com | [apply](https://go.vansh.nyc/1AZ?s=y) |
+| — | **Airbnb** | Software Engineering Intern (BS/MS) | San Francisco, California | Company portals | [apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 
 ## Watched company portals
 
