@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 15:01 UTC · 2 new listings_
+_Updated 2026-11-19 15:31 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Fintech** | .Net Engineer Intern | Tampa, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6acfeb7f2cc4e9d17e90b3c4?utm_campaign=1079&utm_source=git) |
-| today | **Horizon Lane** | Firmware Engineering Intern | Mequon, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afef915aea17e3f50eac60b?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
