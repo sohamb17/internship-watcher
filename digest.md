@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 21:01 UTC · 1 new listing_
+_Updated 2026-11-19 21:31 UTC · 3 new listings_
 
-## New listings (1) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **DraftKings** | Data Engineer Intern (Summer 2027) | Boston, MA | Company portals | [apply](https://draftkings.wd1.myworkdayjobs.com/en-US/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464) |
+| today | **Idaho National Laboratory** | Software Engineering Intern, Java/API Development for Neutronics Code | Idaho Falls, ID | vanshb03 | [apply](https://go.vansh.nyc/1D6) |
+| today | **Piper Sandler** | Data Engineering Intern | Minneapolis, MN | vanshb03 | [apply](https://go.vansh.nyc/1D8) |
+| today | **VertoTech** | Software Engineering Intern | Rochester, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff503e97dcc4fc8dcaae0b?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
