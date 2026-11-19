@@ -1,14 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 03:01 UTC · 3 new listings_
+_Updated 2026-11-19 03:31 UTC · 2 new listings_
 
-## New listings (3) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Elevated Web Design** | React Software Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe4bb6f170d82b3967325d?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Trek Bicycle** | AI QA Engineer Internship | Waterloo, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe369e758942b6422b8874?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Trek Bicycle** | Mobile QA Engineer Internship | Waterloo, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe369cf170d82b39672875?utm_campaign=1079&utm_source=git) |
+| today | **Meta** | Research Scientist Intern - Physics-Grounded Multimodal Robot Learning | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/994911809842621) |
+| — | **Google** | People Analytics Intern | San Francisco, Chicago, Mountain View, Atlanta | nointernship.com | [apply](https://www.google.com/about/careers/applications/jobs/results/81809776362562246) |
 
 ## Watched company portals
 
