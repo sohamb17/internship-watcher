@@ -1,15 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 16:01 UTC · 4 new listings_
+_Updated 2026-11-19 16:31 UTC · 1 new listing_
 
-## New listings (4) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **BeamSphere** | Firmware Engineering Intern | Milwaukee, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff055ec1c02a9acd807db3?utm_campaign=1079&utm_source=git) |
-| today | **Federal Home Loan Bank of Chicago** | Summer Internship - Application Development | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa9936010b1cd4f41606ac1?utm_campaign=1079&utm_source=git) |
-| today | **Scout Space** | Computer Vision Engineer Intern - AI/ML | Reston, VA (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489231008) |
-| today | **Space Dynamics Laboratory** | Software Engineering Assistant Intern | Logan, UT | SimplifyJobs | [apply](https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant) |
+| today | **Atlantic Health System** | Pharmacy Intern - Data Analytics<br>Incomplete | Morristown, NJ | SimplifyJobs | [apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
 
 ## Watched company portals
 
