@@ -1,13 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-18 23:31 UTC · 2 new listings_
+_Updated 2026-11-19 00:01 UTC · 3 new listings_
 
-## New listings (2) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern - AI Software Systems | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200067972?s=gh-internships-2027) |
-| today | **Intuitive Surgical** | Learning Experience Research Intern | Sunnyvale, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Intuitive/744000162406479) |
+| today | **Camping World** | Junior AI Engineering Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1CA) |
+| today | **Sheetz** | Business Intelligence Analytics Intern | Pittsburgh, PA | SimplifyJobs | [apply](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us) |
+| today | **Toyota Research Institute** | Robotics Intern, Generalist Robot Learning (GRL) | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943) |
 
 ## Watched company portals
 
