@@ -1,14 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 00:01 UTC · 3 new listings_
+_Updated 2026-11-19 00:31 UTC · 5 new listings_
 
-## New listings (3) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Camping World** | Junior AI Engineering Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1CA) |
-| today | **Sheetz** | Business Intelligence Analytics Intern | Pittsburgh, PA | SimplifyJobs | [apply](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us) |
-| today | **Toyota Research Institute** | Robotics Intern, Generalist Robot Learning (GRL) | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943) |
+| today | **Goldman Sachs** | Summer Analyst Intern - Multiple Teams | Albany, NY | SimplifyJobs | [apply](https://higher.gs.com/roles/189373?type=students) |
+| today | **KLA** | Software Applications Engineering Intern | Milpitas, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-kla-search-2642337?s=gh-internships-2027) |
+| today | **T-Mobile** | Summer 2027 Corporate Development Internship | Bellevue, Washington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tmobile-external-REQ381316?s=gh-internships-2027) |
+| 1d ago | **HERE Technologies** | Data Science Intern | Chicago, IL (+1 more) | SimplifyJobs | [apply](https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false) |
+| 1d ago | **HERE Technologies** | Software Engineer Intern | Chicago, IL (+1 more) | SimplifyJobs | [apply](https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false) |
 
 ## Watched company portals
 
