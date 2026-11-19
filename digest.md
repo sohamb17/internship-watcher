@@ -1,16 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 00:31 UTC · 5 new listings_
+_Updated 2026-11-19 00:32 UTC · 0 new listings_
 
-## New listings (5) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Goldman Sachs** | Summer Analyst Intern - Multiple Teams | Albany, NY | SimplifyJobs | [apply](https://higher.gs.com/roles/189373?type=students) |
-| today | **KLA** | Software Applications Engineering Intern | Milpitas, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-kla-search-2642337?s=gh-internships-2027) |
-| today | **T-Mobile** | Summer 2027 Corporate Development Internship | Bellevue, Washington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tmobile-external-REQ381316?s=gh-internships-2027) |
-| 1d ago | **HERE Technologies** | Data Science Intern | Chicago, IL (+1 more) | SimplifyJobs | [apply](https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false) |
-| 1d ago | **HERE Technologies** | Software Engineer Intern | Chicago, IL (+1 more) | SimplifyJobs | [apply](https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false) |
+Nothing new this run.
 
 ## Watched company portals
 
