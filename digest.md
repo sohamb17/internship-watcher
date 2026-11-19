@@ -1,8 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 18:01 UTC · 0 new listings_
+_Updated 2026-11-19 18:31 UTC · 7 new listings_
 
-Nothing new this run.
+## New listings (7) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Commonwealth of Kentucky** | Team Kentucky Internship Program - Public Protection - Office of Information Technology | Frankfort, KY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff1e7897dcc4fc8dca8ccd?utm_campaign=1079&utm_source=git) |
+| today | **HII** | 2027 COLLEGE SUMMER INTERN-COMPUTER ENGINEERING | Pascagoula, MS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af54c3b3a9a26aee70a40fe?utm_campaign=1079&utm_source=git) |
+| today | **Kentucky Department of Education** | Team Kentucky Internship Program - Public Protection - Office of Information Technology | Frankfort, KY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff1e7c72b9be368528e8b1?utm_campaign=1079&utm_source=git) |
+| today | **Textron Aviation** | 2027 Intern - Software Enginer (Sea Systems) - Hunt Valley, MD | Hunt Valley, MD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff1d02aea17e3f50ead5e7?utm_campaign=1079&utm_source=git) |
+| 1d ago | **PCG** | IT Software Development Intern | Lenexa, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff1c0f97dcc4fc8dca8a6d?utm_campaign=1079&utm_source=git) |
+| 1d ago | **RTX** | Software Security Intern (Summer 2027) | Cedar Rapids, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff245aaea17e3f50eadae3?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Volvo Group** | Intern: Software (Summer 2027) | Shippensburg, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff277e1c42ea8f6b9fda3c?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
