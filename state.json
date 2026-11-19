@@ -512,6 +512,20 @@
 "sk": "jobright:6abd7779372c01f6cd720a1e",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6abd7779372c01f6cd720a1e?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "MakerMaker",
+"degrees": [],
+"dk": "makermaker|research",
+"found": 20776,
+"loc": "SF",
+"more": null,
+"night": true,
+"posted": 20776,
+"role": "Research Intern",
+"sk": "257fb63b-2043-4128-8ca6-1ccc68542d8c",
+"src": "simplify",
+"url": "https://jobs.ashbyhq.com/makermaker.ai/735488d9-37de-4e54-bc13-a4705e200583/application?embed=true"
 }
 ],
 "roles": {
@@ -4567,6 +4581,7 @@
 "maincode|ai research residency": 20767,
 "majorleaguebaseball|analyst domestic fellow scouting": 20776,
 "majorleaguebaseball|data science": 20776,
+"makermaker|research": 20776,
 "manhattanassociates|boston developer i ma": 20776,
 "manhattanassociates|career consultant early technology": 20769,
 "manhattanassociates|developer i": 20759,
@@ -6434,7 +6449,7 @@
 "semgrep|engineer software": 20776,
 "semianalysis|data engineer": 20776,
 "semtech|application cloud developer software web": 20759,
-"sentientdigital|engineer software": 20761,
+"sentientdigital|engineer software": 20776,
 "sephora|ai analytics distribution": 20776,
 "sephora|ai automation dc systems wms": 20776,
 "sephora|ai infrastructure platform technology": 20776,
@@ -12752,7 +12767,8 @@
 "jobright:6afe4fb6f170d82b39673381": 20776,
 "jobright:6afe511ef3e7976cc610dca9": 20776,
 "jobright:6afe5a96f3e7976cc610df2a": 20776,
-"jobright:6afe6840f170d82b39673ac5": 20776
+"jobright:6afe6840f170d82b39673ac5": 20776,
+"jobright:6afe9e5e959c7033f184c4b6": 20776
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -13674,6 +13690,7 @@
 "2507d753-2e29-4433-be1b-355a19295f16": 20776,
 "25230324-75c3-45fd-95c9-96e3284c06d4": 20775,
 "2565907b-9dfe-4eb9-8edf-80ae650ac2ad": 20764,
+"257fb63b-2043-4128-8ca6-1ccc68542d8c": 20776,
 "259771bc-cf8a-4462-b7eb-ec07d2ea3cbe": 20776,
 "2599beb7-cad8-4b9b-9020-7baf41143bfb": 20776,
 "25e34297-e8b4-4e9c-8141-ab4dfc4fac2c": 20774,
