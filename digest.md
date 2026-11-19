@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 16:31 UTC · 1 new listing_
+_Updated 2026-11-19 17:02 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Atlantic Health System** | Pharmacy Intern - Data Analytics<br>Incomplete | Morristown, NJ | SimplifyJobs | [apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
+Nothing new this run.
 
 ## Watched company portals
 
