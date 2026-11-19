@@ -1,14 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 02:01 UTC · 3 new listings_
+_Updated 2026-11-19 02:31 UTC · 0 new listings_
 
-## New listings (3) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 1d ago | **Sage** | Software Engineering Intern | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe3bba758942b6422b8ae7?utm_campaign=1079&utm_source=git) |
-| 1d ago | **The Church of Jesus Christ of Latter-day Saints** | Email Developer Intern | Salt Lake City, UT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe3d06758942b6422b8b8d?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Valeris** | Software Engineer Intern | Louisville, KY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe069d758942b6422b69f4?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
