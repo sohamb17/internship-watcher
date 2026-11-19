@@ -526,6 +526,22 @@
 "sk": "257fb63b-2043-4128-8ca6-1ccc68542d8c",
 "src": "simplify",
 "url": "https://jobs.ashbyhq.com/makermaker.ai/735488d9-37de-4e54-bc13-a4705e200583/application?embed=true"
+},
+{
+"company": "Edison International",
+"degrees": [
+"Bachelor's"
+],
+"dk": "edisoninternational|multiple teams",
+"found": 20776,
+"loc": "Santa Ana, CA / Fullerton, CA / Irvine, CA / Westminster, CA",
+"more": null,
+"night": true,
+"posted": 20697,
+"role": "Intern - Multiple Teams",
+"sk": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
+"src": "simplify",
+"url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors"
 }
 ],
 "roles": {
@@ -2648,6 +2664,7 @@
 "edisoninternational|analytics applied data math science": 20776,
 "edisoninternational|computer science": 20771,
 "edisoninternational|data engineering software": 20776,
+"edisoninternational|multiple teams": 20776,
 "ehc|data management": 20776,
 "ehc|it security": 20776,
 "eightfoldai|developer software": 20768,
@@ -12768,7 +12785,8 @@
 "jobright:6afe511ef3e7976cc610dca9": 20776,
 "jobright:6afe5a96f3e7976cc610df2a": 20776,
 "jobright:6afe6840f170d82b39673ac5": 20776,
-"jobright:6afe9e5e959c7033f184c4b6": 20776
+"jobright:6afe9e5e959c7033f184c4b6": 20776,
+"jobright:6afea4a121364a3788bcf256": 20776
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -14715,6 +14733,7 @@
 "770d0c2e-5cd5-4716-b307-3db3d3f8e1ce": 20776,
 "77126d0e-4cb6-4a91-a879-83b75744b445": 20776,
 "77127d50-fe05-4069-a053-a1d3aed35a10": 20776,
+"77203ce5-b7d4-43d5-a610-f97e1ddee542": 20776,
 "772bc79c-99f8-434b-b3f8-c449513885d4": 20769,
 "778c7809-1093-4a0c-b72e-bda6dcae46f0": 20759,
 "77c8e346-3780-4747-992a-a0692af4336d": 20776,

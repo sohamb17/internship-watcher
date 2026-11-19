@@ -1,13 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 10:31 UTC · 2 new listings_
+_Updated 2026-11-19 11:01 UTC · 3 new listings_
 
-## New listings (2) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **MakerMaker** | Research Intern | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/makermaker.ai/735488d9-37de-4e54-bc13-a4705e200583/application?embed=true) |
 | 1d ago | **MetLife** | METx Global Technology Intern | Cary, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abd7779372c01f6cd720a1e?utm_campaign=1079&utm_source=git) |
+| 79d ago | **Edison International** | Intern - Multiple Teams | Santa Ana, CA / Fullerton, CA / Irvine, CA / Westminster, CA | SimplifyJobs | [apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors) |
 
 ## Watched company portals
 
