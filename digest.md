@@ -1,15 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 14:02 UTC · 4 new listings_
+_Updated 2026-11-19 14:31 UTC · 1 new listing_
 
-## New listings (4) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **KLA** | Software Application Engineer Intern | Austin, TX | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-kla-search-2643260?s=gh-internships-2027) |
-| today | **MakerMaker** | Research Intern | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/makermaker.ai/735488d9-37de-4e54-bc13-a4705e200583/application?embed=true) |
-| 1d ago | **MetLife** | METx Global Technology Intern | Cary, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abd7779372c01f6cd720a1e?utm_campaign=1079&utm_source=git) |
-| 79d ago | **Edison International** | Intern - Multiple Teams | Santa Ana, CA / Fullerton, CA / Irvine, CA / Westminster, CA | SimplifyJobs | [apply](https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors) |
+| — | **MongoDB** | 2027 - AI and People Transformation Intern, NYC | New York City | Company portals | [apply](https://www.mongodb.com/careers/job/?gh_jid=8346138) |
 
 ## Watched company portals
 
