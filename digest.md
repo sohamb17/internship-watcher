@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 00:32 UTC · 0 new listings_
+_Updated 2026-11-19 01:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **The Aerospace Corporation** | 2027 Software Tools and Assurance Grad Intern | El Segundo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe1b75758942b6422b760e?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
