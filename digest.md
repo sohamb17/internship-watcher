@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 04:31 UTC · 1 new listing_
+_Updated 2026-11-19 05:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **LabCorp** | Intern - Bioinformatics Scientist | Westborough, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-labcorp-external-2638415?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
