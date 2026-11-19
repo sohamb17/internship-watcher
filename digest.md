@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 20:49 UTC · 0 new listings_
+_Updated 2026-11-19 21:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **DraftKings** | Data Engineer Intern (Summer 2027) | Boston, MA | Company portals | [apply](https://draftkings.wd1.myworkdayjobs.com/en-US/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464) |
 
 ## Watched company portals
 
