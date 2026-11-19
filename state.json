@@ -542,6 +542,20 @@
 "sk": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
 "src": "simplify",
 "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors"
+},
+{
+"company": "KLA",
+"degrees": [],
+"dk": "kla|application engineer software",
+"found": 20776,
+"loc": "Austin, TX",
+"more": null,
+"night": true,
+"posted": 20776,
+"role": "Software Application Engineer Intern",
+"sk": "https://zapply.jobs/l/d/workday-kla-search-2643260",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/workday-kla-search-2643260?s=gh-internships-2027"
 }
 ],
 "roles": {
@@ -4296,6 +4310,7 @@
 "kla|algorithm engineering": 20776,
 "kla|analytics bi plm": 20760,
 "kla|analytics business intelligence plm": 20760,
+"kla|application engineer software": 20776,
 "kla|applications bbp development engineering": 20773,
 "kla|applications development engineer": 20776,
 "kla|applications engineer": 20776,
@@ -21172,6 +21187,7 @@
 "https://zapply.jobs/l/d/workday-kla-search-2642721": 20760,
 "https://zapply.jobs/l/d/workday-kla-search-2642826": 20776,
 "https://zapply.jobs/l/d/workday-kla-search-2642954": 20770,
+"https://zapply.jobs/l/d/workday-kla-search-2643260": 20776,
 "https://zapply.jobs/l/d/workday-labcorp-external-2632739": 20759,
 "https://zapply.jobs/l/d/workday-labcorp-external-2638415": 20776,
 "https://zapply.jobs/l/d/workday-labcorp-external-2639083": 20760,
