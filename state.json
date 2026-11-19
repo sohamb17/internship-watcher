@@ -498,7 +498,22 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20775,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20776
 },
-"held": [],
+"held": [
+{
+"company": "MetLife",
+"degrees": [],
+"dk": "metlife|global metx technology",
+"found": 20776,
+"loc": "Cary, NC, United States",
+"more": null,
+"night": true,
+"posted": 20775,
+"role": "METx Global Technology Intern",
+"sk": "jobright:6abd7779372c01f6cd720a1e",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6abd7779372c01f6cd720a1e?utm_campaign=1079&utm_source=git"
+}
+],
 "roles": {
 "10a|engineering fellow": 20776,
 "1password|brokering credential developer": 20759,
@@ -1565,7 +1580,7 @@
 "boozallenhamilton|data games ny rome scientist": 20762,
 "boozallenhamilton|data scientist": 20776,
 "boozallenhamilton|dayton developer games oh software": 20775,
-"boozallenhamilton|design engineer verification": 20775,
+"boozallenhamilton|design engineer verification": 20776,
 "boozallenhamilton|developer games hi honolulu software": 20771,
 "boozallenhamilton|developer games lexington ma software": 20775,
 "boozallenhamilton|developer games mclean software va": 20776,
@@ -4796,6 +4811,7 @@
 "meta|research scientist search": 20776,
 "metecs|software": 20776,
 "metlife|analytics data": 20776,
+"metlife|global metx technology": 20776,
 "metlife|global technology": 20776,
 "metovafederal|ai": 20776,
 "metropolitantransportationauthority|analysis emerging modeling ridership talent": 20759,
@@ -11559,6 +11575,7 @@
 "jobright:6abd52034ac55253f5d5cc5d": 20770,
 "jobright:6abd58750e027c0f3b3952ab": 20760,
 "jobright:6abd67414ac55253f5d5d3de": 20776,
+"jobright:6abd7779372c01f6cd720a1e": 20776,
 "jobright:6abd838ed9621c5b2838cba4": 20770,
 "jobright:6abd9835372c01f6cd7216ce": 20760,
 "jobright:6abda42cd9621c5b2838d48c": 20760,
@@ -20678,7 +20695,7 @@
 "https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252345": 20768,
 "https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252403": 20762,
 "https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252406": 20770,
-"https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252482": 20775,
+"https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252482": 20776,
 "https://zapply.jobs/l/d/workday-bah-bah-jobs-R0252783": 20773,
 "https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253024": 20767,
 "https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253124": 20770,

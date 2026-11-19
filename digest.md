@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 06:01 UTC · 0 new listings_
+_Updated 2026-11-19 06:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **MetLife** | METx Global Technology Intern | Cary, NC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6abd7779372c01f6cd720a1e?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
