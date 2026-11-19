@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 22:31 UTC · 2 new listings_
+_Updated 2026-11-19 23:01 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Uplinq** | Software Engineer Intern - ASU | Scottsdale, AZ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff6397c1c02a9acd80b868?utm_campaign=1079&utm_source=git) |
-| — | **USAFacts** | Data Storytelling Intern | Bellevue, WA | Company portals | [apply](https://job-boards.greenhouse.io/usafacts/jobs/4486674009) |
+| today | **HeartFlow** | Platform Engineering Intern | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1Ds) |
 
 ## Watched company portals
 
