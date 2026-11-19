@@ -1,19 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 22:01 UTC · 8 new listings_
+_Updated 2026-11-19 22:31 UTC · 2 new listings_
 
-## New listings (8) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Snowflake** | Software Engineer Intern (AI / ML) - Summer 2027 | US-CA-Menlo Park | Company portals | [apply](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907) |
-| today | **Snowflake** | Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 | US-CA-Menlo Park | Company portals | [apply](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897) |
-| today | **Snowflake** | Software Engineer Intern (Database Engineering) - Summer 2027 | US-CA-Menlo Park | Company portals | [apply](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d) |
-| today | **Lutron** | Data Engineering Intern | Philadelphia, PA (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1Dk) |
-| today | **Lutron** | Data Science and Machine Learning Intern | Philadelphia, PA (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1Dl) |
-| today | **Lutron** | Embedded Firmware Engineering Intern | Boston, MA (+2 more) | vanshb03 | [apply](https://go.vansh.nyc/1Db) |
-| today | **Lutron** | Embedded Software Engineering Intern | Cincinnati, OH | vanshb03 | [apply](https://go.vansh.nyc/1De) |
-| today | **Lutron** | Software Engineering Intern | Coopersburg, PA (+4 more) | vanshb03 | [apply](https://go.vansh.nyc/1Df) |
+| today | **Uplinq** | Software Engineer Intern - ASU | Scottsdale, AZ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff6397c1c02a9acd80b868?utm_campaign=1079&utm_source=git) |
+| — | **USAFacts** | Data Storytelling Intern | Bellevue, WA | Company portals | [apply](https://job-boards.greenhouse.io/usafacts/jobs/4486674009) |
 
 ## Watched company portals
 
