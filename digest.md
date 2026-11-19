@@ -1,8 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 02:31 UTC · 0 new listings_
+_Updated 2026-11-19 03:01 UTC · 3 new listings_
 
-Nothing new this run.
+## New listings (3) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Elevated Web Design** | React Software Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe4bb6f170d82b3967325d?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Trek Bicycle** | AI QA Engineer Internship | Waterloo, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe369e758942b6422b8874?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Trek Bicycle** | Mobile QA Engineer Internship | Waterloo, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe369cf170d82b39672875?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
