@@ -1,14 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 19:01 UTC · 3 new listings_
+_Updated 2026-11-19 19:31 UTC · 5 new listings_
 
-## New listings (3) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Amperity** | Software Development Engineer Intern | Seattle, WA | vanshb03 | [apply](https://go.vansh.nyc/1CY) |
-| today | **Carnival Corporation** | BI Report Developer Intern, Crew Operations | Seattle, WA | vanshb03 | [apply](https://go.vansh.nyc/1CV) |
-| today | **Ralliant** | Software Engineering Intern | Beaverton, OR | vanshb03 | [apply](https://go.vansh.nyc/1CW) |
+| today | **Dassault Systèmes** | INTERNSHIP - CFD QA Software Engineer | Waltham, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae240be829a3bada1602e61?utm_campaign=1079&utm_source=git) |
+| today | **Honeywell Technologies** | Software Engineer & Computer Science - Summer 2027 Intern (US Person Required) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6a8e185fd34f700f87fd7e0c?utm_campaign=1079&utm_source=git) |
+| today | **Punch Through** | Embedded Software Engineer Intern | Greater Minneapolis–St. Paul Area, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff30f097dcc4fc8dca9b91?utm_campaign=1079&utm_source=git) |
+| today | **Punch Through** | Mobile Software Engineer Intern | Greater Minneapolis–St. Paul Area, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff30d71c42ea8f6b9fe341?utm_campaign=1079&utm_source=git) |
+| 1d ago | **U.S. AutoForce** | Cloud Engineer Intern | Appleton, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff33a5c1c02a9acd809ced?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
