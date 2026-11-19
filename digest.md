@@ -1,8 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 20:01 UTC · 0 new listings_
+_Updated 2026-11-19 20:31 UTC · 10 new listings_
 
-Nothing new this run.
+## New listings (10) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Allied Consultants** | AI/ML Engineer Intern | Austin, TX | vanshb03 | [apply](https://go.vansh.nyc/1D1) |
+| today | **Idaho National Laboratory** | PSION Development Intern - Summer 2027 | Idaho Falls, ID, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff3f21b88323bd981bd28f?utm_campaign=1079&utm_source=git) |
+| today | **LCS** | Infrastructure Intern | Des Moines, IA, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6aa9b1ac09ae03adcacde6ac?utm_campaign=1079&utm_source=git) |
+| today | **Motorola Solutions** | Android Applications Developer Intern - Summer 2027 | Chicago, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff4176aea17e3f50eaf019?utm_campaign=1079&utm_source=git) |
+| today | **TASI Measurement** | Embedded Engineering Intern | Kent, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae37329d7424a2a828dfcce?utm_campaign=1079&utm_source=git) |
+| today | **Volvo Construction Equipment** | Intern: Software (Summer 2027) | Shippensburg, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff3c2c1c42ea8f6b9fe8ff?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Cirrus Logic** | 2027 Internship - Software Engineer - AI/ML | Austin, TX | speedyapply | [apply](https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61) |
+| 1d ago | **Galaxy** | 2027 Site Reliability Engineer Intern-Afton - Texas | Texas, USA | speedyapply | [apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004) |
+| 1d ago | **Great American Insurance Group** | Data Engineer Developer Intern - Summer 2027 | Cincinnati, OH | speedyapply | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/gaig_external/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919) |
+| 1d ago | **Leidos** | Software Developer - AI Project Intern | Colorado Springs, CO | speedyapply | [apply](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Colorado-Springs-CO/Software-Developer--AI-Project--Intern_R-00197294) |
 
 ## Watched company portals
 
