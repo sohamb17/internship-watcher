@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 03:31 UTC · 2 new listings_
+_Updated 2026-11-19 04:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Meta** | Research Scientist Intern - Physics-Grounded Multimodal Robot Learning | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/994911809842621) |
-| — | **Google** | People Analytics Intern | San Francisco, Chicago, Mountain View, Atlanta | nointernship.com | [apply](https://www.google.com/about/careers/applications/jobs/results/81809776362562246) |
+Nothing new this run.
 
 ## Watched company portals
 
