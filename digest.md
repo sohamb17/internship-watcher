@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 01:01 UTC · 1 new listing_
+_Updated 2026-11-19 01:31 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **The Aerospace Corporation** | 2027 Software Tools and Assurance Grad Intern | El Segundo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe1b75758942b6422b760e?utm_campaign=1079&utm_source=git) |
+| today | **Northrop Grumman** | 2027 Thermal Engineer Intern - Azusa CA | United States-California-Azusa | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261449?s=gh-internships-2027) |
 
 ## Watched company portals
 
