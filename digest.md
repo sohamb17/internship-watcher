@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 05:31 UTC · 2 new listings_
+_Updated 2026-11-19 06:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **PTC** | Creo Software Engineering Intern (Summer 2027) | Boston, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ptc-ptc-JR113015?s=gh-internships-2027) |
-| 1d ago | **A Igreja de Jesus Cristo dos Santos dos Últimos Dias** | Email Developer Intern | Salt Lake City, UT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe6840f170d82b39673ac5?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
