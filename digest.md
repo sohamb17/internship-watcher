@@ -1,8 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 17:02 UTC · 0 new listings_
+_Updated 2026-11-19 17:31 UTC · 3 new listings_
 
-Nothing new this run.
+## New listings (3) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Calamos Investments** | Application Development Intern | Naperville, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff0bbf1c42ea8f6b9fc848?utm_campaign=1079&utm_source=git) |
+| today | **Calamos Investments** | Cloud Engineer Intern | Naperville, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff0bbfb88323bd981bb000?utm_campaign=1079&utm_source=git) |
+| today | **Calamos Investments** | IT Research Development Intern | Naperville, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff0bc3aea17e3f50eacc59?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
