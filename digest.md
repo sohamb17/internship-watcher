@@ -1,13 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 21:31 UTC · 2 new listings_
+_Updated 2026-11-20 21:53 UTC · 7 new listings_
 
-## New listings (2) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Intel** | Signal Integrity Engineering Intern | US, Arizona, Phoenix | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-intel-external-JR0289449?s=gh-internships-2027) |
-| today | **National Interstate Insurance** | Third-Party Risk & Analytics Intern (Year-Round) | Cincinnati, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9637?s=gh-internships-2027) |
+| today | **Microsoft** | Research Intern - Quantum Applications | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200068328?s=gh-internships-2027) |
+| today | **Rivian** | Software Engineering Intern, AI Platform, Autonomy | Palo Alto, CA | vanshb03 | [apply](https://go.vansh.nyc/1F3) |
+| today | **ASML** | Internship- Chandler CS DUV / EUV | Chandler, AZ, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357416?s=gh-internships-2027) |
+| today | **Bristol Myers Squibb** | Oncology Research Co-op (Undergraduate or Graduate) | Cambridge Crossing - MA - US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608777?s=gh-internships-2027) |
+| today | **Cisco** | Data Science Analyst II (Intern) – Untied States | San Jose, California, US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2032691?s=gh-internships-2027) |
+| today | **Cisco** | Data Science Analyst II Intern | San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1F1) |
+| today | **ibotta** | Information Technology Intern | Hybrid - Denver | Company portals | [apply](https://jobs.ashbyhq.com/ibotta/a3981036-8c0e-47f3-8720-92362bbbda4f) |
 
 ## Watched company portals
 
