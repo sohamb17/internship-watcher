@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 04:31 UTC · 1 new listing_
+_Updated 2026-11-20 05:01 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Constellation Brands** | Data Science Intern | Rochester, NY | vanshb03 | [apply](https://go.vansh.nyc/1DX) |
+| 1d ago | **Brixenta** | Programmer Analyst Intern | Waller, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6affb20f72b9be3685293ca1?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Neogen Corporation** | Software or Firmware Engineer Intern | Oakdale, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff592faea17e3f50eafcd9?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 

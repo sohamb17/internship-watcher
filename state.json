@@ -1774,6 +1774,7 @@
 "bristolmyerssquibb|data quantitative sciences": 20770,
 "bristolmyerssquibb|data science": 20777,
 "bristolmyerssquibb|discovery oncology research": 20770,
+"brixenta|analyst programmer": 20777,
 "broadridge|technology": 20777,
 "brookfield|artificial intelligence power renewable transition": 20777,
 "brooksrunning|d perception r run": 20759,
@@ -5228,6 +5229,7 @@
 "nelnet|engineer it net software": 20777,
 "nelnet|engineer it software": 20777,
 "nelnet|engineer software starting ventures": 20777,
+"neogen|engineer firmware or software": 20777,
 "nervdbafluidaimedical|ai associate data engineering": 20759,
 "netapp|analyst data": 20777,
 "netapp|cloud details engineer inc job netapp software": 20773,
@@ -11542,7 +11544,7 @@
 "jobright:6aa3b92e626f9945308b2a95": 20771,
 "jobright:6aa3bb61626f9945308b2b9a": 20771,
 "jobright:6aa3c0a15c11cce3603661ee": 20777,
-"jobright:6aa3c5d64238ea18d430e19b": 20763,
+"jobright:6aa3c5d64238ea18d430e19b": 20777,
 "jobright:6aa3c87e626f9945308b32b9": 20770,
 "jobright:6aa3d3df4238ea18d430e961": 20777,
 "jobright:6aa3e1c4f3aa936e2cdae6aa": 20773,
@@ -12960,6 +12962,7 @@
 "jobright:6aff4176aea17e3f50eaf019": 20776,
 "jobright:6aff503e97dcc4fc8dcaae0b": 20776,
 "jobright:6aff569e1c42ea8f6b9ff80a": 20777,
+"jobright:6aff592faea17e3f50eafcd9": 20777,
 "jobright:6aff5a79c1c02a9acd80b1e8": 20777,
 "jobright:6aff61ec97dcc4fc8dcab8bb": 20777,
 "jobright:6aff6397c1c02a9acd80b868": 20777,
@@ -12991,7 +12994,8 @@
 "jobright:6aff9ef4865dbcc3f26fe194": 20777,
 "jobright:6affa249b47661ae4a62e78c": 20777,
 "jobright:6affab236f4ca73dfeb461e1": 20777,
-"jobright:6affab5b6f4ca73dfeb461e8": 20777
+"jobright:6affab5b6f4ca73dfeb461e8": 20777,
+"jobright:6affb20f72b9be3685293ca1": 20777
 },
 "nointernship": {
 "nointernship:50673": 20760,
