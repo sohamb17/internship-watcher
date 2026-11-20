@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 03:31 UTC · 2 new listings_
+_Updated 2026-11-20 03:33 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Lucid Motors** | Product Security Engineering Intern | Newark, CA | vanshb03 | [apply](https://go.vansh.nyc/1DW) |
-| today | **Southern Mississippi Trading** | AI and Business Analytics Intern | Waynesboro, MS (+1 more) | SimplifyJobs | [apply](https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern) |
+Nothing new this run.
 
 ## Watched company portals
 
