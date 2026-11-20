@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 08:31 UTC · 25 new listings_
+_Updated 2026-11-20 09:01 UTC · 26 new listings_
 
-## New listings (25) — newest first
+## New listings (26) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@ _Updated 2026-11-20 08:31 UTC · 25 new listings_
 | today | **Melaleuca** | Software Development Intern | Idaho Falls, ID | SimplifyJobs | [apply](https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf) |
 | today | **Park National Bank** | Business Intelligence Intern | Newark, OH | SimplifyJobs | [apply](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4) |
 | today | **Park National Bank** | Data Engineering/Data Science Intern<br>Associate's | Newark, OH | SimplifyJobs | [apply](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1) |
+| today | **REXA** | Software Engineer Intern | Middleborough, MA | SimplifyJobs | [apply](https://rexa.bamboohr.com/careers/134/) |
 | today | **Scheels** | Data Analyst Intern | Fargo, ND | SimplifyJobs | [apply](https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24) |
 | today | **State Street** | State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship | Boston, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-statestreet-global-R-801343?s=gh-internships-2027) |
 | 4d ago | **Great American Insurance Company** | Predictive Analytics Intern - Summer 2027 | Cincinnati, OH (USA) | Company portals | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Predictive-Analytics-Intern---Summer-2027_R9904) |

@@ -890,6 +890,22 @@
 "sk": "ce817c44-8a73-4150-ba28-afce53e3f469",
 "src": "vansh",
 "url": "https://go.vansh.nyc/1Eb"
+},
+{
+"company": "REXA",
+"degrees": [
+"Bachelor's"
+],
+"dk": "rexa|engineer software",
+"found": 20777,
+"loc": "Middleborough, MA",
+"more": null,
+"night": true,
+"posted": 20777,
+"role": "Software Engineer Intern",
+"sk": "a4da6180-6f78-4f2c-ac8b-f1d23a467b3b",
+"src": "simplify",
+"url": "https://rexa.bamboohr.com/careers/134/"
 }
 ],
 "roles": {
@@ -6566,6 +6582,7 @@
 "reviora|analyst programmer": 20770,
 "revvity|ai developer full stack": 20759,
 "revvity|integration software": 20759,
+"rexa|engineer software": 20777,
 "rgareinsurance|analyst data": 20770,
 "rhodaai|engineer inference software": 20777,
 "rhodaai|engineer platform rhoda software": 20777,
@@ -16029,6 +16046,7 @@
 "a46e2718-f6d3-482a-b99c-3c15a6aa0d93": 20777,
 "a4762cb5-97a1-457e-a071-427b1e9dd672": 20770,
 "a491d653-6b52-4a87-8eb8-a9d9a74e5f4f": 20769,
+"a4da6180-6f78-4f2c-ac8b-f1d23a467b3b": 20777,
 "a52db0c1-d350-4198-a39f-785d617afe4e": 20777,
 "a52f9be6-50a2-4946-a09a-dfda0252c072": 20777,
 "a551edfe-1860-47a5-84ba-2aa807b90cd1": 20767,
