@@ -1,13 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 16:01 UTC · 2 new listings_
+_Updated 2026-11-20 16:31 UTC · 3 new listings_
 
-## New listings (2) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Northrop Grumman** | 2027 Critical Skills Development Intern - Remote | United States-Remote | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261601?s=gh-internships-2027) |
-| today | **Systems Planning and Analysis** | Integrated Analytics Intern | Alexandria, VA | SimplifyJobs | [apply](https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us) |
+| today | **Rockwell Automation** | Consulting Analyst Intern (LCS) | Columbus Ohio United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5073?s=gh-internships-2027) |
+| today | **Rockwell Automation** | Intern, Content IDE Software Development (LCS) | Mayfield Heights, Ohio, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5010?s=gh-internships-2027) |
+| today | **The SilverLogic** | AI Engineer/Consultant Intern | Boca Raton, FL (+1 more) | SimplifyJobs | [apply](https://silverlogic.bamboohr.com/careers/36/) |
 
 ## Watched company portals
 
