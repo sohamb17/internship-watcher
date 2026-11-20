@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 11:01 UTC · 32 new listings_
+_Updated 2026-11-20 11:31 UTC · 35 new listings_
 
-## New listings (32) — newest first
+## New listings (35) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -31,6 +31,9 @@ _Updated 2026-11-20 11:01 UTC · 32 new listings_
 | today | **Park National Bank** | Data Engineering/Data Science Intern<br>Associate's | Newark, OH | SimplifyJobs | [apply](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1) |
 | today | **REXA** | Software Engineer Intern | Middleborough, MA | SimplifyJobs | [apply](https://rexa.bamboohr.com/careers/134/) |
 | today | **Scheels** | Data Analyst Intern | Fargo, ND | SimplifyJobs | [apply](https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24) |
+| today | **Smule** | Applied Research Scientist Intern | Salt Lake City, UT (+1 more) | SimplifyJobs | [apply](https://smule.bamboohr.com/careers/29/) |
+| today | **Smule** | Machine Learning Engineer Intern | Salt Lake City, UT (+1 more) | SimplifyJobs | [apply](https://smule.bamboohr.com/careers/31/) |
+| today | **Smule** | Research Engineer Intern | Salt Lake City, UT (+1 more) | SimplifyJobs | [apply](https://smule.bamboohr.com/careers/30/) |
 | today | **State Street** | State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship | Boston, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-statestreet-global-R-801343?s=gh-internships-2027) |
 | today | **Trener Robotics** | Robotics Engineer / Lab Technician Intern | San Jose, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74/application?embed=true) |
 | 1d ago | **Bristol Myers Squibb** | Summer 2027 Intern, Cell Therapy Research (Discovery & Engineering) | Seattle 400 Dexter - WA - US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608728?s=gh-internships-2027) |
