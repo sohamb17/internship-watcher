@@ -1,17 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 20:32 UTC · 6 new listings_
+_Updated 2026-11-20 21:01 UTC · 0 new listings_
 
-## New listings (6) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Boston Properties** | Network Operations Co-Op | Boston, MA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-boston-properties-26190?s=gh-internships-2027) |
-| today | **Carrier Global** | Building Automation Field Engineer Intern - Summer | CAG16: AL Georgia (ATL), 1975... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-carrier-jobs-30220863?s=gh-internships-2027) |
-| today | **Chan Zuckerberg Biohub** | AI Research Scientist Intern | New York, NY (Hybrid) | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-biohub-8400682?s=gh-internships-2027) |
-| today | **Lucid Motors** | Intern, Vehicle Motion Controls Engineer, Summer 2027 | Newark, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290899007?s=gh-internships-2027) |
-| today | **Lucid Motors** | Power Electronics Control Engineer Intern, Summer 2027 | Newark, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290949007?s=gh-internships-2027) |
-| today | **T-Mobile** | Summer 2027 Data Analyst Internship | Bellevue, Washington (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tmobile-external-REQ383587?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
