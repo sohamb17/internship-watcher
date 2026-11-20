@@ -1,13 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 18:32 UTC · 2 new listings_
+_Updated 2026-11-20 19:01 UTC · 6 new listings_
 
-## New listings (2) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **GlobalFoundries** | Electrical Test Engineering Intern (Summer 2027) | USA - Vermont - Essex Junction | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604641?s=gh-internships-2027) |
-| today | **Johnson Controls** | Production Engineering Co-Op | Burlington-Massachusetts-United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jci-jci-EB00075404?s=gh-internships-2027) |
+| today | **ASML** | Internship - Contract Management and AI | San Diego, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357971?s=gh-internships-2027) |
+| today | **Brown & Brown** | Technology Solutions Intern | Daytona Beach, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac88441c3a8af9c54a07019?utm_campaign=1079&utm_source=git) |
+| today | **Career Launch Tech Initiative** | Software Engineer Intern-CLTI | Los Angeles, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00726289d8ca1e8495623f?utm_campaign=1079&utm_source=git) |
+| today | **NorthPoint Development** | Software Development Intern | Kansas City, MO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae3b656d7424a2a828e2523?utm_campaign=1079&utm_source=git) |
+| today | **Plains** | Intern, Operations Management System, Digital & AI Innovation | Houston, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00725546419e65476b406c?utm_campaign=1079&utm_source=git) |
+| today | **T. Rowe Price** | Equity Research Internship Opportunity – Summer 2027 | Baltimore, MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-troweprice-troweprice-80630?s=gh-internships-2027) |
 
 ## Watched company portals
 
