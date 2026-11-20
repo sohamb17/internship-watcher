@@ -1,21 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 04:01 UTC · 10 new listings_
+_Updated 2026-11-20 04:31 UTC · 1 new listing_
 
-## New listings (10) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Brady Corporation** | Embedded Firmware Engineering Intern | Lexington, KY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6affab5b6f4ca73dfeb461e8?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Hex** | Product Engineer Intern | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ad17b71ae21edea94fd65a7?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Tektronix** | System Level Verification Engineer Intern (Summer 2027) | Oregon, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff9ef4865dbcc3f26fe194?utm_campaign=1079&utm_source=git) |
-| — | **Microsoft** | Research Intern - Deep Learning Group | Redmond | nointernship.com | [apply](https://apply.careers.microsoft.com/careers/job/1970393557076095) |
-| — | **Waymo** | Agentic AI Intern | Mountain View | nointernship.com | [apply](https://careers.withwaymo.com/jobs?gh_jid=8401116) |
-| — | **Lightmatter** | Analog Engineer Intern | Boston, Mountain View | nointernship.com | [apply](https://boards.greenhouse.io/lightmatter/jobs/5475081008) |
-| — | **Lightmatter** | Silicon Validation & Test Automation Intern | Mountain View | nointernship.com | [apply](https://boards.greenhouse.io/lightmatter/jobs/5473832008) |
-| — | **Renesas Electronics** | Digital Design Engineer Intern | Duluth | nointernship.com | [apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079) |
-| — | **Scout Space** | Embedded Firmware Engineer Intern | Reston | nointernship.com | [apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008) |
-| — | **The Aerospace Corporation** | Sensor Modeling and Simulation Intern | Chantilly | nointernship.com | [apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Sensor-Modeling-and-Simulation-Undergrad-Intern_R016876) |
+| today | **Constellation Brands** | Data Science Intern | Rochester, NY | vanshb03 | [apply](https://go.vansh.nyc/1DX) |
 
 ## Watched company portals
 
