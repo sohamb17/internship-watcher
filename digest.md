@@ -1,13 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 15:31 UTC · 2 new listings_
+_Updated 2026-11-20 16:01 UTC · 2 new listings_
 
 ## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AMD** | Spring/Summer 2027 Masters Server Power Management Engineering Co-Op | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-89816?s=gh-internships-2027) |
-| today | **Vertiv** | Firmware Engineer Intern (Graduate Level) (Summer 2027) | Delaware, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a8f5fa3d7c91d0cf446efdd?utm_campaign=1079&utm_source=git) |
+| today | **Northrop Grumman** | 2027 Critical Skills Development Intern - Remote | United States-Remote | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261601?s=gh-internships-2027) |
+| today | **Systems Planning and Analysis** | Integrated Analytics Intern | Alexandria, VA | SimplifyJobs | [apply](https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us) |
 
 ## Watched company portals
 
