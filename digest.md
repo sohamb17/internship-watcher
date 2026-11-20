@@ -1,14 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 22:01 UTC · 3 new listings_
+_Updated 2026-11-20 22:31 UTC · 3 new listings_
 
 ## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **[Mom's Meals** | Software Quality Assurance (QA) Intern | Ankeny, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b009b7b89d8ca1e84957c27?utm_campaign=1079&utm_source=git) |
-| today | **Mission Technologies, a division of HII** | Software Engineer (SkillBridge Intern) - 23875 | Roanoke, Virginia, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af54c19a3cce217be6c9274?utm_campaign=1079&utm_source=git) |
-| today | **Mission Technologies, a division of HII** | Software Engineer, Intern - Summer 2027 - 30942 | Crane, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af825ed42ae65e2c8f3b2fc?utm_campaign=1079&utm_source=git) |
+| today | **Huntsman** | Process Development Engineering Intern | USA - South Carolina - Rock Hill | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-huntsman-huntsman-J-020472?s=gh-internships-2027) |
+| today | **ServiceNow** | Security Software Engineer Intern | Kirkland, Washington, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) |
+| 9d ago | **EP Wealth Advisors** | Data AI Engineering Intern | Torrance, CA / Austin, TX | vanshb03 | [apply](https://go.vansh.nyc/1F4) |
 
 ## Watched company portals
 
