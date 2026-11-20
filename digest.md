@@ -1,12 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 01:31 UTC · 1 new listing_
+_Updated 2026-11-20 02:01 UTC · 4 new listings_
 
-## New listings (1) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **LinkedIn** | AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA) | Mountain View, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808) |
+| 1d ago | **BWXT** | Quality Assurance Engineer Intern (Summer 2027) | Mount Vernon, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff8c241126e09fee091408?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Piper Sandler** | 2027 Summer Internship Program – Equities Trading Technology | Greenwich, CT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff569e1c42ea8f6b9ff80a?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Roche** | 2027 Summer Intern - Software Applications and Pipelines (R&D Internal Solutions, Computational Science and Informatics) | Santa Clara, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7e56865dbcc3f26fd3e7?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Tenet Healthcare** | Cloud Engineer Intern – Summer 2027 – Onsite in Dallas, TX | Dallas, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6afe999a0fe3ac852ce52908?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
