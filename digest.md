@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 07:31 UTC · 2 new listings_
+_Updated 2026-11-20 08:01 UTC · 4 new listings_
 
-## New listings (2) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Cadence** | Software Engineering Intern - Circuit Simulation infrastructure | SAN JOSE | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cadence-external-careers-R57254?s=gh-internships-2027) |
+| today | **Melaleuca** | Software Development Intern | Idaho Falls, ID | SimplifyJobs | [apply](https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf) |
+| today | **Scheels** | Data Analyst Intern | Fargo, ND | SimplifyJobs | [apply](https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24) |
 | today | **State Street** | State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship | Boston, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-statestreet-global-R-801343?s=gh-internships-2027) |
 
 ## Watched company portals

@@ -526,6 +526,39 @@
 "sk": "https://zapply.jobs/l/d/workday-statestreet-global-R-801343",
 "src": "zapply",
 "url": "https://zapply.jobs/l/d/workday-statestreet-global-R-801343?s=gh-internships-2027"
+},
+{
+"company": "Scheels",
+"degrees": [
+"Bachelor's",
+"Associate's"
+],
+"dk": "scheels|analyst data",
+"found": 20777,
+"loc": "Fargo, ND",
+"more": null,
+"night": true,
+"posted": 20777,
+"role": "Data Analyst Intern",
+"sk": "0c884a35-d2e9-478a-b007-cb9b4907befe",
+"src": "simplify",
+"url": "https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24"
+},
+{
+"company": "Melaleuca",
+"degrees": [
+"Bachelor's"
+],
+"dk": "melaleuca|development software",
+"found": 20777,
+"loc": "Idaho Falls, ID",
+"more": null,
+"night": true,
+"posted": 20777,
+"role": "Software Development Intern",
+"sk": "d263736b-e32b-4826-90b6-26e21a6d1a7d",
+"src": "simplify",
+"url": "https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf"
 }
 ],
 "roles": {
@@ -4788,6 +4821,7 @@
 "megazonecloudus|data engineer": 20777,
 "megazonecloudus|engineer software": 20761,
 "megazonecloud|engineer software": 20760,
+"melaleuca|development software": 20777,
 "merck|": 20777,
 "merck|analytics international pricing": 20770,
 "merck|business future global group management ops supplier talent": 20777,
@@ -6516,6 +6550,7 @@
 "scaleai|engineer software": 20777,
 "scaleai|engineering software": 20777,
 "scaleai|learning machine research": 20777,
+"scheels|analyst data": 20777,
 "schneiderelectric|ai continuous improvement quality": 20759,
 "schneiderelectric|application engineer": 20761,
 "schneiderelectric|continuous improvement": 20759,
@@ -13709,6 +13744,7 @@
 "0c31db02-1b9a-4cc0-81b4-25d414bc07db": 20777,
 "0c75e8d4-61e1-4bdc-ad83-48103037033c": 20777,
 "0c7e5252-d2b8-45c7-880c-9923fc29984a": 20777,
+"0c884a35-d2e9-478a-b007-cb9b4907befe": 20777,
 "0c948dc9-1eb1-44a6-86f9-c0695549d3b4": 20763,
 "0ccb65ab-e586-4d78-b496-ec4b86e44977": 20759,
 "0ce18659-d44b-4bc1-8341-275eda5c3c69": 20777,
@@ -16200,6 +16236,7 @@
 "d21074f9-91d2-4034-bdc6-343e4b7baf92": 20766,
 "d21b7b94-4ec6-4789-9893-f5bcb8a6d2b8": 20759,
 "d22f3e14-e4d1-4fff-9e8a-373760835d7d": 20762,
+"d263736b-e32b-4826-90b6-26e21a6d1a7d": 20777,
 "d264e688-c953-468e-a492-487e9683cb63": 20777,
 "d275435a-21ef-455d-80a8-3d9afd93c8a9": 20777,
 "d27ce4c9-b5bf-4de0-a7f5-2e540532f643": 20777,
