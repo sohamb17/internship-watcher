@@ -1,14 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 23:01 UTC · 3 new listings_
+_Updated 2026-11-20 23:31 UTC · 2 new listings_
 
-## New listings (3) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Intuitive Surgical** | Data Engineering Intern | Sunnyvale, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Intuitive/744000162832659) |
-| today | **Jabil** | Software Engineering Intern | Austin, TX | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2472697?s=gh-internships-2027) |
-| today | **Ralliant** | Software Design Engineer Intern (Summer 2027) | Beaverton, OR, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00bae8dfa58e4c244ddfe5?utm_campaign=1079&utm_source=git) |
+| today | **Lumentum** | Internship - Test Development | USA - CA - San Jose | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-lumentum-lite-20261580?s=gh-internships-2027) |
+| 45d ago | **RosaicLabs** | CPU Architecture & Performance Engineer - Intern | Santa Clara, CA | Company portals | [apply](https://jobs.lever.co/rosaiclabs/5c1436d6-6bb3-4978-8e3e-bdd103cbbcab) |
 
 ## Watched company portals
 
