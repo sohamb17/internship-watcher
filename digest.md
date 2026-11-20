@@ -1,13 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 02:31 UTC · 2 new listings_
+_Updated 2026-11-20 03:01 UTC · 8 new listings_
 
-## New listings (2) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **enGen** | Data Engineer & Analyst Undergraduate Intern | Pittsburgh, PA | vanshb03 | [apply](https://go.vansh.nyc/1DQ) |
-| today | **Lawrence Livermore National Laboratory (LLNL)** | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA | vanshb03 | [apply](https://go.vansh.nyc/1DP) |
+| today | **LinkedIn** | AI/ML Engineer Intern<br>Master's | Mountain View, CA | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808) |
+| today | **Formlabs** | API & Automation Intern | Somerville, MA | SimplifyJobs | [apply](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) |
+| today | **Lucid Motors** | Infotainment Software Intern | Newark, CA | SimplifyJobs | [apply](https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007) |
+| 1d ago | **Conning** | Information Technology (IT) Intern (Summer 2027) | Hartford, CT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff776a6f4ca73dfeb446be?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Lockheed Martin** | Test Engineer Intern | Littleton, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff917172b9be3685293261?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Lucid Motors** | Intern, ADAS Systems, Summer 2027 | Newark, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff9763865dbcc3f26fdd96?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Lucid Motors** | Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027 | Newark, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff97671126e09fee0918d0?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Tektronix** | Software Engineering Intern (Summer 2027) | Beaverton, OR, United States (+2 more) | Jobright | [apply](https://jobright.ai/jobs/info/6aff93ff865dbcc3f26fdc7c?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
