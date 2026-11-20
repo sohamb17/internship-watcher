@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 06:01 UTC · 1 new listing_
+_Updated 2026-11-20 06:31 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Cadence** | Software Engineering Intern - Circuit Simulation infrastructure | SAN JOSE | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cadence-external-careers-R57254?s=gh-internships-2027) |
+| today | **State Street** | State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship | Boston, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-statestreet-global-R-801343?s=gh-internships-2027) |
 
 ## Watched company portals
 
