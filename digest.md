@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 10:31 UTC · 30 new listings_
+_Updated 2026-11-20 11:01 UTC · 32 new listings_
 
-## New listings (30) — newest first
+## New listings (32) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -32,10 +32,12 @@ _Updated 2026-11-20 10:31 UTC · 30 new listings_
 | today | **REXA** | Software Engineer Intern | Middleborough, MA | SimplifyJobs | [apply](https://rexa.bamboohr.com/careers/134/) |
 | today | **Scheels** | Data Analyst Intern | Fargo, ND | SimplifyJobs | [apply](https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24) |
 | today | **State Street** | State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship | Boston, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-statestreet-global-R-801343?s=gh-internships-2027) |
+| today | **Trener Robotics** | Robotics Engineer / Lab Technician Intern | San Jose, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74/application?embed=true) |
 | 1d ago | **Bristol Myers Squibb** | Summer 2027 Intern, Cell Therapy Research (Discovery & Engineering) | Seattle 400 Dexter - WA - US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608728?s=gh-internships-2027) |
 | 2d ago | **MITRE** | AI Engineering Intern | Bedford, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117620?s=gh-internships-2027) |
 | 4d ago | **Great American Insurance Company** | Predictive Analytics Intern - Summer 2027 | Cincinnati, OH (USA) | Company portals | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Predictive-Analytics-Intern---Summer-2027_R9904) |
 | 93d ago | **Massey Services** | Software Engineer Intern | Orlando, FL | SimplifyJobs | [apply](https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR104566) |
+| — | **Wurl** | Data Engineering Intern (Remote) | Remote - United States | Company portals | [apply](https://job-boards.greenhouse.io/wurljobs/jobs/4731130006) |
 
 ## Watched company portals
 
