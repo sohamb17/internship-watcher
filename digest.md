@@ -1,14 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 16:31 UTC · 3 new listings_
+_Updated 2026-11-20 17:01 UTC · 4 new listings_
 
-## New listings (3) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Rockwell Automation** | Consulting Analyst Intern (LCS) | Columbus Ohio United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5073?s=gh-internships-2027) |
-| today | **Rockwell Automation** | Intern, Content IDE Software Development (LCS) | Mayfield Heights, Ohio, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5010?s=gh-internships-2027) |
-| today | **The SilverLogic** | AI Engineer/Consultant Intern | Boca Raton, FL (+1 more) | SimplifyJobs | [apply](https://silverlogic.bamboohr.com/careers/36/) |
+| today | **Imagine** | Summer 2027 Software Development Intern | Shakopee, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aabffbc3e3ce93970c7b137?utm_campaign=1079&utm_source=git) |
+| today | **Rockwell Automation** | Intern - ISM, Cyber Security and AI | Mayfield Heights, Ohio, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5040?s=gh-internships-2027) |
+| today | **STMicroelectronics** | Embedded Software Sensor Algorithm Intern | Santa Clara, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae3b9ddd45dc30fb7d2c200?utm_campaign=1079&utm_source=git) |
+| today | **T-Mobile** | Summer 2027 Fiber Technical Engineering Operations Internship | Overland Park, Kansas | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tmobile-external-REQ383611?s=gh-internships-2027) |
 
 ## Watched company portals
 
