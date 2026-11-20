@@ -1,16 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 18:01 UTC · 5 new listings_
+_Updated 2026-11-20 18:32 UTC · 2 new listings_
 
-## New listings (5) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Aerospace Corporation** | 2027 Agile Space Systems Undergraduate Intern | Albuquerque, NM | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aero-external-R017286?s=gh-internships-2027) |
-| today | **Aerospace Corporation** | 2027 Software Systems Engineer and Acquisition Grad Intern | El Segundo, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aero-external-R017175?s=gh-internships-2027) |
-| today | **Honeywell Technologies** | Embedded Engineer - Summer 2027 Intern (US Person Required) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac3fbc08ff3fb9b3bc834dd?utm_campaign=1079&utm_source=git) |
-| today | **Leonardo DRS** | 2027 Summer - Full Stack Software Engineering Intern - Melbourne FL | Melbourne, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae4726eeab1f9673097a6c4?utm_campaign=1079&utm_source=git) |
-| today | **Toyota Research Institute** | Robotics Intern, UX Design | Los Altos, CA | Company portals | [apply](https://jobs.lever.co/tri/2d9833d5-a940-4862-b13b-a1ecc9378fea) |
+| today | **GlobalFoundries** | Electrical Test Engineering Intern (Summer 2027) | USA - Vermont - Essex Junction | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604641?s=gh-internships-2027) |
+| today | **Johnson Controls** | Production Engineering Co-Op | Burlington-Massachusetts-United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jci-jci-EB00075404?s=gh-internships-2027) |
 
 ## Watched company portals
 
