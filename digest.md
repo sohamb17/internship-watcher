@@ -1,19 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 00:01 UTC · 8 new listings_
+_Updated 2026-11-20 00:31 UTC · 6 new listings_
 
-## New listings (8) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern, AI/Machine Learning Numerics & Efficiency | Redmond, WA / Mountain View, CA | vanshb03 | [apply](https://go.vansh.nyc/1Dx) |
-| today | **Barry's** | Undergraduate Summer Scholar Intern - Data Analyst | NYC | SimplifyJobs | [apply](https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f) |
-| today | **Compassion International** | Data and Software Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1DA) |
-| today | **Docusign** | Product Data Science Intern | SF | SimplifyJobs | [apply](https://careers.docusign.com/jobs/31092?icims=1&lang=en-us) |
-| today | **Lucid Motors** | Embedded Software Intern | Newark, CA | vanshb03 | [apply](https://go.vansh.nyc/1Dv) |
-| today | **Publicis Groupe** | Identity Analytics Intern | Chicago, IL | SimplifyJobs | [apply](https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us) |
-| 1d ago | **HERE Technologies** | Applied AI Research Intern<br>Master's/PhD | Chicago, IL | SimplifyJobs | [apply](https://careers-here.icims.com/jobs/85084/job?mobile=true&needsRedirect=false) |
-| 1d ago | **Lucid Motors** | Software Engineer Intern, SDET | Newark, CA | vanshb03 | [apply](https://go.vansh.nyc/1Dw) |
+| today | **Meta** | Research Scientist Intern - AI Agents for Autonomous Laboratories | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/29481973694788756) |
+| today | **Meta** | Research Scientist Intern - Machine Learning for Robotics - PhD | Burlingame, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1766347491109788) |
+| today | **Blue Cross Blue Shield of Michigan** | Object Oriented Programming Intern | Detroit, MI | SimplifyJobs | [apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160) |
+| today | **Lawrence Livermore National Laboratory (LLNL)** | Seaborg Institute Nuclear Science and Security Undergraduate Intern - Summer 2027 | Livermore, CA, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/LLNL/3743990016985966) |
+| today | **Pivotal Software** | Autonomy Intern - Autonomy - Path Planning | Palo Alto, CA (+1 more) | SimplifyJobs | [apply](https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply) |
+| today | **Vertiv** | AI Intern | Westerville, OH / Fort Lauderdale, FL / Huntsville, AL (+2 more) | SimplifyJobs | [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620) |
 
 ## Watched company portals
 
