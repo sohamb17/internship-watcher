@@ -1,22 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 20:01 UTC · 11 new listings_
+_Updated 2026-11-20 20:32 UTC · 6 new listings_
 
-## New listings (11) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Aspen Technology** | Software Development Intern - Digital Grid Management - Summer 2027 | Medina, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aaaeb05f6bd9d2d17c1a5b7?utm_campaign=1079&utm_source=git) |
-| today | **CliquePrize - Local Giveaway Marketing for Small Businesses** | Backend Software Engineer Intern – AutoDialer, API & Systems Integration | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0088e4e0dc961959281c70?utm_campaign=1079&utm_source=git) |
-| today | **Lockheed Martin** | Software Engineering Intern (Signal Processing) | Manassas, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b008e30e0dc961959281fa9?utm_campaign=1079&utm_source=git) |
-| today | **Moderna** | 2027 Intern, TMF Systems & Operations | Cambridge, Massachusetts,... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-modernatx-m-tx-R20220?s=gh-internships-2027) |
-| today | **Ralliant** | Software Engineering Intern, AI Building | Beaverton, OR | vanshb03 | [apply](https://go.vansh.nyc/1EU) |
-| today | **STERIS** | Software Engineering Intern - Summer 2027 | Plymouth, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae394add7424a2a828e1161?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Gentuity** | Software Engineer Co-Op | Sudbury, MA | speedyapply | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679467) |
-| 1d ago | **Performance Contracting Group** | IT Software Development Intern | Lenexa, KS | speedyapply | [apply](https://jobs.dayforcehcm.com/en-US/pcg/candidateportal/jobs/11345) |
-| 1d ago | **Raytheon** | Software Security Intern - Summer 2027 | Cedar Rapids, IA | speedyapply | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Security-Intern_01890095) |
-| 1d ago | **Signet Jewelers** | Application Management Software Intern | Akron, OH | speedyapply | [apply](https://signetjewelers.wd1.myworkdayjobs.com/en-US/signetcorporatecareers/job/Support-Center---Akron-OH/Application-Management-Software-Intern_REQ_84419) |
-| 1d ago | **T-Mobile** | Summer 2027 AI Engineering Internship - Site Reliability & Automation | Atlanta, GA | speedyapply | [apply](https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-AI-Engineering-Internship---Site-Reliability---Automation_REQ383239) |
+| today | **Boston Properties** | Network Operations Co-Op | Boston, MA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-boston-properties-26190?s=gh-internships-2027) |
+| today | **Carrier Global** | Building Automation Field Engineer Intern - Summer | CAG16: AL Georgia (ATL), 1975... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-carrier-jobs-30220863?s=gh-internships-2027) |
+| today | **Chan Zuckerberg Biohub** | AI Research Scientist Intern | New York, NY (Hybrid) | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-biohub-8400682?s=gh-internships-2027) |
+| today | **Lucid Motors** | Intern, Vehicle Motion Controls Engineer, Summer 2027 | Newark, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290899007?s=gh-internships-2027) |
+| today | **Lucid Motors** | Power Electronics Control Engineer Intern, Summer 2027 | Newark, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290949007?s=gh-internships-2027) |
+| today | **T-Mobile** | Summer 2027 Data Analyst Internship | Bellevue, Washington (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tmobile-external-REQ383587?s=gh-internships-2027) |
 
 ## Watched company portals
 
