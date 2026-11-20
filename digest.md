@@ -1,12 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-19 23:31 UTC · 1 new listing_
+_Updated 2026-11-20 00:01 UTC · 8 new listings_
 
-## New listings (1) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Relativity Space** | Software Engineer Intern | Long Beach, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac5334f372c01f6cd738359?utm_campaign=1079&utm_source=git) |
+| today | **Microsoft** | Research Intern, AI/Machine Learning Numerics & Efficiency | Redmond, WA / Mountain View, CA | vanshb03 | [apply](https://go.vansh.nyc/1Dx) |
+| today | **Barry's** | Undergraduate Summer Scholar Intern - Data Analyst | NYC | SimplifyJobs | [apply](https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f) |
+| today | **Compassion International** | Data and Software Engineering Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1DA) |
+| today | **Docusign** | Product Data Science Intern | SF | SimplifyJobs | [apply](https://careers.docusign.com/jobs/31092?icims=1&lang=en-us) |
+| today | **Lucid Motors** | Embedded Software Intern | Newark, CA | vanshb03 | [apply](https://go.vansh.nyc/1Dv) |
+| today | **Publicis Groupe** | Identity Analytics Intern | Chicago, IL | SimplifyJobs | [apply](https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us) |
+| 1d ago | **HERE Technologies** | Applied AI Research Intern<br>Master's/PhD | Chicago, IL | SimplifyJobs | [apply](https://careers-here.icims.com/jobs/85084/job?mobile=true&needsRedirect=false) |
+| 1d ago | **Lucid Motors** | Software Engineer Intern, SDET | Newark, CA | vanshb03 | [apply](https://go.vansh.nyc/1Dw) |
 
 ## Watched company portals
 
