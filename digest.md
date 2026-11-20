@@ -1,11 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 12:31 UTC · 35 new listings_
+_Updated 2026-11-20 13:01 UTC · 38 new listings_
 
-## New listings (35) — newest first
+## New listings (38) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **CACI International Inc** | AWS Cloud Engineering Intern - Summer 2027 | Sarasota, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff4c1197dcc4fc8dcaaad2?utm_campaign=1079&utm_source=git) |
 | today | **Cadence** | Software Engineering Intern - Circuit Simulation infrastructure | SAN JOSE | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cadence-external-careers-R57254?s=gh-internships-2027) |
 | today | **CAS** | Business Data Analytics Intern - AI/ML Focus | Columbus, OH (+1 more) | SimplifyJobs | [apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a) |
 | today | **CAS** | CAS 2027 Technology Summer Intern - Business Data Governance | Columbus, OH | SimplifyJobs | [apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=1fe1ecbc-5b12-4c0e-a2cf-5d75049ab527) |
@@ -24,8 +25,10 @@ _Updated 2026-11-20 12:31 UTC · 35 new listings_
 | today | **Honeywell Aerospace** | Semiconductor Engineer Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1E3) |
 | today | **iA** | Software Data Engineer Intern | Indianapolis, IN | SimplifyJobs | [apply](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1) |
 | today | **iA** | Software Development Engineer Intern | Binghamton, NY | SimplifyJobs | [apply](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1) |
+| today | **IBM** | Software Developer Intern 2027 | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0029943a9a0230ab025cde?utm_campaign=1079&utm_source=git) |
 | today | **Marias Technology** | Software Developer Intern | Covington, OH (+1 more) | SimplifyJobs | [apply](https://mariastechnology.bamboohr.com/careers/27/) |
 | today | **Marias Technology** | Software Tester Intern | Covington, OH | vanshb03 | [apply](https://go.vansh.nyc/1Ei) |
+| today | **Mary Kay Global** | 2027 Summer Internships – Information Technology | Addison, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab31c561508734c1530dbbb?utm_campaign=1079&utm_source=git) |
 | today | **Melaleuca** | Software Development Intern | Idaho Falls, ID | SimplifyJobs | [apply](https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf) |
 | today | **Park National Bank** | Business Intelligence Intern | Newark, OH | SimplifyJobs | [apply](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4) |
 | today | **Park National Bank** | Data Engineering/Data Science Intern<br>Associate's | Newark, OH | SimplifyJobs | [apply](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1) |
