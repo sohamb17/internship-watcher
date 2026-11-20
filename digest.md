@@ -1,13 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 14:31 UTC · 2 new listings_
+_Updated 2026-11-20 15:01 UTC · 2 new listings_
 
 ## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Symbotic** | Intern- Software Engineer, Front-End | USA Austin, TX | Company portals | [apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1) |
-| today | **White Cap Supply Holdings** | Information Security Intern, Corporate | United States | vanshb03 | [apply](https://go.vansh.nyc/1Ew) |
+| today | **Bristol Myers Squibb** | Technology Rotational Development Program Intern-Summer 2027 | Princeton - NJ - US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608752?s=gh-internships-2027) |
+| today | **State Street** | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship | Clifton, New Jersey | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-statestreet-global-R-801341?s=gh-internships-2027) |
 
 ## Watched company portals
 
