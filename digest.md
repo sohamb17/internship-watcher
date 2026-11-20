@@ -1,50 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 14:01 UTC · 39 new listings_
+_Updated 2026-11-20 14:31 UTC · 2 new listings_
 
-## New listings (39) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CACI International Inc** | AWS Cloud Engineering Intern - Summer 2027 | Sarasota, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff4c1197dcc4fc8dcaaad2?utm_campaign=1079&utm_source=git) |
-| today | **Cadence** | Software Engineering Intern - Circuit Simulation infrastructure | SAN JOSE | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cadence-external-careers-R57254?s=gh-internships-2027) |
-| today | **CAS** | Business Data Analytics Intern - AI/ML Focus | Columbus, OH (+1 more) | SimplifyJobs | [apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a) |
-| today | **CAS** | CAS 2027 Technology Summer Intern - Business Data Governance | Columbus, OH | SimplifyJobs | [apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=1fe1ecbc-5b12-4c0e-a2cf-5d75049ab527) |
-| today | **CAS** | Cheminformatics Scientist Intern | Columbus, OH | SimplifyJobs | [apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=2225e962-d694-4585-a937-82c9c01b6337) |
-| today | **CAS** | Chemist Intern - Content Operations | Columbus, OH | SimplifyJobs | [apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=edd053a0-276c-4c40-895a-a28c09759e93) |
-| today | **CAS** | Infrastructure Engineer Intern, Technology | Columbus, OH | vanshb03 | [apply](https://go.vansh.nyc/1Ej) |
-| today | **CAS** | Technology Intern - Application Technology | Columbus, OH (+1 more) | SimplifyJobs | [apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=78caa2c6-394a-4c51-b7bd-224461099eda) |
-| today | **CAS** | Technology Intern - Databases | Columbus, OH (+1 more) | SimplifyJobs | [apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=8b5cdf5c-af19-431d-b135-9f2c62c4d002) |
-| today | **CAS** | Technology Intern - Software Engineering | Columbus, OH (+1 more) | SimplifyJobs | [apply](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846) |
-| today | **Centralized Supply Chain Services** | Data Quality Intern | Lenexa, KS | SimplifyJobs | [apply](https://recruiting2.ultipro.com/INF1006CSCSV/JobBoard/cfbf4143-cfd9-45da-b8f8-e9d4ef4379a5/OpportunityDetail?opportunityId=a2ce0cf6-5514-4817-976f-974dcc0ca215) |
-| today | **Centralized Supply Chain Services** | Engineering Intern | Lenexa, KS | SimplifyJobs | [apply](https://recruiting2.ultipro.com/INF1006CSCSV/JobBoard/cfbf4143-cfd9-45da-b8f8-e9d4ef4379a5/OpportunityDetail?opportunityId=37bcf213-e2be-4f42-9935-303281746ec0) |
-| today | **Cisco** | AI Researcher II Intern | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1Eb) |
-| today | **Honeywell Aerospace** | AI Software Engineer Intern | United States (+1 more) | SimplifyJobs | [apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880) |
-| today | **Honeywell Aerospace** | Information Systems Data Science Intern | United States | SimplifyJobs | [apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238) |
-| today | **Honeywell Aerospace** | Information Systems Data Science Intern - IT | United States | SimplifyJobs | [apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471) |
-| today | **Honeywell Aerospace** | Semiconductor Engineer Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1E3) |
-| today | **iA** | Software Data Engineer Intern | Indianapolis, IN | SimplifyJobs | [apply](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1) |
-| today | **iA** | Software Development Engineer Intern | Binghamton, NY | SimplifyJobs | [apply](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1) |
-| today | **IBM** | Software Developer Intern 2027 | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0029943a9a0230ab025cde?utm_campaign=1079&utm_source=git) |
-| today | **Marias Technology** | Software Developer Intern | Covington, OH (+1 more) | SimplifyJobs | [apply](https://mariastechnology.bamboohr.com/careers/27/) |
-| today | **Marias Technology** | Software Tester Intern | Covington, OH | vanshb03 | [apply](https://go.vansh.nyc/1Ei) |
-| today | **Mary Kay Global** | 2027 Summer Internships – Information Technology | Addison, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ab31c561508734c1530dbbb?utm_campaign=1079&utm_source=git) |
-| today | **Melaleuca** | Software Development Intern | Idaho Falls, ID | SimplifyJobs | [apply](https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf) |
-| today | **Park National Bank** | Business Intelligence Intern | Newark, OH | SimplifyJobs | [apply](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4) |
-| today | **Park National Bank** | Data Engineering/Data Science Intern<br>Associate's | Newark, OH | SimplifyJobs | [apply](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1) |
-| today | **REXA** | Software Engineer Intern | Middleborough, MA | SimplifyJobs | [apply](https://rexa.bamboohr.com/careers/134/) |
-| today | **Scheels** | Data Analyst Intern | Fargo, ND | SimplifyJobs | [apply](https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24) |
-| today | **Smule** | Applied Research Scientist Intern | Salt Lake City, UT (+1 more) | SimplifyJobs | [apply](https://smule.bamboohr.com/careers/29/) |
-| today | **Smule** | Machine Learning Engineer Intern | Salt Lake City, UT (+1 more) | SimplifyJobs | [apply](https://smule.bamboohr.com/careers/31/) |
-| today | **Smule** | Research Engineer Intern | Salt Lake City, UT (+1 more) | SimplifyJobs | [apply](https://smule.bamboohr.com/careers/30/) |
-| today | **State Street** | State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship | Boston, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-statestreet-global-R-801343?s=gh-internships-2027) |
-| today | **Trener Robotics** | Robotics Engineer / Lab Technician Intern | San Jose, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74/application?embed=true) |
-| 1d ago | **Bristol Myers Squibb** | Summer 2027 Intern, Cell Therapy Research (Discovery & Engineering) | Seattle 400 Dexter - WA - US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608728?s=gh-internships-2027) |
-| 1d ago | **Sezzle** | A.I. Engineering Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1Es) |
-| 2d ago | **MITRE** | AI Engineering Intern | Bedford, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117620?s=gh-internships-2027) |
-| 4d ago | **Great American Insurance Company** | Predictive Analytics Intern - Summer 2027 | Cincinnati, OH (USA) | Company portals | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/GAIG_External/job/Cincinnati-OH-USA/Predictive-Analytics-Intern---Summer-2027_R9904) |
-| 93d ago | **Massey Services** | Software Engineer Intern | Orlando, FL | SimplifyJobs | [apply](https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR104566) |
-| — | **Wurl** | Data Engineering Intern (Remote) | Remote - United States | Company portals | [apply](https://job-boards.greenhouse.io/wurljobs/jobs/4731130006) |
+| today | **Symbotic** | Intern- Software Engineer, Front-End | USA Austin, TX | Company portals | [apply](https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1) |
+| today | **White Cap Supply Holdings** | Information Security Intern, Corporate | United States | vanshb03 | [apply](https://go.vansh.nyc/1Ew) |
 
 ## Watched company portals
 
