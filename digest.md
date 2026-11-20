@@ -1,17 +1,24 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 00:31 UTC · 6 new listings_
+_Updated 2026-11-20 01:01 UTC · 13 new listings_
 
-## New listings (6) — newest first
+## New listings (13) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Meta** | Research Scientist Intern - AI Agents for Autonomous Laboratories | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/29481973694788756) |
-| today | **Meta** | Research Scientist Intern - Machine Learning for Robotics - PhD | Burlingame, CA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1766347491109788) |
-| today | **Blue Cross Blue Shield of Michigan** | Object Oriented Programming Intern | Detroit, MI | SimplifyJobs | [apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160) |
-| today | **Lawrence Livermore National Laboratory (LLNL)** | Seaborg Institute Nuclear Science and Security Undergraduate Intern - Summer 2027 | Livermore, CA, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/LLNL/3743990016985966) |
-| today | **Pivotal Software** | Autonomy Intern - Autonomy - Path Planning | Palo Alto, CA (+1 more) | SimplifyJobs | [apply](https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply) |
-| today | **Vertiv** | AI Intern | Westerville, OH / Fort Lauderdale, FL / Huntsville, AL (+2 more) | SimplifyJobs | [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620) |
+| today | **LinkedIn** | AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA) | Mountain View, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623639) |
+| today | **LinkedIn** | AI/ML Engineer Intern – Search and Recommender Systems, PhD – Summer 2027 (Mountain View, CA) | Mountain View, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623368) |
+| today | **Ford Motor Company** | Vehicle Access System Engineering Intern - Advanced EV | Allen Park, MI (+1 more) | SimplifyJobs | [apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74636) |
+| today | **Lucid Motors** | AI & Data Intern, Applied AI/Machine Learning | Newark, CA | vanshb03 | [apply](https://go.vansh.nyc/1DI) |
+| today | **Lucid Motors** | Software QA Engineer Intern, Infotainment | Newark, CA | vanshb03 | [apply](https://go.vansh.nyc/1DK) |
+| 1d ago | **Bombardier** | Software Engineering Intern (Year-round) | Wichita, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff61ec97dcc4fc8dcab8bb?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Logistics Plus Inc.** | Internship: Development Team | Erie, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7c12dd029d798066ccef?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Logistics Plus Inc.** | Internship: Information Technology | Erie, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7c13b47661ae4a62d4ac?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Radix Metasystems, Inc.** | Software Engineer - SkillBridge/Hiring-Our-Heroes Intern | Englewood, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7c3edd029d798066cd35?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Ralliant** | System Level Verification Engineer Intern (Summer 2027) | Beaverton, OR, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7c13b47661ae4a62d4aa?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Tech World Networking** | Software Engineering Intern | Rochester, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7734c1c02a9acd80c285?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Texell Credit Union** | Software Development Intern | Temple, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7d66c1c02a9acd80cc21?utm_campaign=1079&utm_source=git) |
+| — | **Samsung** | Intern, Serdes Analog Design Engineer | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) |
 
 ## Watched company portals
 
