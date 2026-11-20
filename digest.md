@@ -1,24 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 01:01 UTC · 13 new listings_
+_Updated 2026-11-20 01:31 UTC · 1 new listing_
 
-## New listings (13) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **LinkedIn** | AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA) | Mountain View, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623639) |
-| today | **LinkedIn** | AI/ML Engineer Intern – Search and Recommender Systems, PhD – Summer 2027 (Mountain View, CA) | Mountain View, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623368) |
-| today | **Ford Motor Company** | Vehicle Access System Engineering Intern - Advanced EV | Allen Park, MI (+1 more) | SimplifyJobs | [apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74636) |
-| today | **Lucid Motors** | AI & Data Intern, Applied AI/Machine Learning | Newark, CA | vanshb03 | [apply](https://go.vansh.nyc/1DI) |
-| today | **Lucid Motors** | Software QA Engineer Intern, Infotainment | Newark, CA | vanshb03 | [apply](https://go.vansh.nyc/1DK) |
-| 1d ago | **Bombardier** | Software Engineering Intern (Year-round) | Wichita, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff61ec97dcc4fc8dcab8bb?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Logistics Plus Inc.** | Internship: Development Team | Erie, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7c12dd029d798066ccef?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Logistics Plus Inc.** | Internship: Information Technology | Erie, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7c13b47661ae4a62d4ac?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Radix Metasystems, Inc.** | Software Engineer - SkillBridge/Hiring-Our-Heroes Intern | Englewood, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7c3edd029d798066cd35?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Ralliant** | System Level Verification Engineer Intern (Summer 2027) | Beaverton, OR, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7c13b47661ae4a62d4aa?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Tech World Networking** | Software Engineering Intern | Rochester, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7734c1c02a9acd80c285?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Texell Credit Union** | Software Development Intern | Temple, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aff7d66c1c02a9acd80cc21?utm_campaign=1079&utm_source=git) |
-| — | **Samsung** | Intern, Serdes Analog Design Engineer | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) |
+| today | **LinkedIn** | AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA) | Mountain View, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808) |
 
 ## Watched company portals
 
