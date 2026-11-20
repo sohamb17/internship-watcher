@@ -1,15 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 17:01 UTC · 4 new listings_
+_Updated 2026-11-20 17:31 UTC · 6 new listings_
 
-## New listings (4) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Imagine** | Summer 2027 Software Development Intern | Shakopee, MN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aabffbc3e3ce93970c7b137?utm_campaign=1079&utm_source=git) |
-| today | **Rockwell Automation** | Intern - ISM, Cyber Security and AI | Mayfield Heights, Ohio, United... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5040?s=gh-internships-2027) |
-| today | **STMicroelectronics** | Embedded Software Sensor Algorithm Intern | Santa Clara, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae3b9ddd45dc30fb7d2c200?utm_campaign=1079&utm_source=git) |
-| today | **T-Mobile** | Summer 2027 Fiber Technical Engineering Operations Internship | Overland Park, Kansas | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tmobile-external-REQ383611?s=gh-internships-2027) |
+| today | **CFS Energy** | Intern - Molten Salt Blanket Engineer - Summer 2027 | Devens, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/lever-cfsenergy-83ca56d7-f142-4ecc-af72-5484519eaf08?s=gh-internships-2027) |
+| today | **Commonwealth Fusion Systems** | Intern - Molten Salt Blanket Engineer - Summer 2027 | Devens, MA | Company portals | [apply](https://jobs.lever.co/cfsenergy/83ca56d7-f142-4ecc-af72-5484519eaf08) |
+| today | **GlobalFoundries** | AI-Enabled Device Modeling Intern (Summer 2027) | USA - New York - Malta | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604437?s=gh-internships-2027) |
+| today | **GlobalFoundries** | AI-Enabled PDK Development Intern (Summer 2027) | USA - New York - Malta | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604440?s=gh-internships-2027) |
+| today | **Lucid Motors** | Intern, AI/ML, Vehicle Infotainment, Summer 2027 | Newark, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290923007?s=gh-internships-2027) |
+| today | **National Interstate Insurance** | Desktop AI Intern - Summer 2027 | Cincinnati, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9817?s=gh-internships-2027) |
 
 ## Watched company portals
 
