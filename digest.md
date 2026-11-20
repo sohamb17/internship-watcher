@@ -1,14 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 22:31 UTC · 3 new listings_
+_Updated 2026-11-20 23:01 UTC · 3 new listings_
 
 ## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Huntsman** | Process Development Engineering Intern | USA - South Carolina - Rock Hill | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-huntsman-huntsman-J-020472?s=gh-internships-2027) |
-| today | **ServiceNow** | Security Software Engineer Intern | Kirkland, Washington, United States (+1 more) | Company portals | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) |
-| 9d ago | **EP Wealth Advisors** | Data AI Engineering Intern | Torrance, CA / Austin, TX | vanshb03 | [apply](https://go.vansh.nyc/1F4) |
+| today | **Intuitive Surgical** | Data Engineering Intern | Sunnyvale, CA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/Intuitive/744000162832659) |
+| today | **Jabil** | Software Engineering Intern | Austin, TX | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2472697?s=gh-internships-2027) |
+| today | **Ralliant** | Software Design Engineer Intern (Summer 2027) | Beaverton, OR, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00bae8dfa58e4c244ddfe5?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
