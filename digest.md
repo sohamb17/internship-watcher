@@ -1,13 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 15:01 UTC · 2 new listings_
+_Updated 2026-11-20 15:31 UTC · 2 new listings_
 
 ## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Bristol Myers Squibb** | Technology Rotational Development Program Intern-Summer 2027 | Princeton - NJ - US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608752?s=gh-internships-2027) |
-| today | **State Street** | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship | Clifton, New Jersey | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-statestreet-global-R-801341?s=gh-internships-2027) |
+| today | **AMD** | Spring/Summer 2027 Masters Server Power Management Engineering Co-Op | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-89816?s=gh-internships-2027) |
+| today | **Vertiv** | Firmware Engineer Intern (Graduate Level) (Summer 2027) | Delaware, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a8f5fa3d7c91d0cf446efdd?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
