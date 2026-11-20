@@ -1,18 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 21:53 UTC · 7 new listings_
+_Updated 2026-11-20 22:01 UTC · 3 new listings_
 
-## New listings (7) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern - Quantum Applications | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200068328?s=gh-internships-2027) |
-| today | **Rivian** | Software Engineering Intern, AI Platform, Autonomy | Palo Alto, CA | vanshb03 | [apply](https://go.vansh.nyc/1F3) |
-| today | **ASML** | Internship- Chandler CS DUV / EUV | Chandler, AZ, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357416?s=gh-internships-2027) |
-| today | **Bristol Myers Squibb** | Oncology Research Co-op (Undergraduate or Graduate) | Cambridge Crossing - MA - US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608777?s=gh-internships-2027) |
-| today | **Cisco** | Data Science Analyst II (Intern) – Untied States | San Jose, California, US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2032691?s=gh-internships-2027) |
-| today | **Cisco** | Data Science Analyst II Intern | San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1F1) |
-| today | **ibotta** | Information Technology Intern | Hybrid - Denver | Company portals | [apply](https://jobs.ashbyhq.com/ibotta/a3981036-8c0e-47f3-8720-92362bbbda4f) |
+| today | **[Mom's Meals** | Software Quality Assurance (QA) Intern | Ankeny, IA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b009b7b89d8ca1e84957c27?utm_campaign=1079&utm_source=git) |
+| today | **Mission Technologies, a division of HII** | Software Engineer (SkillBridge Intern) - 23875 | Roanoke, Virginia, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af54c19a3cce217be6c9274?utm_campaign=1079&utm_source=git) |
+| today | **Mission Technologies, a division of HII** | Software Engineer, Intern - Summer 2027 - 30942 | Crane, IN, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af825ed42ae65e2c8f3b2fc?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
