@@ -1,17 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-20 19:01 UTC · 6 new listings_
+_Updated 2026-11-20 19:31 UTC · 3 new listings_
 
-## New listings (6) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ASML** | Internship - Contract Management and AI | San Diego, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357971?s=gh-internships-2027) |
-| today | **Brown & Brown** | Technology Solutions Intern | Daytona Beach, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac88441c3a8af9c54a07019?utm_campaign=1079&utm_source=git) |
-| today | **Career Launch Tech Initiative** | Software Engineer Intern-CLTI | Los Angeles, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00726289d8ca1e8495623f?utm_campaign=1079&utm_source=git) |
-| today | **NorthPoint Development** | Software Development Intern | Kansas City, MO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae3b656d7424a2a828e2523?utm_campaign=1079&utm_source=git) |
-| today | **Plains** | Intern, Operations Management System, Digital & AI Innovation | Houston, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00725546419e65476b406c?utm_campaign=1079&utm_source=git) |
-| today | **T. Rowe Price** | Equity Research Internship Opportunity – Summer 2027 | Baltimore, MD | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-troweprice-troweprice-80630?s=gh-internships-2027) |
+| today | **Renesas Electronics** | Firmware Engineering Intern | Austin, TX | vanshb03 | [apply](https://go.vansh.nyc/1ET) |
+| 1d ago | **Hewlett Packard Enterprise** | AI Engineering Technical Intern | Sunnyvale, CA | vanshb03 | [apply](https://go.vansh.nyc/1ER) |
+| — | **AtriCure** | Sourcing Project Engineer Co-op | Mason, OH | Company portals | [apply](https://job-boards.greenhouse.io/co-op_intern/jobs/4517174009) |
 
 ## Watched company portals
 
