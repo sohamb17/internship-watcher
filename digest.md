@@ -1,16 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 04:01 UTC · 5 new listings_
+_Updated 2026-11-21 04:31 UTC · 3 new listings_
 
-## New listings (5) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| — | **Biohub** | AI Research Scientist Intern | Redwood City | nointernship.com | [apply](https://job-boards.greenhouse.io/biohub/jobs/8400682) |
-| — | **Blizzard Entertainment** | Applied Science Intern - PhD | Irvine | nointernship.com | [apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Applied-Science_R028347) |
-| — | **Constellation Energy** | Powerfolio Data Analyst Intern | Houston | nointernship.com | [apply](https://jobs.constellationenergy.com/jobs/143909?lang=en-us) |
-| — | **Renesas Electronics** | System Verification Engineer Intern | Austin | nointernship.com | [apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903) |
-| — | **The Allen Institute for AI** | Research Intern - Climate Modeling | Seattle | nointernship.com | [apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) |
+| 1d ago | **Cisco** | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC | vanshb03 | [apply](https://go.vansh.nyc/1G5) |
+| 1d ago | **Hakkōda, an IBM Company** | Software Developer Intern 2027 - Austin | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0101a6df73191d2e6b02f5?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Hilti North America** | Information Technology Intern - Summer 2027 | Tulsa, OK, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae3fc19eab1f96730978adb?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
