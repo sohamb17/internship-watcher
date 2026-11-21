@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 19:01 UTC · 0 new listings_
+_Updated 2026-11-21 19:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **General Atomics** | Intern - Software/ Computer Engineering, Computer Science | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a9b18e490a313642c658913?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
