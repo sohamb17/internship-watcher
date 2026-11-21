@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 16:31 UTC · 2 new listings_
+_Updated 2026-11-21 17:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 5d ago | **Blizzard Entertainment** | Data Platform Engineering Intern - Data Platform Engineering | Irvine, CA | SimplifyJobs | [apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358) |
-| 71d ago | **Genworth Financial** | Data Analytics Intern - Summer 2027 | Richmond, VA | SimplifyJobs | [apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Data-Analytics-Intern---Summer-2027_REQ-260288-1) |
+Nothing new this run.
 
 ## Watched company portals
 
