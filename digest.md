@@ -1,18 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 03:31 UTC · 7 new listings_
+_Updated 2026-11-21 04:01 UTC · 5 new listings_
 
-## New listings (7) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Leidos** | Aerospace M&S Engineer Intern | Huntsville, AL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-leidos-external-R-00197493?s=gh-internships-2027) |
-| 1d ago | **Applied Physical Sciences Corp (APS)** | Intern – Firmware Engineer -REQ (367) | Groton, CT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00e7cfdf73191d2e6af853?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Teradata** | Software Engineer Intern – Database Systems | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00f683a512f514bbde1bb5?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Teradata** | Software Engineer Intern — Agentic Database | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00e8510ae14188d58c24f1?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Teradata** | Software Engineering Intern - Fabric Agentic Integration | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00e84da512f514bbde15fb?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Teradata** | Software Engineering Intern — AI Observability | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00e84da512f514bbde15fa?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Teradata** | Tera Agents Software Engineering Intern | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00e852df73191d2e6af8a0?utm_campaign=1079&utm_source=git) |
+| — | **Biohub** | AI Research Scientist Intern | Redwood City | nointernship.com | [apply](https://job-boards.greenhouse.io/biohub/jobs/8400682) |
+| — | **Blizzard Entertainment** | Applied Science Intern - PhD | Irvine | nointernship.com | [apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Applied-Science_R028347) |
+| — | **Constellation Energy** | Powerfolio Data Analyst Intern | Houston | nointernship.com | [apply](https://jobs.constellationenergy.com/jobs/143909?lang=en-us) |
+| — | **Renesas Electronics** | System Verification Engineer Intern | Austin | nointernship.com | [apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903) |
+| — | **The Allen Institute for AI** | Research Intern - Climate Modeling | Seattle | nointernship.com | [apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) |
 
 ## Watched company portals
 
