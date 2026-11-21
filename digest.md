@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 01:32 UTC · 1 new listing_
+_Updated 2026-11-21 02:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Lucid Motors** | Intern, ADAS Platform Tools, Summer 2027 | Newark, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290796007?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
