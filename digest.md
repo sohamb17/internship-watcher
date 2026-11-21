@@ -1,36 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 00:31 UTC · 25 new listings_
+_Updated 2026-11-21 01:01 UTC · 10 new listings_
 
-## New listings (25) — newest first
+## New listings (10) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern - AI System Architecture Modeling and Performance | Hillsboro, Oregon, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200068350?s=gh-internships-2027) |
-| today | **Applied Research Associates** | Software Engineer Intern | Baton Rouge, LA (+1 more) | SimplifyJobs | [apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=0e5ea52f-9c4b-45f8-9a60-86678d8e3fd8) |
-| today | **Ardurra** | GIS/Environmental Intern | Cherry Hill Township, NJ | SimplifyJobs | [apply](https://recruiting.ultipro.com/KIN1006KEAI/JobBoard/8e199c52-6215-4abe-8c26-7a342cd4ff7e/OpportunityDetail?opportunityId=230f62c5-1c34-427f-b2ef-bbe218658fa6) |
-| today | **Bennett Thrasher** | IT AI & Automation Intern | Atlanta, GA (+1 more) | SimplifyJobs | [apply](https://btcpa.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2/OpportunityDetail?opportunityId=4d519358-fb57-46be-8018-838c26e1bf4a) |
-| today | **Calamos Investments** | Data Science Intern<br>Master's | Naperville, IL / Chicago, IL | SimplifyJobs | [apply](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=eb5cd89f-4e14-4b46-ab4d-f68f12bf61af) |
-| today | **Calamos Investments** | Information Technology Research Development Intern | Naperville, IL | SimplifyJobs | [apply](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=8ba1e4ff-1ee1-46ab-b93f-9a4e4b6eb487) |
-| today | **Calamos Investments** | IT Architecture & Sales Systems Intern | Naperville, IL | SimplifyJobs | [apply](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=d9cbb719-b68a-42b7-b40d-d8bf44caec64) |
-| today | **Cisco** | AI Cybersecurity Engineer I (Intern) – United States | RTP, North Carolina, US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2030295?s=gh-internships-2027) |
-| today | **Great Southern Wood Preserving** | Engineering Intern - Data Analyst | Abbeville, AL | SimplifyJobs | [apply](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1) |
-| today | **Los Angeles Dodgers** | Summer Analyst Intern | LA | SimplifyJobs | [apply](https://recruiting.ultipro.com/LOS1000LADOD/JobBoard/5365ad6e-23ff-4703-bb77-1e9451fb855e/OpportunityDetail?opportunityId=fb796a9d-16f1-4514-8f6b-e5c5dbbb6019) |
-| today | **Mesirow** | Software Developer Intern - IT | Chicago, IL (+1 more) | SimplifyJobs | [apply](https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214) |
-| today | **Method** | Engineering Resident Intern | Remote in USA / Santa Clara, CA / Charlotte, NC / NYC / Remo (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/method/jobs/8208724003) |
-| today | **Milliman** | Data Analyst Intern | Brookfield, WI | SimplifyJobs | [apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba) |
-| today | **Mom's Meals** | Data Analytics Intern | Ankeny, IA (+1 more) | SimplifyJobs | [apply](https://jobs.lever.co/momsmeals/9cc07826-a8bc-4ad4-a570-b54eabc95774/apply) |
-| today | **Southern Farm Bureau Life Insurance** | Business Intelligence/Data Insights Intern | Jackson, MS (+1 more) | SimplifyJobs | [apply](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e98034f4-8629-4425-8007-7f5446ca3e39) |
-| today | **Southern Farm Bureau Life Insurance** | Data Analytics Intern<br>Master's/PhD | Jackson, MS | SimplifyJobs | [apply](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf) |
-| today | **Southern Farm Bureau Life Insurance** | Data Engineer Intern | Jackson, MS (+1 more) | SimplifyJobs | [apply](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=87bde30a-d527-4d94-880d-db1a93afa941) |
-| today | **Starkey** | Algorithms Intern<br>Master's | Eden Prairie, MN | SimplifyJobs | [apply](https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=28499be6-cffe-4a43-9792-9e085fed9404) |
-| today | **TCOM** | Software Engineer Intern | Sioux Falls, SD (+1 more) | SimplifyJobs | [apply](https://recruiting.ultipro.com/TCO1001TCOM/JobBoard/74e57e92-4355-44d7-8471-3c6eecfda9ef/OpportunityDetail?opportunityId=e8df2c4d-5bfd-4b2c-9dc2-d1f4713497f5) |
-| today | **Trimont** | Research Intern | Atlanta, GA | SimplifyJobs | [apply](https://recruiting.ultipro.com/TRI1039TRES/JobBoard/551314d5-926b-4475-808f-39d0e0248aed/OpportunityDetail?opportunityId=d8a1f727-d49d-4e7c-b75b-cc27c1f105e8) |
-| today | **VT Industries** | Software Development Intern | Holstein, IA (+1 more) | SimplifyJobs | [apply](https://vtindustries.rec.pro.ukg.net/VTI1500VTIN/JobBoard/674339ab-9285-4ba2-80bd-aa3503cae1b2/OpportunityDetail?opportunityId=c6ed6034-a946-447b-bc0f-46cf40fe4367) |
-| today | **Werner Electric Supply** | AI Intern | Appleton, WI | SimplifyJobs | [apply](https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d) |
-| 1d ago | **Idaho National Laboratory** | Stochastic Tools Software Intern - Summer 2027 | Idaho Falls, ID, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00c861dfa58e4c244de6df?utm_campaign=1079&utm_source=git) |
-| 1d ago | **SAS** | Quantum Research & Development Intern<br>Master's | Cary, NC | SimplifyJobs | [apply](https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false) |
-| 399d ago | **Mom's Meals** | Salesforce Developer Intern | Ankeny, IA | vanshb03 | [apply](https://go.vansh.nyc/1FE) |
+| today | **Acuity Insurance** | Data Analytics Intern - Data Science | Sheboygan, WI | SimplifyJobs | [apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7) |
+| today | **Acuity Insurance** | Strategic Information Intern | Sheboygan, WI | SimplifyJobs | [apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7) |
+| today | **Applied Research Associates** | Software Quality Assurance Intern | Baton Rouge, LA | vanshb03 | [apply](https://go.vansh.nyc/1FU) |
+| today | **Bombardier** | Software Engineering Intern | Wichita, KS | vanshb03 | [apply](https://go.vansh.nyc/1FS) |
+| today | **Calamos Investments** | Data Engineering Intern | Naperville, IL | vanshb03 | [apply](https://go.vansh.nyc/1FY) |
+| today | **Calamos Investments** | Information Security Intern | Naperville, IL | vanshb03 | [apply](https://go.vansh.nyc/1FV) |
+| today | **Fidelity Bank** | Digital Operations Analyst Intern | Wichita, KS | SimplifyJobs | [apply](https://recruiting.ultipro.com/fid1002/JobBoard/f4c0b704-935f-13c8-e696-6c4aa3318a47/OpportunityDetail?opportunityId=43cf33e0-3efc-43f2-9ddd-4cf8052217b0) |
+| today | **Mesirow** | Cloud Engineering Intern, IT | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1FZ) |
+| today | **Resultant** | Data & Analytics Consultant Intern | Indianapolis, IN | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/Resultant/744000162782371) |
+| today | **Southern Farm Bureau Life Insurance** | Cyber Security Intern | Jackson, MS | vanshb03 | [apply](https://go.vansh.nyc/1G1) |
 
 ## Watched company portals
 
