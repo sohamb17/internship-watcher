@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 15:01 UTC · 0 new listings_
+_Updated 2026-11-21 15:31 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **TikTok USDS Joint Venture** | Software Engineer Intern (Ads) - 2027 Summer | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0193ba0ae14188d58c4446?utm_campaign=1079&utm_source=git) |
+| today | **TikTok USDS Joint Venture** | Software Engineer Intern (E-commerce) - 2027 Summer | Seattle, WA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a863c902f4f0014cae29277?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
