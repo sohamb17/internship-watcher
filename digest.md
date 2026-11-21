@@ -1,13 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 03:18 UTC · 2 new listings_
+_Updated 2026-11-21 03:31 UTC · 7 new listings_
 
-## New listings (2) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Koch Industries** | Data and Analytics Intern | Lisle, IL | SimplifyJobs | [apply](https://koch.avature.net/en_US/careers/JobDetail/198151) |
-| 1d ago | **Gorbel** | Front-End Web Developer Co-op | Victor, NY | SimplifyJobs | [apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1) |
+| today | **Leidos** | Aerospace M&S Engineer Intern | Huntsville, AL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-leidos-external-R-00197493?s=gh-internships-2027) |
+| 1d ago | **Applied Physical Sciences Corp (APS)** | Intern – Firmware Engineer -REQ (367) | Groton, CT, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00e7cfdf73191d2e6af853?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Teradata** | Software Engineer Intern – Database Systems | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00f683a512f514bbde1bb5?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Teradata** | Software Engineer Intern — Agentic Database | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00e8510ae14188d58c24f1?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Teradata** | Software Engineering Intern - Fabric Agentic Integration | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00e84da512f514bbde15fb?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Teradata** | Software Engineering Intern — AI Observability | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00e84da512f514bbde15fa?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Teradata** | Tera Agents Software Engineering Intern | San Diego, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00e852df73191d2e6af8a0?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
