@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 03:01 UTC · 0 new listings_
+_Updated 2026-11-21 03:18 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Koch Industries** | Data and Analytics Intern | Lisle, IL | SimplifyJobs | [apply](https://koch.avature.net/en_US/careers/JobDetail/198151) |
+| 1d ago | **Gorbel** | Front-End Web Developer Co-op | Victor, NY | SimplifyJobs | [apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1) |
 
 ## Watched company portals
 
