@@ -528,6 +528,20 @@
 "sk": "d6633194-cac0-4fa3-ba4b-c962e822205e",
 "src": "simplify",
 "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1"
+},
+{
+"company": "Vatic Outsourcing",
+"degrees": [],
+"dk": "vaticoutsourcing|analyst business intelligence",
+"found": 20778,
+"loc": "Marietta, GA",
+"more": null,
+"night": true,
+"posted": 20778,
+"role": "Business Intelligence Analyst Intern",
+"sk": "cc0e5132-bdce-42ad-897c-ee8003bc0cd9",
+"src": "simplify",
+"url": "https://vaticoutsourcing.bamboohr.com/careers/152/"
 }
 ],
 "roles": {
@@ -8017,6 +8031,7 @@
 "varda|reliability site": 20778,
 "varian|developer software": 20759,
 "vaticinvestments|ai research": 20769,
+"vaticoutsourcing|analyst business intelligence": 20778,
 "vaynermedia|analytics data resident": 20759,
 "veeamsoftware|ai analyst care customer": 20778,
 "veeamsoftware|ai automation engineering": 20778,
@@ -16556,6 +16571,7 @@
 "cba0ad46-a125-46b1-83ce-70159c39feea": 20769,
 "cbbf5921-5565-4f8b-9599-adde9125fde0": 20759,
 "cbf0ae78-7117-4952-b05e-ab26f07e9803": 20770,
+"cc0e5132-bdce-42ad-897c-ee8003bc0cd9": 20778,
 "cc498de5-5a4f-4bc7-9742-a133afaa8570": 20774,
 "cc8216f4-5899-4120-a588-e19994b5c98a": 20778,
 "cc95f424-ceae-43ca-95ba-0cc276090f2a": 20778,
