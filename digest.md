@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 17:01 UTC · 0 new listings_
+_Updated 2026-11-21 17:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **First PREMIER Bank** | Information Security Intern | Sioux Falls, SD | vanshb03 | [apply](https://go.vansh.nyc/1Gg) |
 
 ## Watched company portals
 
