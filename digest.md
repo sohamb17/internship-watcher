@@ -1,14 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 10:01 UTC · 4 new listings_
+_Updated 2026-11-21 10:31 UTC · 5 new listings_
 
-## New listings (4) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Vatic Outsourcing** | Business Intelligence Analyst Intern | Marietta, GA | SimplifyJobs | [apply](https://vaticoutsourcing.bamboohr.com/careers/152/) |
 | 1d ago | **Centier Bank** | Marketing Analyst Intern | Merrillville, IN | SimplifyJobs | [apply](https://centier.wd501.myworkdayjobs.com/centierbankcareers/job/Merrillville-IN/Marketing-Analyst-Intern_R2999) |
 | 1d ago | **First PREMIER Bank** | Analytics Intern | Sioux Falls, SD | SimplifyJobs | [apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1) |
+| 16d ago | **Trajectory** | Member of Technical Staff Generalist Engineer Intern | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/trajectory/ceee0ea0-195d-4c58-8b57-4013c81e373c/application?embed=true) |
 | 22d ago | **Astera** | Robotics Systems Intern - Wheeled Platforms & Lifting Systems | Emeryville, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8/application?embed=true) |
 
 ## Watched company portals
