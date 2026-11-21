@@ -542,6 +542,20 @@
 "sk": "cc0e5132-bdce-42ad-897c-ee8003bc0cd9",
 "src": "simplify",
 "url": "https://vaticoutsourcing.bamboohr.com/careers/152/"
+},
+{
+"company": "Astera",
+"degrees": [],
+"dk": "astera|lifting platforms robotics systems wheeled",
+"found": 20778,
+"loc": "Emeryville, CA",
+"more": null,
+"night": true,
+"posted": 20756,
+"role": "Robotics Systems Intern - Wheeled Platforms & Lifting Systems",
+"sk": "2a369c5b-2d82-4445-b2ae-c67327efa726",
+"src": "simplify",
+"url": "https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8/application?embed=true"
 }
 ],
 "roles": {
@@ -1308,6 +1322,7 @@
 "astera|engineering ops technology": 20778,
 "astera|engineering performance": 20778,
 "astera|engineering product": 20778,
+"astera|lifting platforms robotics systems wheeled": 20778,
 "astranisspace|backend engineer software": 20762,
 "astranisspace|defined hardware radio software": 20768,
 "astranisspace|developer embedded network payload software": 20778,
@@ -14457,6 +14472,7 @@
 "29dccfec-8c43-420d-b9be-cb77d19d5499": 20774,
 "29efc01f-ded3-4731-b798-5b9a09c13427": 20778,
 "2a020896-015e-4ca9-8e89-f9ce18d0152c": 20759,
+"2a369c5b-2d82-4445-b2ae-c67327efa726": 20778,
 "2a4e1069-9cf2-40f7-8610-0110cfc1fdeb": 20778,
 "2a9865db-8f3e-40ac-a2fb-b90b64595d1e": 20778,
 "2aabd5c0-f81b-4d9c-9139-941364641e32": 20759,
@@ -21457,6 +21473,7 @@
 "https://zapply.jobs/l/d/phenom-cisco-2024757": 20761,
 "https://zapply.jobs/l/d/phenom-cisco-2025375": 20760,
 "https://zapply.jobs/l/d/phenom-cisco-2025378": 20774,
+"https://zapply.jobs/l/d/phenom-cisco-2025611": 20778,
 "https://zapply.jobs/l/d/phenom-cisco-2027214": 20773,
 "https://zapply.jobs/l/d/phenom-cisco-2032691": 20778,
 "https://zapply.jobs/l/d/phenom-danaher-R1321509": 20769,
