@@ -1,21 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 01:01 UTC · 10 new listings_
+_Updated 2026-11-21 01:32 UTC · 1 new listing_
 
-## New listings (10) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Acuity Insurance** | Data Analytics Intern - Data Science | Sheboygan, WI | SimplifyJobs | [apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7) |
-| today | **Acuity Insurance** | Strategic Information Intern | Sheboygan, WI | SimplifyJobs | [apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7) |
-| today | **Applied Research Associates** | Software Quality Assurance Intern | Baton Rouge, LA | vanshb03 | [apply](https://go.vansh.nyc/1FU) |
-| today | **Bombardier** | Software Engineering Intern | Wichita, KS | vanshb03 | [apply](https://go.vansh.nyc/1FS) |
-| today | **Calamos Investments** | Data Engineering Intern | Naperville, IL | vanshb03 | [apply](https://go.vansh.nyc/1FY) |
-| today | **Calamos Investments** | Information Security Intern | Naperville, IL | vanshb03 | [apply](https://go.vansh.nyc/1FV) |
-| today | **Fidelity Bank** | Digital Operations Analyst Intern | Wichita, KS | SimplifyJobs | [apply](https://recruiting.ultipro.com/fid1002/JobBoard/f4c0b704-935f-13c8-e696-6c4aa3318a47/OpportunityDetail?opportunityId=43cf33e0-3efc-43f2-9ddd-4cf8052217b0) |
-| today | **Mesirow** | Cloud Engineering Intern, IT | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1FZ) |
-| today | **Resultant** | Data & Analytics Consultant Intern | Indianapolis, IN | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/Resultant/744000162782371) |
-| today | **Southern Farm Bureau Life Insurance** | Cyber Security Intern | Jackson, MS | vanshb03 | [apply](https://go.vansh.nyc/1G1) |
+| today | **Lucid Motors** | Intern, ADAS Platform Tools, Summer 2027 | Newark, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290796007?s=gh-internships-2027) |
 
 ## Watched company portals
 
