@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 07:31 UTC · 0 new listings_
+_Updated 2026-11-21 08:00 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Centier Bank** | Marketing Analyst Intern | Merrillville, IN | SimplifyJobs | [apply](https://centier.wd501.myworkdayjobs.com/centierbankcareers/job/Merrillville-IN/Marketing-Analyst-Intern_R2999) |
+| 1d ago | **First PREMIER Bank** | Analytics Intern | Sioux Falls, SD | SimplifyJobs | [apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1) |
 
 ## Watched company portals
 

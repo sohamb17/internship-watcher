@@ -498,7 +498,38 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20776,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20777
 },
-"held": [],
+"held": [
+{
+"company": "Centier Bank",
+"degrees": [
+"Bachelor's"
+],
+"dk": "centierbank|analyst marketing",
+"found": 20778,
+"loc": "Merrillville, IN",
+"more": null,
+"night": true,
+"posted": 20777,
+"role": "Marketing Analyst Intern",
+"sk": "a4eebd7a-0a35-4f40-a2ca-12679c5e698d",
+"src": "simplify",
+"url": "https://centier.wd501.myworkdayjobs.com/centierbankcareers/job/Merrillville-IN/Marketing-Analyst-Intern_R2999"
+},
+{
+"company": "First PREMIER Bank",
+"degrees": [],
+"dk": "firstpremierbank|analytics",
+"found": 20778,
+"loc": "Sioux Falls, SD",
+"more": null,
+"night": true,
+"posted": 20777,
+"role": "Analytics Intern",
+"sk": "d6633194-cac0-4fa3-ba4b-c962e822205e",
+"src": "simplify",
+"url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1"
+}
+],
 "roles": {
 "10a|engineering fellow": 20778,
 "1password|brokering credential developer": 20759,
@@ -2082,6 +2113,7 @@
 "centene|analytics engineering": 20777,
 "centerforaisafetycais|engineer research": 20778,
 "centerstone|bachelor level": 20764,
+"centierbank|analyst marketing": 20778,
 "centralinsurance|engineering software": 20762,
 "centralizedsupplychainservices|data quality": 20778,
 "centralizedsupplychainservices|engineering": 20778,
@@ -3013,6 +3045,7 @@
 "firstcitizensbancshares|modeling quantitative": 20760,
 "firstcitizenswealth|developer it nc raleigh software": 20767,
 "firstnationalbank|data enterprise governance quality": 20778,
+"firstpremierbank|analytics": 20778,
 "firstrf|embedded engineer": 20767,
 "firstsolarus|analytics data": 20759,
 "firstsolarus|characterization data device science": 20759,
@@ -15991,6 +16024,7 @@
 "a4762cb5-97a1-457e-a071-427b1e9dd672": 20770,
 "a491d653-6b52-4a87-8eb8-a9d9a74e5f4f": 20769,
 "a4da6180-6f78-4f2c-ac8b-f1d23a467b3b": 20778,
+"a4eebd7a-0a35-4f40-a2ca-12679c5e698d": 20778,
 "a52db0c1-d350-4198-a39f-785d617afe4e": 20778,
 "a52f9be6-50a2-4946-a09a-dfda0252c072": 20778,
 "a5485083-cfbd-4ff6-9b07-9cdf7b51cc81": 20778,
@@ -16632,6 +16666,7 @@
 "d5c8a4f3-a150-4968-813c-20fc2c81df18": 20778,
 "d5f10439-1231-496b-a535-96be20ab9808": 20778,
 "d61f0f42-99b5-4c9d-a8bf-5561238b3014": 20759,
+"d6633194-cac0-4fa3-ba4b-c962e822205e": 20778,
 "d66fb15d-3f14-497d-9099-9814aef7e5a3": 20766,
 "d677575f-4784-434b-855b-91bd6c615a7c": 20778,
 "d67d82ad-8fcb-40e5-9792-beb487215244": 20763,
