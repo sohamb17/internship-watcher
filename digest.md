@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 09:01 UTC · 4 new listings_
+_Updated 2026-11-21 09:31 UTC · 3 new listings_
 
-## New listings (4) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **Vatic Outsourcing** | Business Intelligence Analyst Intern | Marietta, GA | SimplifyJobs | [apply](https://vaticoutsourcing.bamboohr.com/careers/152/) |
-| 1d ago | **NVIDIA** | Software Engineer, DL Kernel Libraries - New College Grad 2027 | Santa Clara, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00c8e7e0dc96195928435e?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Centier Bank** | Marketing Analyst Intern | Merrillville, IN | SimplifyJobs | [apply](https://centier.wd501.myworkdayjobs.com/centierbankcareers/job/Merrillville-IN/Marketing-Analyst-Intern_R2999) |
 | 1d ago | **First PREMIER Bank** | Analytics Intern | Sioux Falls, SD | SimplifyJobs | [apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1) |
 
