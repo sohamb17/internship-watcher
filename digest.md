@@ -1,14 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 21:31 UTC · 3 new listings_
+_Updated 2026-11-21 22:01 UTC · 0 new listings_
 
-## New listings (3) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Advance Auto Parts** | Data Science Intern | Raleigh, NC | vanshb03 | [apply](https://go.vansh.nyc/1Gi) |
-| today | **Fabri** | DevOps, IT & Cybersecurity Intern | Billerica, MA | vanshb03 | [apply](https://go.vansh.nyc/1Gk) |
-| 1d ago | **Worthington Enterprises** | AI Intern | Columbus, OH | vanshb03 | [apply](https://go.vansh.nyc/1Gj) |
+Nothing new this run.
 
 ## Watched company portals
 
