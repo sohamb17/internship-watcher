@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 18:01 UTC · 0 new listings_
+_Updated 2026-11-21 18:31 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **IBM** | IBM Z Engineering System Test Back-End Developer - Systems Assurance Kernel (SAK) Intern 2027 | Poughkeepsie, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa43451f3aa936e2cdb0387?utm_campaign=1079&utm_source=git) |
+| today | **IBM** | SW Developer Intern: Systems Assurance - Austin, TX & Rochester, MN - 2027 | Rochester, Minnesota, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa493a4f3aa936e2cdb1c11?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
