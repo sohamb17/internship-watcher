@@ -1,11 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 11:31 UTC · 5 new listings_
+_Updated 2026-11-21 12:01 UTC · 7 new listings_
 
-## New listings (5) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **ByteDance** | Software Engineer Project Intern (Developer Infrastructure) - 2027 Start | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac8fd34fcdafb60c6a4a261?utm_campaign=1079&utm_source=git) |
+| today | **Jewelers Mutual Group** | Information Technology Intern - Summer 2027 | Neenah, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aabf8c895c707f49dfeebf7?utm_campaign=1079&utm_source=git) |
 | today | **Vatic Outsourcing** | Business Intelligence Analyst Intern | Marietta, GA | SimplifyJobs | [apply](https://vaticoutsourcing.bamboohr.com/careers/152/) |
 | 1d ago | **Centier Bank** | Marketing Analyst Intern | Merrillville, IN | SimplifyJobs | [apply](https://centier.wd501.myworkdayjobs.com/centierbankcareers/job/Merrillville-IN/Marketing-Analyst-Intern_R2999) |
 | 1d ago | **First PREMIER Bank** | Analytics Intern | Sioux Falls, SD | SimplifyJobs | [apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1) |
