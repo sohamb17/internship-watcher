@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 16:01 UTC · 1 new listing_
+_Updated 2026-11-21 16:31 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Woodward Governor** | AI Intern | Niles, IL / Fort Collins, CO | SimplifyJobs | [apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) |
+| 5d ago | **Blizzard Entertainment** | Data Platform Engineering Intern - Data Platform Engineering | Irvine, CA | SimplifyJobs | [apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358) |
+| 71d ago | **Genworth Financial** | Data Analytics Intern - Summer 2027 | Richmond, VA | SimplifyJobs | [apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Data-Analytics-Intern---Summer-2027_REQ-260288-1) |
 
 ## Watched company portals
 
