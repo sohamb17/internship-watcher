@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 14:31 UTC · 2 new listings_
+_Updated 2026-11-21 15:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Teledyne Brown Engineering** | EADSIM MBSE Intern (Summer 2027) with Security Clearance | Huntsville, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b018817af6fea8c089b73c4?utm_campaign=1079&utm_source=git) |
-| today | **Teledyne Brown Engineering** | EADSIM Software Engineering Intern (Summer 2027) with Security Clearance | Huntsville, AL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0188100ae14188d58c432b?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
