@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 02:01 UTC · 0 new listings_
+_Updated 2026-11-21 02:31 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **General Dynamics Land Systems** | Software Developer Intern | Sterling Heights, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00b1920f536e0ba727654f?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Tektronix** | Software Design Engineer Intern (Summer 2027) | Beaverton, OR, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b00e67ea512f514bbde150a?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
