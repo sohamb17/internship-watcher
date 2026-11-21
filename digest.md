@@ -1,14 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 04:31 UTC · 3 new listings_
+_Updated 2026-11-21 05:01 UTC · 1 new listing_
 
-## New listings (3) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Cisco** | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC | vanshb03 | [apply](https://go.vansh.nyc/1G5) |
-| 1d ago | **Hakkōda, an IBM Company** | Software Developer Intern 2027 - Austin | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0101a6df73191d2e6b02f5?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Hilti North America** | Information Technology Intern - Summer 2027 | Tulsa, OK, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae3fc19eab1f96730978adb?utm_campaign=1079&utm_source=git) |
+| — | **Kudu Dynamics** | Software Developer Intern | Fort Belvoir | nointernship.com | [apply](https://go.vansh.nyc/1Eu?s=y) |
 
 ## Watched company portals
 
