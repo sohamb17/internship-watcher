@@ -598,6 +598,20 @@
 "sk": "jobright:6aabf8c895c707f49dfeebf7",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6aabf8c895c707f49dfeebf7?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "Sungrow",
+"degrees": [],
+"dk": "sungrow|development innovation service",
+"found": 20778,
+"loc": "Houston, TX, United States",
+"more": null,
+"night": true,
+"posted": 20778,
+"role": "Service Innovation & Development Intern",
+"sk": "jobright:6ae53176fb2cd420ace5d649",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6ae53176fb2cd420ace5d649?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -7223,6 +7237,7 @@
 "substrate|engineer software systems": 20778,
 "subtotal|engineer software": 20778,
 "subtotal|engineering software": 20778,
+"sungrow|development innovation service": 20778,
 "sunlife|analyst data": 20759,
 "sunlife|analyst engineering quality": 20759,
 "sunlife|business engineer operations software": 20778,
@@ -12212,6 +12227,8 @@
 "jobright:6ac90374d4a5a0370741032b": 20778,
 "jobright:6ac91117d4a5a03707410887": 20778,
 "jobright:6ac91cbffcdafb60c6a4ad9b": 20778,
+"jobright:6ac9309cd4a5a0370741136c": 20778,
+"jobright:6ac931c9fcdafb60c6a4b458": 20778,
 "jobright:6ac96b61d4a5a037074124b2": 20773,
 "jobright:6ac96b62fe8f33a85d503cfc": 20773,
 "jobright:6ac97d15d4a5a03707412893": 20770,
@@ -12490,6 +12507,7 @@
 "jobright:6ae4f43dd7424a2a828ea54d": 20778,
 "jobright:6ae51e06eab1f9673097fd27": 20760,
 "jobright:6ae52c2f77c09cb3bd4b2509": 20760,
+"jobright:6ae53176fb2cd420ace5d649": 20778,
 "jobright:6ae53762d45dc30fb7d35f15": 20760,
 "jobright:6ae56a7d77c09cb3bd4b373f": 20763,
 "jobright:6ae69186d45dc30fb7d3935a": 20764,
@@ -13462,7 +13480,8 @@
 "jobright:6b0101a6df73191d2e6b02f5": 20778,
 "jobright:6b0120f8df73191d2e6b0a34": 20778,
 "jobright:6b013a142ad6cde5ef2514df": 20778,
-"jobright:6b0166bcf6ef85c61a50f35b": 20778
+"jobright:6b0166bcf6ef85c61a50f35b": 20778,
+"jobright:6b017556f6ef85c61a50f50c": 20778
 },
 "nointernship": {
 "nointernship:50673": 20760,
