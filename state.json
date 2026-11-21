@@ -612,6 +612,20 @@
 "sk": "jobright:6ae53176fb2cd420ace5d649",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6ae53176fb2cd420ace5d649?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "Activision Blizzard",
+"degrees": [],
+"dk": "activisionblizzard|data engineering platform",
+"found": 20778,
+"loc": "Irvine, CA",
+"more": null,
+"night": true,
+"posted": 20778,
+"role": "Data Platform Engineering Intern",
+"sk": "73e6ad9a-7961-4c4e-a4a6-4a357fb33dea",
+"src": "vansh",
+"url": "https://go.vansh.nyc/1Ge"
 }
 ],
 "roles": {
@@ -672,6 +686,7 @@
 "acronaviation|engineer pete site software st": 20778,
 "acronaviation|engineer pete site st systems": 20778,
 "activisionblizzard|activision engineering game systems": 20771,
+"activisionblizzard|data engineering platform": 20778,
 "activisionblizzard|engineering game systems": 20778,
 "activisionblizzard|engineering software": 20761,
 "acuityinsurance|analytics data science": 20778,
@@ -19825,6 +19840,7 @@
 "73863aac-542c-4b1b-a529-014e8b839a56": 20778,
 "73be3267-6bd9-4c2b-b11d-554a0483fa16": 20778,
 "73ca7b94-dd8d-41a7-914d-2877db81c132": 20778,
+"73e6ad9a-7961-4c4e-a4a6-4a357fb33dea": 20778,
 "74323cbe-ff4d-4647-9f84-c946b6fc1b71": 20778,
 "7449f87e-753a-4f51-b257-f7b3c214fd97": 20778,
 "74589929-de53-4e2a-ac78-6ea4baa44f1c": 20777,
@@ -21622,7 +21638,7 @@
 "https://zapply.jobs/l/d/sr-ServiceNow-744000161548289": 20777,
 "https://zapply.jobs/l/d/sr-ServiceNow-744000161548528": 20774,
 "https://zapply.jobs/l/d/sr-ServiceNow-744000161550869": 20777,
-"https://zapply.jobs/l/d/sr-ServiceNow-744000161592679": 20777,
+"https://zapply.jobs/l/d/sr-ServiceNow-744000161592679": 20778,
 "https://zapply.jobs/l/d/sr-ServiceNow-744000161594249": 20773,
 "https://zapply.jobs/l/d/sr-ServiceNow-744000161936020": 20774,
 "https://zapply.jobs/l/d/sr-ServiceNow-744000161936128": 20774,

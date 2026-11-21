@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 13:01 UTC · 8 new listings_
+_Updated 2026-11-21 13:31 UTC · 9 new listings_
 
-## New listings (8) — newest first
+## New listings (9) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **ByteDance** | Software Engineer Project Intern (Developer Infrastructure) - 2027 Start | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ac8fd34fcdafb60c6a4a261?utm_campaign=1079&utm_source=git) |
+| today | **Activision Blizzard** | Data Platform Engineering Intern | Irvine, CA | vanshb03 | [apply](https://go.vansh.nyc/1Ge) |
 | today | **Jewelers Mutual Group** | Information Technology Intern - Summer 2027 | Neenah, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aabf8c895c707f49dfeebf7?utm_campaign=1079&utm_source=git) |
 | today | **Sungrow** | Service Innovation & Development Intern | Houston, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6ae53176fb2cd420ace5d649?utm_campaign=1079&utm_source=git) |
 | today | **Vatic Outsourcing** | Business Intelligence Analyst Intern | Marietta, GA | SimplifyJobs | [apply](https://vaticoutsourcing.bamboohr.com/careers/152/) |
