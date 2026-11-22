@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 02:21 UTC · 1 new listing_
+_Updated 2026-11-22 02:31 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Neros Technologies** | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5278981007?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
