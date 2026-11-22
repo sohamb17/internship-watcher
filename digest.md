@@ -1,14 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 01:31 UTC · 3 new listings_
+_Updated 2026-11-22 02:01 UTC · 0 new listings_
 
-## New listings (3) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 1d ago | **WGU** | Technical Intern | Salt Lake City, UT | vanshb03 | [apply](https://go.vansh.nyc/1Gm) |
-| 65d ago | **Ninjaholdings** | Data Science Intern | Chicago, IL | zshah101 | [apply](https://ninjaholdings.breezy.hr/p/85be8c78a2ba-data-science-intern) |
-| — | **Texas Instruments** | Synthetic Data for Edge AI System Engineer Intern | Dallas, TX, United States | zshah101 | [apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016339) |
+Nothing new this run.
 
 ## Watched company portals
 
