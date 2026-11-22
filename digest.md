@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 15:01 UTC · 1 new listing_
+_Updated 2026-11-22 15:31 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Hubbell Incorporated** | 2027 Summer Intern: Engineering - Product Development | St. Louis, MO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af82c244ddfc50167b961e3?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
