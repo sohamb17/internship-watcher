@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 04:31 UTC · 0 new listings_
+_Updated 2026-11-22 05:01 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| — | **Canadian Solar** | Data Engineering Intern | Kitchener | nointernship.com | [apply](https://go.vansh.nyc/1G8?s=y) |
+| — | **iA** | Industrial Engineer Intern | Johnson City | nointernship.com | [apply](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1) |
 
 ## Watched company portals
 
