@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 15:31 UTC · 0 new listings_
+_Updated 2026-11-22 16:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 2d ago | **First Bank & Trust** | Data Analyst Intern | Brookings, SD / Sioux Falls, SD | SimplifyJobs | [apply](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864) |
 
 ## Watched company portals
 
