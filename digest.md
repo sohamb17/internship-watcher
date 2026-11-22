@@ -1,13 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 17:31 UTC · 2 new listings_
+_Updated 2026-11-22 17:55 UTC · 2 new listings_
 
 ## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Neogen** | Embedded Systems Engineer Intern | Oakdale, MN | vanshb03 | [apply](https://go.vansh.nyc/1Gp) |
-| 37d ago | **Jasperholdings** | IT Full Stack Developer Internship: Summer 2027 | Jasper, IN | zshah101 | [apply](https://jasperholdings.wd504.myworkdayjobs.com/jet_careers/job/Jasper-IN/IT-Full-Stack-Developer-Internship--Summer-2027_R-100857) |
+| today | **Elevated Web Design** | App Software Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0317715cc15ec1b42bfb7a?utm_campaign=1079&utm_source=git) |
+| today | **IBM** | QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027 | Poughkeepsie, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aa439f31d92e2d05d113ee7?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
