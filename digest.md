@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-21 23:31 UTC · 0 new listings_
+_Updated 2026-11-22 00:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **NREL** | Graduate Intern – Power Data Analysis for SI Data Centers | Golden, CO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nrel-nlr-R14575?s=gh-internships-2027) |
 
 ## Watched company portals
 
