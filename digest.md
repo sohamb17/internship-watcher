@@ -1,11 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 13:31 UTC · 3 new listings_
+_Updated 2026-11-22 14:01 UTC · 4 new listings_
 
-## New listings (3) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **TikTok USDS Joint Venture** | Software Engineer Intern (Emerging Product) - 2027 Summer | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a86439ce459fa3baa866eb5?utm_campaign=1079&utm_source=git) |
 | today | **AMD** | Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-89557?s=gh-internships-2027) |
 | today | **AMD** | Spring/Summer 2027 Undergrad BIOS Engineering Co-Op | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-90475?s=gh-internships-2027) |
 | 16d ago | **Johns Manville** | Business Analytics & Strategy Intern | Denver, CO | SimplifyJobs | [apply](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Business-Analytics---Strategy-Intern_R26_2002) |
