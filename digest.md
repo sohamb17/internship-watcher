@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 01:01 UTC · 1 new listing_
+_Updated 2026-11-22 01:31 UTC · 3 new listings_
 
-## New listings (1) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 2d ago | **NVIDIA** | Technical Marketing Engineer Intern - Digital Biology and Scientific Computing | Santa Clara, CA | SimplifyJobs | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793) |
+| 1d ago | **WGU** | Technical Intern | Salt Lake City, UT | vanshb03 | [apply](https://go.vansh.nyc/1Gm) |
+| 65d ago | **Ninjaholdings** | Data Science Intern | Chicago, IL | zshah101 | [apply](https://ninjaholdings.breezy.hr/p/85be8c78a2ba-data-science-intern) |
+| — | **Texas Instruments** | Synthetic Data for Edge AI System Engineer Intern | Dallas, TX, United States | zshah101 | [apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016339) |
 
 ## Watched company portals
 
