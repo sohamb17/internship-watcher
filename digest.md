@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 19:31 UTC · 2 new listings_
+_Updated 2026-11-22 20:01 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 2d ago | **Valeo** | Systems Engineering Co-Op - Software | Troy, MI | speedyapply | [apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241) |
-| 2d ago | **ZOLL** | Software Automation Intern | Chelmsford, MA | speedyapply | [apply](https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Software-Automation-Intern_R20929) |
+| today | **TikTok USDS Joint Venture** | Software Engineer Intern (Payment) - 2027 Summer | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6aca1c11002e496d4beebbb8?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
