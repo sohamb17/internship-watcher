@@ -1,14 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 03:31 UTC · 3 new listings_
+_Updated 2026-11-22 04:01 UTC · 1 new listing_
 
-## New listings (3) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 3d ago | **Schnucks** | Data Science Generative AI Intern<br>Master's/PhD | St. Louis, MO / Missouri / Indiana / Illinois | SimplifyJobs | [apply](https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971) |
-| — | **Aurora Innovation** | Hardware Systems Engineer Intern | Pittsburgh | nointernship.com | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26/application?embed=true) |
-| — | **MBDA** | Software Work Experience Intern | Stevenage | nointernship.com | [apply](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Work-Experience---Stevenage-2027_R40714) |
+| 1d ago | **EVOC LABS** | Full Stack Developer Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0248169378f7b150e11e0a?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 

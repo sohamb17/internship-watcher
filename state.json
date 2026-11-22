@@ -2921,6 +2921,7 @@
 "eversourceenergy|gis": 20779,
 "eversourceenergy|grid nh ops technology": 20771,
 "eversourceenergy|grid operations technology": 20771,
+"evoc|developer full stack": 20779,
 "exa|engineer software": 20779,
 "excellusbcbs|analyst college operations": 20763,
 "expedia|applied science": 20779,
@@ -13429,7 +13430,9 @@
 "jobright:6b0193ba0ae14188d58c4446": 20779,
 "jobright:6b01d996a512f514bbde3d07": 20779,
 "jobright:6b01d9a2af6fea8c089b7df4": 20779,
-"jobright:6b021f29b2c65d24f91ed365": 20779
+"jobright:6b021f29b2c65d24f91ed365": 20779,
+"jobright:6b0248169378f7b150e11e0a": 20779,
+"jobright:6b024a7fb2c65d24f91ed6b6": 20779
 },
 "nointernship": {
 "nointernship:50673": 20760,
