@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 22:01 UTC · 1 new listing_
+_Updated 2026-11-22 22:31 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Focus Loom** | Programmer Analyst Intern | Waller County, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b03418cf8aac3fb5bbe40b0?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
