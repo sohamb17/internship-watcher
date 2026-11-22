@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 23:31 UTC · 0 new listings_
+_Updated 2026-11-22 23:41 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 2d ago | **Draper** | Operational Analysis Intern - Summer 2027 | Cambridge, MA | SimplifyJobs | [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182) |
 
 ## Watched company portals
 
