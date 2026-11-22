@@ -1,13 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 12:01 UTC · 2 new listings_
+_Updated 2026-11-22 12:31 UTC · 3 new listings_
 
-## New listings (2) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **AMD** | Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-89557?s=gh-internships-2027) |
 | today | **AMD** | Spring/Summer 2027 Undergrad BIOS Engineering Co-Op | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-90475?s=gh-internships-2027) |
+| 16d ago | **Johns Manville** | Business Analytics & Strategy Intern | Denver, CO | SimplifyJobs | [apply](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Business-Analytics---Strategy-Intern_R26_2002) |
 
 ## Watched company portals
 
