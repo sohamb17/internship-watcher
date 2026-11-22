@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 00:01 UTC · 1 new listing_
+_Updated 2026-11-22 00:31 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **NREL** | Graduate Intern – Power Data Analysis for SI Data Centers | Golden, CO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nrel-nlr-R14575?s=gh-internships-2027) |
+| 5d ago | **Lumentum** | SW Developer Support Intern - Program Management Office | San Jose, CA | SimplifyJobs | [apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729) |
 
 ## Watched company portals
 
