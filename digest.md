@@ -1,8 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 03:01 UTC · 0 new listings_
+_Updated 2026-11-22 03:31 UTC · 3 new listings_
 
-Nothing new this run.
+## New listings (3) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 3d ago | **Schnucks** | Data Science Generative AI Intern<br>Master's/PhD | St. Louis, MO / Missouri / Indiana / Illinois | SimplifyJobs | [apply](https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971) |
+| — | **Aurora Innovation** | Hardware Systems Engineer Intern | Pittsburgh | nointernship.com | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26/application?embed=true) |
+| — | **MBDA** | Software Work Experience Intern | Stevenage | nointernship.com | [apply](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Work-Experience---Stevenage-2027_R40714) |
 
 ## Watched company portals
 
