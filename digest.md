@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 17:01 UTC · 0 new listings_
+_Updated 2026-11-22 17:31 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Neogen** | Embedded Systems Engineer Intern | Oakdale, MN | vanshb03 | [apply](https://go.vansh.nyc/1Gp) |
+| 37d ago | **Jasperholdings** | IT Full Stack Developer Internship: Summer 2027 | Jasper, IN | zshah101 | [apply](https://jasperholdings.wd504.myworkdayjobs.com/jet_careers/job/Jasper-IN/IT-Full-Stack-Developer-Internship--Summer-2027_R-100857) |
 
 ## Watched company portals
 
