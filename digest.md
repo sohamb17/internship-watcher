@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 10:31 UTC · 0 new listings_
+_Updated 2026-11-22 11:01 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **AMD** | Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-89557?s=gh-internships-2027) |
+| today | **AMD** | Spring/Summer 2027 Undergrad BIOS Engineering Co-Op | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-90475?s=gh-internships-2027) |
 
 ## Watched company portals
 
