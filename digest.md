@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 00:31 UTC · 1 new listing_
+_Updated 2026-11-22 01:01 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 5d ago | **Lumentum** | SW Developer Support Intern - Program Management Office | San Jose, CA | SimplifyJobs | [apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729) |
+| 2d ago | **NVIDIA** | Technical Marketing Engineer Intern - Digital Biology and Scientific Computing | Santa Clara, CA | SimplifyJobs | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793) |
 
 ## Watched company portals
 
