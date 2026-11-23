@@ -1,13 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 20:22 UTC · 2 new listings_
+_Updated 2026-11-23 20:31 UTC · 3 new listings_
 
-## New listings (2) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Philips** | Intern – AI-Agentic Embedded Software Development - Bothell, WA - Summer 2027 | Bothell, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-594989?s=gh-internships-2027) |
-| — | **Flagship Pioneering** | Flagship Pioneering: Formulations Research Associate Co-Op | Cambridge, MA USA | Company portals | [apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8948210002) |
+| today | **Applied Physical Sciences Corp (APS)** | Intern – Software Engineer (REQ 362) | Arlington, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b047f784c822a415e671501?utm_campaign=1079&utm_source=git) |
+| today | **RTX** | Embedded System Engineering Intern | CT-WINDSOR LOCKS-B1 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890950?s=gh-internships-2027) |
+| today | **Samsung Semiconductor** | Software Development Engineer - Intern | Mountain View, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0480a9c8533c23e3c36657?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
