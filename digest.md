@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 00:01 UTC · 1 new listing_
+_Updated 2026-11-23 00:31 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Horizon Lane** | Firmware and Software Test Intern | Mequon, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b036d32f8aac3fb5bbe4520?utm_campaign=1079&utm_source=git) |
+| 4d ago | **Samsung** | Business Operations & Data Analytics Intern | Plano, TX | SimplifyJobs | [apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135) |
 
 ## Watched company portals
 
