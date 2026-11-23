@@ -1,17 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 13:31 UTC · 6 new listings_
+_Updated 2026-11-23 14:01 UTC · 10 new listings_
 
-## New listings (6) — newest first
+## New listings (10) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **TikTok USDS Joint Venture** | Software Engineer Intern (Tech and Product) - 2027 Summer | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b042248c8533c23e3c34029?utm_campaign=1079&utm_source=git) |
 | today | **CAS** | Technology Intern, Development Operations | Columbus, OH | vanshb03 | [apply](https://go.vansh.nyc/1GH) |
 | today | **Emerson** | Application Engineering Intern | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a908c480bd89e205d24af0e?utm_campaign=1079&utm_source=git) |
 | today | **First Resonance** | Forward Deployed Engineering Intern | Los Angeles, CA | vanshb03 | [apply](https://go.vansh.nyc/1GF) |
 | today | **First Resonance** | Software Engineering Intern, Platform | Los Angeles, CA | vanshb03 | [apply](https://go.vansh.nyc/1GE) |
+| today | **Honeywell Aerospace** | Embedded Engineering Intern - Summer 2027 (U.S. Person Required) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6a91e27c9864261ccd29f747?utm_campaign=1079&utm_source=git) |
+| today | **Honeywell Aerospace** | Software Engineering Intern - Summer 2027 (U.S. Person Required) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6a91e25f8e5968545337833f?utm_campaign=1079&utm_source=git) |
 | today | **MITRE** | Cybersecurity and Information Security Intern | McLean, VA | vanshb03 | [apply](https://go.vansh.nyc/1GC) |
 | today | **MITRE** | Internships in Generative and Agentic AI | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117796?s=gh-internships-2027) |
+| today | **Stantec** | Data Scientist Intern - Water (Summer 2027) | San Diego, CA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-hdhl-1009005?s=gh-internships-2027) |
 
 ## Watched company portals
 
