@@ -1,12 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 22:31 UTC · 1 new listing_
+_Updated 2026-11-23 23:01 UTC · 5 new listings_
 
-## New listings (1) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Target** | Financial Analyst Intern -  Minneapolis, MN (Starting Summer, 2027) | Minneapolis, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-target-targetcareers-R0000450574?s=gh-internships-2027) |
+| today | **Contoro Robotics** | Robotics Software Engineer Intern, Autonomy \[Automation\] | Austin, TX | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-contoro-6a1f0c10-3e5f-4899-ad86-38036a9cd434?s=gh-internships-2027) |
+| today | **Lifeway Christian Resources** | Summer Internship / Front-End Engineer | Contiguous United States | Jobright | [apply](https://jobright.ai/jobs/info/6b04ab2c58147eafa299505f?utm_campaign=1079&utm_source=git) |
+| today | **Lifeway Christian Resources** | Summer Internship / Software Engineer Full Stack / Back-End | Contiguous United States | Jobright | [apply](https://jobright.ai/jobs/info/6b04ab3a2d88b678f11789be?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Blueprint** | Product Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b04a3407bec27df08f92e64?utm_campaign=1079&utm_source=git) |
+| — | **Axon** | 2027 US Software Engineering Internship | Seattle, Washington, United States | Company portals | [apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) |
 
 ## Watched company portals
 
