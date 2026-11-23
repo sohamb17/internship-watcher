@@ -1,16 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 19:31 UTC · 5 new listings_
+_Updated 2026-11-23 20:01 UTC · 8 new listings_
 
-## New listings (5) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **BAE Systems** | Software or Computer Engineering Co-op 2027 | Sterling Heights, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b04791021f0a1e0c849b4d6?utm_campaign=1079&utm_source=git) |
-| today | **Don't Panic Labs** | Software Engineering Intern 2 | Lincoln, NE | vanshb03 | [apply](https://go.vansh.nyc/1H7) |
-| today | **Ferrovias** | Firmware Engineering Intern | Mequon, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b047e2dc8533c23e3c364f8?utm_campaign=1079&utm_source=git) |
-| today | **Idaho National Laboratory** | Digital Engineering Intern - Summer 2027 | Idaho Falls, ID, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0473de526905eb2bcf7294?utm_campaign=1079&utm_source=git) |
-| today | **Viasat** | Embedded Software Engineer Intern - Viasat Government | Tempe, AZ, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6b04799aa72582cade08dd9f?utm_campaign=1079&utm_source=git) |
+| today | **Cadence** | Software Engineering Intern - Circuit Simulation | AUSTIN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cadence-external-careers-R57251?s=gh-internships-2027) |
+| today | **LabCorp** | Intern - Real World Data Strategy | NC Durham 10 Moore Drive | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-labcorp-external-2641038?s=gh-internships-2027) |
+| 9d ago | **Strava** | Software Engineering Intern, AI/ML Data Products | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1Hd) |
+| 9d ago | **Strava** | Software Engineering Intern, Android, Subscriptions | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1He) |
+| 9d ago | **Strava** | Software Engineering Intern, Server, Next Sports | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1Hc) |
+| 10d ago | **Strava** | Software Engineering Intern, Server, Comms | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1Hb) |
+| 10d ago | **Strava** | Software Engineering Intern, Server, Security | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1Ha) |
+| 10d ago | **Strava** | Software Engineering Intern, Server, User Lifecycle | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1H9) |
 
 ## Watched company portals
 
