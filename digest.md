@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 02:01 UTC · 1 new listing_
+_Updated 2026-11-23 02:31 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 1d ago | **MITRE** | Embedded Security Intern - Electronics Prototype | Bedford, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117380?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
