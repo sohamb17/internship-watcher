@@ -1,15 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 21:01 UTC · 4 new listings_
+_Updated 2026-11-23 21:31 UTC · 2 new listings_
 
-## New listings (4) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AECOM** | Highway Design Engineering Intern | Mechanicsburg, PA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AECOM2/744000163324070) |
-| today | **Honeywell** | Intern, Energy & Utilities Software Product Design & AI Development (MS or PhD) | Raleigh, NC, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-honeywell-159367?s=gh-internships-2027) |
-| today | **Jabil** | IT Programmer Analyst Intern | Florence, KY | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2472386?s=gh-internships-2027) |
-| today | **Marvell** | AMS CAD Engineer Intern | Irvine, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604571?s=gh-internships-2027) |
+| today | **Amgen** | Grad Intern - siRNA Stability and Data Science (Summer 2027) | California - Thousand Oaks | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-amgen-careers-R-261404?s=gh-internships-2027) |
+| today | **INFICON** | Research & Development Intern | East Syracuse, NY (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-INFICON2-744000163324703?s=gh-internships-2027) |
 
 ## Watched company portals
 
