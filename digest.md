@@ -1,13 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 18:01 UTC · 2 new listings_
+_Updated 2026-11-23 18:31 UTC · 5 new listings_
 
-## New listings (2) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **MITRE** | Sensor Engineer - Intern | Bedford, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R118104?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Systems Engineer Intern - Chantilly VA | United States-Virginia-Chantilly | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255633?s=gh-internships-2027) |
+| today | **Aon** | IT / Cybersecurity Engineer Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1H4) |
+| today | **ASML** | Internship - Diagnostics Engineer | Hillsboro, OR, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358468?s=gh-internships-2027) |
+| today | **Genentech** | 2027 Summer Intern - Software Engineer (Robotics) - Lab Automation | South San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-129832?s=gh-internships-2027) |
+| today | **ManTech** | CNO Developer Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1H5) |
+| 1d ago | **Constellation Brands New Zealand & Australia** | Intern, AI & App Development - SAP | Rochester, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b045feb21f0a1e0c849a547?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
