@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 14:31 UTC · 0 new listings_
+_Updated 2026-11-23 15:01 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Benchling** | Software Engineer, Intern (Summer 2027) | San Francisco, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-benchling-96370d1b-d35e-446b-8e26-dce088860099?s=gh-internships-2027) |
+| today | **Motorola Solutions** | Mission Critical Networks Software Engineer - Summer 2027 Internship | Schaumburg, IL, More... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70631?s=gh-internships-2027) |
 
 ## Watched company portals
 
