@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-22 23:41 UTC · 1 new listing_
+_Updated 2026-11-23 00:01 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 2d ago | **Draper** | Operational Analysis Intern - Summer 2027 | Cambridge, MA | SimplifyJobs | [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182) |
+| 1d ago | **Horizon Lane** | Firmware and Software Test Intern | Mequon, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b036d32f8aac3fb5bbe4520?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
