@@ -1,19 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 20:01 UTC · 8 new listings_
+_Updated 2026-11-23 20:22 UTC · 2 new listings_
 
-## New listings (8) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Cadence** | Software Engineering Intern - Circuit Simulation | AUSTIN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cadence-external-careers-R57251?s=gh-internships-2027) |
-| today | **LabCorp** | Intern - Real World Data Strategy | NC Durham 10 Moore Drive | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-labcorp-external-2641038?s=gh-internships-2027) |
-| 9d ago | **Strava** | Software Engineering Intern, AI/ML Data Products | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1Hd) |
-| 9d ago | **Strava** | Software Engineering Intern, Android, Subscriptions | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1He) |
-| 9d ago | **Strava** | Software Engineering Intern, Server, Next Sports | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1Hc) |
-| 10d ago | **Strava** | Software Engineering Intern, Server, Comms | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1Hb) |
-| 10d ago | **Strava** | Software Engineering Intern, Server, Security | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1Ha) |
-| 10d ago | **Strava** | Software Engineering Intern, Server, User Lifecycle | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1H9) |
+| today | **Philips** | Intern – AI-Agentic Embedded Software Development - Bothell, WA - Summer 2027 | Bothell, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-594989?s=gh-internships-2027) |
+| — | **Flagship Pioneering** | Flagship Pioneering: Formulations Research Associate Co-Op | Cambridge, MA USA | Company portals | [apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8948210002) |
 
 ## Watched company portals
 
