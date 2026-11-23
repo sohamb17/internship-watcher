@@ -568,6 +568,20 @@
 "sk": "3af30593-5aa8-4b94-84b5-032bf7aef90c",
 "src": "vansh",
 "url": "https://go.vansh.nyc/1GH"
+},
+{
+"company": "Emerson",
+"degrees": [],
+"dk": "emerson|application engineering",
+"found": 20780,
+"loc": "Austin, TX, United States",
+"more": null,
+"night": true,
+"posted": 20780,
+"role": "Application Engineering Intern",
+"sk": "jobright:6a908c480bd89e205d24af0e",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6a908c480bd89e205d24af0e?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -2869,6 +2883,7 @@
 "emersonelectric|engineering software": 20780,
 "emersonelectric|operations planning sales": 20780,
 "emerson|adg d engineering r software system": 20776,
+"emerson|application engineering": 20780,
 "emerson|applications engineer": 20762,
 "emerson|dec engineering jun software": 20771,
 "emerson|engineering software": 20778,
@@ -11822,6 +11837,7 @@
 "jobright:6a8e185fd34f700f87fd7e0c": 20777,
 "jobright:6a8f11a2d7c91d0cf446d5e1": 20771,
 "jobright:6a8f5fa3d7c91d0cf446efdd": 20778,
+"jobright:6a908c480bd89e205d24af0e": 20780,
 "jobright:6a908daaa198864866761c41": 20776,
 "jobright:6a90b5b48ffa38557e6ce863": 20780,
 "jobright:6a91949c3603630099193197": 20780,
@@ -13586,7 +13602,8 @@
 "jobright:6b03d6cb5da88988c83fe145": 20780,
 "jobright:6b03d6cd6300701fae1ae914": 20780,
 "jobright:6b03e0265da88988c83fe313": 20780,
-"jobright:6b03fc3ac8533c23e3c3386a": 20780
+"jobright:6b03fc3ac8533c23e3c3386a": 20780,
+"jobright:6b04188f4c822a415e66ee7b": 20780
 },
 "nointernship": {
 "nointernship:50673": 20760,

@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 12:31 UTC · 5 new listings_
+_Updated 2026-11-23 13:01 UTC · 6 new listings_
 
-## New listings (5) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **CAS** | Technology Intern, Development Operations | Columbus, OH | vanshb03 | [apply](https://go.vansh.nyc/1GH) |
+| today | **Emerson** | Application Engineering Intern | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a908c480bd89e205d24af0e?utm_campaign=1079&utm_source=git) |
 | today | **First Resonance** | Forward Deployed Engineering Intern | Los Angeles, CA | vanshb03 | [apply](https://go.vansh.nyc/1GF) |
 | today | **First Resonance** | Software Engineering Intern, Platform | Los Angeles, CA | vanshb03 | [apply](https://go.vansh.nyc/1GE) |
 | today | **MITRE** | Cybersecurity and Information Security Intern | McLean, VA | vanshb03 | [apply](https://go.vansh.nyc/1GC) |
