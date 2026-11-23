@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 04:31 UTC · 2 new listings_
+_Updated 2026-11-23 05:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **ASML** | Internship - Finance Analyst | Wilton, CT, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358071?s=gh-internships-2027) |
-| 1d ago | **TikTok** | Client Security & Data Foundation Software Engineer - Intern (TikTok BRIC) - 2027 Start | San Jose, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b03a6016300701fae1ae2b5?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
