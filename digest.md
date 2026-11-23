@@ -1,15 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 16:31 UTC · 4 new listings_
+_Updated 2026-11-23 17:01 UTC · 4 new listings_
 
 ## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **APEX Analytix** | Software Engineer Intern - Platform Tooling | Greensboro, NC | SimplifyJobs | [apply](https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19) |
-| today | **Hubbell Incorporated** | 2027 Summer Intern: Engineering - Software | St. Louis, MO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af82c2235427cce9bb2bf49?utm_campaign=1079&utm_source=git) |
-| today | **Micron Technology** | Intern - Advanced Modeling and AI Solutions | Boise, ID - Main Site | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-micron-external-JR118093?s=gh-internships-2027) |
-| today | **Playfly Sports** | Research & Insights Intern | NYC | SimplifyJobs | [apply](https://www.playfly.com/careers?gh_jid=4486378009) |
+| today | **AECOM** | Engineering Intern I | Colorado Springs, CO, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AECOM2/744000163278459) |
+| today | **Intel** | SATAS Graduate Research Intern – Modeling and Simulation | US, Arizona, Phoenix | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-intel-external-JR0287092?s=gh-internships-2027) |
+| today | **LabCorp** | Intern - Research and Development - Molecular | Westborough MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-labcorp-external-2632163?s=gh-internships-2027) |
+| today | **Nintendo** | IT Platform Engineer Intern | Redmond, WA | vanshb03 | [apply](https://go.vansh.nyc/1GU) |
 
 ## Watched company portals
 
