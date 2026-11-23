@@ -1,12 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 03:01 UTC · 1 new listing_
+_Updated 2026-11-23 03:31 UTC · 4 new listings_
 
-## New listings (1) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 5d ago | **CME Group** | Quantitative Data & AI Analytics Intern<br>Master's | NYC | SimplifyJobs | [apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quantitative-Data---AI-Analytics-Intern---Year-Round_35061) |
+| today | **TikTok** | Client Security & Data Foundation Software Engineer Intern - BRIC<br>Master's | San Jose, CA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7705023349533346101) |
+| today | **Artefact** | AI Adoption Intern | 135 W 26th Street, New York, NY 10001 | zshah101 | [apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002) |
+| today | **Artefact** | AI Engineer Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002) |
+| today | **Artefact** | AI Strategy Intern | 135 W 26th Street, New York, NY 10001 | zshah101 | [apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958071002) |
 
 ## Watched company portals
 
