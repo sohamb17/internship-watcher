@@ -1,19 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 17:31 UTC · 8 new listings_
+_Updated 2026-11-23 18:01 UTC · 2 new listings_
 
-## New listings (8) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Analog Devices** | Mixed Signal Design Engineering Intern | US, MA, Wilmington | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-analogdevices-external-R267442?s=gh-internships-2027) |
-| today | **Analog Devices** | Robot Learning Engineer Intern | US, CA, San Jose, Rio Robles | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-analogdevices-external-R269543?s=gh-internships-2027) |
-| today | **ASML** | Internship-Data & AI, Controls | San Diego, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357861?s=gh-internships-2027) |
-| today | **CrowdStrike** | Product Engineering Intern - Threat Detection | Sunnyvale, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30621?s=gh-internships-2027) |
-| today | **Entegris** | Nanoparticle Research Associate Co-Op | Aurora, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-14493?s=gh-internships-2027) |
-| today | **Serco** | Software Engineering Intern | Cooktown, Virginia, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b045d20566251ad7b8611e4?utm_campaign=1079&utm_source=git) |
-| today | **Serco** | Software Engineering Intern- Middletown, RI | Middletown, RI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b045d1aa72582cade08cb89?utm_campaign=1079&utm_source=git) |
-| today | **Vertiv** | Engineering Intern - DC Power Systems (Summer 2027) | Lorain, OH, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-vertiv-20286643?s=gh-internships-2027) |
+| today | **MITRE** | Sensor Engineer - Intern | Bedford, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R118104?s=gh-internships-2027) |
+| today | **Northrop Grumman** | 2027 Systems Engineer Intern - Chantilly VA | United States-Virginia-Chantilly | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255633?s=gh-internships-2027) |
 
 ## Watched company portals
 
