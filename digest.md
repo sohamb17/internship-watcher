@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 02:31 UTC · 0 new listings_
+_Updated 2026-11-23 03:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 5d ago | **CME Group** | Quantitative Data & AI Analytics Intern<br>Master's | NYC | SimplifyJobs | [apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quantitative-Data---AI-Analytics-Intern---Year-Round_35061) |
 
 ## Watched company portals
 
