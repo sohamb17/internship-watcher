@@ -1,11 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 07:01 UTC · 1 new listing_
+_Updated 2026-11-23 07:31 UTC · 4 new listings_
 
-## New listings (1) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **First Resonance** | Forward Deployed Engineering Intern | Los Angeles, CA | vanshb03 | [apply](https://go.vansh.nyc/1GF) |
+| today | **First Resonance** | Software Engineering Intern, Platform | Los Angeles, CA | vanshb03 | [apply](https://go.vansh.nyc/1GE) |
+| today | **MITRE** | Cybersecurity and Information Security Intern | McLean, VA | vanshb03 | [apply](https://go.vansh.nyc/1GC) |
 | today | **MITRE** | Internships in Generative and Agentic AI | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117796?s=gh-internships-2027) |
 
 ## Watched company portals
