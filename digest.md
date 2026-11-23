@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 00:31 UTC · 1 new listing_
+_Updated 2026-11-23 01:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 4d ago | **Samsung** | Business Operations & Data Analytics Intern | Plano, TX | SimplifyJobs | [apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135) |
+Nothing new this run.
 
 ## Watched company portals
 
