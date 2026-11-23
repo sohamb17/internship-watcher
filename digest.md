@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 15:31 UTC · 1 new listing_
+_Updated 2026-11-23 16:01 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Zebra** | 2027 Summer Internship (US) – WWAN Cellular Engineer | Holtsville, New York | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103951?s=gh-internships-2027) |
+| today | **HP Inc** | Personal Systems Engineering Internship | Spring, Texas, United States of... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-hp-externalcareersite-3171404?s=gh-internships-2027) |
+| today | **Micron Technology** | Intern, Technology - AMAIS | Boise, ID - Main Site | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-micron-external-JR118211?s=gh-internships-2027) |
 
 ## Watched company portals
 
