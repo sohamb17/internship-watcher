@@ -1,17 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 22:01 UTC · 6 new listings_
+_Updated 2026-11-23 22:31 UTC · 1 new listing_
 
-## New listings (6) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AeroVironment** | Product Engineering Intern | Simi Valley, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-avav-avav-8815?s=gh-internships-2027) |
-| today | **Draper** | Materials and Chemistry Engineering Intern (Summer 2027) | Cambridge, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003177?s=gh-internships-2027) |
-| today | **Genentech** | 2027 Summer Intern - AI for Drug Discovery | South San Francisco | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-129909?s=gh-internships-2027) |
-| today | **Intellian Technologies** | Embedded Software Engineering Intern | Rockville, MD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b049a5c7bec27df08f925fd?utm_campaign=1079&utm_source=git) |
-| today | **Trimble** | AI Software Developer Engineer in Test Intern | OR, Lake Oswego | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R58210?s=gh-internships-2027) |
-| 1d ago | **Saab, Inc.** | Software Engineer Co-Op (Summer 2027) | East Syracuse, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0495ab7bec27df08f923bf?utm_campaign=1079&utm_source=git) |
+| today | **Target** | Financial Analyst Intern -  Minneapolis, MN (Starting Summer, 2027) | Minneapolis, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-target-targetcareers-R0000450574?s=gh-internships-2027) |
 
 ## Watched company portals
 
