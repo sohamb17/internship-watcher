@@ -1,15 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 03:31 UTC · 4 new listings_
+_Updated 2026-11-23 04:01 UTC · 0 new listings_
 
-## New listings (4) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **TikTok** | Client Security & Data Foundation Software Engineer Intern - BRIC<br>Master's | San Jose, CA | SimplifyJobs | [apply](https://lifeattiktok.com/search/7705023349533346101) |
-| today | **Artefact** | AI Adoption Intern | 135 W 26th Street, New York, NY 10001 | zshah101 | [apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002) |
-| today | **Artefact** | AI Engineer Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002) |
-| today | **Artefact** | AI Strategy Intern | 135 W 26th Street, New York, NY 10001 | zshah101 | [apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958071002) |
+Nothing new this run.
 
 ## Watched company portals
 
