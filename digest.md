@@ -1,14 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 20:31 UTC · 3 new listings_
+_Updated 2026-11-23 21:01 UTC · 4 new listings_
 
-## New listings (3) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Applied Physical Sciences Corp (APS)** | Intern – Software Engineer (REQ 362) | Arlington, VA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b047f784c822a415e671501?utm_campaign=1079&utm_source=git) |
-| today | **RTX** | Embedded System Engineering Intern | CT-WINDSOR LOCKS-B1 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890950?s=gh-internships-2027) |
-| today | **Samsung Semiconductor** | Software Development Engineer - Intern | Mountain View, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0480a9c8533c23e3c36657?utm_campaign=1079&utm_source=git) |
+| today | **AECOM** | Highway Design Engineering Intern | Mechanicsburg, PA, United States | Company portals | [apply](https://jobs.smartrecruiters.com/AECOM2/744000163324070) |
+| today | **Honeywell** | Intern, Energy & Utilities Software Product Design & AI Development (MS or PhD) | Raleigh, NC, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-honeywell-159367?s=gh-internships-2027) |
+| today | **Jabil** | IT Programmer Analyst Intern | Florence, KY | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2472386?s=gh-internships-2027) |
+| today | **Marvell** | AMS CAD Engineer Intern | Irvine, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604571?s=gh-internships-2027) |
 
 ## Watched company portals
 
