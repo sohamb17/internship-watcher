@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 04:31 UTC · 1 new listing_
+_Updated 2026-11-24 04:52 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Veolia Environnement SA** | Projects Engineering Intern | Minnetonka, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163379489?s=gh-internships-2027) |
+| — | **Kudu Dynamics** | Software Engineering Intern | Arlington | nointernship.com | [apply](https://go.vansh.nyc/1Hh?s=y) |
 
 ## Watched company portals
 
