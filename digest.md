@@ -1,14 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 03:31 UTC · 3 new listings_
+_Updated 2026-11-24 04:01 UTC · 0 new listings_
 
-## New listings (3) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| — | **CSAA Insurance Group** | Product Strategy & Development Intern | Phoenix | nointernship.com | [apply](https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004) |
-| — | **Northrop Grumman** | AI/ML Engineering Intern | Morrisville | nointernship.com | [apply](https://go.vansh.nyc/1GD?s=y) |
-| — | **Samsung Research America** | Computer Vision Intern | Mountain View | nointernship.com | [apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002) |
+Nothing new this run.
 
 ## Watched company portals
 
