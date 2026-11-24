@@ -1,13 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 23:01 UTC · 2 new listings_
+_Updated 2026-11-24 23:31 UTC · 1 new listing_
 
-## New listings (2) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **CuraTech** | Software Engineer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b05f5d471c8f4e3660ea3f0?utm_campaign=1079&utm_source=git) |
-| today | **Northrop Grumman** | 2027 Electronics Engineer Intern - Azusa CA | United States-California-Azusa | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10262073?s=gh-internships-2027) |
+| today | **Ameren** | Robotics, AI, OT, Software Development Intern | St. Louis, MO | vanshb03 | [apply](https://go.vansh.nyc/1Iz) |
 
 ## Watched company portals
 
