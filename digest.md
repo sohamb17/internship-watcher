@@ -1,13 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 15:31 UTC · 2 new listings_
+_Updated 2026-11-24 16:01 UTC · 4 new listings_
 
-## New listings (2) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **GE Vernova** | GE Vernova Engineering Automation Internship - Summer 2027 | Charleroi USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5059697?s=gh-internships-2027) |
-| today | **GE Vernova** | GE Vernova Robotics & Manufacturing Automation Internship - Summer 2027 | Charleroi USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5059698?s=gh-internships-2027) |
+| today | **AMD** | Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-89564?s=gh-internships-2027) |
+| today | **Danaher** | IT Data Analyst Intern | Brea, California, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1316675?s=gh-internships-2027) |
+| today | **iCapital Network** | SI and Annuities Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958714002) |
+| 4d ago | **NASA Jet Propulsion Laboratory** | Business Administration Intern | Pasadena, CA | SimplifyJobs | [apply](https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Business-Administration-Academic-Part-time-Intern_R6311) |
 
 ## Watched company portals
 
