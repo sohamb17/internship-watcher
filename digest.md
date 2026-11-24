@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 16:31 UTC · 1 new listing_
+_Updated 2026-11-24 17:01 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **BEUMER Group** | AI Development Intern | Somerset County, NJ (+1 more) | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739) |
+| today | **QuEra Computing** | Site Reliability Engineer Co-op | Boston, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-queracomputinginc-5493521008?s=gh-internships-2027) |
+| today | **RF-SMART** | Software Developer Intern | Highlands Ranch, CO / Jacksonville, FL (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/rfsmart/jobs/5446867008) |
 
 ## Watched company portals
 
