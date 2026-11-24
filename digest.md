@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 04:01 UTC · 0 new listings_
+_Updated 2026-11-24 04:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Veolia Environnement SA** | Projects Engineering Intern | Minnetonka, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163379489?s=gh-internships-2027) |
 
 ## Watched company portals
 
