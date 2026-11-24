@@ -1,13 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 17:01 UTC · 2 new listings_
+_Updated 2026-11-24 17:31 UTC · 5 new listings_
 
-## New listings (2) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **QuEra Computing** | Site Reliability Engineer Co-op | Boston, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-queracomputinginc-5493521008?s=gh-internships-2027) |
-| today | **RF-SMART** | Software Developer Intern | Highlands Ranch, CO / Jacksonville, FL (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/rfsmart/jobs/5446867008) |
+| today | **Amgen** | Undergrad Intern - Commercialization Technology and Decision Support (Summer 2027) | United States - Remote | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-amgen-careers-R-261663?s=gh-internships-2027) |
+| today | **Aptima** | Software Engineer Intern (Summer 2027) | Fairborn, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b05a54ed43f730eab594c71?utm_campaign=1079&utm_source=git) |
+| today | **Draper** | Simulation Engineering Intern (Summer 2027) | Cambridge, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003181?s=gh-internships-2027) |
+| — | **Sanofi** | 2027 Summer Intern - FFIP Business Systems Swiftwater, PA | Swiftwater, Pennsylvania | zapplyjobs | [apply](https://zapply.jobs/l/d/radancy-sanofi-47201167616?s=gh-internships-2027) |
+| — | **Sanofi** | 2027 Summer Intern NCES statistician expert in AI Cambridge MA | Cambridge, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/radancy-sanofi-47201167552?s=gh-internships-2027) |
 
 ## Watched company portals
 
