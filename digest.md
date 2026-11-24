@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 03:01 UTC · 1 new listing_
+_Updated 2026-11-24 03:31 UTC · 3 new listings_
 
-## New listings (1) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **First PREMIER Bank** | Collections Analytics Intern | Sioux Falls, SD | SimplifyJobs | [apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Collections-Analytics-Internship_R-565) |
+| — | **CSAA Insurance Group** | Product Strategy & Development Intern | Phoenix | nointernship.com | [apply](https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004) |
+| — | **Northrop Grumman** | AI/ML Engineering Intern | Morrisville | nointernship.com | [apply](https://go.vansh.nyc/1GD?s=y) |
+| — | **Samsung Research America** | Computer Vision Intern | Mountain View | nointernship.com | [apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002) |
 
 ## Watched company portals
 
