@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 01:31 UTC · 1 new listing_
+_Updated 2026-11-24 02:01 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **ZOLL Medical Corporation** | Software Engineering Intern | Chelmsford, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b04c5267bec27df08f94571?utm_campaign=1079&utm_source=git) |
+| 1d ago | **General Atomics** | Intern - Aircraft Design Engineer | Adelanto, California | zapplyjobs | [apply](https://zapply.jobs/l/d/brassring-general-atomics-5238580?s=gh-internships-2027) |
 
 ## Watched company portals
 
