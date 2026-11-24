@@ -1,15 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 01:01 UTC · 4 new listings_
+_Updated 2026-11-24 01:31 UTC · 1 new listing_
 
-## New listings (4) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **SharkNinja** | Firmware Engineering Intern, Advanced Development | Needham, MA | vanshb03 | [apply](https://go.vansh.nyc/1HJ) |
-| today | **SharkNinja** | Software Development Test Engineering Co-op | Needham, MA | vanshb03 | [apply](https://go.vansh.nyc/1HH) |
-| today | **T-Mobile** | Summer 2027 Database Platform Engineering Site Reliability Engineering   SRE   Internship | Atlanta, Georgia (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tmobile-external-REQ380923?s=gh-internships-2027) |
-| 11d ago | **Strava** | Machine Learning Engineer Intern - AI/ML Data Products | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true) |
+| 1d ago | **ZOLL Medical Corporation** | Software Engineering Intern | Chelmsford, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b04c5267bec27df08f94571?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
