@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 02:31 UTC · 1 new listing_
+_Updated 2026-11-24 03:01 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Veolia Environnement SA** | Assemblies Engineering intern | Minnetonka, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163376109?s=gh-internships-2027) |
+| 1d ago | **First PREMIER Bank** | Collections Analytics Intern | Sioux Falls, SD | SimplifyJobs | [apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Collections-Analytics-Internship_R-565) |
 
 ## Watched company portals
 
