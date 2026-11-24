@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 19:31 UTC · 2 new listings_
+_Updated 2026-11-24 20:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **QinetiQ** | Software Engineer Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1Ip) |
-| — | **Samsung** | Intern, RF Analog Circuit Design Engineer | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8213439003) |
+Nothing new this run.
 
 ## Watched company portals
 
