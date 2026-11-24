@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 11:01 UTC · 13 new listings_
+_Updated 2026-11-24 11:31 UTC · 15 new listings_
 
-## New listings (13) — newest first
+## New listings (15) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -15,6 +15,8 @@ _Updated 2026-11-24 11:01 UTC · 13 new listings_
 | 34d ago | **ISO New England** | Market Analysis Tool Intern - Market Analysis Tool<br>Master's | Holyoke, MA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentinternships/jobs/4456528009) |
 | 34d ago | **ISO New England** | Market Data Analyst Intern | Holyoke, MA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentinternships/jobs/4454673009) |
 | 34d ago | **RoboForce** | AI Resident | Milpitas, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/roboforce/jobs/5459229008) |
+| 45d ago | **Energy Solutions** | Clean Transportation Intern | Remote in USA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229251007) |
+| 45d ago | **Energy Solutions** | Solar Intern | Remote in USA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229243007) |
 | 62d ago | **Esri** | Enterprise Business Intelligence Intern | Redlands, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentprogram/jobs/5246028007) |
 | 82d ago | **John Deere** | Application Engineering Intern - JDPS Application Engineering - Product Engineering | Waterloo, IA | SimplifyJobs | [apply](https://johndeere.eightfold.ai/careers/job/137483157846) |
 | 90d ago | **Esri** | GIS Engineer Intern | Redlands, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217904007) |
