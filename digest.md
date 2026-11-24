@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 19:01 UTC · 1 new listing_
+_Updated 2026-11-24 19:31 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **KeyBank** | 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland | Cleveland, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41380?s=gh-internships-2027) |
+| today | **QinetiQ** | Software Engineer Intern | Remote / United States | vanshb03 | [apply](https://go.vansh.nyc/1Ip) |
+| — | **Samsung** | Intern, RF Analog Circuit Design Engineer | San Jose, California, United States | Company portals | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8213439003) |
 
 ## Watched company portals
 
