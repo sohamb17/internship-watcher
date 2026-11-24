@@ -1,15 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 05:31 UTC · 4 new listings_
+_Updated 2026-11-24 06:01 UTC · 0 new listings_
 
-## New listings (4) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Akuna Capital OCI** | Quantitative Development & Strategy Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1HP) |
-| today | **Akuna Capital OCI** | Quantitative Research Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1HQ) |
-| today | **Impulse Space** | Information Security Intern | Redondo Beach, CA | vanshb03 | [apply](https://go.vansh.nyc/1HR) |
-| today | **Servco Pacific** | Cybersecurity Analyst Intern | Honolulu, HI | vanshb03 | [apply](https://go.vansh.nyc/1HV) |
+Nothing new this run.
 
 ## Watched company portals
 
