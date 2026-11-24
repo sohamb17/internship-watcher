@@ -1,14 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 15:01 UTC · 3 new listings_
+_Updated 2026-11-24 15:31 UTC · 2 new listings_
 
-## New listings (3) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Draper** | HWIL & Real Time Simulation Intern (Summer 2027) | Cambridge, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003188?s=gh-internships-2027) |
-| today | **InterDigital** | Ph.D. Intern (Wireless + AI/ML) | Conshohocken, PA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-interdigital-interdigital-intern-REQ26-1174?s=gh-internships-2027) |
-| — | **Sanofi** | 2027 Summer Co-op Purification Process Development, Framingham, MA | Framingham, Massachusetts (+2 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/radancy-sanofi-47196435008?s=gh-internships-2027) |
+| today | **GE Vernova** | GE Vernova Engineering Automation Internship - Summer 2027 | Charleroi USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5059697?s=gh-internships-2027) |
+| today | **GE Vernova** | GE Vernova Robotics & Manufacturing Automation Internship - Summer 2027 | Charleroi USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5059698?s=gh-internships-2027) |
 
 ## Watched company portals
 
