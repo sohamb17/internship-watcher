@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 02:01 UTC · 1 new listing_
+_Updated 2026-11-24 02:31 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **General Atomics** | Intern - Aircraft Design Engineer | Adelanto, California | zapplyjobs | [apply](https://zapply.jobs/l/d/brassring-general-atomics-5238580?s=gh-internships-2027) |
+| today | **Veolia Environnement SA** | Assemblies Engineering intern | Minnetonka, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163376109?s=gh-internships-2027) |
 
 ## Watched company portals
 
