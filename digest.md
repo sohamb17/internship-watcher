@@ -1,8 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 18:01 UTC · 0 new listings_
+_Updated 2026-11-24 18:31 UTC · 5 new listings_
 
-Nothing new this run.
+## New listings (5) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **NVIDIA** | Developer Technology Intern, AI - Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2030178?s=gh-internships-2027) |
+| today | **Cboe** | Software Engineer Intern (C++) | Kansas City, MO | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cboe-external-career-cboe-R-4726?s=gh-internships-2027) |
+| today | **JerseySTEM** | TECH999: Technology Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b05b9d463d280053ef8445b?utm_campaign=1079&utm_source=git) |
+| today | **Philips** | Embedded Software Development Intern, AI-Agentic | Bothell, WA | vanshb03 | [apply](https://go.vansh.nyc/1Ij) |
+| today | **Roto** | Creative Developer Intern | Dublin, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b05bf9dd43f730eab595b22?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
