@@ -1,12 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 05:01 UTC · 1 new listing_
+_Updated 2026-11-24 05:31 UTC · 4 new listings_
 
-## New listings (1) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **MITRE** | Cyber Operations Engineer Intern | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117737?s=gh-internships-2027) |
+| today | **Akuna Capital OCI** | Quantitative Development & Strategy Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1HP) |
+| today | **Akuna Capital OCI** | Quantitative Research Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1HQ) |
+| today | **Impulse Space** | Information Security Intern | Redondo Beach, CA | vanshb03 | [apply](https://go.vansh.nyc/1HR) |
+| today | **Servco Pacific** | Cybersecurity Analyst Intern | Honolulu, HI | vanshb03 | [apply](https://go.vansh.nyc/1HV) |
 
 ## Watched company portals
 
