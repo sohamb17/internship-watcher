@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 21:31 UTC · 2 new listings_
+_Updated 2026-11-24 22:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Paylocity** | Implementation Software Engineering - Intern | Schaumburg, IL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b05e978460ce5352ae3c84e?utm_campaign=1079&utm_source=git) |
-| 4d ago | **Amazon** | Front-End Engineer Internship – 2027 (US) | Seattle, Washington, USA | Company portals | [apply](https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) |
+Nothing new this run.
 
 ## Watched company portals
 
