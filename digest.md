@@ -1,13 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 10:01 UTC · 9 new listings_
+_Updated 2026-11-24 10:31 UTC · 10 new listings_
 
-## New listings (9) — newest first
+## New listings (10) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **ASML** | Internship - Data Analyst | San Jose, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355833?s=gh-internships-2027) |
 | today | **Federal Home Loan Bank of Indianapolis** | Data Platform Engineer Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1I0) |
+| today | **Micron Technology** | Equipment Engineer Intern - VMEC | Manassas, VA -  Fab 6 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-micron-external-JR116715?s=gh-internships-2027) |
 | today | **ZOLL Medical Corporation** | Software Automation Intern | Chelmsford, MA | vanshb03 | [apply](https://go.vansh.nyc/1I1) |
 | 1d ago | **Testify Labs** | QA Automation Intern (Playwright & AI Testing Agents) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0520cd7fd2e33bde098fd4?utm_campaign=1079&utm_source=git) |
 | 18d ago | **Esri** | Software Engineer Intern | St. Louis, MO (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentprogram/jobs/5286753007) |

@@ -632,6 +632,20 @@
 "sk": "236f1366-9b33-4f75-bc9b-0495fa17b755",
 "src": "simplify",
 "url": "https://job-boards.greenhouse.io/roboforce/jobs/5459229008"
+},
+{
+"company": "Micron Technology",
+"degrees": [],
+"dk": "micron|engineer equipment vmec",
+"found": 20781,
+"loc": "Manassas, VA -  Fab 6",
+"more": null,
+"night": true,
+"posted": 20781,
+"role": "Equipment Engineer Intern - VMEC",
+"sk": "https://zapply.jobs/l/d/workday-micron-external-JR116715",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/workday-micron-external-JR116715?s=gh-internships-2027"
 }
 ],
 "roles": {
@@ -5333,6 +5347,7 @@
 "micron|engineer enhancement product software yield": 20775,
 "micron|engineer enhancement yield": 20776,
 "micron|engineer equipment": 20760,
+"micron|engineer equipment vmec": 20781,
 "micron|engineer firmware": 20767,
 "micron|engineer hbm system": 20781,
 "micron|engineer it software": 20781,
@@ -23096,6 +23111,7 @@
 "https://zapply.jobs/l/d/workday-micron-external-JR115959": 20762,
 "https://zapply.jobs/l/d/workday-micron-external-JR116168": 20759,
 "https://zapply.jobs/l/d/workday-micron-external-JR116339": 20760,
+"https://zapply.jobs/l/d/workday-micron-external-JR116715": 20781,
 "https://zapply.jobs/l/d/workday-micron-external-JR117268": 20775,
 "https://zapply.jobs/l/d/workday-micron-external-JR117336": 20781,
 "https://zapply.jobs/l/d/workday-micron-external-JR117444": 20781,
