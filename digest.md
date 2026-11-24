@@ -1,14 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 07:01 UTC · 3 new listings_
+_Updated 2026-11-24 07:31 UTC · 4 new listings_
 
-## New listings (3) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | today | **ASML** | Internship - Data Analyst | San Jose, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355833?s=gh-internships-2027) |
 | today | **Federal Home Loan Bank of Indianapolis** | Data Platform Engineer Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1I0) |
 | today | **ZOLL Medical Corporation** | Software Automation Intern | Chelmsford, MA | vanshb03 | [apply](https://go.vansh.nyc/1I1) |
+| 1d ago | **Testify Labs** | QA Automation Intern (Playwright & AI Testing Agents) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0520cd7fd2e33bde098fd4?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
