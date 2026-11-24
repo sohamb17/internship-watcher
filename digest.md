@@ -1,18 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 00:31 UTC · 7 new listings_
+_Updated 2026-11-24 01:01 UTC · 4 new listings_
 
-## New listings (7) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Culver's** | Business Analytics Intern | Prairie du Sac, WI | SimplifyJobs | [apply](https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79) |
-| today | **Illumio** | AI-Based Scale & Performance Test Automation Intern | Sunnyvale, California - | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-illumio-78a9e57d-c213-405b-9cf3-6e68109a4ce7?s=gh-internships-2027) |
-| today | **Illumio** | Engineering Intern, Architecture Platform | Sunnyvale, California - | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-illumio-a211377c-7db7-4c62-97ba-8176c5a61293?s=gh-internships-2027) |
-| today | **Noblis** | Data Innovations Intern | Springfield, VA / Reston, VA (+1 more) | SimplifyJobs | [apply](https://careers.noblis.org/jobs/28005?icims=1&lang=en-us) |
-| today | **ViaSat** | Embedded Software Engineer Intern | Tempe, AZ | vanshb03 | [apply](https://go.vansh.nyc/1Hz) |
-| — | **SharkNinja** | Summer 2027: Firmware Engineering Intern, Advanced Development (May to August) | Needham, MA, United States (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) |
-| — | **SharkNinja** | Summer 2027: Software Development Test Engineering Co-op(May to August) | Needham, MA, United States (+2 more) | Company portals | [apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725867006) |
+| today | **SharkNinja** | Firmware Engineering Intern, Advanced Development | Needham, MA | vanshb03 | [apply](https://go.vansh.nyc/1HJ) |
+| today | **SharkNinja** | Software Development Test Engineering Co-op | Needham, MA | vanshb03 | [apply](https://go.vansh.nyc/1HH) |
+| today | **T-Mobile** | Summer 2027 Database Platform Engineering Site Reliability Engineering   SRE   Internship | Atlanta, Georgia (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-tmobile-external-REQ380923?s=gh-internships-2027) |
+| 11d ago | **Strava** | Machine Learning Engineer Intern - AI/ML Data Products | SF | SimplifyJobs | [apply](https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true) |
 
 ## Watched company portals
 
