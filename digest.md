@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 08:01 UTC · 4 new listings_
+_Updated 2026-11-24 08:31 UTC · 8 new listings_
 
-## New listings (4) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -10,6 +10,10 @@ _Updated 2026-11-24 08:01 UTC · 4 new listings_
 | today | **Federal Home Loan Bank of Indianapolis** | Data Platform Engineer Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1I0) |
 | today | **ZOLL Medical Corporation** | Software Automation Intern | Chelmsford, MA | vanshb03 | [apply](https://go.vansh.nyc/1I1) |
 | 1d ago | **Testify Labs** | QA Automation Intern (Playwright & AI Testing Agents) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0520cd7fd2e33bde098fd4?utm_campaign=1079&utm_source=git) |
+| 18d ago | **Esri** | Software Engineer Intern | St. Louis, MO (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentprogram/jobs/5286753007) |
+| 62d ago | **Esri** | Enterprise Business Intelligence Intern | Redlands, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentprogram/jobs/5246028007) |
+| 90d ago | **Esri** | GIS Engineer Intern | Redlands, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217904007) |
+| 90d ago | **Esri** | Software Development Engineer Intern | Redlands, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217883007) |
 
 ## Watched company portals
 
