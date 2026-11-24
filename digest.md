@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 10:31 UTC · 10 new listings_
+_Updated 2026-11-24 11:01 UTC · 13 new listings_
 
-## New listings (10) — newest first
+## New listings (13) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -12,8 +12,11 @@ _Updated 2026-11-24 10:31 UTC · 10 new listings_
 | today | **ZOLL Medical Corporation** | Software Automation Intern | Chelmsford, MA | vanshb03 | [apply](https://go.vansh.nyc/1I1) |
 | 1d ago | **Testify Labs** | QA Automation Intern (Playwright & AI Testing Agents) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0520cd7fd2e33bde098fd4?utm_campaign=1079&utm_source=git) |
 | 18d ago | **Esri** | Software Engineer Intern | St. Louis, MO (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentprogram/jobs/5286753007) |
+| 34d ago | **ISO New England** | Market Analysis Tool Intern - Market Analysis Tool<br>Master's | Holyoke, MA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentinternships/jobs/4456528009) |
+| 34d ago | **ISO New England** | Market Data Analyst Intern | Holyoke, MA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentinternships/jobs/4454673009) |
 | 34d ago | **RoboForce** | AI Resident | Milpitas, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/roboforce/jobs/5459229008) |
 | 62d ago | **Esri** | Enterprise Business Intelligence Intern | Redlands, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentprogram/jobs/5246028007) |
+| 82d ago | **John Deere** | Application Engineering Intern - JDPS Application Engineering - Product Engineering | Waterloo, IA | SimplifyJobs | [apply](https://johndeere.eightfold.ai/careers/job/137483157846) |
 | 90d ago | **Esri** | GIS Engineer Intern | Redlands, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217904007) |
 | 90d ago | **Esri** | Software Development Engineer Intern | Redlands, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentprogram/jobs/5217883007) |
 
