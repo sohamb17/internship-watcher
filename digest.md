@@ -1,8 +1,23 @@
 # Internship watcher — latest
 
-_Updated 2026-11-23 23:31 UTC · 0 new listings_
+_Updated 2026-11-24 00:01 UTC · 12 new listings_
 
-Nothing new this run.
+## New listings (12) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Capital Technology Group** | Data Engineering and Data Science Intern | Silver Spring, MD | vanshb03 | [apply](https://go.vansh.nyc/1Hu) |
+| today | **Capital Technology Group** | Software Development Intern | Silver Spring, MD (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1Ht) |
+| today | **CornerStone Partners** | AI and Automation Intern | Charlottesville, VA (+1 more) | SimplifyJobs | [apply](https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027) |
+| today | **Illinois Tool Works** | Software or Computer Engineer Intern | Fairmont, MN | vanshb03 | [apply](https://go.vansh.nyc/1Hv) |
+| today | **Illumio** | Engineering Intern, Security Platforms | Sunnyvale, California - | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-illumio-95bc7491-9b2f-493c-9297-e9cb36a63b45?s=gh-internships-2027) |
+| today | **John Deere** | Simulation Engineering Student Intern - Product Engineering | Urbandale, IA | SimplifyJobs | [apply](https://johndeere.eightfold.ai/careers/job/137484510505) |
+| today | **JP Morgan Chase** | Applied AI Intern - HR CDAO<br>Master's/PhD | NYC | SimplifyJobs | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549) |
+| today | **Milliman** | Data Scientist Intern | Indianapolis, IN | SimplifyJobs | [apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420) |
+| today | **RTX** | Digital Technology Vendor Management Co-op REMOTE | CT-REMOTE | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890848?s=gh-internships-2027) |
+| 1d ago | **First Financial Federal Credit Union of Maryland** | Software Development Intern | Sparks, MD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b04b80c2d88b678f1178f37?utm_campaign=1079&utm_source=git) |
+| 1d ago | **First PREMIER Bank** | Financial Modeling & Analysis Intern | Sioux Falls, SD | SimplifyJobs | [apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Financial-Modeling---Analysis-Internship_R-517-1) |
+| 1d ago | **Lifeway** | Summer Internship - Business Intelligence | Remote in USA | SimplifyJobs | [apply](https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false) |
 
 ## Watched company portals
 
