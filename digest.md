@@ -1,15 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 16:01 UTC · 4 new listings_
+_Updated 2026-11-24 16:31 UTC · 1 new listing_
 
-## New listings (4) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **AMD** | Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op | Austin, TX, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/amd-89564?s=gh-internships-2027) |
-| today | **Danaher** | IT Data Analyst Intern | Brea, California, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1316675?s=gh-internships-2027) |
-| today | **iCapital Network** | SI and Annuities Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958714002) |
-| 4d ago | **NASA Jet Propulsion Laboratory** | Business Administration Intern | Pasadena, CA | SimplifyJobs | [apply](https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Business-Administration-Academic-Part-time-Intern_R6311) |
+| today | **BEUMER Group** | AI Development Intern | Somerset County, NJ (+1 more) | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739) |
 
 ## Watched company portals
 
