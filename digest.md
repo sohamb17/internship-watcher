@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 04:52 UTC · 1 new listing_
+_Updated 2026-11-24 05:01 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| — | **Kudu Dynamics** | Software Engineering Intern | Arlington | nointernship.com | [apply](https://go.vansh.nyc/1Hh?s=y) |
+| 1d ago | **MITRE** | Cyber Operations Engineer Intern | McLean, Virginia | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-mitre-R117737?s=gh-internships-2027) |
 
 ## Watched company portals
 
