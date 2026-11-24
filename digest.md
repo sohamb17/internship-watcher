@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 17:57 UTC · 2 new listings_
+_Updated 2026-11-24 18:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Nasdaq** | Data Engineering Intern - 2027 Summer Internship | Denver | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nasdaq-global-external-site-R0027379?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Computer Systems Intern - Linthicum MD | United States-Maryland-Linthicum | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261959?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
