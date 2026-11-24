@@ -1,23 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 00:01 UTC · 12 new listings_
+_Updated 2026-11-24 00:31 UTC · 7 new listings_
 
-## New listings (12) — newest first
+## New listings (7) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Capital Technology Group** | Data Engineering and Data Science Intern | Silver Spring, MD | vanshb03 | [apply](https://go.vansh.nyc/1Hu) |
-| today | **Capital Technology Group** | Software Development Intern | Silver Spring, MD (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1Ht) |
-| today | **CornerStone Partners** | AI and Automation Intern | Charlottesville, VA (+1 more) | SimplifyJobs | [apply](https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027) |
-| today | **Illinois Tool Works** | Software or Computer Engineer Intern | Fairmont, MN | vanshb03 | [apply](https://go.vansh.nyc/1Hv) |
-| today | **Illumio** | Engineering Intern, Security Platforms | Sunnyvale, California - | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-illumio-95bc7491-9b2f-493c-9297-e9cb36a63b45?s=gh-internships-2027) |
-| today | **John Deere** | Simulation Engineering Student Intern - Product Engineering | Urbandale, IA | SimplifyJobs | [apply](https://johndeere.eightfold.ai/careers/job/137484510505) |
-| today | **JP Morgan Chase** | Applied AI Intern - HR CDAO<br>Master's/PhD | NYC | SimplifyJobs | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549) |
-| today | **Milliman** | Data Scientist Intern | Indianapolis, IN | SimplifyJobs | [apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420) |
-| today | **RTX** | Digital Technology Vendor Management Co-op REMOTE | CT-REMOTE | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890848?s=gh-internships-2027) |
-| 1d ago | **First Financial Federal Credit Union of Maryland** | Software Development Intern | Sparks, MD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b04b80c2d88b678f1178f37?utm_campaign=1079&utm_source=git) |
-| 1d ago | **First PREMIER Bank** | Financial Modeling & Analysis Intern | Sioux Falls, SD | SimplifyJobs | [apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Financial-Modeling---Analysis-Internship_R-517-1) |
-| 1d ago | **Lifeway** | Summer Internship - Business Intelligence | Remote in USA | SimplifyJobs | [apply](https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false) |
+| today | **Culver's** | Business Analytics Intern | Prairie du Sac, WI | SimplifyJobs | [apply](https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79) |
+| today | **Illumio** | AI-Based Scale & Performance Test Automation Intern | Sunnyvale, California - | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-illumio-78a9e57d-c213-405b-9cf3-6e68109a4ce7?s=gh-internships-2027) |
+| today | **Illumio** | Engineering Intern, Architecture Platform | Sunnyvale, California - | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-illumio-a211377c-7db7-4c62-97ba-8176c5a61293?s=gh-internships-2027) |
+| today | **Noblis** | Data Innovations Intern | Springfield, VA / Reston, VA (+1 more) | SimplifyJobs | [apply](https://careers.noblis.org/jobs/28005?icims=1&lang=en-us) |
+| today | **ViaSat** | Embedded Software Engineer Intern | Tempe, AZ | vanshb03 | [apply](https://go.vansh.nyc/1Hz) |
+| — | **SharkNinja** | Summer 2027: Firmware Engineering Intern, Advanced Development (May to August) | Needham, MA, United States (+1 more) | Company portals | [apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) |
+| — | **SharkNinja** | Summer 2027: Software Development Test Engineering Co-op(May to August) | Needham, MA, United States (+2 more) | Company portals | [apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725867006) |
 
 ## Watched company portals
 
