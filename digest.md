@@ -1,8 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 06:01 UTC · 0 new listings_
+_Updated 2026-11-24 06:31 UTC · 3 new listings_
 
-Nothing new this run.
+## New listings (3) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **ASML** | Internship - Data Analyst | San Jose, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355833?s=gh-internships-2027) |
+| today | **Federal Home Loan Bank of Indianapolis** | Data Platform Engineer Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1I0) |
+| today | **ZOLL Medical Corporation** | Software Automation Intern | Chelmsford, MA | vanshb03 | [apply](https://go.vansh.nyc/1I1) |
 
 ## Watched company portals
 
