@@ -1,17 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 22:31 UTC · 6 new listings_
+_Updated 2026-11-24 23:01 UTC · 2 new listings_
 
-## New listings (6) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Arete** | Science & Software Development Intern | Northridge, CA | speedyapply | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ed4b889e-3beb-433a-9b2c-7258324f6a83&jobId=585838) |
-| today | **Hitachi** | Information Technology Internship | Holland, Michigan, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0152887?s=gh-internships-2027) |
-| today | **Sallie Mae** | Cloud Ops Intern | Indianapolis, IN | speedyapply | [apply](https://sallie-mae.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN/Cloud-Ops-Intern_R26_000631) |
-| 1d ago | **Oscar** | Software Engineering Intern | New York City, NY | speedyapply | [apply](https://oscarhealth.com/careers/jobs?gh_jid=8407472) |
-| 1d ago | **Raytheon** | Embedded System Engineering Intern | Windsor Locks, CT | speedyapply | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Embedded-System-Engineering-Intern_01890950) |
-| 1d ago | **ZOLL** | Software Engineering Intern | Chelmsford, MA | speedyapply | [apply](https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Software-Engineering-Intern_R20923) |
+| today | **CuraTech** | Software Engineer Intern | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b05f5d471c8f4e3660ea3f0?utm_campaign=1079&utm_source=git) |
+| today | **Northrop Grumman** | 2027 Electronics Engineer Intern - Azusa CA | United States-California-Azusa | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10262073?s=gh-internships-2027) |
 
 ## Watched company portals
 
