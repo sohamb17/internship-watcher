@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 20:01 UTC · 0 new listings_
+_Updated 2026-11-24 20:31 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Meijer** | Information Technology Intern- Summer 2027 | Grand Rapids, MI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b05d8ad2835ccc63ff55534?utm_campaign=1079&utm_source=git) |
+| today | **Takeda** | 2027 Summer Internship Program: Digital Complaint System Developer | Lexington, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0515dc7fd2e33bde098ccb?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
