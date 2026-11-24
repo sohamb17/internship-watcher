@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-24 13:31 UTC · 18 new listings_
+_Updated 2026-11-24 14:01 UTC · 20 new listings_
 
-## New listings (18) — newest first
+## New listings (20) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -10,6 +10,8 @@ _Updated 2026-11-24 13:31 UTC · 18 new listings_
 | today | **Federal Home Loan Bank of Indianapolis** | Data Platform Engineer Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1I0) |
 | today | **Micron Technology** | Equipment Engineer Intern - VMEC | Manassas, VA -  Fab 6 | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-micron-external-JR116715?s=gh-internships-2027) |
 | today | **ZOLL Medical Corporation** | Software Automation Intern | Chelmsford, MA | vanshb03 | [apply](https://go.vansh.nyc/1I1) |
+| 1d ago | **Idaho National Laboratory** | Infrastructure Data Integration & Risk-Informed Maintenance Pilot Intern | Idaho Falls, ID | vanshb03 | [apply](https://go.vansh.nyc/1I6) |
+| 1d ago | **Leidos** | Network Engineering & Operations Intern | Shiloh, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-leidos-external-R-00197462?s=gh-internships-2027) |
 | 1d ago | **National Laboratory of the Rockies** | Undergaduate/Graduate Intern – Interfacing the Anderson Impurity Model Benchmark for Correlated Electron Systems | Golden CO | Company portals | [apply](https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Golden-CO/Undergaduate-Graduate-Intern---Interfacing-the-Anderson-Impurity-Model-Benchmark-for-Correlated-Electron-Systems_R14630) |
 | 1d ago | **Testify Labs** | QA Automation Intern (Playwright & AI Testing Agents) | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0520cd7fd2e33bde098fd4?utm_campaign=1079&utm_source=git) |
 | 18d ago | **Esri** | Software Engineer Intern | St. Louis, MO (+1 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/studentprogram/jobs/5286753007) |
