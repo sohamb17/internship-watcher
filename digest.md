@@ -1,19 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 14:01 UTC · 8 new listings_
+_Updated 2026-11-25 14:31 UTC · 0 new listings_
 
-## New listings (8) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Northrop Grumman** | 2027 Configuration Management Data Analyst Intern - Falls Church VA | United States-Virginia-Falls Church | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10262117?s=gh-internships-2027) |
-| today | **PatientPoint** | Data Engineer Intern | Cincinnati, OH | vanshb03 | [apply](https://go.vansh.nyc/1J3) |
-| today | **Regal Rexnord** | Reliability Lab Co-Op (Summer 2027) | Fort Wayne, Indiana, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_06207?s=gh-internships-2027) |
-| 1d ago | **BimBuildings** | Internship - Computational geometry and computer graphics developer | Indiana, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b06622c570bcd0c9dcb4c16?utm_campaign=1079&utm_source=git) |
-| 1d ago | **The Aerospace Corporation** | 2027 Embedded Software Engineering Undergrad Intern | El Segundo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b06475cdbad4c4bd2505650?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Vivacity Tech PBC** | Software Development Intern | Greenville, SC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6acf38454f3229123da3f2ff?utm_campaign=1079&utm_source=git) |
-| 2d ago | **Artefact** | AI Builder Intern | NYC (+2 more) | SimplifyJobs | [apply](https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002) |
-| 67d ago | **Metropolitan Transportation Authority** | Operations Analytics and Problem Management | NYC | SimplifyJobs | [apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/ohfNAfwD?nl=1&nl=1&fr=false) |
+Nothing new this run.
 
 ## Watched company portals
 
