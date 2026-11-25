@@ -1,12 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 15:31 UTC · 1 new listing_
+_Updated 2026-11-25 16:31 UTC · 1 new listing_
 
 ## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Rysun Labs** | Intern- Full-stack Developer | Tampa, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a8ef6e63ac3a34f92d7ec05?utm_campaign=1079&utm_source=git) |
+| today | **Waters** | IT Digital Intern | Milford, MA | SimplifyJobs | [apply](https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false) |
 
 ## Watched company portals
 
