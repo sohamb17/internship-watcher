@@ -1,16 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 22:01 UTC · 5 new listings_
+_Updated 2026-11-25 22:31 UTC · 0 new listings_
 
-## New listings (5) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Best Egg** | Software Engineering Summer Intern | Wilmington, DE, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b074444b624dcc57de78ee9?utm_campaign=1079&utm_source=git) |
-| today | **Firestorm** | Field Engineering Intern | San Diego, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/gem-firestorm-am9icG9zdDrnrtsfLHPI0s2AXbtv-ZpN?s=gh-internships-2027) |
-| today | **Mission Technologies, a division of HII** | Software Engineer Intern (Multiple Levels) - 30069 | Columbia, MD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af82d3f42ae65e2c8f3b57e?utm_campaign=1079&utm_source=git) |
-| today | **Total Quality Logistics** | Software Development Intern (Summer 2027) | Cincinnati, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0745adfbcb892eea5e1e52?utm_campaign=1079&utm_source=git) |
-| today | **Xona** | Software Engineering (Engineering Productivity) Intern | Burlingame, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0739346c5083822fdc7f68?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
