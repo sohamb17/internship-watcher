@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 07:01 UTC · 2 new listings_
+_Updated 2026-11-25 07:31 UTC · 3 new listings_
 
-## New listings (2) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
 | 1d ago | **BimBuildings** | Internship - Computational geometry and computer graphics developer | Indiana, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b06622c570bcd0c9dcb4c16?utm_campaign=1079&utm_source=git) |
+| 1d ago | **The Aerospace Corporation** | 2027 Embedded Software Engineering Undergrad Intern | El Segundo, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b06475cdbad4c4bd2505650?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Vivacity Tech PBC** | Software Development Intern | Greenville, SC, United States | Jobright | [apply](https://jobright.ai/jobs/info/6acf38454f3229123da3f2ff?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
