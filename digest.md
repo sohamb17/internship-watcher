@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 02:38 UTC · 0 new listings_
+_Updated 2026-11-25 03:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Leidos** | Missile Systems Engineer Intern | Huntsville, AL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-leidos-external-R-00195265?s=gh-internships-2027) |
 
 ## Watched company portals
 
