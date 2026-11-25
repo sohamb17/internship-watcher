@@ -1,18 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 17:01 UTC · 7 new listings_
+_Updated 2026-11-25 17:31 UTC · 0 new listings_
 
-## New listings (7) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Apex Technology** | Flight Software Engineering Internship (Summer 2027) | Los Angeles | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-apex-technology-inc-744ea544-2601-4e58-8fac-94ea300653e3?s=gh-internships-2027) |
-| today | **Apex Technology** | Software Engineering, Operating Systems Internship (Summer 2027) | Los Angeles | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-apex-technology-inc-3ce65300-2818-4601-9ee4-34a3c012d915?s=gh-internships-2027) |
-| today | **Carrier Global** | Software & Controls Engineering Intern - Summer | CAN05: CCS-Charlotte, 5900... | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-carrier-jobs-30222979?s=gh-internships-2027) |
-| today | **Draper** | Cyber Effects Engineering Intern (Summer 2027) | Cambridge, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-draper-draper-careers-JR003189?s=gh-internships-2027) |
-| today | **Generac** | Consumer Experience Data Analyst Intern | Pewaukee, WI - USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-generac-external-JR17206?s=gh-internships-2027) |
-| today | **Jabil** | Data Scientist Intern | St. Petersburg/Tampa, FL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2468236?s=gh-internships-2027) |
-| — | **Sanofi** | 2027 Summer Intern Analytical Development Framingham MA | Framingham, Massachusetts | zapplyjobs | [apply](https://zapply.jobs/l/d/radancy-sanofi-47226002432?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
