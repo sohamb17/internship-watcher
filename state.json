@@ -587,6 +587,20 @@
 "sk": "e7ea3145-19cf-49b6-bc9f-cb292a69e0c9",
 "src": "simplify",
 "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002"
+},
+{
+"company": "Regal Rexnord",
+"degrees": [],
+"dk": "regalrexnord|lab reliability",
+"found": 20782,
+"loc": "Fort Wayne, Indiana, United States",
+"more": null,
+"night": true,
+"posted": 20782,
+"role": "Reliability Lab Co-Op (Summer 2027)",
+"sk": "https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_06207",
+"src": "zapply",
+"url": "https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_06207?s=gh-internships-2027"
 }
 ],
 "roles": {
@@ -6574,6 +6588,7 @@
 "regalrexnord|application engineering": 20775,
 "regalrexnord|engineering lab technology": 20766,
 "regalrexnord|information technology": 20767,
+"regalrexnord|lab reliability": 20782,
 "regencycenters|engineering software": 20774,
 "regeneronpharmaceuticals|ai data engineering ml": 20768,
 "regeneronpharmaceuticals|analytics automation business dashboards data process": 20768,
@@ -23636,6 +23651,7 @@
 "https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04973": 20775,
 "https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_05926": 20766,
 "https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_06206": 20775,
+"https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_06207": 20782,
 "https://zapply.jobs/l/d/workday-relx-risksolutions-R118938": 20772,
 "https://zapply.jobs/l/d/workday-rhsc-delta-dental-of-michigan-JR101534": 20776,
 "https://zapply.jobs/l/d/workday-roche-rog-a2o-gene-202611-128787": 20776,
