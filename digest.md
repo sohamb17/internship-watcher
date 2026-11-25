@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 22:31 UTC · 0 new listings_
+_Updated 2026-11-25 23:01 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Bristol Myers Squibb** | Protein Engineering Yeast Display, Fall 2027 Co-op | Brisbane - CA - US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608947?s=gh-internships-2027) |
+| today | **Shield AI** | 2027 Summer Intern - X-BAT Engineering Avionics - 5923 | Dallas, TX, US | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-shield-aa894b5e-8101-4980-a716-785ce34e1286?s=gh-internships-2027) |
 
 ## Watched company portals
 
