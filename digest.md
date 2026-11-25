@@ -1,15 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 02:31 UTC · 4 new listings_
+_Updated 2026-11-25 02:38 UTC · 0 new listings_
 
-## New listings (4) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **NVIDIA** | Software Engineering Intern, Simulation Technology - Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029531?s=gh-internships-2027) |
-| today | **Bandwidth Inc.** | Software Engineer Intern | Raleigh, NC | vanshb03 | [apply](https://go.vansh.nyc/1IS) |
-| today | **Hewlett Packard Enterprise** | Cloud Security Engagement Intern | Spring, TX | vanshb03 | [apply](https://go.vansh.nyc/1IP) |
-| 1d ago | **Idaho National Laboratory** | NSUF Agentic Workflow Development Intern | Idaho Falls, ID | vanshb03 | [apply](https://go.vansh.nyc/1IQ) |
+Nothing new this run.
 
 ## Watched company portals
 
