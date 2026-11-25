@@ -1,17 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 00:01 UTC · 6 new listings_
+_Updated 2026-11-25 00:31 UTC · 4 new listings_
 
-## New listings (6) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern - AI Systems Architecture and Efficient LLM Inference | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200068726?s=gh-internships-2027) |
-| today | **NVIDIA** | AI and Quant DevTech Engineering Intern – Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2030517?s=gh-internships-2027) |
-| today | **Bloom Energy** | Equipment Engineering Intern | Fremont, California | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25645?s=gh-internships-2027) |
-| today | **Sparksoft** | Business / Data Analyst Intern | Maryland | SimplifyJobs | [apply](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5308152007) |
-| today | **WSP** | Geographic Information Systems Science Intern | Denver, CO (+1 more) | SimplifyJobs | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) |
-| — | **Neuralink** | Electrical Test Engineer Intern | South San Francisco, California, United States | Company portals | [apply](https://boards.greenhouse.io/neuralink/jobs/8197808003?gh_jid=8197808003) |
+| today | **Meta** | Research Scientist Intern - Machine Learning for Robust 3D Perception | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1482835147112669) |
+| today | **Johns Hopkins Applied Physics Laboratory** | Artificial Intelligence and Complex Systems Intern | Laurel, MD | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us) |
+| today | **Johns Hopkins Applied Physics Laboratory** | Robotics Intern | Laurel, MD | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us) |
+| today | **Medpace** | Clinical Intelligence Intern | Cincinnati, OH | SimplifyJobs | [apply](https://careers.medpace.com/jobs/13558?icims=1&lang=en-us) |
 
 ## Watched company portals
 
