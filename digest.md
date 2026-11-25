@@ -1,17 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 19:01 UTC · 6 new listings_
+_Updated 2026-11-25 19:31 UTC · 0 new listings_
 
-## New listings (6) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Boll & Branch** | AI & QA Automation Intern | New York, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b070c5408b131a5c657728d?utm_campaign=1079&utm_source=git) |
-| today | **Dandy** | Summer 2027 Internship - Software Engineering Intern | USA - New York NY | zapplyjobs | [apply](https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027) |
-| today | **Elevated Web Design** | Platform Software Engineering Internship | United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0710912c2b1d2eebe11aba?utm_campaign=1079&utm_source=git) |
-| today | **Waters Corporation** | IT Intern - Software Development Platform Engineer | Milford, MA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0709ee2c2b1d2eebe11699?utm_campaign=1079&utm_source=git) |
-| 1d ago | **NetApp** | Software Engineer Intern | Wichita, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b07148cb624dcc57de773f0?utm_campaign=1079&utm_source=git) |
-| — | **Vertex Pharmaceuticals** | Summer Intern 2027, Digital Pathology and AI Validation | Boston, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31421?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
