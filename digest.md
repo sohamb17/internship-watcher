@@ -1,15 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 18:01 UTC · 4 new listings_
+_Updated 2026-11-25 18:31 UTC · 2 new listings_
 
-## New listings (4) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Berkshire Hathaway Energy** | Intern - Telecom Engineering | Des Moines, IA, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-berkshire-hathaway-energy-10006130?s=gh-internships-2027) |
-| today | **Lightmatter** | Firmware Intern – Summer 2027 | Boston, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lightmatter-5492829008?s=gh-internships-2027) |
-| today | **Marvell** | Applied AI/ML Research Scientist Intern | Santa Clara, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603847?s=gh-internships-2027) |
-| today | **Siemens Digital Industries Software** | Strategic Student Program: Software Engineering Intern (LCS, Summer 2027) | State College, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6acdb44809635d4ede00aafe?utm_campaign=1079&utm_source=git) |
+| today | **SambaNova** | AI Performance Engineer Intern | Austin, TX / San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1Jj) |
+| today | **SambaNova** | Compiler Engineer Intern | Austin, TX / San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1Jk) |
 
 ## Watched company portals
 
