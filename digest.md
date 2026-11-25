@@ -1,14 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 01:31 UTC · 3 new listings_
+_Updated 2026-11-25 02:01 UTC · 8 new listings_
 
-## New listings (3) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern - CXL Memory | Mountain View, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200068734?s=gh-internships-2027) |
-| today | **Microsoft** | Research Intern - Memory Pathfinding | Mountain View, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200068737?s=gh-internships-2027) |
-| today | **Northrop Grumman** | 2027 Industrial Engineering Internship - Baltimore MD | United States-Maryland-Baltimore | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10262103?s=gh-internships-2027) |
+| today | **Aerospace Corporation** | 2027 Battery Test Lab Undergraduate Research Intern | El Segundo, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aero-external-R017300?s=gh-internships-2027) |
+| today | **Aerospace Corporation** | 2027 Explosives Systems Graduate Intern | El Segundo, CA (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aero-external-R017303?s=gh-internships-2027) |
+| today | **Kimley-Horn** | Data Science Intern | Mesa, AZ | SimplifyJobs | [apply](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) |
+| today | **Samsung** | LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation<br>Master's/PhD | San Jose, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003) |
+| today | **Stanley Black & Decker** | Engineering Intern, Electronics - Summer 2027 | Towson, MD, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052694?s=gh-internships-2027) |
+| 1d ago | **Black & Veatch** | Digital Products Custom Application Development Intern | Overland Park, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0623da0e7eacd1ea6466fd?utm_campaign=1079&utm_source=git) |
+| 1d ago | **SambaNova** | Runtime Engineer Intern | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b061ed40e7eacd1ea646372?utm_campaign=1079&utm_source=git) |
+| — | **Schweitzer Engineering Laboratories** | Power Engineer Intern | Washington - Pullman | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-selinc-sel-2026-24966?s=gh-internships-2027) |
 
 ## Watched company portals
 
