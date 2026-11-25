@@ -1,14 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 04:31 UTC · 3 new listings_
+_Updated 2026-11-25 05:02 UTC · 0 new listings_
 
-## New listings (3) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **NBCUniversal** | Universal Studios Hollywood, Entertainment Creative Development, Audio & Video Design Internship... | Universal City, CALIFORNIA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-NBCUniversal3-744000163605409?s=gh-internships-2027) |
-| today | **NBCUniversal** | Universal Studios Hollywood, Entertainment Creative Development, Production Design Internship –... | Universal City, CALIFORNIA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-NBCUniversal3-744000163604904?s=gh-internships-2027) |
-| 1d ago | **Lunar Outpost** | Software Management Intern - Summer 2027 | Golden, CO, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b064c4645a65b5da366f7bd?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
