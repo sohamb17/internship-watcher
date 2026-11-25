@@ -1,11 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 13:31 UTC · 7 new listings_
+_Updated 2026-11-25 14:01 UTC · 8 new listings_
 
-## New listings (7) — newest first
+## New listings (8) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **Northrop Grumman** | 2027 Configuration Management Data Analyst Intern - Falls Church VA | United States-Virginia-Falls Church | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10262117?s=gh-internships-2027) |
 | today | **PatientPoint** | Data Engineer Intern | Cincinnati, OH | vanshb03 | [apply](https://go.vansh.nyc/1J3) |
 | today | **Regal Rexnord** | Reliability Lab Co-Op (Summer 2027) | Fort Wayne, Indiana, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_06207?s=gh-internships-2027) |
 | 1d ago | **BimBuildings** | Internship - Computational geometry and computer graphics developer | Indiana, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b06622c570bcd0c9dcb4c16?utm_campaign=1079&utm_source=git) |
