@@ -498,7 +498,36 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20778,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20781
 },
-"held": [],
+"held": [
+{
+"company": "Vivacity Tech PBC",
+"degrees": [],
+"dk": "vivacitytechpbc|development software",
+"found": 20782,
+"loc": "Greenville, SC, United States",
+"more": null,
+"night": true,
+"posted": 20781,
+"role": "Software Development Intern",
+"sk": "jobright:6acf38454f3229123da3f2ff",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6acf38454f3229123da3f2ff?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "BimBuildings",
+"degrees": [],
+"dk": "bimbuildings|computational computer developer geometry graphics",
+"found": 20782,
+"loc": "Indiana, United States",
+"more": null,
+"night": true,
+"posted": 20781,
+"role": "Internship - Computational geometry and computer graphics developer",
+"sk": "jobright:6b06622c570bcd0c9dcb4c16",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6b06622c570bcd0c9dcb4c16?utm_campaign=1079&utm_source=git"
+}
+],
 "roles": {
 "10a|engineering fellow": 20779,
 "1password|brokering credential developer": 20759,
@@ -1555,6 +1584,7 @@
 "beumer|ai development": 20782,
 "bge|gis": 20782,
 "bildai|ai swe": 20782,
+"bimbuildings|computational computer developer geometry graphics": 20782,
 "biodesix|ai development research": 20782,
 "biodesix|ai development software": 20782,
 "biodesix|analytics business data intelligence": 20782,
@@ -8426,6 +8456,7 @@
 "visa|phd quantum research scientist staff": 20781,
 "vitallyfe|engineer software": 20782,
 "vitallyfe|engineering software": 20782,
+"vivacitytechpbc|development software": 20782,
 "vizient|aggregation pharmacy": 20782,
 "vizient|analytics contract operations": 20782,
 "vizient|analytics insights research": 20782,
@@ -12528,6 +12559,7 @@
 "jobright:6ace9d764391691a335adbb7": 20769,
 "jobright:6aceb5084391691a335ae4db": 20762,
 "jobright:6aceceb070e50ec1b37f1dd5": 20764,
+"jobright:6acf38454f3229123da3f2ff": 20782,
 "jobright:6acfa4e278d51ae69ce0738b": 20763,
 "jobright:6acfab4cc0dd9da253cf3d7f": 20774,
 "jobright:6acfe6e22cc4e9d17e90b0f8": 20768,
@@ -13901,10 +13933,14 @@
 "jobright:6b0630fc3e56157448ed4360": 20782,
 "jobright:6b0631003e56157448ed4366": 20782,
 "jobright:6b063cd23e56157448ed46a7": 20782,
+"jobright:6b063cd645a65b5da366f402": 20782,
 "jobright:6b063ce0460ce5352ae3f343": 20782,
 "jobright:6b064728460ce5352ae3f582": 20782,
 "jobright:6b064c4645a65b5da366f7bd": 20782,
-"jobright:6b064e7771c8f4e3660ecba7": 20782
+"jobright:6b064e7771c8f4e3660ecba7": 20782,
+"jobright:6b06622c570bcd0c9dcb4c16": 20782,
+"jobright:6b06647367bccf421e6f92a2": 20782,
+"jobright:6b066705f28b07596ee72384": 20782
 },
 "nointernship": {
 "nointernship:50673": 20760,
