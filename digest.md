@@ -1,15 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 01:01 UTC · 4 new listings_
+_Updated 2026-11-25 01:31 UTC · 3 new listings_
 
-## New listings (4) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Reach Labs** | Hardware Prototyping Intern | Redwood City, CA | vanshb03 | [apply](https://go.vansh.nyc/1IF) |
-| 1d ago | **Shield** | 2027 Summer Intern - Software Test Automation - 5796 | Dallas, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b061619460ce5352ae3e1d8?utm_campaign=1079&utm_source=git) |
-| 1d ago | **SPX Technologies** | Programmer Intern - Software Development | East Stroudsburg, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b05f73cdbad4c4bd2503160?utm_campaign=1079&utm_source=git) |
-| 9d ago | **TransUnion** | Data Analyst Intern | Chicago, IL | SimplifyJobs | [apply](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654) |
+| today | **Microsoft** | Research Intern - CXL Memory | Mountain View, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200068734?s=gh-internships-2027) |
+| today | **Microsoft** | Research Intern - Memory Pathfinding | Mountain View, California,... | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200068737?s=gh-internships-2027) |
+| today | **Northrop Grumman** | 2027 Industrial Engineering Internship - Baltimore MD | United States-Maryland-Baltimore | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10262103?s=gh-internships-2027) |
 
 ## Watched company portals
 
