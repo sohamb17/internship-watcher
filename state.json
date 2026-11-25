@@ -540,6 +540,20 @@
 "sk": "jobright:6b06475cdbad4c4bd2505650",
 "src": "jobright",
 "url": "https://jobright.ai/jobs/info/6b06475cdbad4c4bd2505650?utm_campaign=1079&utm_source=git"
+},
+{
+"company": "PatientPoint",
+"degrees": [],
+"dk": "patientpoint|data engineer",
+"found": 20782,
+"loc": "Cincinnati, OH",
+"more": null,
+"night": true,
+"posted": 20782,
+"role": "Data Engineer Intern",
+"sk": "8a3d951b-7c83-4663-abc8-6480f7e30c96",
+"src": "vansh",
+"url": "https://go.vansh.nyc/1J3"
 }
 ],
 "roles": {
@@ -6195,6 +6209,7 @@
 "pathai|ai core learning machine ml product": 20766,
 "pathlabs|ai engineer software": 20782,
 "pathlabs|ai engineering software": 20782,
+"patientpoint|data engineer": 20782,
 "patientpoint|engineer software": 20770,
 "patreon|engineer software": 20782,
 "patreon|engineering software": 20782,
@@ -6606,7 +6621,7 @@
 "riotgames|design game technical": 20782,
 "riotgames|engineer learning machine": 20782,
 "riotgames|engineer software": 20767,
-"riotgames|engineering learning machine masters phd": 20781,
+"riotgames|engineering learning machine masters phd": 20782,
 "riotgames|engineering remote software": 20767,
 "rippling|backend engineer focused software": 20782,
 "rippling|backend engineer full ml software stack": 20759,
@@ -13952,6 +13967,7 @@
 "jobright:6b063cd23e56157448ed46a7": 20782,
 "jobright:6b063cd645a65b5da366f402": 20782,
 "jobright:6b063ce0460ce5352ae3f343": 20782,
+"jobright:6b064182460ce5352ae3f3c4": 20782,
 "jobright:6b064728460ce5352ae3f582": 20782,
 "jobright:6b06475cdbad4c4bd2505650": 20782,
 "jobright:6b064c4645a65b5da366f7bd": 20782,
@@ -13960,7 +13976,8 @@
 "jobright:6b06647367bccf421e6f92a2": 20782,
 "jobright:6b066705f28b07596ee72384": 20782,
 "jobright:6b06786867bccf421e6f9646": 20782,
-"jobright:6b067a50f28b07596ee7276d": 20782
+"jobright:6b067a50f28b07596ee7276d": 20782,
+"jobright:6b06867639133b8734a9e890": 20782
 },
 "nointernship": {
 "nointernship:50673": 20760,
@@ -20854,6 +20871,7 @@
 "89f0fcb3-4553-4841-913f-c1a70ede6ac9": 20782,
 "89f2194b-0147-4c1b-805e-d39c4d34688a": 20768,
 "8a309f21-1889-45b4-b1c8-5a8a590cc745": 20782,
+"8a3d951b-7c83-4663-abc8-6480f7e30c96": 20782,
 "8a6adeea-78f6-4c37-9526-ceb325cec2cf": 20782,
 "8a734c7f-5776-4328-b026-8832887f6b01": 20782,
 "8a926d06-b205-4c4c-a55c-c94b5192158a": 20759,
@@ -21803,6 +21821,7 @@
 "edaf1bda-3466-44b2-9383-0fdc355bdc8a": 20782,
 "ede41367-75d1-4668-bcf9-fe3ec71ad547": 20782,
 "ee0e5fdf-b382-4676-b4cd-7bfed2f19951": 20782,
+"ee471e57-c212-4773-91ab-1ef267f2bae6": 20782,
 "ee47ee5f-756b-42d6-9da8-ba821b2638a3": 20766,
 "ee4a0d64-e248-4b1f-b5f6-653c297c2f13": 20782,
 "ee628347-8c73-4410-adef-c168b2a90a03": 20782,
@@ -22168,7 +22187,7 @@
 "https://zapply.jobs/l/d/greenhouse-riotgames-8356372": 20769,
 "https://zapply.jobs/l/d/greenhouse-riotgames-8356525": 20782,
 "https://zapply.jobs/l/d/greenhouse-riotgames-8356716": 20780,
-"https://zapply.jobs/l/d/greenhouse-riotgames-8356771": 20781,
+"https://zapply.jobs/l/d/greenhouse-riotgames-8356771": 20782,
 "https://zapply.jobs/l/d/greenhouse-riotgames-8356789": 20774,
 "https://zapply.jobs/l/d/greenhouse-riotgames-8356807": 20768,
 "https://zapply.jobs/l/d/greenhouse-riotgames-8356815": 20768,
