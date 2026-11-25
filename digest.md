@@ -1,15 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 00:31 UTC · 4 new listings_
+_Updated 2026-11-25 01:01 UTC · 4 new listings_
 
 ## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Meta** | Research Scientist Intern - Machine Learning for Robust 3D Perception | Redmond, WA | SimplifyJobs | [apply](https://www.metacareers.com/jobs/1482835147112669) |
-| today | **Johns Hopkins Applied Physics Laboratory** | Artificial Intelligence and Complex Systems Intern | Laurel, MD | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us) |
-| today | **Johns Hopkins Applied Physics Laboratory** | Robotics Intern | Laurel, MD | SimplifyJobs | [apply](https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us) |
-| today | **Medpace** | Clinical Intelligence Intern | Cincinnati, OH | SimplifyJobs | [apply](https://careers.medpace.com/jobs/13558?icims=1&lang=en-us) |
+| today | **Reach Labs** | Hardware Prototyping Intern | Redwood City, CA | vanshb03 | [apply](https://go.vansh.nyc/1IF) |
+| 1d ago | **Shield** | 2027 Summer Intern - Software Test Automation - 5796 | Dallas, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b061619460ce5352ae3e1d8?utm_campaign=1079&utm_source=git) |
+| 1d ago | **SPX Technologies** | Programmer Intern - Software Development | East Stroudsburg, PA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b05f73cdbad4c4bd2503160?utm_campaign=1079&utm_source=git) |
+| 9d ago | **TransUnion** | Data Analyst Intern | Chicago, IL | SimplifyJobs | [apply](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654) |
 
 ## Watched company portals
 
