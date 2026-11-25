@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 03:31 UTC · 2 new listings_
+_Updated 2026-11-25 04:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **NBCUniversal** | Universal Studios Hollywood, Finance & Strategy, Business Analytics & Industrial Engineering... | Universal City, CALIFORNIA | zapplyjobs | [apply](https://zapply.jobs/l/d/sr-NBCUniversal3-744000163602429?s=gh-internships-2027) |
-| — | **Lucid Motors** | ADAS Systems Integration Intern | Newark | nointernship.com | [apply](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) |
+Nothing new this run.
 
 ## Watched company portals
 
