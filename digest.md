@@ -1,19 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 02:01 UTC · 8 new listings_
+_Updated 2026-11-25 02:31 UTC · 4 new listings_
 
-## New listings (8) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Aerospace Corporation** | 2027 Battery Test Lab Undergraduate Research Intern | El Segundo, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aero-external-R017300?s=gh-internships-2027) |
-| today | **Aerospace Corporation** | 2027 Explosives Systems Graduate Intern | El Segundo, CA (+1 more) | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aero-external-R017303?s=gh-internships-2027) |
-| today | **Kimley-Horn** | Data Science Intern | Mesa, AZ | SimplifyJobs | [apply](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) |
-| today | **Samsung** | LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation<br>Master's/PhD | San Jose, CA | SimplifyJobs | [apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003) |
-| today | **Stanley Black & Decker** | Engineering Intern, Electronics - Summer 2027 | Towson, MD, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052694?s=gh-internships-2027) |
-| 1d ago | **Black & Veatch** | Digital Products Custom Application Development Intern | Overland Park, KS, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0623da0e7eacd1ea6466fd?utm_campaign=1079&utm_source=git) |
-| 1d ago | **SambaNova** | Runtime Engineer Intern | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b061ed40e7eacd1ea646372?utm_campaign=1079&utm_source=git) |
-| — | **Schweitzer Engineering Laboratories** | Power Engineer Intern | Washington - Pullman | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-selinc-sel-2026-24966?s=gh-internships-2027) |
+| today | **NVIDIA** | Software Engineering Intern, Simulation Technology - Summer 2027 | US, CA, Santa Clara | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029531?s=gh-internships-2027) |
+| today | **Bandwidth Inc.** | Software Engineer Intern | Raleigh, NC | vanshb03 | [apply](https://go.vansh.nyc/1IS) |
+| today | **Hewlett Packard Enterprise** | Cloud Security Engagement Intern | Spring, TX | vanshb03 | [apply](https://go.vansh.nyc/1IP) |
+| 1d ago | **Idaho National Laboratory** | NSUF Agentic Workflow Development Intern | Idaho Falls, ID | vanshb03 | [apply](https://go.vansh.nyc/1IQ) |
 
 ## Watched company portals
 
