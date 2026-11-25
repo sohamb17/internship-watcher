@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 05:02 UTC · 0 new listings_
+_Updated 2026-11-25 05:31 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Johns Hopkins Applied Physics Laboratory** | Cyber Physical Systems Intern | Laurel, MD | vanshb03 | [apply](https://go.vansh.nyc/1IY) |
+| 1d ago | **IBM** | Software Developer Intern (IBM Enterprise AI & Infrastructure) - Poughkeepsie - 2027 | Poughkeepsie, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b064e7771c8f4e3660ecba7?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
