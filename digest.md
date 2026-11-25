@@ -1,16 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 20:01 UTC · 5 new listings_
+_Updated 2026-11-25 20:31 UTC · 1 new listing_
 
-## New listings (5) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **SambaNova** | Cloud Platform Engineer Intern | San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1Jq) |
-| today | **SambaNova** | Design Verification Engineer Intern | Austin, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b071ac72c2b1d2eebe12181?utm_campaign=1079&utm_source=git) |
-| today | **SambaNova** | Machine Learning Engineer Intern | Austin, TX / San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1Jr) |
-| today | **SambaNova** | ML Infrastructure Engineer Intern | Austin, TX / San Jose, CA (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1Jp) |
-| today | **Staples** | Full Stack Software Engineer Intern | Austin, TX, United States (+1 more) | Jobright | [apply](https://jobright.ai/jobs/info/6b07216220135524ca72a030?utm_campaign=1079&utm_source=git) |
+| — | **Coinbase** | Security Engineer Intern | Hybrid - New York, NY | Company portals | [apply](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869) |
 
 ## Watched company portals
 
