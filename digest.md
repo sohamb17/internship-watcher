@@ -1,19 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 21:01 UTC · 8 new listings_
+_Updated 2026-11-25 21:31 UTC · 3 new listings_
 
-## New listings (8) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **ASML** | Internship - Software Engineer | San Diego, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357859?s=gh-internships-2027) |
-| today | **ASML** | Internship-Timing and Energy Software | San Diego, CA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358478?s=gh-internships-2027) |
-| today | **Cisco** | Security Engineer I (Intern) - United States | RTP, North Carolina, US | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025885?s=gh-internships-2027) |
-| today | **Crowe** | Machine Learning Intern | Chicago, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-crowe-external-careers-R-71005?s=gh-internships-2027) |
-| today | **Eversource Energy** | 2027 Co-op: Substation Design Engineering | Westwood, MA | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-eversource-externalsite-R-031701?s=gh-internships-2027) |
-| today | **Firestorm** | Aerospace Engineering Intern | San Diego, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/gem-firestorm-am9icG9zdDq34Gmi0VhCUI9oRYF2VY7g?s=gh-internships-2027) |
-| today | **MANTECH** | C++ Developer Intern | Lexington Park, MD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b072a4cfbcb892eea5e0dab?utm_campaign=1079&utm_source=git) |
-| today | **UPS** | 2027 Industrial Engineering Summer Intern - Bayonne NJ | BAYONNE, New Jersey | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-ups-R26030793?s=gh-internships-2027) |
+| today | **Cantor Fitzgerald** | Technology Intern, Development | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1Jw) |
+| today | **Cummins** | Corporate Development Internship Position | Columbus, IN, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-cummins-2440555?s=gh-internships-2027) |
+| — | **Pacific Fusion** | Summer 2027 Positioning Systems Internship | San Leandro, CA | Company portals | [apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4522155009) |
 
 ## Watched company portals
 
