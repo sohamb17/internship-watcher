@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 15:01 UTC · 0 new listings_
+_Updated 2026-11-25 15:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Rysun Labs** | Intern- Full-stack Developer | Tampa, FL, United States | Jobright | [apply](https://jobright.ai/jobs/info/6a8ef6e63ac3a34f92d7ec05?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
