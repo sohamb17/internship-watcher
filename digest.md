@@ -1,14 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 21:31 UTC · 3 new listings_
+_Updated 2026-11-25 22:01 UTC · 5 new listings_
 
-## New listings (3) — newest first
+## New listings (5) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Cantor Fitzgerald** | Technology Intern, Development | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1Jw) |
-| today | **Cummins** | Corporate Development Internship Position | Columbus, IN, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/oracle-cummins-2440555?s=gh-internships-2027) |
-| — | **Pacific Fusion** | Summer 2027 Positioning Systems Internship | San Leandro, CA | Company portals | [apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4522155009) |
+| today | **Best Egg** | Software Engineering Summer Intern | Wilmington, DE, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b074444b624dcc57de78ee9?utm_campaign=1079&utm_source=git) |
+| today | **Firestorm** | Field Engineering Intern | San Diego, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/gem-firestorm-am9icG9zdDrnrtsfLHPI0s2AXbtv-ZpN?s=gh-internships-2027) |
+| today | **Mission Technologies, a division of HII** | Software Engineer Intern (Multiple Levels) - 30069 | Columbia, MD, United States | Jobright | [apply](https://jobright.ai/jobs/info/6af82d3f42ae65e2c8f3b57e?utm_campaign=1079&utm_source=git) |
+| today | **Total Quality Logistics** | Software Development Intern (Summer 2027) | Cincinnati, OH, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0745adfbcb892eea5e1e52?utm_campaign=1079&utm_source=git) |
+| today | **Xona** | Software Engineering (Engineering Productivity) Intern | Burlingame, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0739346c5083822fdc7f68?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
