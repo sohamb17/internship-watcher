@@ -1,8 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 12:31 UTC · 5 new listings_
+_Updated 2026-11-26 13:01 UTC · 9 new listings_
 
-## New listings (5) — newest first
+## New listings (9) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
@@ -11,6 +11,10 @@ _Updated 2026-11-26 12:31 UTC · 5 new listings_
 | today | **Lockheed Martin** | Systems Engineer (Network) - Intern | Mount Laurel, NJ | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-lockheedmartin-996478006526?s=gh-internships-2027) |
 | 1d ago | **Lockheed Martin** | Systems Engineer - Intern | Owego, NY | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-lockheedmartin-996478149799?s=gh-internships-2027) |
 | 1d ago | **Northrop Grumman** | 2027 Digital Engineer Intern - Manhattan Beach CA | Manhattan Beach, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0630583e56157448ed42b5?utm_campaign=1079&utm_source=git) |
+| 7d ago | **Lockheed Martin** | ASIC & FPGA Design Engineer - Intern | Liverpool, NY | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-lockheedmartin-996477613394?s=gh-internships-2027) |
+| 7d ago | **Lockheed Martin** | Financial Analytics Intern | Highlands Ranch, CO | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-lockheedmartin-996477874028?s=gh-internships-2027) |
+| 7d ago | **Lockheed Martin** | PCB Layout Design Engineer Intern | Orlando, FL | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-lockheedmartin-996477518443?s=gh-internships-2027) |
+| 14d ago | **Lockheed Martin** | AI Research Engineer Intern | Virtual Two, CO | zapplyjobs | [apply](https://zapply.jobs/l/d/eightfold-lockheedmartin-996477477430?s=gh-internships-2027) |
 
 ## Watched company portals
 
