@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 17:31 UTC · 2 new listings_
+_Updated 2026-11-26 18:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **General Atomics** | Intern - Information Technology Systems | San Diego, California | zapplyjobs | [apply](https://zapply.jobs/l/d/brassring-general-atomics-5234629?s=gh-internships-2027) |
-| today | **General Atomics** | Intern - Nuclear Engineering | San Diego, California | zapplyjobs | [apply](https://zapply.jobs/l/d/brassring-general-atomics-5234630?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
