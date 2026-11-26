@@ -1,14 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 03:01 UTC · 3 new listings_
+_Updated 2026-11-26 03:31 UTC · 1 new listing_
 
-## New listings (3) — newest first
+## New listings (1) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Crowe** | Risk Technology Intern | Chicago, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-crowe-external-careers-R-71051?s=gh-internships-2027) |
-| — | **Eridu AI** | ASIC Architecture Intern | Saratoga, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/rippling-eridu-ai-681e2e82-20b9-4145-b235-38196a64097f?s=gh-internships-2027) |
-| — | **Lyte** | Intern - Software Engineering | Sunnyvale, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/rippling-lyte-13e9e743-b6bd-4e76-a4ce-27d4dc61c73e?s=gh-internships-2027) |
+| — | **Cisco** | Security Engineer I Intern | Research Triangle Park | nointernship.com | [apply](https://go.vansh.nyc/1JA?s=y) |
 
 ## Watched company portals
 
