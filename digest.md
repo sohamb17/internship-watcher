@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 01:01 UTC · 0 new listings_
+_Updated 2026-11-26 01:31 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **FormFactor** | AI/ML Engineering Intern | Livermore, CA | vanshb03 | [apply](https://go.vansh.nyc/1K1) |
+| 1d ago | **Signet Jewelers** | Software Engineering Intern- Digital Commerce | Irving, TX, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b075c146c5083822fdc8e6d?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
