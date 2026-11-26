@@ -624,6 +624,20 @@
 "sk": "https://zapply.jobs/l/d/eightfold-lockheedmartin-996477477430",
 "src": "zapply",
 "url": "https://zapply.jobs/l/d/eightfold-lockheedmartin-996477477430?s=gh-internships-2027"
+},
+{
+"company": "KiddeFenwal",
+"degrees": [],
+"dk": "kiddefenwal|embedded engineering software",
+"found": 20783,
+"loc": "Ashland, MA, United States",
+"more": null,
+"night": true,
+"posted": 20782,
+"role": "Embedded Software Engineering Co-Op/Intern",
+"sk": "jobright:6b08120503dd5bd15ba460d4",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6b08120503dd5bd15ba460d4?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -4708,6 +4722,7 @@
 "keysight|embedded engineer software": 20783,
 "keysight|engineer quality": 20783,
 "keysight|engineer software": 20770,
+"kiddefenwal|embedded engineering software": 20783,
 "kiewit|data kiewit learning machine services": 20783,
 "kiewit|engineers estimating infrastructure kiewit": 20766,
 "kiewit|engineers infrastructure kiewit scheduling": 20766,
@@ -12291,7 +12306,7 @@
 "jobright:6a9740adb22f636c81416f5d": 20768,
 "jobright:6a9740e5b22f636c81416f7a": 20762,
 "jobright:6a9741c2455eaf6a08c1bcdf": 20777,
-"jobright:6a9741c2f5337b2cf73212c3": 20777,
+"jobright:6a9741c2f5337b2cf73212c3": 20783,
 "jobright:6a9741ccb22f636c81416fe5": 20778,
 "jobright:6a9741d1b22f636c81416fea": 20783,
 "jobright:6a9741d9d13b4819f39e037a": 20783,
@@ -12547,7 +12562,7 @@
 "jobright:6ab31c561508734c1530dbbb": 20778,
 "jobright:6ab32d701508734c1530df4c": 20769,
 "jobright:6ab33c031e4847ddae918b26": 20767,
-"jobright:6ab3578216511e254891be93": 20762,
+"jobright:6ab3578216511e254891be93": 20783,
 "jobright:6ab3ea5b0e0ae54eeea455a7": 20781,
 "jobright:6ab3f36b64816213f2d96284": 20771,
 "jobright:6ab3f36d55e9168cf5ea35f7": 20772,
@@ -14222,7 +14237,8 @@
 "jobright:6b0786a2e68b15bbbb5602d0": 20783,
 "jobright:6b07901b953742e826203549": 20783,
 "jobright:6b07ed010bb3d71a623195d9": 20783,
-"jobright:6b07ed02879b90d6107834fb": 20783
+"jobright:6b07ed02879b90d6107834fb": 20783,
+"jobright:6b08120503dd5bd15ba460d4": 20783
 },
 "nointernship": {
 "nointernship:50673": 20760,
