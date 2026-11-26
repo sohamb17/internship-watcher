@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 19:31 UTC · 0 new listings_
+_Updated 2026-11-26 20:01 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Ahold Delhaize** | Software Engineer Distribution & Transportation Co-op | United States | vanshb03 | [apply](https://go.vansh.nyc/1Kp) |
+| 2d ago | **Swiss Re** | Client Data Management Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1Kj) |
 
 ## Watched company portals
 
