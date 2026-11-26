@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 04:31 UTC · 2 new listings_
+_Updated 2026-11-26 05:01 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 1d ago | **Elevance Health** | Undergraduate Clinical Analytics Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1K7) |
-| 2d ago | **Blizzard Entertainment** | Tech Art Intern | Irvine, CA | SimplifyJobs | [apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383) |
+Nothing new this run.
 
 ## Watched company portals
 
