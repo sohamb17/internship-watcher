@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 15:01 UTC · 2 new listings_
+_Updated 2026-11-26 15:31 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Lucid Motors** | Network Analytics & Reporting Intern | Amsterdam, NH | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306687007?s=gh-internships-2027) |
-| today | **Lucid Motors** | Salesforce Engineer Intern | Amsterdam, NH | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306844007?s=gh-internships-2027) |
+Nothing new this run.
 
 ## Watched company portals
 
