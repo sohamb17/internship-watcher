@@ -1,8 +1,18 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 20:31 UTC · 0 new listings_
+_Updated 2026-11-26 21:01 UTC · 7 new listings_
 
-Nothing new this run.
+## New listings (7) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Aptima Inc. (All Jobs)** | AI Engineer Intern | Woburn, MA | vanshb03 | [apply](https://go.vansh.nyc/1KA) |
+| 1d ago | **Capital Blue Cross** | Data Engineering Intern | Harrisburg, PA | vanshb03 | [apply](https://go.vansh.nyc/1Kv) |
+| 1d ago | **Capital Blue Cross** | Data Science, Analytics & AI Intern | Harrisburg, PA | vanshb03 | [apply](https://go.vansh.nyc/1Ku) |
+| 1d ago | **Capital Blue Cross** | IT Business Engineering Intern | Harrisburg, PA | vanshb03 | [apply](https://go.vansh.nyc/1Kw) |
+| 1d ago | **Cencora** | Intern, Business Analyst | Conshohocken, Pennsylvania | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-cencora-R2613712?s=gh-internships-2027) |
+| 1d ago | **Illinois Policy** | Analytics Intern | Chicago, IL | vanshb03 | [apply](https://go.vansh.nyc/1Ky) |
+| 1d ago | **NHA** | IT Security Intern | Grand Rapids, MI | vanshb03 | [apply](https://go.vansh.nyc/1KB) |
 
 ## Watched company portals
 
