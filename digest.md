@@ -1,8 +1,19 @@
 # Internship watcher — latest
 
-_Updated 2026-11-25 23:31 UTC · 0 new listings_
+_Updated 2026-11-26 00:01 UTC · 8 new listings_
 
-Nothing new this run.
+## New listings (8) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Microsoft** | Research Intern - Machine Learning for Biology and Healthcare | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200068907?s=gh-internships-2027) |
+| today | **Tesla** | Robotics Audio DSP Engineer Intern | Palo Alto, CA | SimplifyJobs | [apply](https://www.tesla.com/careers/search/job/291227) |
+| today | **Harvard Companies** | AI Engineer Intern | Miami, FL | SimplifyJobs | [apply](https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false) |
+| today | **Texas Instruments** | Web Marketing Intern - Digital Experience Analytics | Dallas, TX | SimplifyJobs | [apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507) |
+| today | **Veolia** | Energy Management Co-op | Boston, MA | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163751559) |
+| today | **Wabash Valley Power Alliance** | Energy Efficiency & Demand Response Intern - Summer 2027 | Indianapolis, IN | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000163744159) |
+| 1d ago | **CodeRabbit** | Software Engineer Intern | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1JE) |
+| — | **OpenSesame** | Software Engineering Internship - Summer 2027 | Remote | Company portals | [apply](https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272) |
 
 ## Watched company portals
 
