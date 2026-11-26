@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 02:01 UTC · 0 new listings_
+_Updated 2026-11-26 02:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Cantor Fitzgerald** | Technology Infrastructure & Automation Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1K2) |
 
 ## Watched company portals
 
