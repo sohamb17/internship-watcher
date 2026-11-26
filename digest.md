@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 07:31 UTC · 0 new listings_
+_Updated 2026-11-26 08:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **Northrop Grumman** | 2027 Digital Engineer Intern - Manhattan Beach CA | Manhattan Beach, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0630583e56157448ed42b5?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
