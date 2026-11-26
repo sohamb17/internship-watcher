@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 15:31 UTC · 0 new listings_
+_Updated 2026-11-26 16:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Lucid Motors** | Business Analyst Intern | Amsterdam, NH | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306854007?s=gh-internships-2027) |
 
 ## Watched company portals
 
