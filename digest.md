@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 21:31 UTC · 1 new listing_
+_Updated 2026-11-26 21:44 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 1d ago | **SambaNova Systems** | Cloud Platform Engineer Intern - San Jose | San Jose, CA | speedyapply | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271352004) |
+Nothing new this run.
 
 ## Watched company portals
 
