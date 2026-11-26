@@ -1,19 +1,21 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 00:01 UTC · 8 new listings_
+_Updated 2026-11-26 00:31 UTC · 10 new listings_
 
-## New listings (8) — newest first
+## New listings (10) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Microsoft** | Research Intern - Machine Learning for Biology and Healthcare | Redmond, Washington, United States | zapplyjobs | [apply](https://zapply.jobs/l/d/microsoft-200068907?s=gh-internships-2027) |
-| today | **Tesla** | Robotics Audio DSP Engineer Intern | Palo Alto, CA | SimplifyJobs | [apply](https://www.tesla.com/careers/search/job/291227) |
-| today | **Harvard Companies** | AI Engineer Intern | Miami, FL | SimplifyJobs | [apply](https://hmi-harvard.icims.com/jobs/41029/job?mobile=true&needsRedirect=false) |
-| today | **Texas Instruments** | Web Marketing Intern - Digital Experience Analytics | Dallas, TX | SimplifyJobs | [apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507) |
-| today | **Veolia** | Energy Management Co-op | Boston, MA | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163751559) |
-| today | **Wabash Valley Power Alliance** | Energy Efficiency & Demand Response Intern - Summer 2027 | Indianapolis, IN | SimplifyJobs | [apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000163744159) |
-| 1d ago | **CodeRabbit** | Software Engineer Intern | San Francisco, CA | vanshb03 | [apply](https://go.vansh.nyc/1JE) |
-| — | **OpenSesame** | Software Engineering Internship - Summer 2027 | Remote | Company portals | [apply](https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272) |
+| today | **Digital Control** | Software Engineer Intern | Kent, WA | vanshb03 | [apply](https://go.vansh.nyc/1JO) |
+| today | **Jack Henry** | Enterprise Pricing & Data Analytics Intern | Allen, TX / Birmingham, AL / Monett, MO / Lenexa, KS / Sprin | SimplifyJobs | [apply](https://jackhenry.avature.net/careers/JobDetail/17682) |
+| today | **QuEra Computing** | Internship – Data Management | Boston, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-queracomputinginc-5495029008?s=gh-internships-2027) |
+| today | **SambaNova** | DFT Engineer Intern | Austin, TX / San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1JL) |
+| today | **SambaNova** | Physical Design Engineer Intern | Austin, TX / San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1JK) |
+| today | **SambaNova** | Post-Silicon Validation Engineer Intern | Austin, TX / San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1JJ) |
+| today | **Total Quality Logistics** | Data Science & Analytics Intern | Cincinnati, OH (+1 more) | SimplifyJobs | [apply](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764) |
+| today | **Veeva Systems** | Software Engineer Intern | Pleasanton, CA (+3 more) | SimplifyJobs | [apply](https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply) |
+| 1d ago | **Xona Space Systems** | Software Engineer Intern - Engineering Productivity | Burlingame, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab/application?embed=true) |
+| 15d ago | **WEP Clinical** | IT Intern: AI & Transformation | Morrisville, NC (+1 more) | SimplifyJobs | [apply](https://jobs.lever.co/wepclinical/5d90ac52-4e43-48aa-8f01-18e7c9d1155b/apply) |
 
 ## Watched company portals
 
