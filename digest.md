@@ -1,21 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 00:31 UTC · 10 new listings_
+_Updated 2026-11-26 00:32 UTC · 0 new listings_
 
-## New listings (10) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Digital Control** | Software Engineer Intern | Kent, WA | vanshb03 | [apply](https://go.vansh.nyc/1JO) |
-| today | **Jack Henry** | Enterprise Pricing & Data Analytics Intern | Allen, TX / Birmingham, AL / Monett, MO / Lenexa, KS / Sprin | SimplifyJobs | [apply](https://jackhenry.avature.net/careers/JobDetail/17682) |
-| today | **QuEra Computing** | Internship – Data Management | Boston, MA, USA | zapplyjobs | [apply](https://zapply.jobs/l/d/greenhouse-queracomputinginc-5495029008?s=gh-internships-2027) |
-| today | **SambaNova** | DFT Engineer Intern | Austin, TX / San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1JL) |
-| today | **SambaNova** | Physical Design Engineer Intern | Austin, TX / San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1JK) |
-| today | **SambaNova** | Post-Silicon Validation Engineer Intern | Austin, TX / San Jose, CA | vanshb03 | [apply](https://go.vansh.nyc/1JJ) |
-| today | **Total Quality Logistics** | Data Science & Analytics Intern | Cincinnati, OH (+1 more) | SimplifyJobs | [apply](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764) |
-| today | **Veeva Systems** | Software Engineer Intern | Pleasanton, CA (+3 more) | SimplifyJobs | [apply](https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply) |
-| 1d ago | **Xona Space Systems** | Software Engineer Intern - Engineering Productivity | Burlingame, CA | SimplifyJobs | [apply](https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab/application?embed=true) |
-| 15d ago | **WEP Clinical** | IT Intern: AI & Transformation | Morrisville, NC (+1 more) | SimplifyJobs | [apply](https://jobs.lever.co/wepclinical/5d90ac52-4e43-48aa-8f01-18e7c9d1155b/apply) |
+Nothing new this run.
 
 ## Watched company portals
 
