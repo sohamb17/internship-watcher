@@ -1,12 +1,14 @@
 # Internship watcher — latest
 
-_Updated 2026-11-26 02:31 UTC · 1 new listing_
+_Updated 2026-11-26 03:01 UTC · 3 new listings_
 
-## New listings (1) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 1d ago | **Cantor Fitzgerald** | Technology Infrastructure & Automation Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1K2) |
+| today | **Crowe** | Risk Technology Intern | Chicago, IL | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-crowe-external-careers-R-71051?s=gh-internships-2027) |
+| — | **Eridu AI** | ASIC Architecture Intern | Saratoga, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/rippling-eridu-ai-681e2e82-20b9-4145-b235-38196a64097f?s=gh-internships-2027) |
+| — | **Lyte** | Intern - Software Engineering | Sunnyvale, CA | zapplyjobs | [apply](https://zapply.jobs/l/d/rippling-lyte-13e9e743-b6bd-4e76-a4ce-27d4dc61c73e?s=gh-internships-2027) |
 
 ## Watched company portals
 
