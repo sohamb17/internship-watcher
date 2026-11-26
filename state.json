@@ -2335,6 +2335,7 @@
 "clera|engineering full software stack": 20783,
 "clickhouse|clickhouse labs research": 20783,
 "clio|developer software": 20759,
+"cliqueprizelocalgiveawaymarketingforsmallbusinesses|api auto backend dialer engineer integration software systems": 20783,
 "cliqueprizelocalgiveawaymarketingforsmallbusinesses|api autodialer backend engineer integration software systems": 20778,
 "clockwork|engineer software": 20783,
 "clonin|engineer software": 20768,
@@ -12228,7 +12229,7 @@
 "jobright:6a99b4bead752e2ad5501567": 20766,
 "jobright:6a99bd37ad752e2ad55018ea": 20770,
 "jobright:6a99cdda040e5c3d07599006": 20764,
-"jobright:6a99cf391388387060590896": 20763,
+"jobright:6a99cf391388387060590896": 20783,
 "jobright:6a99d46c90a313642c6530af": 20766,
 "jobright:6a99db968a8b765bc55f5f3e": 20764,
 "jobright:6a99ea6c13883870605915ef": 20781,
@@ -13122,7 +13123,7 @@
 "jobright:6aeb885165311d97105b99da": 20762,
 "jobright:6aeb900365311d97105b9d3c": 20763,
 "jobright:6aebb35c765815f7d7462f4e": 20783,
-"jobright:6aebc01dfbe13dfb53df6fbd": 20762,
+"jobright:6aebc01dfbe13dfb53df6fbd": 20783,
 "jobright:6aebc87b65311d97105bbe25": 20773,
 "jobright:6aebc8c0f40efa43f4a1aa5a": 20762,
 "jobright:6aebc997fbe13dfb53df7481": 20762,
@@ -14129,7 +14130,8 @@
 "jobright:6b084c3fcc765a1208d9bdad": 20783,
 "jobright:6b084c6eaa59d5ea1da51185": 20783,
 "jobright:6b0884fe03dd5bd15ba47926": 20783,
-"jobright:6b08854e0bd5d5fe945f4cbe": 20783
+"jobright:6b08854e0bd5d5fe945f4cbe": 20783,
+"jobright:6b089617cc765a1208d9ca54": 20783
 },
 "nointernship": {
 "nointernship:50673": 20760,
