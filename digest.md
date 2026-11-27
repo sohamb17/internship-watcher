@@ -1,11 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-27 09:31 UTC · 1 new listing_
+_Updated 2026-11-27 10:01 UTC · 3 new listings_
 
-## New listings (1) — newest first
+## New listings (3) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| 1d ago | **Siemens** | Agentic Analytics & Data Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1Ll) |
+| 7d ago | **Highmark Health** | Network Cybersecurity Engineer Undergraduate Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1Lg) |
 | — | **Cantor Fitzgerald** | BGC’s 2027 US Technology Summer Internship – Infrastructure | New York, NY, United States | zshah101 | [apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250631) |
 
 ## Watched company portals
