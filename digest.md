@@ -1,8 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-27 21:31 UTC · 0 new listings_
+_Updated 2026-11-27 22:01 UTC · 2 new listings_
 
-Nothing new this run.
+## New listings (2) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **AES Corporation** | Co-op - T&D standards Power Systems - (Fall 2027) | Dayton, OH | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-aes-aes-us-R1064780?s=gh-internships-2027) |
+| 1d ago | **Clera** | Product Engineer Intern, Mobile | United States | vanshb03 | [apply](https://go.vansh.nyc/1Lw) |
 
 ## Watched company portals
 
