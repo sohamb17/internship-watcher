@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-27 16:31 UTC · 0 new listings_
+_Updated 2026-11-27 17:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **JLL** | Property Engineering Summer 2027 Internship -  Minneapolis, MN | Minneapolis, MN | zapplyjobs | [apply](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ540465?s=gh-internships-2027) |
 
 ## Watched company portals
 
