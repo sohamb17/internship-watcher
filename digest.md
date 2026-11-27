@@ -1,11 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-27 11:31 UTC · 3 new listings_
+_Updated 2026-11-27 12:01 UTC · 4 new listings_
 
-## New listings (3) — newest first
+## New listings (4) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
+| today | **AMETEK** | Intern, Junior Python Developer Job Details / Ametek, Inc. | Wayne, NJ, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0947643075e481a8f0861e?utm_campaign=1079&utm_source=git) |
 | 1d ago | **Siemens** | Agentic Analytics & Data Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1Ll) |
 | 7d ago | **Highmark Health** | Network Cybersecurity Engineer Undergraduate Intern | United States | vanshb03 | [apply](https://go.vansh.nyc/1Lg) |
 | — | **Cantor Fitzgerald** | BGC’s 2027 US Technology Summer Internship – Infrastructure | New York, NY, United States | zshah101 | [apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250631) |

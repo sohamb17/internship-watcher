@@ -540,6 +540,20 @@
 "sk": "28e0b616-5908-442e-9b2c-2f3a1e4b97f1",
 "src": "vansh",
 "url": "https://go.vansh.nyc/1Ll"
+},
+{
+"company": "AMETEK",
+"degrees": [],
+"dk": "ametek|ametek details developer inc job junior python",
+"found": 20784,
+"loc": "Wayne, NJ, United States",
+"more": null,
+"night": true,
+"posted": 20784,
+"role": "Intern, Junior Python Developer Job Details / Ametek, Inc.",
+"sk": "jobright:6b0947643075e481a8f0861e",
+"src": "jobright",
+"url": "https://jobright.ai/jobs/info/6b0947643075e481a8f0861e?utm_campaign=1079&utm_source=git"
 }
 ],
 "roles": {
@@ -633,7 +647,7 @@
 "advancedspace|devops": 20760,
 "advancedspace|engineering software": 20760,
 "advancedspace|learning machine": 20760,
-"advisorsexcel|development web": 20763,
+"advisorsexcel|development web": 20784,
 "aechelon|engineer junior rtk software": 20784,
 "aechelon|engineer junior software": 20776,
 "aecom|aecom arlington engineering event highway hiring va with": 20768,
@@ -965,6 +979,7 @@
 "americanfidelity|developer software": 20762,
 "americofinanciallifeandannuity|artificial intelligence": 20784,
 "americofinanciallifeandannuity|development software": 20784,
+"ametek|ametek details developer inc job junior python": 20784,
 "ametek|developer junior python": 20762,
 "amgen|": 20784,
 "amgen|accelerating agility attribute capabilities compilation data sciences": 20773,
@@ -1726,7 +1741,7 @@
 "boozallenhamilton|engineer games mclean systems va": 20784,
 "boozallenhamilton|engineer games ny rome systems": 20761,
 "boozallenhamilton|engineer systems": 20784,
-"boozallenhamilton|engineer test": 20770,
+"boozallenhamilton|engineer test": 20784,
 "boozallenhamilton|engineering product": 20763,
 "boozallenhamilton|quantum research": 20763,
 "boozallen|27 analyst cybersecurity": 20767,
@@ -12162,7 +12177,7 @@
 "jobright:6a7a560c67a1ad0bc53d3024": 20783,
 "jobright:6a7ccc65d77e8156a8e34520": 20765,
 "jobright:6a7cd1d6d77e8156a8e34665": 20768,
-"jobright:6a7cde9383621355407ac5e4": 20763,
+"jobright:6a7cde9383621355407ac5e4": 20784,
 "jobright:6a7e391f0cd4a0703257ec58": 20766,
 "jobright:6a7f63b2b56bea5779c0acc7": 20766,
 "jobright:6a7f63d319ce4e6e9d937792": 20766,
@@ -12746,7 +12761,7 @@
 "jobright:6ad140abe2d41540d4a6f718": 20764,
 "jobright:6ad15fd518608b6f36f83cea": 20761,
 "jobright:6ad167383d3a5aa909b3a4cd": 20764,
-"jobright:6ad1709e3d3a5aa909b3a755": 20763,
+"jobright:6ad1709e3d3a5aa909b3a755": 20784,
 "jobright:6ad17b71ae21edea94fd65a7": 20777,
 "jobright:6ad190a5304865221f2f3cad": 20774,
 "jobright:6ad241b05290d4375c4518ef": 20766,
@@ -12913,7 +12928,7 @@
 "jobright:6ae0601b8b6154d50cdf636b": 20761,
 "jobright:6ae0c69e5a5afc94bd2c6df3": 20763,
 "jobright:6ae0dc90de23f466ec8b9a2a": 20761,
-"jobright:6ae0de3867c31ab34899dffe": 20765,
+"jobright:6ae0de3867c31ab34899dffe": 20784,
 "jobright:6ae101dc1f9d9308370a6a40": 20776,
 "jobright:6ae1022e1f9d9308370a6a84": 20762,
 "jobright:6ae10a171f9d9308370a6fc3": 20776,
@@ -14203,7 +14218,8 @@
 "jobright:6b08a2df58da992a6cc0cf09": 20784,
 "jobright:6b08b109aa59d5ea1da521a5": 20784,
 "jobright:6b08b1110bb3d71a6231ba11": 20784,
-"jobright:6b08b3d4cc765a1208d9ce41": 20784
+"jobright:6b08b3d4cc765a1208d9ce41": 20784,
+"jobright:6b0947643075e481a8f0861e": 20784
 },
 "nointernship": {
 "nointernship:50673": 20760,
