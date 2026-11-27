@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-27 20:01 UTC · 0 new listings_
+_Updated 2026-11-27 20:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **POZzlePiece Inc** | Q&A Beta Tester / App Developer Intern | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b09c5ff62c6023db30228b2?utm_campaign=1079&utm_source=git) |
 
 ## Watched company portals
 
