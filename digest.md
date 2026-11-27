@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-27 17:31 UTC · 0 new listings_
+_Updated 2026-11-27 18:01 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| today | **Cencora** | Intern, Consulting – Real-World Evidence and Retrospective Research | Remote, Pennsylvania | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-cencora-R2614020?s=gh-internships-2027) |
 
 ## Watched company portals
 
