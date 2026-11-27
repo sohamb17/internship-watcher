@@ -1,13 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-27 21:01 UTC · 2 new listings_
+_Updated 2026-11-27 21:31 UTC · 0 new listings_
 
-## New listings (2) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 1d ago | **Richmond National** | Cyber Security Intern | Glen Allen, VA | vanshb03 | [apply](https://go.vansh.nyc/1Lu) |
-| 8d ago | **German American Bank** | Information Security Intern | Jasper, IN / Evansville, IN (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1Ls) |
+Nothing new this run.
 
 ## Watched company portals
 
