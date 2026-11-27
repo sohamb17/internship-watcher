@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-27 09:01 UTC · 0 new listings_
+_Updated 2026-11-27 09:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| — | **Cantor Fitzgerald** | BGC’s 2027 US Technology Summer Internship – Infrastructure | New York, NY, United States | zshah101 | [apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250631) |
 
 ## Watched company portals
 
