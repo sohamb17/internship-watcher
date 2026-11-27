@@ -1,8 +1,15 @@
 # Internship watcher — latest
 
-_Updated 2026-11-27 02:31 UTC · 0 new listings_
+_Updated 2026-11-27 03:01 UTC · 4 new listings_
 
-Nothing new this run.
+## New listings (4) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 10d ago | **ICONIQ Capital** | Data & Analytics Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973) |
+| 10d ago | **ICONIQ Capital** | Data Science Intern - Science | SF | SimplifyJobs | [apply](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972) |
+| 10d ago | **ICONIQ Capital** | Engineering Intern | SF | SimplifyJobs | [apply](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8394060) |
+| 13d ago | **ICONIQ Capital** | AI Engineer Intern | NYC | SimplifyJobs | [apply](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8386455) |
 
 ## Watched company portals
 
