@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-27 05:01 UTC · 1 new listing_
+_Updated 2026-11-27 05:31 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| — | **PQShield** | Software Engineer Intern | Oxford | nointernship.com | [apply](https://pqshield.com/careers/apply/5049820101?gh_jid=5049820101) |
+Nothing new this run.
 
 ## Watched company portals
 
