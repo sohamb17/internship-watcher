@@ -1,12 +1,13 @@
 # Internship watcher — latest
 
-_Updated 2026-11-27 20:31 UTC · 1 new listing_
+_Updated 2026-11-27 21:01 UTC · 2 new listings_
 
-## New listings (1) — newest first
+## New listings (2) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **POZzlePiece Inc** | Q&A Beta Tester / App Developer Intern | San Francisco, CA, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b09c5ff62c6023db30228b2?utm_campaign=1079&utm_source=git) |
+| 1d ago | **Richmond National** | Cyber Security Intern | Glen Allen, VA | vanshb03 | [apply](https://go.vansh.nyc/1Lu) |
+| 8d ago | **German American Bank** | Information Security Intern | Jasper, IN / Evansville, IN (+1 more) | vanshb03 | [apply](https://go.vansh.nyc/1Ls) |
 
 ## Watched company portals
 
