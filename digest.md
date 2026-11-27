@@ -1,20 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-27 03:31 UTC · 9 new listings_
+_Updated 2026-11-27 04:01 UTC · 0 new listings_
 
-## New listings (9) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 1d ago | **Revvity** | Software Engineering Intern, In Vivo Imaging | Morrisville, NC | vanshb03 | [apply](https://go.vansh.nyc/1KR) |
-| 1d ago | **Sanofi** | NCES Statistician Expert Intern, AI | Cambridge, MA | vanshb03 | [apply](https://go.vansh.nyc/1L9) |
-| 2d ago | **PricewaterhouseCoopers (PwC)** | Software Engineering Intern, Tax Innovation Delivery Experience (TIDE) | United States | vanshb03 | [apply](https://go.vansh.nyc/1L7) |
-| 2d ago | **Samsung** | Data Engineer Intern | Plano, TX | vanshb03 | [apply](https://go.vansh.nyc/1L3) |
-| 2d ago | **UMB** | AI Intern | Kansas City, MO | vanshb03 | [apply](https://go.vansh.nyc/1L1) |
-| 2d ago | **Varian** | Research Intern, Computer Vision and Robotics for Interventional AI | United States | vanshb03 | [apply](https://go.vansh.nyc/1L6) |
-| 3d ago | **Genentech** | Service Data and Analytics Intern | Indianapolis, IN | vanshb03 | [apply](https://go.vansh.nyc/1L0) |
-| — | **AMD** | Hardware Engineering Intern | Belfast | nointernship.com | [apply](https://careers.amd.com/jobs/102333?lang=en-us) |
-| — | **PQShield** | Hardware Engineer Intern - Placement Year | Oxford | nointernship.com | [apply](https://pqshield.com/careers/apply/5049819101?gh_jid=5049819101) |
+Nothing new this run.
 
 ## Watched company portals
 
