@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-28 05:01 UTC · 0 new listings_
+_Updated 2026-11-28 05:31 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 4d ago | **Intel** | Design Verification Engineer Intern | Austin, TX / Santa Clara, CA / Hillsboro, OR / Fort Collins, | vanshb03 | [apply](https://go.vansh.nyc/1M3) |
 
 ## Watched company portals
 
