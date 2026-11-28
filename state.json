@@ -498,24 +498,7 @@
 "workday:https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External": 20785,
 "workday:https://zoom.wd5.myworkdayjobs.com/zoom": 20785
 },
-"held": [
-{
-"company": "L.L.Bean",
-"degrees": [
-"Bachelor's"
-],
-"dk": "llbean|analytics marketing",
-"found": 20785,
-"loc": "Freeport, ME",
-"more": null,
-"night": true,
-"posted": 20773,
-"role": "Marketing Analytics Intern",
-"sk": "31c47d4d-261e-4d94-a922-da1d8e31f5f2",
-"src": "simplify",
-"url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Marketing-Analytics-Intern--Summer-2027-_JR11305"
-}
-],
+"held": [],
 "roles": {
 "10a|engineering fellow": 20779,
 "1password|brokering credential developer": 20759,
