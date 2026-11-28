@@ -1,32 +1,22 @@
 # Internship watcher — latest
 
-_Updated 2026-11-28 01:31 UTC · 21 new listings_
+_Updated 2026-11-28 02:01 UTC · 11 new listings_
 
-## New listings (21) — newest first
+## New listings (11) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 3d ago | **NVIDIA** | Accounting AI Solution Engineer Intern | Canada / Santa Clara, CA / United States | SimplifyJobs | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1) |
-| 3d ago | **NVIDIA** | Developer Technology Intern | Canada / Santa Clara, CA / United States (+1 more) | SimplifyJobs | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178) |
-| 3d ago | **First PREMIER Bank** | IT Architecture Intern | Sioux Falls, SD | SimplifyJobs | [apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-IT-Architecture-Internship_R-547) |
-| 3d ago | **KLA** | Computational & Electromagnetics Intern | Ann Arbor, MI | SimplifyJobs | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Internship--Computational---Electromagnetics_2642325-3) |
-| 3d ago | **State Street** | Software Engineer Intern | Boston, MA (+6 more) | SimplifyJobs | [apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801504) |
-| 4d ago | **First PREMIER Bank** | Marketing Analytics Intern | Sioux Falls, SD | SimplifyJobs | [apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Marketing-Analytics-Internship_R-568-1) |
-| 5d ago | **Roche** | Service Data and Analytics Intern | Indianapolis, IN | SimplifyJobs | [apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Service-Data-and-Analytics_202611-129686) |
-| 5d ago | **The Toro Company** | Data Science Intern | Bloomington, MN | SimplifyJobs | [apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Data-Science-Intern---The-Toro-Company_JR17932) |
-| 8d ago | **State Street** | Quantitative Analyst Intern | Boston, MA | vanshb03 | [apply](https://go.vansh.nyc/1LF) |
-| 8d ago | **UMB** | Artificial Intelligence Intern | Kansas City, MO | SimplifyJobs | [apply](https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/AI-Intern_R-9796) |
-| 10d ago | **KLA** | Marketing Analyst Intern | Milpitas, CA | SimplifyJobs | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Marketing-Analyst-Intern_2642982) |
-| 10d ago | **KLA** | PROLITH Applications Intern | Austin, TX | SimplifyJobs | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/PROLITH-Applications-Intern_2643111-1) |
-| 10d ago | **Sallie Mae** | Data Lifecycle and Governance Intern | Newark, DE (+1 more) | SimplifyJobs | [apply](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Lifecycle-and-Governance-Intern_R26_000697) |
-| 10d ago | **State Street** | Agentic AI Engineer Intern | Quincy, MA / Burlington, MA | SimplifyJobs | [apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Agentic-AI-Engineering--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801277) |
-| 10d ago | **State Street** | AI Engineer Intern | Cambridge, MA | SimplifyJobs | [apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801273) |
-| 10d ago | **State Street** | Data Engineering & Product Intern | Boston, MA (+1 more) | SimplifyJobs | [apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801274) |
-| 11d ago | **State Street** | Full Stack Development Intern | Quincy, MA | SimplifyJobs | [apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Full-Stack-Development-Intern--Full-time-Internship--Jan---June-2027-_R-801232) |
-| 11d ago | **State Street** | Software Engineer Intern - Integration Services | Quincy, MA | SimplifyJobs | [apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineer--Intergration-Services----Full-time-Internship--Jan---June-2027-_R-801234) |
-| 11d ago | **T.D. Williamson** | Software Engineer Intern | Tulsa, OK | SimplifyJobs | [apply](https://tdwilliamson.wd1.myworkdayjobs.com/en-US/TDWCareers/job/USA-OK-Tulsa/Engineering-Intern---Summer-2027_REQ-04014) |
-| 12d ago | **Bloomberg Industry Group** | Engineering Intern | Arlington County, Arlington, VA | SimplifyJobs | [apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/Engineering-Intern_145703) |
-| 163d ago | **City Utilities of Springfield** | Power Station CMMS Intern<br>Associate's | Springfield, MO | SimplifyJobs | [apply](https://cityutilities.wd5.myworkdayjobs.com/Careers/job/Springfield-MO/Power-Station-CMMS-Intern_R26_249) |
+| today | **Applied Materials** | Data Analyst Intern | Santa Clara, CA | SimplifyJobs | [apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652) |
+| 4d ago | **Alexion** | Business Partner Intern - Business Partner | Boston, MA | SimplifyJobs | [apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Intern---Business-Partner_R-264992) |
+| 4d ago | **Sanofi** | NCES Statistician Intern | Cambridge, MA | SimplifyJobs | [apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-NCES-statistician-expert-in-AI-Cambridge-MA_R2865668) |
+| 4d ago | **Varian** | Research Intern - Multiple Teams<br>Master's/PhD | United States | SimplifyJobs | [apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PCT/Research-Intern---Multimodal-Perception--VLA-Models--and-Autonomous-Robotics_R-32261) |
+| 8d ago | **The Aerospace Corporation** | Software Systems Engineer and Acquisition Intern<br>Master's | Chantilly, VA / El Segundo, CA | SimplifyJobs | [apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Grad-Intern_R017175) |
+| 9d ago | **Highmark Health** | Healthcare Interoperability Data Engineer & Analyst Intern | Pittsburgh, PA | SimplifyJobs | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Engineer---Analyst-enGen-Undergraduate-Intern_J291722) |
+| 9d ago | **Northrop Grumman** | Artificial Intelligence/Machine Learning Engineer Intern | Morrisville, NC | SimplifyJobs | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-AI-ML-Engineering-Intern---Morrisville-NC_R10261585-1) |
+| 12d ago | **ASML** | Artificial Intelligence Intern - Integrate GUI and LLM | San Jose, CA | SimplifyJobs | [apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Integrate-GUI-and-LLM_J-00357014) |
+| 40d ago | **BorgWarner** | EPMO Support Intern | Auburn Hills, MI | SimplifyJobs | [apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/EPM-Support-Intern--Year-Round-_R2026-4129) |
+| 85d ago | **Hy-Vee** | Data Integration Intern | West Des Moines, IA | SimplifyJobs | [apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Integration-Intern---Summer-2027_R250148) |
+| 87d ago | **Parsons** | Engineering Internship/Co-op | Charlotte, NC / Centreville, VA | SimplifyJobs | [apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineering-Internship---Co-Op-Summer-2027_R185683) |
 
 ## Watched company portals
 
