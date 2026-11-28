@@ -1,15 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-28 04:01 UTC · 4 new listings_
+_Updated 2026-11-28 04:31 UTC · 0 new listings_
 
-## New listings (4) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 1d ago | **Hakkōda, an IBM Company** | IBM System Test SW Developer Intern - Poughkeepsie, NY - 2027 | Poughkeepsie, NY, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0a381b0dcf7f64923b677e?utm_campaign=1079&utm_source=git) |
-| 1d ago | **Hakkōda, an IBM Company** | Software Developer Intern (IBM Enterprise AI & Infrastructure) - Poughkeepsie - 2027 | Poughkeepsie, AR, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0a38dddd884ad2cc58f849?utm_campaign=1079&utm_source=git) |
-| — | **Dimensional Fund Advisors** | Strategy Research Intern | Austin | nointernship.com | [apply](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Strategy-Research--PhD-_2026-9120) |
-| — | **Northrop Grumman** | Electronics Engineer Intern | Manhattan Beach | nointernship.com | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Electronics-Engineer-Intern---Manhattan-Beach-CA_R10262075) |
+Nothing new this run.
 
 ## Watched company portals
 
