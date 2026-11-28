@@ -1,22 +1,28 @@
 # Internship watcher — latest
 
-_Updated 2026-11-28 02:01 UTC · 11 new listings_
+_Updated 2026-11-28 02:31 UTC · 17 new listings_
 
-## New listings (11) — newest first
+## New listings (17) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| today | **Applied Materials** | Data Analyst Intern | Santa Clara, CA | SimplifyJobs | [apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652) |
-| 4d ago | **Alexion** | Business Partner Intern - Business Partner | Boston, MA | SimplifyJobs | [apply](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Intern---Business-Partner_R-264992) |
-| 4d ago | **Sanofi** | NCES Statistician Intern | Cambridge, MA | SimplifyJobs | [apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-NCES-statistician-expert-in-AI-Cambridge-MA_R2865668) |
-| 4d ago | **Varian** | Research Intern - Multiple Teams<br>Master's/PhD | United States | SimplifyJobs | [apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PCT/Research-Intern---Multimodal-Perception--VLA-Models--and-Autonomous-Robotics_R-32261) |
-| 8d ago | **The Aerospace Corporation** | Software Systems Engineer and Acquisition Intern<br>Master's | Chantilly, VA / El Segundo, CA | SimplifyJobs | [apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Grad-Intern_R017175) |
-| 9d ago | **Highmark Health** | Healthcare Interoperability Data Engineer & Analyst Intern | Pittsburgh, PA | SimplifyJobs | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Engineer---Analyst-enGen-Undergraduate-Intern_J291722) |
-| 9d ago | **Northrop Grumman** | Artificial Intelligence/Machine Learning Engineer Intern | Morrisville, NC | SimplifyJobs | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-AI-ML-Engineering-Intern---Morrisville-NC_R10261585-1) |
-| 12d ago | **ASML** | Artificial Intelligence Intern - Integrate GUI and LLM | San Jose, CA | SimplifyJobs | [apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Integrate-GUI-and-LLM_J-00357014) |
-| 40d ago | **BorgWarner** | EPMO Support Intern | Auburn Hills, MI | SimplifyJobs | [apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/EPM-Support-Intern--Year-Round-_R2026-4129) |
-| 85d ago | **Hy-Vee** | Data Integration Intern | West Des Moines, IA | SimplifyJobs | [apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Integration-Intern---Summer-2027_R250148) |
-| 87d ago | **Parsons** | Engineering Internship/Co-op | Charlotte, NC / Centreville, VA | SimplifyJobs | [apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineering-Internship---Co-Op-Summer-2027_R185683) |
+| 3d ago | **Genentech** | Clinical Pharmacology Intern | South SF | SimplifyJobs | [apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Clinical-Pharmacology_202611-129678) |
+| 3d ago | **The Home Depot** | Product & Engineering Co-op | Atlanta, GA | SimplifyJobs | [apply](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product---Engineering-Co-Op_Req199629) |
+| 5d ago | **Barclays** | Markets Quantitative Analyst Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1LV) |
+| 5d ago | **National Laboratory of the Rockies** | Graduate Student Intern - Commercial Vehicle Logistics and Data Science | Golden, CO | SimplifyJobs | [apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Student-Intern--Spring-Semester----Commercial-Vehicle-Logistics-and-Data-Science_R14649) |
+| 5d ago | **Servco** | Summer Intern - Digital Solutions | Honolulu, HI | SimplifyJobs | [apply](https://servco.wd5.myworkdayjobs.com/Servco_Careers/job/Honolulu/XMLNAME-2027-Summer-Intern---Digital-Solutions_R4075) |
+| 5d ago | **Servco** | Summer Intern - Vehicle Data | Honolulu, HI | SimplifyJobs | [apply](https://servco.wd5.myworkdayjobs.com/Servco_Careers/job/Honolulu/XMLNAME-2027-Summer-Intern---Vehicle-Data_R4085) |
+| 8d ago | **GlobalFoundries** | AI/ML Analytics Intern - Digital Manufacturing | Malta, NY | SimplifyJobs | [apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Intern--Digital-Manufacturing--Summer-2027-_JR-2604570) |
+| 9d ago | **Elevance Health** | Innovation Intern | Indianapolis, IN | SimplifyJobs | [apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Innovation-Intern--Summer-2027_JR210979) |
+| 10d ago | **Nike** | Computational Materials Innovation Intern - Apparel - Innovation<br>Master's | Beaverton, OR | SimplifyJobs | [apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE-Inc-Nike-Computational-Materials-Innovation--Apparel--Innovation--Graduate-Internship_R-97647) |
+| 10d ago | **Revelyst** | IT AI Process Innovation Intern - Business Intelligence | Irvine, CA | SimplifyJobs | [apply](https://revelyst.wd1.myworkdayjobs.com/EXTERNAL_REVELYST/job/Irvine-CA/IT--Business-Intelligence--AI-Process-Innovation-Intern_R0013666) |
+| 11d ago | **Hewlett Packard Enterprise** | AI Enablement Intern<br>Master's/PhD | Milpitas, CA | SimplifyJobs | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---AI-Enablement-Intern_1217939) |
+| 11d ago | **Unum Group** | IT Intern | Chattanooga, TN / Columbia, SC / Portland, ME | SimplifyJobs | [apply](http://unum.wd1.myworkdayjobs.com/External/job/Chattanooga-Tennessee-USA/IT-Intern--Summer-2027-_836795) |
+| 12d ago | **Michaels Stores** | Digital Software Engineer Intern | Irving, TX (+1 more) | SimplifyJobs | [apply](https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Intern---Digital-eCommerce-Engineering_R00328727) |
+| 12d ago | **PTC** | Performance Engineer Intern | Boston, MA | SimplifyJobs | [apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Onshape-Performance-Engineering-Intern--Summer-2027-_JR112929) |
+| 12d ago | **Regeneron Pharmaceuticals** | Environment Intern - Health & Safety Training & Analytics | Tarrytown, NY | SimplifyJobs | [apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Environment--Health---Safety-Training---Analytics_R53151-2) |
+| 12d ago | **Regeneron Pharmaceuticals** | Workplace Strategy & Planning Analytics Intern | Tarrytown, NY | SimplifyJobs | [apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Workplace-Strategy---Planning-Analytics_R53154-1) |
+| 106d ago | **KeyBank** | Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling | Cleveland, OH | SimplifyJobs | [apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) |
 
 ## Watched company portals
 
