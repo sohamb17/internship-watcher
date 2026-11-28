@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-28 14:01 UTC · 1 new listing_
+_Updated 2026-11-28 14:31 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 12d ago | **L.L.Bean** | Marketing Analytics Intern | Freeport, ME | SimplifyJobs | [apply](https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Marketing-Analytics-Intern--Summer-2027-_JR11305) |
+Nothing new this run.
 
 ## Watched company portals
 
