@@ -1,8 +1,16 @@
 # Internship watcher — latest
 
-_Updated 2026-11-28 00:31 UTC · 0 new listings_
+_Updated 2026-11-28 01:01 UTC · 5 new listings_
 
-Nothing new this run.
+## New listings (5) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 4d ago | **General Dynamics Information Technology** | Artificial Intelligence/Machine Learning Software Development and Engineer Intern | Bossier City, LA (+1 more) | SimplifyJobs | [apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ233023) |
+| 5d ago | **Federal Home Loan Bank of Dallas** | Digital Transformation Intern | Irving, TX | SimplifyJobs | [apply](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/XMLNAME-2027-Summer-Digital-Transformation-Intern_REQ-457) |
+| 23d ago | **Trinzic** | Defense & Intel Computer Science Intern | Orlando, FL / King of Prussia, PA / Colorado Springs, CO / L | SimplifyJobs | [apply](https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Defense---Intel--D-I----Computer-Science-Internship_R3001231-1) |
+| 23d ago | **Trinzic** | Defense & Intel Software Engineer Intern | Orlando, FL / King of Prussia, PA / Colorado Springs, CO / L | SimplifyJobs | [apply](https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Defense---Intel--D-I----Software-Engineering-Internship_R3001235) |
+| 51d ago | **Trinzic** | Data Processing Systems Engineer Intern | Sioux Falls, SD | SimplifyJobs | [apply](https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060) |
 
 ## Watched company portals
 
