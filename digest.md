@@ -1,17 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-28 03:04 UTC · 6 new listings_
+_Updated 2026-11-28 03:31 UTC · 0 new listings_
 
-## New listings (6) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| 4d ago | **Camping World** | AI Intern | Chicago, IL / Lincolnshire, IL | SimplifyJobs | [apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/AI-Intern_26_09088) |
-| 4d ago | **Carpenter Technology** | Business Continuity Data Analyst & Reporting Intern | Reading, PA | SimplifyJobs | [apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Business-Continuity-Data-Analyst---Reporting-Intern_27047) |
-| 4d ago | **Philips** | Marketing Operations Analyst Intern | Cambridge, MA | SimplifyJobs | [apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Marketing-Operations---Cambridge--MA---Summer-2027_593642) |
-| 5d ago | **Samsung** | 5G vRAN Automation Intern | Plano, TX | SimplifyJobs | [apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-vRAN-Automation-Intern_R122025) |
-| 9d ago | **Maersk** | Insights & Analytics Intern | Santa Fe Springs, CA | SimplifyJobs | [apply](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-California-Santa-Fe-Springs-90670/Intern--Insights---Analytics_R203969) |
-| 10d ago | **Camping World** | BI & AI Analyst Intern | Chicago, IL | SimplifyJobs | [apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/BI---AI-Analyst-Intern_26_09294) |
+Nothing new this run.
 
 ## Watched company portals
 
