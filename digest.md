@@ -1,28 +1,17 @@
 # Internship watcher — latest
 
-_Updated 2026-11-28 02:31 UTC · 17 new listings_
+_Updated 2026-11-28 03:04 UTC · 6 new listings_
 
-## New listings (17) — newest first
+## New listings (6) — newest first
 
 | Posted | Company | Role | Location | Source | Link |
 |---|---|---|---|---|---|
-| 3d ago | **Genentech** | Clinical Pharmacology Intern | South SF | SimplifyJobs | [apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Clinical-Pharmacology_202611-129678) |
-| 3d ago | **The Home Depot** | Product & Engineering Co-op | Atlanta, GA | SimplifyJobs | [apply](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product---Engineering-Co-Op_Req199629) |
-| 5d ago | **Barclays** | Markets Quantitative Analyst Intern | New York, NY | vanshb03 | [apply](https://go.vansh.nyc/1LV) |
-| 5d ago | **National Laboratory of the Rockies** | Graduate Student Intern - Commercial Vehicle Logistics and Data Science | Golden, CO | SimplifyJobs | [apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Student-Intern--Spring-Semester----Commercial-Vehicle-Logistics-and-Data-Science_R14649) |
-| 5d ago | **Servco** | Summer Intern - Digital Solutions | Honolulu, HI | SimplifyJobs | [apply](https://servco.wd5.myworkdayjobs.com/Servco_Careers/job/Honolulu/XMLNAME-2027-Summer-Intern---Digital-Solutions_R4075) |
-| 5d ago | **Servco** | Summer Intern - Vehicle Data | Honolulu, HI | SimplifyJobs | [apply](https://servco.wd5.myworkdayjobs.com/Servco_Careers/job/Honolulu/XMLNAME-2027-Summer-Intern---Vehicle-Data_R4085) |
-| 8d ago | **GlobalFoundries** | AI/ML Analytics Intern - Digital Manufacturing | Malta, NY | SimplifyJobs | [apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Intern--Digital-Manufacturing--Summer-2027-_JR-2604570) |
-| 9d ago | **Elevance Health** | Innovation Intern | Indianapolis, IN | SimplifyJobs | [apply](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Innovation-Intern--Summer-2027_JR210979) |
-| 10d ago | **Nike** | Computational Materials Innovation Intern - Apparel - Innovation<br>Master's | Beaverton, OR | SimplifyJobs | [apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE-Inc-Nike-Computational-Materials-Innovation--Apparel--Innovation--Graduate-Internship_R-97647) |
-| 10d ago | **Revelyst** | IT AI Process Innovation Intern - Business Intelligence | Irvine, CA | SimplifyJobs | [apply](https://revelyst.wd1.myworkdayjobs.com/EXTERNAL_REVELYST/job/Irvine-CA/IT--Business-Intelligence--AI-Process-Innovation-Intern_R0013666) |
-| 11d ago | **Hewlett Packard Enterprise** | AI Enablement Intern<br>Master's/PhD | Milpitas, CA | SimplifyJobs | [apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---AI-Enablement-Intern_1217939) |
-| 11d ago | **Unum Group** | IT Intern | Chattanooga, TN / Columbia, SC / Portland, ME | SimplifyJobs | [apply](http://unum.wd1.myworkdayjobs.com/External/job/Chattanooga-Tennessee-USA/IT-Intern--Summer-2027-_836795) |
-| 12d ago | **Michaels Stores** | Digital Software Engineer Intern | Irving, TX (+1 more) | SimplifyJobs | [apply](https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Intern---Digital-eCommerce-Engineering_R00328727) |
-| 12d ago | **PTC** | Performance Engineer Intern | Boston, MA | SimplifyJobs | [apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Onshape-Performance-Engineering-Intern--Summer-2027-_JR112929) |
-| 12d ago | **Regeneron Pharmaceuticals** | Environment Intern - Health & Safety Training & Analytics | Tarrytown, NY | SimplifyJobs | [apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Environment--Health---Safety-Training---Analytics_R53151-2) |
-| 12d ago | **Regeneron Pharmaceuticals** | Workplace Strategy & Planning Analytics Intern | Tarrytown, NY | SimplifyJobs | [apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Workplace-Strategy---Planning-Analytics_R53154-1) |
-| 106d ago | **KeyBank** | Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling | Cleveland, OH | SimplifyJobs | [apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) |
+| 4d ago | **Camping World** | AI Intern | Chicago, IL / Lincolnshire, IL | SimplifyJobs | [apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/AI-Intern_26_09088) |
+| 4d ago | **Carpenter Technology** | Business Continuity Data Analyst & Reporting Intern | Reading, PA | SimplifyJobs | [apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Business-Continuity-Data-Analyst---Reporting-Intern_27047) |
+| 4d ago | **Philips** | Marketing Operations Analyst Intern | Cambridge, MA | SimplifyJobs | [apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Marketing-Operations---Cambridge--MA---Summer-2027_593642) |
+| 5d ago | **Samsung** | 5G vRAN Automation Intern | Plano, TX | SimplifyJobs | [apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-vRAN-Automation-Intern_R122025) |
+| 9d ago | **Maersk** | Insights & Analytics Intern | Santa Fe Springs, CA | SimplifyJobs | [apply](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-California-Santa-Fe-Springs-90670/Intern--Insights---Analytics_R203969) |
+| 10d ago | **Camping World** | BI & AI Analyst Intern | Chicago, IL | SimplifyJobs | [apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/BI---AI-Analyst-Intern_26_09294) |
 
 ## Watched company portals
 
