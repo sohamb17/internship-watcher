@@ -1,12 +1,8 @@
 # Internship watcher — latest
 
-_Updated 2026-11-28 15:31 UTC · 1 new listing_
+_Updated 2026-11-28 16:01 UTC · 0 new listings_
 
-## New listings (1) — newest first
-
-| Posted | Company | Role | Location | Source | Link |
-|---|---|---|---|---|---|
-| today | **Blue Ventis** | Engineering Technology Intern | Milwaukee, WI, United States | Jobright | [apply](https://jobright.ai/jobs/info/6b0add625f0c27a3a3cef34d?utm_campaign=1079&utm_source=git) |
+Nothing new this run.
 
 ## Watched company portals
 
