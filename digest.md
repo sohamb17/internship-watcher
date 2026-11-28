@@ -1,8 +1,12 @@
 # Internship watcher — latest
 
-_Updated 2026-11-28 16:31 UTC · 0 new listings_
+_Updated 2026-11-28 16:59 UTC · 1 new listing_
 
-Nothing new this run.
+## New listings (1) — newest first
+
+| Posted | Company | Role | Location | Source | Link |
+|---|---|---|---|---|---|
+| 1d ago | **UPS** | 2027 Industrial Engineering Summer Intern - Los Angeles CA - Fremont CA | LOS ANGELES, California | zapplyjobs | [apply](https://zapply.jobs/l/d/phenom-ups-R26030706?s=gh-internships-2027) |
 
 ## Watched company portals
 
